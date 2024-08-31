@@ -46,9 +46,7 @@ jobs:
         run: ls -la
 
       - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        uses: qoomon/actions--setup-git@v1         
 
       - name: Commit changes
         run: |
