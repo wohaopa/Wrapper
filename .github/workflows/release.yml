@@ -38,14 +38,7 @@ jobs:
           git add release/
           git commit -m "release-${{ github.event.issue.number }}" 
           git push -u origin $BRANCH_NAME
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "Merge release files into release branch"
-          body: "This PR merges files from the release directory into the release branch."
-          base: update
-          branch: temp/release-${{ github.event.issue.number }}
+
 
       - name: Close Issue
         uses: peter-evans/close-issue@v2.0.0
