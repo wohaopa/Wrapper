@@ -40,7 +40,7 @@ jobs:
         with:
           ref: metadata
           persist-credentials: false
-          clean: true
+          clean: false
 
       - name: List files in root directory
         run: ls -la
