@@ -54,8 +54,5 @@ jobs:
         run: |
           git add gtnh-assets-wrapper-formatted.json gtnh-assets-wrapper.json
           git commit -m "update"
+          git push -u origin metadata
 
-      - name: Push changes
-        run: git push origin metadata
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
