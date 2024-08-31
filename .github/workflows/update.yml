@@ -20,11 +20,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: List files in root directory
+        run: ls -la
+
       - name: Run Python downloader script
         run: python downloader.py
-      
+
+      - name: List files in root directory
+        run: ls -la
+
       - name: Run Python processor script
         run: python processor.py
+
+      - name: List files in root directory
+        run: ls -la
 
       - name: Checkout `metadata` branch
         uses: actions/checkout@v3
@@ -32,6 +41,9 @@ jobs:
           ref: metadata
           persist-credentials: false
           clean: true
+
+      - name: List files in root directory
+        run: ls -la
 
       - name: Configure Git
         run: |
