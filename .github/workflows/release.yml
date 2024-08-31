@@ -70,7 +70,6 @@ jobs:
           body: "This PR merges files from the release directory into the release branch."
           base: release
           branch: temp/release-${{ github.run_number }}
-          delete-branch: true
 
       - name: Close Issue
         uses: peter-evans/close-issue@v2.0.0
