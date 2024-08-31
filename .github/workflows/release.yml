@@ -43,17 +43,34 @@ jobs:
       - name: Commit and Push
         run: |
           BRANCH_NAME="temp/release-${{ github.run_number }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b $BRANCH_NAME
           git add release/
           git commit -m "release-${{ github.run_number }}" 
           git push origin $BRANCH_NAME
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+
+
+
+  create_pull_request:
+    runs-on: ubuntu-latest
+    needs: check-and-parse-issue
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
+          ref: temp/release-${{ github.run_number }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           title: "Merge release files into release branch"
           body: "This PR merges files from the release directory into the release branch."
           base: release
-          head: $BRANCH_NAME
+          branch: temp/release-${{ github.run_number }}
+          delete-branch: true
 
       - name: Close Issue
         uses: peter-evans/close-issue@v2.0.0
