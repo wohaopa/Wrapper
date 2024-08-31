@@ -20,11 +20,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run Python script
-        run: |
-          python downloader.py
-          python processor.py
-        
+      - name: Run Python downloader script
+        run: python downloader.py
+      
+      - name: Run Python processor script
+        run: python processor.py
 
       - name: Checkout `metadata` branch
         uses: actions/checkout@v3
