@@ -50,6 +50,7 @@ jobs:
 
       - name: Commit changes
         run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add gtnh-assets-wrapper-formatted.json gtnh-assets-wrapper.json
           git commit -m "update"
           git push -u origin metadata
