@@ -8,7 +8,7 @@ def list_json_files(directory):
 
     for filename in os.listdir(directory):
         if fnmatch.fnmatch(filename, "*.json"):
-            if not filename.startswith("gtnh-assets-wrapper-"):
+            if not filename.startswith("gtnh-assets-wrapper"):
                 json_files.append(filename)
 
     return json_files
@@ -59,6 +59,7 @@ with open("gtnh-assets-wrapper-formatted.json", encoding="utf8", mode="r") as fi
     gtnh_assets = json.load(file)["mods"]
 
 for file in filtered_files:
+    version = None
     with open(file, encoding="utf8", mode="r") as file1:
         version = json.load(file1)
 
