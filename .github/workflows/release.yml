@@ -1,4 +1,4 @@
-name: Relase
+name: Release
 
 on:
   issues:
@@ -19,10 +19,11 @@ jobs:
           ISSUE_URL="https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}"
           ISSUE_DETAILS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" $ISSUE_URL)
           echo "$ISSUE_DETAILS" > urls.txt
-          echo "Issue Details saved to urls.txt"
+          echo "Issue Details saved to issue.json"
           echo "::set-output name=details::$ISSUE_DETAILS"
       - name: Run script.py
         run: |
+          python parse-issue.py
           python downloader.py
           python release.py
       - name: Commit and Push
