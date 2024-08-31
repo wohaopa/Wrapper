@@ -1,0 +1,47 @@
+name: Relase
+
+on:
+  issues:
+    types: [ opened ]
+
+jobs:
+  check-and-parse-issue:
+    if: contains(github.event.issue.labels.*.name, 'Release')
+    name: Check And Parse Issue
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get Issue Details
+        id: issue
+        run: |
+          ISSUE_URL="https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}"
+          ISSUE_DETAILS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" $ISSUE_URL)
+          echo "$ISSUE_DETAILS" > urls.txt
+          echo "Issue Details saved to urls.txt"
+          echo "::set-output name=details::$ISSUE_DETAILS"
+      - name: Run script.py
+        run: |
+          python downloader.py
+          python release.py
+      - name: Commit and Push
+        run: |
+          BRANCH_NAME="temp/release-${{ github.run_number }}"
+          git checkout -b $BRANCH_NAME
+          git add release/
+          git commit -m "release-${{ github.run_number }}" 
+          git push origin $BRANCH_NAME
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: "Merge release files into release branch"
+          body: "This PR merges files from the release directory into the release branch."
+          base: release
+          head: $BRANCH_NAME
+
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2.0.0
+        with:
+          comment: |
+            已经发布！
