@@ -20,18 +20,10 @@ jobs:
         with:
           python-version: '3.11'
 
-
       - name: Run Python script
         run: |
           python downloader.py
           python processor.py
-
-      - name: Checkout `metadata` branch
-        uses: actions/checkout@v3
-        with:
-          ref: metadata
-          persist-credentials: false
-          clean: false
 
       - name: Push
         run: |
@@ -40,4 +32,4 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add gtnh-assets-wrapper-formatted.json gtnh-assets-wrapper.json
           git commit -m "update"
-          git push -u origin metadata
+          git push -u origin update
