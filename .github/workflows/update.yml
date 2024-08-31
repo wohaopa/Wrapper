@@ -1,0 +1,49 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout `update` branch
+        uses: actions/checkout@v3
+        with:
+          ref: update
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run Python script
+        run: |
+          python downloader.py
+          python processor.py
+        
+
+      - name: Checkout `metadata` branch
+        uses: actions/checkout@v3
+        with:
+          ref: metadata
+          persist-credentials: false
+          clean: true
+
+      - name: Configure Git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add gtnh-assets-wrapper-formatted.json gtnh-assets-wrapper.json
+          git commit -m "update"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: metadata
+          github_token: ${{ secrets.GITHUB_TOKEN }}
