@@ -8,7 +8,7 @@ def list_json_files(directory):
 
     for filename in os.listdir(directory):
         if fnmatch.fnmatch(filename, "*.json"):
-            if not filename.startswith("gtnh-assets-wrapper"):
+            if not filename.startswith("gtnh-assets"):
                 json_files.append(filename)
 
     return json_files
@@ -59,26 +59,31 @@ with open("gtnh-assets-wrapper-formatted.json", encoding="utf8", mode="r") as fi
     gtnh_assets = json.load(file)["mods"]
 
 for file in filtered_files:
-    version = None
-    with open(file, encoding="utf8", mode="r") as file1:
-        version = json.load(file1)
+    try:
 
-    result = load(version["github_mods"])
-    result.extend(load(version["external_mods"]))
+        version = None
+        with open(file, encoding="utf8", mode="r") as file1:
+            version = json.load(file1)
 
-    with open(f"release/{file}", encoding="utf8", mode="w") as file1:
-        json.dump(result, file1, indent=4)
-        print(f"Saved file release/{file}")
+        result = load(version["github_mods"])
+        result.extend(load(version["external_mods"]))
 
-    forgemodsjson = {
-        "repositoryRoot": "ModsRepository",
-        "parentList": None,
-        "modRef": [],
-    }
+        with open(f"release/{file}", encoding="utf8", mode="w") as file1:
+            json.dump(result, file1, indent=4)
+            print(f"Saved file release/{file}")
 
-    for item in result:
-        forgemodsjson["modRef"].append(item["id"])
+        forgemodsjson = {
+            "repositoryRoot": "ModsRepository",
+            "parentList": None,
+            "modRef": [],
+        }
 
-    with open(f"release/Forge-{file}", encoding="utf8", mode="w") as file1:
-        json.dump(forgemodsjson, file1, indent=4)
-        print(f"Saved file release/Forge-{file}")
+        for item in result:
+            forgemodsjson["modRef"].append(item["id"])
+
+        with open(f"release/Forge-{file}", encoding="utf8", mode="w") as file1:
+            json.dump(forgemodsjson, file1, indent=4)
+            print(f"Saved file release/Forge-{file}")
+    except KeyError:
+        print(f"file: {file}")
+        print(version)
