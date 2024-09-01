@@ -1,7 +1,13 @@
 import json
 
 gtnh_assets = None
-nameMap = {"Buildcraft Oil Tweaks": "BuildCraftOilTweak", "Gravitation Suite": "GraviSuite", "Gravitation-Suite-old": "GraviSuite", "Thaumic Machina": "Thaumic-Machina", "UniLib": "UniLib"}
+nameMap = {
+    "Buildcraft Oil Tweaks": "BuildCraftOilTweak",
+    "Gravitation Suite": "GraviSuite",
+    "Gravitation-Suite-old": "GraviSuite",
+    "Thaumic Machina": "Thaumic-Machina",
+    "UniLib": "UniLib",
+}
 
 
 with open("gtnh-assets.json", encoding="utf8", mode="r") as file:
@@ -46,7 +52,11 @@ for mod in mods:
     else:
         name = "<unknown>"
         if item["url"].startswith("https://www.curseforge.com/minecraft/mc-mods/"):
-            name = item["url"].removeprefix("https://www.curseforge.com/minecraft/mc-mods/").split("/", 2)[0]
+            name = (
+                item["url"]
+                .removeprefix("https://www.curseforge.com/minecraft/mc-mods/")
+                .split("/", 2)[0]
+            )
             item["id"] = f"curseforge:{name}:<version>"
             item["src"] = "curse"
         elif mod["name"] in nameMap:
@@ -73,8 +83,5 @@ result = {}
 result["mods"] = Mods
 result["config"] = Config
 
-with open("gtnh-assets-wrapper-formatted.json", encoding="utf8", mode="w") as file:
-    json.dump(result, file, sort_keys=True, indent=4)
-
 with open("gtnh-assets-wrapper.json", encoding="utf8", mode="w") as file:
-    json.dump(result, file, sort_keys=True)
+    json.dump(result, file, sort_keys=True, indent=4)
