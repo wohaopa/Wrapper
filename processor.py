@@ -1,4 +1,5 @@
 import json
+import os
 
 gtnh_assets = None
 nameMap = {
@@ -74,7 +75,7 @@ config["versions"] = {}
 for version in gtnh_config["versions"]:
     ver = {}
     ver["name"] = version["filename"]
-    ver["url"] = version["filename"]
+    ver["url"] = version["browser_download_url"]
     config["versions"][version["version_tag"]] = ver
 
 Config[gtnh_config["name"]] = config
@@ -85,3 +86,38 @@ result["config"] = Config
 
 with open("gtnh-assets-wrapper.json", encoding="utf8", mode="w") as file:
     json.dump(result, file, sort_keys=True, indent=4)
+
+for modUid in Mods:
+    modVersionJson = []
+    modInfo = Mods[modUid]
+
+    for verStr in modInfo["versions"]:
+        item = {}
+        item["id"] = modInfo["id"].replace("<version>", verStr)
+        item["uid"] = modUid
+        item["filename"] = modInfo["versions"][verStr]["name"]
+        item["url"] = modInfo["versions"][verStr]["url"]
+
+        group = item["id"].split(":")
+        path = (
+            group[0].replace(".", "/")
+            + "/"
+            + group[1]
+            + "/"
+            + group[2]
+            + "/"
+            + group[1]
+            + "-"
+            + group[2]
+        )
+        if len(group) == 4:
+            path = path + "-" + group[4]
+        path += ".jar"
+        item["path"] = path
+
+        if "private" in modInfo and modInfo["private"]:
+            item["private"] = True
+
+        modVersionJson.append(item)
+    with open(f"version/{modUid}.json", encoding="utf8", mode="w") as file:
+        json.dump(modVersionJson, file, sort_keys=True, indent=4)
