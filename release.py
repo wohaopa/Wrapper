@@ -22,7 +22,7 @@ filtered_files = list_json_files(os.getcwd())
 def load(list: list):
     result = []
     for mod in list:
-        if mod == "MrTJPCore":
+        if mod == "MrTJPCore" or mod == "CodeChickenLib":
             continue
         if list[mod]["side"] == "BOTH" or list[mod]["side"] == "CLIENT":
             modInfo = gtnh_assets[mod]
