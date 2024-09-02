@@ -120,4 +120,4 @@ for modUid in Mods:
 
         modVersionJson.append(item)
     with open(f"version/{modUid}.json", encoding="utf8", mode="w") as file:
-        json.dump(modVersionJson, file, sort_keys=True, indent=4)
+        json.dump(modVersionJson, file, indent=4)
