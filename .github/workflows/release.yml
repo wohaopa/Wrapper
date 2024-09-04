@@ -1,0 +1,60 @@
+name: Release
+
+on:
+  issues:
+    types: [ opened ]
+
+jobs:
+  release:
+    if: contains(github.event.issue.labels.*.name, 'Release')
+    name: Generate Release By Issue
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: update
+          fetch-depth: 1
+
+      - name: Get Issue Details
+        id: issue
+        run: |
+          ISSUE_URL="https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}"
+          ISSUE_DETAILS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" $ISSUE_URL)
+          echo "$ISSUE_DETAILS" > issue.json
+          echo "Issue Details saved to issue.json"
+          echo "::set-output name=details::$ISSUE_DETAILS"
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run script.py
+        run: |
+          python parse-issue.py
+          echo "Parse Issue Completed"
+          python download-file.py
+          echo "Download Completed"
+          cp generate-release.py Copy-generate-release.py
+          git checkout update --force
+          python Copy-generate-release.py
+          echo "Release Completed"
+
+      - name: Commit and Push
+        run: |
+          BRANCH_NAME="temp/release-${{ github.event.issue.number }}"
+          git checkout -b $BRANCH_NAME
+          git add release/
+          git commit -m "release-${{ github.event.issue.number }}" 
+          git push -u origin $BRANCH_NAME
+      - name: Create Pull Request
+        run: |
+          gh pr create --base update --head "temp/release-${{ github.event.issue.number }}" --title "Auto PR By Issue ${{ github.event.issue.number }}" --body "https://github.com/${{ github.repository }}/issues/${{ github.event.issue.number }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2.0.0
+        with:
+          comment: |
+            已经发布！
