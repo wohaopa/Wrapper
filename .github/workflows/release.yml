@@ -1,6 +1,12 @@
 name: Release
 
 on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URLs"
+        required: true
+        default: ""
   issues:
     types: [ opened ]
 
@@ -11,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: master
           fetch-depth: 1
@@ -19,27 +25,40 @@ jobs:
       - name: Get Issue Details
         id: issue
         run: |
-          ISSUE_URL="https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}"
-          ISSUE_DETAILS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" $ISSUE_URL)
-          echo "$ISSUE_DETAILS" > issue.json
-          echo "Issue Details saved to issue.json"
-          echo "::set-output name=details::$ISSUE_DETAILS"
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "${{ github.event.inputs.url }}" > issue.json
+          else
+            ISSUE_URL="https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}"
+            ISSUE_DETAILS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" $ISSUE_URL)
+            echo "$ISSUE_DETAILS" > issue.json
+            echo "Issue Details saved to issue.json"
+            echo "::set-output name=details::$ISSUE_DETAILS"
+          fi
 
-      - name: Setup Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Run script.py
+      - name: Run Python Script
         run: |
           python parse-issue.py
           echo "Parse Issue Completed"
           python download-file.py
           echo "Download Completed"
           cp generate-release.py Copy-generate-release.py
-          git checkout update --force
+          
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: update
+          fetch-depth: 1
+          clean: false
+
+      - name: Run Copy-generate-release.py
+        run: |
           python Copy-generate-release.py
           echo "Release Completed"
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and Push
         run: |

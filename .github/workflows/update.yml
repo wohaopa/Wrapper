@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: master
           fetch-depth: 1
@@ -21,24 +21,32 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Run download-file script
+        run: |
+          python download-file.py
+          echo "Download Completed"
+          cp daily-update.py Copy-daily-update.py
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: update
+          fetch-depth: 1
+          clean: false
+
+      - name: Run daily-update script
+        run: |
+          python Copy-daily-update.py
+          echo "Update Completed"
+
       - name: Setup Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
-      - name: Run Python script
-        run: |
-          python download-file.py
-          echo "Download Completed"
-          cp daily-update.py Copy-daily-update.py
-          git checkout update --force
-          python Copy-daily-update.py
-          echo "Update Completed"
-
       - name: Push
         run: |
-          
           git add gtnh-assets-wrapper.json mods-versions-wrapper.json version/
           git commit -m "update"
           git push -u origin update
