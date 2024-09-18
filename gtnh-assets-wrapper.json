@@ -2210,7 +2210,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-461-GTNH-pre",
+            "latest": "rv3-beta-462-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3477,6 +3477,10 @@
                 "rv3-beta-461-GTNH-pre": {
                     "name": "appliedenergistics2-rv3-beta-461-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-461-GTNH-pre/appliedenergistics2-rv3-beta-461-GTNH-pre.jar"
+                },
+                "rv3-beta-462-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-462-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-462-GTNH/appliedenergistics2-rv3-beta-462-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -10162,7 +10166,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.49.108-pre",
+            "latest": "5.09.49.112-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -14898,6 +14902,18 @@
                     "name": "gregtech-5.09.49.11.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.49.11/gregtech-5.09.49.11.jar"
                 },
+                "5.09.49.110-pre": {
+                    "name": "gregtech-5.09.49.110-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.49.110-pre/gregtech-5.09.49.110-pre.jar"
+                },
+                "5.09.49.111": {
+                    "name": "gregtech-5.09.49.111.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.49.111/gregtech-5.09.49.111.jar"
+                },
+                "5.09.49.112-pre": {
+                    "name": "gregtech-5.09.49.112-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.49.112-pre/gregtech-5.09.49.112-pre.jar"
+                },
                 "5.09.49.12-pre": {
                     "name": "gregtech-5.09.49.12-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.49.12-pre/gregtech-5.09.49.12-pre.jar"
@@ -15378,7 +15394,7 @@
         },
         "GTNH-Intergalactic": {
             "id": "com.github.GTNewHorizons:GTNH-Intergalactic:<version>",
-            "latest": "1.4.18",
+            "latest": "1.4.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic",
             "versions": {
@@ -15682,9 +15698,17 @@
                     "name": "gtnhintergalactic-1.4.18.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.18/gtnhintergalactic-1.4.18.jar"
                 },
+                "1.4.19-pre": {
+                    "name": "gtnhintergalactic-1.4.19-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.19-pre/gtnhintergalactic-1.4.19-pre.jar"
+                },
                 "1.4.2-pre": {
                     "name": "gtnhintergalactic-1.4.2-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.2-pre/gtnhintergalactic-1.4.2-pre.jar"
+                },
+                "1.4.20": {
+                    "name": "gtnhintergalactic-1.4.20.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.20/gtnhintergalactic-1.4.20.jar"
                 },
                 "1.4.3": {
                     "name": "gtnhintergalactic-1.4.3.jar",
@@ -24127,7 +24151,7 @@
         },
         "ModularUI": {
             "id": "com.github.GTNewHorizons:ModularUI:<version>",
-            "latest": "1.2.6-pre",
+            "latest": "1.2.7-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI",
             "versions": {
@@ -24682,6 +24706,10 @@
                 "1.2.6-pre": {
                     "name": "modularui-1.2.6-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.6-pre/modularui-1.2.6-pre.jar"
+                },
+                "1.2.7-pre": {
+                    "name": "modularui-1.2.7-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.7-pre/modularui-1.2.7-pre.jar"
                 }
             }
         },
@@ -27643,7 +27671,7 @@
         },
         "NotEnoughIds": {
             "id": "com.github.GTNewHorizons:NotEnoughIds:<version>",
-            "latest": "2.1.2",
+            "latest": "2.1.4-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughIds",
             "versions": {
@@ -27726,6 +27754,14 @@
                 "2.1.2": {
                     "name": "notenoughIDs-2.1.2.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.1.2/notenoughIDs-2.1.2.jar"
+                },
+                "2.1.3-pre": {
+                    "name": "notenoughIDs-2.1.3-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.1.3-pre/notenoughIDs-2.1.3-pre.jar"
+                },
+                "2.1.4-pre": {
+                    "name": "notenoughIDs-2.1.4-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.1.4-pre/notenoughIDs-2.1.4-pre.jar"
                 }
             }
         },
@@ -35219,7 +35255,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.3.17",
+            "latest": "1.3.19-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -35430,6 +35466,14 @@
                 "1.3.17": {
                     "name": "visualprospecting-1.3.17.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.17/visualprospecting-1.3.17.jar"
+                },
+                "1.3.18-pre": {
+                    "name": "visualprospecting-1.3.18-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.18-pre/visualprospecting-1.3.18-pre.jar"
+                },
+                "1.3.19-pre": {
+                    "name": "visualprospecting-1.3.19-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.19-pre/visualprospecting-1.3.19-pre.jar"
                 },
                 "1.3.2": {
                     "name": "visualprospecting-1.3.2.jar",
