@@ -10170,7 +10170,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.49.114-pre",
+            "latest": "5.09.50.01",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15269,6 +15269,10 @@
                 "5.09.49.99": {
                     "name": "gregtech-5.09.49.99.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.49.99/gregtech-5.09.49.99.jar"
+                },
+                "5.09.50.01": {
+                    "name": "gregtech-5.09.50.01.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.01/gregtech-5.09.50.01.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
@@ -24171,7 +24175,7 @@
         },
         "ModularUI": {
             "id": "com.github.GTNewHorizons:ModularUI:<version>",
-            "latest": "1.2.7-pre",
+            "latest": "1.2.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI",
             "versions": {
@@ -24730,12 +24734,16 @@
                 "1.2.7-pre": {
                     "name": "modularui-1.2.7-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.7-pre/modularui-1.2.7-pre.jar"
+                },
+                "1.2.8": {
+                    "name": "modularui-1.2.8.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.8/modularui-1.2.8.jar"
                 }
             }
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.1.8-1.7.10",
+            "latest": "2.1.9-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -24834,6 +24842,10 @@
                 "2.1.8-1.7.10": {
                     "name": "modularui2-2.1.8-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.1.8-1.7.10/modularui2-2.1.8-1.7.10.jar"
+                },
+                "2.1.9-1.7.10": {
+                    "name": "modularui2-2.1.9-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.1.9-1.7.10/modularui2-2.1.9-1.7.10.jar"
                 }
             }
         },
@@ -29771,7 +29783,7 @@
         },
         "Postea": {
             "id": "com.github.GTNewHorizons:Postea:<version>",
-            "latest": "1.0.11",
+            "latest": "1.0.12-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Postea",
             "versions": {
@@ -29794,6 +29806,10 @@
                 "1.0.11": {
                     "name": "postea-1.0.11.jar",
                     "url": "https://github.com/GTNewHorizons/Postea/releases/download/1.0.11/postea-1.0.11.jar"
+                },
+                "1.0.12-pre": {
+                    "name": "postea-1.0.12-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Postea/releases/download/1.0.12-pre/postea-1.0.12-pre.jar"
                 },
                 "1.0.2": {
                     "name": "postea-1.0.2.jar",
@@ -35555,7 +35571,7 @@
         },
         "WAILAPlugins": {
             "id": "com.github.GTNewHorizons:WAILAPlugins:<version>",
-            "latest": "0.4.0",
+            "latest": "0.5.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WAILAPlugins",
             "versions": {
@@ -35598,6 +35614,10 @@
                 "0.4.0": {
                     "name": "WAILAPlugins-0.4.0.jar",
                     "url": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar"
+                },
+                "0.5.0": {
+                    "name": "WAILAPlugins-0.5.0.jar",
+                    "url": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.5.0/WAILAPlugins-0.5.0.jar"
                 }
             }
         },
