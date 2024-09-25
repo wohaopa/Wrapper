@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-09-18",
+            "latest": "2.7.0-nightly-2024-09-24",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -715,6 +715,14 @@
                 "2.7.0-nightly-2024-09-2-2": {
                     "name": "2.7.0-nightly-2024-09-2-2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/untagged-77060876875de791204d/2.7.0-nightly-2024-09-2-2.zip"
+                },
+                "2.7.0-nightly-2024-09-23": {
+                    "name": "2.7.0-nightly-2024-09-23.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-09-23/2.7.0-nightly-2024-09-23.zip"
+                },
+                "2.7.0-nightly-2024-09-24": {
+                    "name": "2.7.0-nightly-2024-09-24.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-09-24/2.7.0-nightly-2024-09-24.zip"
                 }
             }
         }
@@ -10394,7 +10402,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.08",
+            "latest": "5.09.50.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15525,6 +15533,26 @@
                 "5.09.50.08": {
                     "name": "gregtech-5.09.50.08.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.08/gregtech-5.09.50.08.jar"
+                },
+                "5.09.50.09": {
+                    "name": "gregtech-5.09.50.09.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.09/gregtech-5.09.50.09.jar"
+                },
+                "5.09.50.10": {
+                    "name": "gregtech-5.09.50.10.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.10/gregtech-5.09.50.10.jar"
+                },
+                "5.09.50.11": {
+                    "name": "gregtech-5.09.50.11.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.11/gregtech-5.09.50.11.jar"
+                },
+                "5.09.50.12": {
+                    "name": "gregtech-5.09.50.12.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.12/gregtech-5.09.50.12.jar"
+                },
+                "5.09.50.13": {
+                    "name": "gregtech-5.09.50.13.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.13/gregtech-5.09.50.13.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
@@ -25551,7 +25579,7 @@
         },
         "Navigator": {
             "id": "com.github.GTNewHorizons:Navigator:<version>",
-            "latest": "1.0.12",
+            "latest": "1.0.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Navigator",
             "versions": {
@@ -25574,6 +25602,18 @@
                 "1.0.12": {
                     "name": "navigator-1.0.12.jar",
                     "url": "https://github.com/GTNewHorizons/Navigator/releases/download/1.0.12/navigator-1.0.12.jar"
+                },
+                "1.0.13": {
+                    "name": "navigator-1.0.13.jar",
+                    "url": "https://github.com/GTNewHorizons/Navigator/releases/download/1.0.13/navigator-1.0.13.jar"
+                },
+                "1.0.14-pre": {
+                    "name": "navigator-1.0.14-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Navigator/releases/download/1.0.14-pre/navigator-1.0.14-pre.jar"
+                },
+                "1.0.15": {
+                    "name": "navigator-1.0.15.jar",
+                    "url": "https://github.com/GTNewHorizons/Navigator/releases/download/1.0.15/navigator-1.0.15.jar"
                 },
                 "1.0.2": {
                     "name": "navigator-1.0.2.jar",
@@ -25659,7 +25699,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.49",
+            "latest": "2.6.53",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -27794,6 +27834,18 @@
                 "2.6.5": {
                     "name": "GTNewHorizonsCoreMod-2.6.5.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.5/GTNewHorizonsCoreMod-2.6.5.jar"
+                },
+                "2.6.51": {
+                    "name": "GTNewHorizonsCoreMod-2.6.51.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.51/GTNewHorizonsCoreMod-2.6.51.jar"
+                },
+                "2.6.52": {
+                    "name": "GTNewHorizonsCoreMod-2.6.52.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.52/GTNewHorizonsCoreMod-2.6.52.jar"
+                },
+                "2.6.53": {
+                    "name": "GTNewHorizonsCoreMod-2.6.53.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.53/GTNewHorizonsCoreMod-2.6.53.jar"
                 },
                 "2.6.6": {
                     "name": "GTNewHorizonsCoreMod-2.6.6.jar",
@@ -32647,7 +32699,7 @@
         },
         "TCNodeTracker": {
             "id": "com.github.GTNewHorizons:TCNodeTracker:<version>",
-            "latest": "1.3.1",
+            "latest": "1.3.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TCNodeTracker",
             "versions": {
@@ -32682,6 +32734,10 @@
                 "1.3.1": {
                     "name": "tcnodetracker-1.3.1.jar",
                     "url": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.1/tcnodetracker-1.3.1.jar"
+                },
+                "1.3.2": {
+                    "name": "tcnodetracker-1.3.2.jar",
+                    "url": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.2/tcnodetracker-1.3.2.jar"
                 }
             }
         },
@@ -34883,7 +34939,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.12.9-GTNH",
+            "latest": "1.12.10-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -35022,6 +35078,10 @@
                 "1.12.1-GTNH": {
                     "name": "TConstruct-1.12.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.1-GTNH/TConstruct-1.12.1-GTNH.jar"
+                },
+                "1.12.10-GTNH": {
+                    "name": "TConstruct-1.12.10-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.10-GTNH/TConstruct-1.12.10-GTNH.jar"
                 },
                 "1.12.2-GTNH": {
                     "name": "TConstruct-1.12.2-GTNH.jar",
@@ -35639,7 +35699,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.3.23-pre",
+            "latest": "1.3.24",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -35878,6 +35938,10 @@
                 "1.3.23-pre": {
                     "name": "visualprospecting-1.3.23-pre.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.23-pre/visualprospecting-1.3.23-pre.jar"
+                },
+                "1.3.24": {
+                    "name": "visualprospecting-1.3.24.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.24/visualprospecting-1.3.24.jar"
                 },
                 "1.3.3": {
                     "name": "visualprospecting-1.3.3.jar",
