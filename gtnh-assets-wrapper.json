@@ -6214,7 +6214,7 @@
         },
         "Botanic-horizons": {
             "id": "com.github.GTNewHorizons:Botanic-horizons:<version>",
-            "latest": "1.1.6-GTNH",
+            "latest": "1.1.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botanic-horizons",
             "versions": {
@@ -6321,6 +6321,10 @@
                 "1.1.6-GTNH": {
                     "name": "BotanicHorizons-1.1.6-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.1.6-GTNH/BotanicHorizons-1.1.6-GTNH.jar"
+                },
+                "1.1.7-GTNH": {
+                    "name": "BotanicHorizons-1.1.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.1.7-GTNH/BotanicHorizons-1.1.7-GTNH.jar"
                 }
             }
         },
@@ -10402,7 +10406,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.13",
+            "latest": "5.09.50.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15554,6 +15558,22 @@
                     "name": "gregtech-5.09.50.13.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.13/gregtech-5.09.50.13.jar"
                 },
+                "5.09.50.14": {
+                    "name": "gregtech-5.09.50.14.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.14/gregtech-5.09.50.14.jar"
+                },
+                "5.09.50.15": {
+                    "name": "gregtech-5.09.50.15.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.15/gregtech-5.09.50.15.jar"
+                },
+                "5.09.50.16": {
+                    "name": "gregtech-5.09.50.16.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.16/gregtech-5.09.50.16.jar"
+                },
+                "5.09.50.17": {
+                    "name": "gregtech-5.09.50.17.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.17/gregtech-5.09.50.17.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -20423,7 +20443,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.5.70",
+            "latest": "2.5.71",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -21562,6 +21582,10 @@
                 "2.5.70": {
                     "name": "hodgepodge-2.5.70.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.70/hodgepodge-2.5.70.jar"
+                },
+                "2.5.71": {
+                    "name": "hodgepodge-2.5.71.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.71/hodgepodge-2.5.71.jar"
                 },
                 "2.5.8": {
                     "name": "hodgepodge-2.5.8.jar",
@@ -23947,7 +23971,7 @@
         },
         "MalisisDoors": {
             "id": "com.github.GTNewHorizons:MalisisDoors:<version>",
-            "latest": "1.16.4-GTNH",
+            "latest": "1.17.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MalisisDoors",
             "versions": {
@@ -24002,6 +24026,14 @@
                 "1.16.4-GTNH": {
                     "name": "malisisdoors-1.16.4-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.16.4-GTNH/malisisdoors-1.16.4-GTNH.jar"
+                },
+                "1.17.0-GTNH": {
+                    "name": "malisisdoors-1.17.0-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.17.0-GTNH/malisisdoors-1.17.0-GTNH.jar"
+                },
+                "1.17.1-GTNH": {
+                    "name": "malisisdoors-1.17.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.17.1-GTNH/malisisdoors-1.17.1-GTNH.jar"
                 }
             }
         },
@@ -25699,7 +25731,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.53",
+            "latest": "2.6.55",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -27846,6 +27878,14 @@
                 "2.6.53": {
                     "name": "GTNewHorizonsCoreMod-2.6.53.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.53/GTNewHorizonsCoreMod-2.6.53.jar"
+                },
+                "2.6.54": {
+                    "name": "GTNewHorizonsCoreMod-2.6.54.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.54/GTNewHorizonsCoreMod-2.6.54.jar"
+                },
+                "2.6.55": {
+                    "name": "GTNewHorizonsCoreMod-2.6.55.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.55/GTNewHorizonsCoreMod-2.6.55.jar"
                 },
                 "2.6.6": {
                     "name": "GTNewHorizonsCoreMod-2.6.6.jar",
@@ -35699,7 +35739,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.3.24",
+            "latest": "1.3.25",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -35942,6 +35982,10 @@
                 "1.3.24": {
                     "name": "visualprospecting-1.3.24.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.24/visualprospecting-1.3.24.jar"
+                },
+                "1.3.25": {
+                    "name": "visualprospecting-1.3.25.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.25/visualprospecting-1.3.25.jar"
                 },
                 "1.3.3": {
                     "name": "visualprospecting-1.3.3.jar",
