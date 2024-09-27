@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-09-24",
+            "latest": "2.7.0-nightly-2024-09-26",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -723,6 +723,10 @@
                 "2.7.0-nightly-2024-09-24": {
                     "name": "2.7.0-nightly-2024-09-24.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-09-24/2.7.0-nightly-2024-09-24.zip"
+                },
+                "2.7.0-nightly-2024-09-26": {
+                    "name": "2.7.0-nightly-2024-09-26.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-09-26/2.7.0-nightly-2024-09-26.zip"
                 }
             }
         }
@@ -2434,7 +2438,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-463-GTNH",
+            "latest": "rv3-beta-464-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3709,6 +3713,10 @@
                 "rv3-beta-463-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-463-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-463-GTNH/appliedenergistics2-rv3-beta-463-GTNH.jar"
+                },
+                "rv3-beta-464-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-464-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-464-GTNH/appliedenergistics2-rv3-beta-464-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -5422,7 +5430,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.4.2",
+            "latest": "2.4.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -5609,6 +5617,10 @@
                 "2.4.2": {
                     "name": "binnie-mods-2.4.2.jar",
                     "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.4.2/binnie-mods-2.4.2.jar"
+                },
+                "2.4.3": {
+                    "name": "binnie-mods-2.4.3.jar",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.4.3/binnie-mods-2.4.3.jar"
                 }
             }
         },
@@ -7595,7 +7607,7 @@
         },
         "Crops-plus-plus": {
             "id": "com.github.GTNewHorizons:Crops-plus-plus:<version>",
-            "latest": "1.7.7",
+            "latest": "1.7.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Crops-plus-plus",
             "versions": {
@@ -7774,6 +7786,10 @@
                 "1.7.7": {
                     "name": "CropsPP-1.7.7.jar",
                     "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.7.7/CropsPP-1.7.7.jar"
+                },
+                "1.7.8": {
+                    "name": "CropsPP-1.7.8.jar",
+                    "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.7.8/CropsPP-1.7.8.jar"
                 }
             }
         },
@@ -9694,7 +9710,7 @@
         },
         "FindIt": {
             "id": "com.github.GTNewHorizons:FindIt:<version>",
-            "latest": "1.3.3",
+            "latest": "1.3.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/FindIt",
             "versions": {
@@ -9781,6 +9797,10 @@
                 "1.3.3": {
                     "name": "findit-1.3.3.jar",
                     "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.3.3/findit-1.3.3.jar"
+                },
+                "1.3.4": {
+                    "name": "findit-1.3.4.jar",
+                    "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.3.4/findit-1.3.4.jar"
                 }
             }
         },
@@ -10406,7 +10426,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.17",
+            "latest": "5.09.50.19",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15573,6 +15593,14 @@
                 "5.09.50.17": {
                     "name": "gregtech-5.09.50.17.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.17/gregtech-5.09.50.17.jar"
+                },
+                "5.09.50.18": {
+                    "name": "gregtech-5.09.50.18.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.18/gregtech-5.09.50.18.jar"
+                },
+                "5.09.50.19": {
+                    "name": "gregtech-5.09.50.19.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.19/gregtech-5.09.50.19.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
@@ -23311,7 +23339,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.2.33-GTNH",
+            "latest": "1.2.34-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -23570,6 +23598,10 @@
                 "1.2.33-GTNH": {
                     "name": "logisticspipes-1.2.33-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.2.33-GTNH/logisticspipes-1.2.33-GTNH.jar"
+                },
+                "1.2.34-GTNH": {
+                    "name": "logisticspipes-1.2.34-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.2.34-GTNH/logisticspipes-1.2.34-GTNH.jar"
                 },
                 "1.2.4-GTNH-pre": {
                     "name": "logisticspipes-1.2.4-GTNH-pre.jar",
@@ -25731,7 +25763,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.55",
+            "latest": "2.6.56",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -27886,6 +27918,10 @@
                 "2.6.55": {
                     "name": "GTNewHorizonsCoreMod-2.6.55.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.55/GTNewHorizonsCoreMod-2.6.55.jar"
+                },
+                "2.6.56": {
+                    "name": "GTNewHorizonsCoreMod-2.6.56.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.56/GTNewHorizonsCoreMod-2.6.56.jar"
                 },
                 "2.6.6": {
                     "name": "GTNewHorizonsCoreMod-2.6.6.jar",
