@@ -2070,7 +2070,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta6",
+            "latest": "1.0.0-beta7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -2301,6 +2301,10 @@
                 "1.0.0-beta6": {
                     "name": "angelica-1.0.0-beta6.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta6/angelica-1.0.0-beta6.jar"
+                },
+                "1.0.0-beta7": {
+                    "name": "angelica-1.0.0-beta7.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta7/angelica-1.0.0-beta7.jar"
                 }
             }
         },
@@ -7452,7 +7456,7 @@
                     "url": "https://mediafilez.forgecdn.net/files/5480/952/CraftPresence-2.4.3%2B1.7.10.jar"
                 },
                 "2.5.0": {
-                    "name": "CraftPresence-2.5.0%2B1.7.10-forge.jar",
+                    "name": "CraftPresence-2.5.0+1.7.10-forge.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5608/546/CraftPresence-2.5.0%2B1.7.10-forge.jar"
                 }
             }
@@ -10442,7 +10446,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.25",
+            "latest": "5.09.50.26",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15642,6 +15646,10 @@
                     "name": "gregtech-5.09.50.25.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.25/gregtech-5.09.50.25.jar"
                 },
+                "5.09.50.26": {
+                    "name": "gregtech-5.09.50.26.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.26/gregtech-5.09.50.26.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -16510,7 +16518,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.5.11",
+            "latest": "0.5.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -16705,6 +16713,10 @@
                 "0.5.11": {
                     "name": "gtnhlib-0.5.11.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.11/gtnhlib-0.5.11.jar"
+                },
+                "0.5.12": {
+                    "name": "gtnhlib-0.5.12.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.12/gtnhlib-0.5.12.jar"
                 },
                 "0.5.2-pre": {
                     "name": "gtnhlib-0.5.2-pre.jar",
@@ -22515,7 +22527,7 @@
         },
         "JourneyMap": {
             "id": "curseforge:journeymap:<version>",
-            "latest": "5.2.6-fairplay",
+            "latest": "5.2.7-fairplay",
             "src": "curse",
             "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
             "versions": {
@@ -22550,6 +22562,10 @@
                 "5.2.6-fairplay": {
                     "name": "journeymap-1.7.10-5.2.6-fairplay.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5710/216/journeymap-1.7.10-5.2.6-fairplay.jar"
+                },
+                "5.2.7-fairplay": {
+                    "name": "journeymap-1.7.10-5.2.7-fairplay.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5769/356/journeymap-1.7.10-5.2.7-fairplay.jar"
                 }
             }
         },
@@ -24591,7 +24607,7 @@
         },
         "ModularUI": {
             "id": "com.github.GTNewHorizons:ModularUI:<version>",
-            "latest": "1.2.8",
+            "latest": "1.2.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI",
             "versions": {
@@ -25154,6 +25170,10 @@
                 "1.2.8": {
                     "name": "modularui-1.2.8.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.8/modularui-1.2.8.jar"
+                },
+                "1.2.9": {
+                    "name": "modularui-1.2.9.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.9/modularui-1.2.9.jar"
                 }
             }
         },
@@ -30855,7 +30875,7 @@
         },
         "RemoteIO": {
             "id": "com.github.GTNewHorizons:RemoteIO:<version>",
-            "latest": "2.5.2",
+            "latest": "2.6.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RemoteIO",
             "versions": {
@@ -30894,6 +30914,10 @@
                 "2.5.2": {
                     "name": "RemoteIO-2.5.2.jar",
                     "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.5.2/RemoteIO-2.5.2.jar"
+                },
+                "2.6.0": {
+                    "name": "RemoteIO-2.6.0.jar",
+                    "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.6.0/RemoteIO-2.6.0.jar"
                 }
             }
         },
@@ -35731,13 +35755,17 @@
         },
         "UniLib": {
             "id": "other:UniLib:<version>",
-            "latest": "1.0.1",
+            "latest": "1.0.2",
             "src": "other",
             "url": "https://legacy.curseforge.com/minecraft/mc-mods/unilib",
             "versions": {
                 "1.0.1": {
                     "name": "UniLib-1.0.1+1.7.10-forge.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5590/478/UniLib-1.0.1%2B1.7.10-forge.jar"
+                },
+                "1.0.2": {
+                    "name": "UniLib-1.0.2+1.7.10-forge.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5656/801/UniLib-1.0.2%2B1.7.10-forge.jar"
                 }
             }
         },
@@ -35839,7 +35867,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.3.27",
+            "latest": "1.3.28",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -36094,6 +36122,10 @@
                 "1.3.27": {
                     "name": "visualprospecting-1.3.27.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.27/visualprospecting-1.3.27.jar"
+                },
+                "1.3.28": {
+                    "name": "visualprospecting-1.3.28.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.3.28/visualprospecting-1.3.28.jar"
                 },
                 "1.3.3": {
                     "name": "visualprospecting-1.3.3.jar",
@@ -37263,7 +37295,7 @@
         },
         "harvestcraft": {
             "id": "com.github.GTNewHorizons:harvestcraft:<version>",
-            "latest": "1.2.1-GTNH",
+            "latest": "1.2.2-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/harvestcraft",
@@ -37343,6 +37375,10 @@
                 "1.2.1-GTNH": {
                     "name": "harvestcraft-1.2.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/harvestcraft/releases/download/1.2.1-GTNH/harvestcraft-1.2.1-GTNH.jar"
+                },
+                "1.2.2-GTNH": {
+                    "name": "harvestcraft-1.2.2-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/harvestcraft/releases/download/1.2.2-GTNH/harvestcraft-1.2.2-GTNH.jar"
                 }
             }
         },
