@@ -9270,7 +9270,7 @@
         },
         "EnderStorage": {
             "id": "com.github.GTNewHorizons:EnderStorage:<version>",
-            "latest": "1.6.1",
+            "latest": "1.6.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderStorage",
             "versions": {
@@ -9313,6 +9313,10 @@
                 "1.6.1": {
                     "name": "EnderStorage-1.6.1.jar",
                     "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.1/EnderStorage-1.6.1.jar"
+                },
+                "1.6.2": {
+                    "name": "EnderStorage-1.6.2.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.2/EnderStorage-1.6.2.jar"
                 }
             }
         },
@@ -10478,7 +10482,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.28",
+            "latest": "5.09.50.29",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15689,6 +15693,10 @@
                 "5.09.50.28": {
                     "name": "gregtech-5.09.50.28.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.28/gregtech-5.09.50.28.jar"
+                },
+                "5.09.50.29": {
+                    "name": "gregtech-5.09.50.29.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.29/gregtech-5.09.50.29.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
