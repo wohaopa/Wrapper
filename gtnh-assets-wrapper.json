@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-10-04",
+            "latest": "2.7.0-nightly-2024-10-05",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -743,6 +743,10 @@
                 "2.7.0-nightly-2024-10-04": {
                     "name": "2.7.0-nightly-2024-10-04.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-04/2.7.0-nightly-2024-10-04.zip"
+                },
+                "2.7.0-nightly-2024-10-05": {
+                    "name": "2.7.0-nightly-2024-10-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-05/2.7.0-nightly-2024-10-05.zip"
                 }
             }
         }
@@ -750,7 +754,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.3.38-gtnh-pre",
+            "latest": "1.3.39-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -1682,6 +1686,10 @@
                     "name": "ae2fc-1.3.38-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.38-gtnh-pre/ae2fc-1.3.38-gtnh-pre.jar"
                 },
+                "1.3.39-gtnh": {
+                    "name": "ae2fc-1.3.39-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.39-gtnh/ae2fc-1.3.39-gtnh.jar"
+                },
                 "1.3.4-gtnh": {
                     "name": "ae2fc-1.3.4-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.4-gtnh/ae2fc-1.3.4-gtnh.jar"
@@ -2466,7 +2474,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-465-GTNH",
+            "latest": "rv3-beta-466-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3749,6 +3757,10 @@
                 "rv3-beta-465-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-465-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-465-GTNH/appliedenergistics2-rv3-beta-465-GTNH.jar"
+                },
+                "rv3-beta-466-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-466-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-466-GTNH/appliedenergistics2-rv3-beta-466-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -10498,7 +10510,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.31",
+            "latest": "5.09.50.32",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15721,6 +15733,10 @@
                 "5.09.50.31": {
                     "name": "gregtech-5.09.50.31.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.31/gregtech-5.09.50.31.jar"
+                },
+                "5.09.50.32": {
+                    "name": "gregtech-5.09.50.32.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.32/gregtech-5.09.50.32.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
