@@ -2474,7 +2474,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-466-GTNH",
+            "latest": "rv3-beta-468-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3762,6 +3762,14 @@
                     "name": "appliedenergistics2-rv3-beta-466-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-466-GTNH/appliedenergistics2-rv3-beta-466-GTNH.jar"
                 },
+                "rv3-beta-467-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-467-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-467-GTNH/appliedenergistics2-rv3-beta-467-GTNH.jar"
+                },
+                "rv3-beta-468-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-468-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-468-GTNH/appliedenergistics2-rv3-beta-468-GTNH.jar"
+                },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-59-GTNH/appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar"
@@ -4094,7 +4102,7 @@
         },
         "Avaritia": {
             "id": "com.github.GTNewHorizons:Avaritia:<version>",
-            "latest": "1.52",
+            "latest": "1.53",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Avaritia",
             "versions": {
@@ -4245,6 +4253,10 @@
                 "1.52": {
                     "name": "Avaritia-1.52.jar",
                     "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.52/Avaritia-1.52.jar"
+                },
+                "1.53": {
+                    "name": "Avaritia-1.53.jar",
+                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.53/Avaritia-1.53.jar"
                 }
             }
         },
@@ -6963,7 +6975,7 @@
         },
         "CodeChickenCore": {
             "id": "com.github.GTNewHorizons:CodeChickenCore:<version>",
-            "latest": "1.3.7",
+            "latest": "1.3.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CodeChickenCore",
             "versions": {
@@ -7058,6 +7070,14 @@
                 "1.3.7": {
                     "name": "CodeChickenCore-1.3.7.jar",
                     "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.7/CodeChickenCore-1.3.7.jar"
+                },
+                "1.3.8": {
+                    "name": "CodeChickenCore-1.3.8.jar",
+                    "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.8/CodeChickenCore-1.3.8.jar"
+                },
+                "1.3.9": {
+                    "name": "CodeChickenCore-1.3.9.jar",
+                    "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.9/CodeChickenCore-1.3.9.jar"
                 }
             }
         },
@@ -9294,7 +9314,7 @@
         },
         "EnderStorage": {
             "id": "com.github.GTNewHorizons:EnderStorage:<version>",
-            "latest": "1.6.3",
+            "latest": "1.6.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderStorage",
             "versions": {
@@ -9345,6 +9365,10 @@
                 "1.6.3": {
                     "name": "EnderStorage-1.6.3.jar",
                     "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.3/EnderStorage-1.6.3.jar"
+                },
+                "1.6.4": {
+                    "name": "EnderStorage-1.6.4.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.4/EnderStorage-1.6.4.jar"
                 }
             }
         },
@@ -10510,7 +10534,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.32",
+            "latest": "5.09.50.34",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15737,6 +15761,14 @@
                 "5.09.50.32": {
                     "name": "gregtech-5.09.50.32.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.32/gregtech-5.09.50.32.jar"
+                },
+                "5.09.50.33": {
+                    "name": "gregtech-5.09.50.33.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.33/gregtech-5.09.50.33.jar"
+                },
+                "5.09.50.34": {
+                    "name": "gregtech-5.09.50.34.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.34/gregtech-5.09.50.34.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
@@ -25935,7 +25967,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.60",
+            "latest": "2.6.61",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -28115,6 +28147,10 @@
                     "name": "GTNewHorizonsCoreMod-2.6.60.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.60/GTNewHorizonsCoreMod-2.6.60.jar"
                 },
+                "2.6.61": {
+                    "name": "GTNewHorizonsCoreMod-2.6.61.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.61/GTNewHorizonsCoreMod-2.6.61.jar"
+                },
                 "2.6.7": {
                     "name": "GTNewHorizonsCoreMod-2.6.7.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.7/GTNewHorizonsCoreMod-2.6.7.jar"
@@ -28431,7 +28467,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.6.41-GTNH",
+            "latest": "2.6.42-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -29354,6 +29390,10 @@
                 "2.6.41-GTNH": {
                     "name": "NotEnoughItems-2.6.41-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.41-GTNH/NotEnoughItems-2.6.41-GTNH.jar"
+                },
+                "2.6.42-GTNH": {
+                    "name": "NotEnoughItems-2.6.42-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.42-GTNH/NotEnoughItems-2.6.42-GTNH.jar"
                 },
                 "2.6.5-GTNH": {
                     "name": "NotEnoughItems-2.6.5-GTNH.jar",
@@ -37576,7 +37616,7 @@
         },
         "ironchest": {
             "id": "com.github.GTNewHorizons:ironchest:<version>",
-            "latest": "6.0.86",
+            "latest": "6.0.87",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ironchest",
             "versions": {
@@ -37663,6 +37703,10 @@
                 "6.0.86": {
                     "name": "IronChest-6.0.86.jar",
                     "url": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.86/IronChest-6.0.86.jar"
+                },
+                "6.0.87": {
+                    "name": "IronChest-6.0.87.jar",
+                    "url": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.87/IronChest-6.0.87.jar"
                 }
             }
         },
