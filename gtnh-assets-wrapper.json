@@ -10534,7 +10534,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.34",
+            "latest": "5.09.50.36",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15769,6 +15769,14 @@
                 "5.09.50.34": {
                     "name": "gregtech-5.09.50.34.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.34/gregtech-5.09.50.34.jar"
+                },
+                "5.09.50.35": {
+                    "name": "gregtech-5.09.50.35.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.35/gregtech-5.09.50.35.jar"
+                },
+                "5.09.50.36": {
+                    "name": "gregtech-5.09.50.36.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.36/gregtech-5.09.50.36.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
@@ -25967,7 +25975,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.61",
+            "latest": "2.6.62",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -28150,6 +28158,10 @@
                 "2.6.61": {
                     "name": "GTNewHorizonsCoreMod-2.6.61.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.61/GTNewHorizonsCoreMod-2.6.61.jar"
+                },
+                "2.6.62": {
+                    "name": "GTNewHorizonsCoreMod-2.6.62.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.62/GTNewHorizonsCoreMod-2.6.62.jar"
                 },
                 "2.6.7": {
                     "name": "GTNewHorizonsCoreMod-2.6.7.jar",
@@ -35279,7 +35291,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.12.10-GTNH",
+            "latest": "1.12.11-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -35422,6 +35434,10 @@
                 "1.12.10-GTNH": {
                     "name": "TConstruct-1.12.10-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.10-GTNH/TConstruct-1.12.10-GTNH.jar"
+                },
+                "1.12.11-GTNH": {
+                    "name": "TConstruct-1.12.11-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.11-GTNH/TConstruct-1.12.11-GTNH.jar"
                 },
                 "1.12.2-GTNH": {
                     "name": "TConstruct-1.12.2-GTNH.jar",
