@@ -7427,7 +7427,7 @@
         },
         "Craft-Presence": {
             "id": "curseforge:craftpresence:<version>",
-            "latest": "2.5.0",
+            "latest": "2.5.1",
             "src": "curse",
             "url": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/",
             "versions": {
@@ -7534,6 +7534,10 @@
                 "2.5.0": {
                     "name": "CraftPresence-2.5.0+1.7.10-forge.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5608/546/CraftPresence-2.5.0%2B1.7.10-forge.jar"
+                },
+                "2.5.1": {
+                    "name": "CraftPresence-2.5.1+1.7.10-forge.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5798/312/CraftPresence-2.5.1%2B1.7.10-forge.jar"
                 }
             }
         },
@@ -8434,7 +8438,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.5.14",
+            "latest": "1.5.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -8677,6 +8681,10 @@
                 "1.5.14": {
                     "name": "EMT-1.5.14.jar",
                     "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.5.14/EMT-1.5.14.jar"
+                },
+                "1.5.15": {
+                    "name": "EMT-1.5.15.jar",
+                    "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.5.15/EMT-1.5.15.jar"
                 },
                 "1.5.2": {
                     "name": "EMT-1.5.2.jar",
@@ -10550,7 +10558,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.38",
+            "latest": "5.09.50.41",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15802,6 +15810,18 @@
                     "name": "gregtech-5.09.50.38.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.38/gregtech-5.09.50.38.jar"
                 },
+                "5.09.50.39": {
+                    "name": "gregtech-5.09.50.39.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.39/gregtech-5.09.50.39.jar"
+                },
+                "5.09.50.40": {
+                    "name": "gregtech-5.09.50.40.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.40/gregtech-5.09.50.40.jar"
+                },
+                "5.09.50.41": {
+                    "name": "gregtech-5.09.50.41.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.41/gregtech-5.09.50.41.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -15938,7 +15958,7 @@
         },
         "GTNH-Intergalactic": {
             "id": "com.github.GTNewHorizons:GTNH-Intergalactic:<version>",
-            "latest": "1.4.21",
+            "latest": "1.4.22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic",
             "versions": {
@@ -16257,6 +16277,10 @@
                 "1.4.21": {
                     "name": "gtnhintergalactic-1.4.21.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.21/gtnhintergalactic-1.4.21.jar"
+                },
+                "1.4.22": {
+                    "name": "gtnhintergalactic-1.4.22.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.22/gtnhintergalactic-1.4.22.jar"
                 },
                 "1.4.3": {
                     "name": "gtnhintergalactic-1.4.3.jar",
@@ -19250,7 +19274,7 @@
         },
         "Galaxy-Space-GTNH": {
             "id": "com.github.GTNewHorizons:Galaxy-Space-GTNH:<version>",
-            "latest": "1.1.94-GTNH",
+            "latest": "1.1.95-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH",
@@ -19350,6 +19374,10 @@
                 "1.1.94-GTNH": {
                     "name": "GalaxySpace-1.1.94-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.94-GTNH/GalaxySpace-1.1.94-GTNH.jar"
+                },
+                "1.1.95-GTNH": {
+                    "name": "GalaxySpace-1.1.95-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.95-GTNH/GalaxySpace-1.1.95-GTNH.jar"
                 }
             }
         },
@@ -21843,7 +21871,7 @@
         },
         "HoloInventory": {
             "id": "com.github.GTNewHorizons:HoloInventory:<version>",
-            "latest": "2.4.12-GTNH",
+            "latest": "2.4.13-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HoloInventory",
             "versions": {
@@ -21978,6 +22006,10 @@
                 "2.4.12-GTNH": {
                     "name": "holoinventory-2.4.12-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.12-GTNH/holoinventory-2.4.12-GTNH.jar"
+                },
+                "2.4.13-GTNH": {
+                    "name": "holoinventory-2.4.13-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.13-GTNH/holoinventory-2.4.13-GTNH.jar"
                 },
                 "2.4.2-GTNH": {
                     "name": "holoinventory-2.4.2-GTNH.jar",
@@ -23939,7 +23971,7 @@
         },
         "MX-Random": {
             "id": "com.github.GTNewHorizons:MX-Random:<version>",
-            "latest": "0.4.4",
+            "latest": "0.4.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MX-Random",
             "versions": {
@@ -23998,6 +24030,10 @@
                 "0.4.4": {
                     "name": "mxrandom-0.4.4.jar",
                     "url": "https://github.com/GTNewHorizons/MX-Random/releases/download/0.4.4/mxrandom-0.4.4.jar"
+                },
+                "0.4.5": {
+                    "name": "mxrandom-0.4.5.jar",
+                    "url": "https://github.com/GTNewHorizons/MX-Random/releases/download/0.4.5/mxrandom-0.4.5.jar"
                 }
             }
         },
@@ -26015,7 +26051,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.63",
+            "latest": "2.6.64",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -28206,6 +28242,10 @@
                 "2.6.63": {
                     "name": "GTNewHorizonsCoreMod-2.6.63.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.63/GTNewHorizonsCoreMod-2.6.63.jar"
+                },
+                "2.6.64": {
+                    "name": "GTNewHorizonsCoreMod-2.6.64.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.64/GTNewHorizonsCoreMod-2.6.64.jar"
                 },
                 "2.6.7": {
                     "name": "GTNewHorizonsCoreMod-2.6.7.jar",
@@ -36007,7 +36047,7 @@
         },
         "UniLib": {
             "id": "other:UniLib:<version>",
-            "latest": "1.0.2",
+            "latest": "1.0.3",
             "src": "other",
             "url": "https://legacy.curseforge.com/minecraft/mc-mods/unilib",
             "versions": {
@@ -36018,6 +36058,10 @@
                 "1.0.2": {
                     "name": "UniLib-1.0.2+1.7.10-forge.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5656/801/UniLib-1.0.2%2B1.7.10-forge.jar"
+                },
+                "1.0.3": {
+                    "name": "UniLib-1.0.3+1.7.10-forge.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5797/900/UniLib-1.0.3%2B1.7.10-forge.jar"
                 }
             }
         },
