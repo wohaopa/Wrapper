@@ -2106,7 +2106,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta7",
+            "latest": "1.0.0-beta8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -2341,6 +2341,10 @@
                 "1.0.0-beta7": {
                     "name": "angelica-1.0.0-beta7.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta7/angelica-1.0.0-beta7.jar"
+                },
+                "1.0.0-beta8": {
+                    "name": "angelica-1.0.0-beta8.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta8/angelica-1.0.0-beta8.jar"
                 }
             }
         },
@@ -2490,7 +2494,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-468-GTNH",
+            "latest": "rv3-beta-469-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3785,6 +3789,10 @@
                 "rv3-beta-468-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-468-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-468-GTNH/appliedenergistics2-rv3-beta-468-GTNH.jar"
+                },
+                "rv3-beta-469-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-469-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-469-GTNH/appliedenergistics2-rv3-beta-469-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -10562,7 +10570,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.42",
+            "latest": "5.09.50.43",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15830,6 +15838,10 @@
                     "name": "gregtech-5.09.50.42.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.42/gregtech-5.09.50.42.jar"
                 },
+                "5.09.50.43": {
+                    "name": "gregtech-5.09.50.43.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.43/gregtech-5.09.50.43.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -16706,7 +16718,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.5.14",
+            "latest": "0.5.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -16913,6 +16925,10 @@
                 "0.5.14": {
                     "name": "gtnhlib-0.5.14.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.14/gtnhlib-0.5.14.jar"
+                },
+                "0.5.15": {
+                    "name": "gtnhlib-0.5.15.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.15/gtnhlib-0.5.15.jar"
                 },
                 "0.5.2-pre": {
                     "name": "gtnhlib-0.5.2-pre.jar",
@@ -22367,7 +22383,7 @@
         },
         "InGame-Info-XML": {
             "id": "com.github.GTNewHorizons:InGame-Info-XML:<version>",
-            "latest": "2.8.13",
+            "latest": "2.8.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InGame-Info-XML",
             "versions": {
@@ -22398,6 +22414,10 @@
                 "2.8.13": {
                     "name": "InGameInfoXML-2.8.13.jar",
                     "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.13/InGameInfoXML-2.8.13.jar"
+                },
+                "2.8.14": {
+                    "name": "InGameInfoXML-2.8.14.jar",
+                    "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.14/InGameInfoXML-2.8.14.jar"
                 },
                 "2.8.3.88": {
                     "name": "InGameInfoXML-1.7.10-2.8.3.88.jar",
