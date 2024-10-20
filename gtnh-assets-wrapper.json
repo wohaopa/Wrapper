@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-10-14",
+            "latest": "2.7.0-nightly-2024-10-18",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -755,6 +755,10 @@
                 "2.7.0-nightly-2024-10-14": {
                     "name": "2.7.0-nightly-2024-10-14.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-14/2.7.0-nightly-2024-10-14.zip"
+                },
+                "2.7.0-nightly-2024-10-18": {
+                    "name": "2.7.0-nightly-2024-10-18.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-18/2.7.0-nightly-2024-10-18.zip"
                 }
             }
         }
@@ -10570,7 +10574,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.43",
+            "latest": "5.09.50.44",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15842,6 +15846,10 @@
                     "name": "gregtech-5.09.50.43.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.43/gregtech-5.09.50.43.jar"
                 },
+                "5.09.50.44": {
+                    "name": "gregtech-5.09.50.44.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.44/gregtech-5.09.50.44.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -20739,7 +20747,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.5.71",
+            "latest": "2.5.72",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -21882,6 +21890,10 @@
                 "2.5.71": {
                     "name": "hodgepodge-2.5.71.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.71/hodgepodge-2.5.71.jar"
+                },
+                "2.5.72": {
+                    "name": "hodgepodge-2.5.72.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.72/hodgepodge-2.5.72.jar"
                 },
                 "2.5.8": {
                     "name": "hodgepodge-2.5.8.jar",
@@ -26079,7 +26091,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.65",
+            "latest": "2.6.66",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -28278,6 +28290,10 @@
                 "2.6.65": {
                     "name": "GTNewHorizonsCoreMod-2.6.65.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.65/GTNewHorizonsCoreMod-2.6.65.jar"
+                },
+                "2.6.66": {
+                    "name": "GTNewHorizonsCoreMod-2.6.66.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.66/GTNewHorizonsCoreMod-2.6.66.jar"
                 },
                 "2.6.7": {
                     "name": "GTNewHorizonsCoreMod-2.6.7.jar",
