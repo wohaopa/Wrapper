@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-10-18",
+            "latest": "2.7.0-nightly-2024-10-20",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -759,6 +759,10 @@
                 "2.7.0-nightly-2024-10-18": {
                     "name": "2.7.0-nightly-2024-10-18.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-18/2.7.0-nightly-2024-10-18.zip"
+                },
+                "2.7.0-nightly-2024-10-20": {
+                    "name": "2.7.0-nightly-2024-10-20.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-20/2.7.0-nightly-2024-10-20.zip"
                 }
             }
         }
@@ -766,7 +770,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.3.39-gtnh",
+            "latest": "1.3.41-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -1705,6 +1709,14 @@
                 "1.3.4-gtnh": {
                     "name": "ae2fc-1.3.4-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.4-gtnh/ae2fc-1.3.4-gtnh.jar"
+                },
+                "1.3.40-gtnh": {
+                    "name": "ae2fc-1.3.40-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.40-gtnh/ae2fc-1.3.40-gtnh.jar"
+                },
+                "1.3.41-gtnh": {
+                    "name": "ae2fc-1.3.41-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.41-gtnh/ae2fc-1.3.41-gtnh.jar"
                 },
                 "1.3.5-gtnh-pre": {
                     "name": "ae2fc-1.3.5-gtnh-pre.jar",
@@ -5958,7 +5970,7 @@
         },
         "BloodMagic": {
             "id": "com.github.GTNewHorizons:BloodMagic:<version>",
-            "latest": "1.6.6",
+            "latest": "1.6.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodMagic",
             "versions": {
@@ -6125,6 +6137,10 @@
                 "1.6.6": {
                     "name": "BloodMagic-1.6.6.jar",
                     "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.6.6/BloodMagic-1.6.6.jar"
+                },
+                "1.6.7": {
+                    "name": "BloodMagic-1.6.7.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.6.7/BloodMagic-1.6.7.jar"
                 }
             }
         },
@@ -8454,7 +8470,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.5.15",
+            "latest": "1.5.16",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -8701,6 +8717,10 @@
                 "1.5.15": {
                     "name": "EMT-1.5.15.jar",
                     "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.5.15/EMT-1.5.15.jar"
+                },
+                "1.5.16": {
+                    "name": "EMT-1.5.16.jar",
+                    "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.5.16/EMT-1.5.16.jar"
                 },
                 "1.5.2": {
                     "name": "EMT-1.5.2.jar",
@@ -10574,7 +10594,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.44",
+            "latest": "5.09.50.47",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15850,6 +15870,18 @@
                     "name": "gregtech-5.09.50.44.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.44/gregtech-5.09.50.44.jar"
                 },
+                "5.09.50.45": {
+                    "name": "gregtech-5.09.50.45.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.45/gregtech-5.09.50.45.jar"
+                },
+                "5.09.50.46": {
+                    "name": "gregtech-5.09.50.46.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.46/gregtech-5.09.50.46.jar"
+                },
+                "5.09.50.47": {
+                    "name": "gregtech-5.09.50.47.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.47/gregtech-5.09.50.47.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -20747,7 +20779,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.5.72",
+            "latest": "2.5.73",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -21894,6 +21926,10 @@
                 "2.5.72": {
                     "name": "hodgepodge-2.5.72.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.72/hodgepodge-2.5.72.jar"
+                },
+                "2.5.73": {
+                    "name": "hodgepodge-2.5.73.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.73/hodgepodge-2.5.73.jar"
                 },
                 "2.5.8": {
                     "name": "hodgepodge-2.5.8.jar",
@@ -24299,7 +24335,7 @@
         },
         "MalisisDoors": {
             "id": "com.github.GTNewHorizons:MalisisDoors:<version>",
-            "latest": "1.17.2-GTNH",
+            "latest": "1.17.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MalisisDoors",
             "versions": {
@@ -24366,6 +24402,10 @@
                 "1.17.2-GTNH": {
                     "name": "malisisdoors-1.17.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.17.2-GTNH/malisisdoors-1.17.2-GTNH.jar"
+                },
+                "1.17.3-GTNH": {
+                    "name": "malisisdoors-1.17.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.17.3-GTNH/malisisdoors-1.17.3-GTNH.jar"
                 }
             }
         },
@@ -26091,7 +26131,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.66",
+            "latest": "2.6.67",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -28294,6 +28334,10 @@
                 "2.6.66": {
                     "name": "GTNewHorizonsCoreMod-2.6.66.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.66/GTNewHorizonsCoreMod-2.6.66.jar"
+                },
+                "2.6.67": {
+                    "name": "GTNewHorizonsCoreMod-2.6.67.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.67/GTNewHorizonsCoreMod-2.6.67.jar"
                 },
                 "2.6.7": {
                     "name": "GTNewHorizonsCoreMod-2.6.7.jar",
@@ -36115,7 +36159,7 @@
         },
         "UniMixins": {
             "id": "com.github.LegacyModdingMC:UniMixins:<version>",
-            "latest": "0.1.17",
+            "latest": "0.1.18",
             "src": "github",
             "url": "https://github.com/LegacyModdingMC/UniMixins",
             "versions": {
@@ -36150,6 +36194,10 @@
                 "0.1.17": {
                     "name": "+unimixins-all-1.7.10-0.1.17.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5193/846/%2Bunimixins-all-1.7.10-0.1.17.jar"
+                },
+                "0.1.18": {
+                    "name": "%2Bunimixins-all-1.7.10-0.1.18.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5819/979/%2Bunimixins-all-1.7.10-0.1.18.jar"
                 },
                 "0.1.5": {
                     "name": "unimixins-all-1.7.10-0.1.5.jar",
