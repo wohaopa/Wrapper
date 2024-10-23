@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-10-21-2",
+            "latest": "2.7.0-nightly-2024-10-22",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -775,6 +775,10 @@
                 "2.7.0-nightly-2024-10-21-2": {
                     "name": "2.7.0-nightly-2024-10-21-2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-21-2/2.7.0-nightly-2024-10-21-2.zip"
+                },
+                "2.7.0-nightly-2024-10-22": {
+                    "name": "2.7.0-nightly-2024-10-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-22/2.7.0-nightly-2024-10-22.zip"
                 }
             }
         }
@@ -2530,7 +2534,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-470-GTNH",
+            "latest": "rv3-beta-471-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3833,6 +3837,10 @@
                 "rv3-beta-470-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-470-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-470-GTNH/appliedenergistics2-rv3-beta-470-GTNH.jar"
+                },
+                "rv3-beta-471-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-471-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-471-GTNH/appliedenergistics2-rv3-beta-471-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -10646,7 +10654,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.50",
+            "latest": "5.09.50.51",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15946,6 +15954,10 @@
                     "name": "gregtech-5.09.50.50.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.50/gregtech-5.09.50.50.jar"
                 },
+                "5.09.50.51": {
+                    "name": "gregtech-5.09.50.51.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.51/gregtech-5.09.50.51.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -16822,7 +16834,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.5.16",
+            "latest": "0.5.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -17037,6 +17049,10 @@
                 "0.5.16": {
                     "name": "gtnhlib-0.5.16.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.16/gtnhlib-0.5.16.jar"
+                },
+                "0.5.17": {
+                    "name": "gtnhlib-0.5.17.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.17/gtnhlib-0.5.17.jar"
                 },
                 "0.5.2-pre": {
                     "name": "gtnhlib-0.5.2-pre.jar",
@@ -26215,7 +26231,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.6.68",
+            "latest": "2.6.69",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -28427,6 +28443,10 @@
                     "name": "GTNewHorizonsCoreMod-2.6.68.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.68/GTNewHorizonsCoreMod-2.6.68.jar"
                 },
+                "2.6.69": {
+                    "name": "GTNewHorizonsCoreMod-2.6.69.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.69/GTNewHorizonsCoreMod-2.6.69.jar"
+                },
                 "2.6.7": {
                     "name": "GTNewHorizonsCoreMod-2.6.7.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.7/GTNewHorizonsCoreMod-2.6.7.jar"
@@ -28743,7 +28763,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.6.42-GTNH",
+            "latest": "2.6.44-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -29670,6 +29690,10 @@
                 "2.6.42-GTNH": {
                     "name": "NotEnoughItems-2.6.42-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.42-GTNH/NotEnoughItems-2.6.42-GTNH.jar"
+                },
+                "2.6.44-GTNH": {
+                    "name": "NotEnoughItems-2.6.44-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.44-GTNH/NotEnoughItems-2.6.44-GTNH.jar"
                 },
                 "2.6.5-GTNH": {
                     "name": "NotEnoughItems-2.6.5-GTNH.jar",
@@ -38476,7 +38500,7 @@
         },
         "nei-custom-diagram": {
             "id": "com.github.GTNewHorizons:nei-custom-diagram:<version>",
-            "latest": "1.6.7",
+            "latest": "1.6.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/nei-custom-diagram",
             "versions": {
@@ -38643,6 +38667,10 @@
                 "1.6.7": {
                     "name": "NEICustomDiagram-1.6.7.jar",
                     "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.6.7/NEICustomDiagram-1.6.7.jar"
+                },
+                "1.6.8": {
+                    "name": "NEICustomDiagram-1.6.8.jar",
+                    "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.6.8/NEICustomDiagram-1.6.8.jar"
                 }
             }
         },
