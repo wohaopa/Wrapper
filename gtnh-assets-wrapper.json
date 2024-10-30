@@ -2162,7 +2162,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta11",
+            "latest": "1.0.0-beta13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -2385,6 +2385,14 @@
                 "1.0.0-beta11": {
                     "name": "angelica-1.0.0-beta11.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta11/angelica-1.0.0-beta11.jar"
+                },
+                "1.0.0-beta12": {
+                    "name": "angelica-1.0.0-beta12.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta12/angelica-1.0.0-beta12.jar"
+                },
+                "1.0.0-beta13": {
+                    "name": "angelica-1.0.0-beta13.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta13/angelica-1.0.0-beta13.jar"
                 },
                 "1.0.0-beta2": {
                     "name": "angelica-1.0.0-beta2.jar",
@@ -22583,7 +22591,7 @@
         },
         "InGame-Info-XML": {
             "id": "com.github.GTNewHorizons:InGame-Info-XML:<version>",
-            "latest": "2.8.17-pre",
+            "latest": "2.8.18-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InGame-Info-XML",
             "versions": {
@@ -22630,6 +22638,10 @@
                 "2.8.17-pre": {
                     "name": "InGameInfoXML-2.8.17-pre.jar",
                     "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.17-pre/InGameInfoXML-2.8.17-pre.jar"
+                },
+                "2.8.18-pre": {
+                    "name": "InGameInfoXML-2.8.18-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.18-pre/InGameInfoXML-2.8.18-pre.jar"
                 },
                 "2.8.3.88": {
                     "name": "InGameInfoXML-1.7.10-2.8.3.88.jar",
