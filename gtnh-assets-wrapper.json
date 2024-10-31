@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-10-25",
+            "latest": "2.7.0-nightly-2024-10-29",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -783,6 +783,10 @@
                 "2.7.0-nightly-2024-10-25": {
                     "name": "2.7.0-nightly-2024-10-25.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-25/2.7.0-nightly-2024-10-25.zip"
+                },
+                "2.7.0-nightly-2024-10-29": {
+                    "name": "2.7.0-nightly-2024-10-29.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-29/2.7.0-nightly-2024-10-29.zip"
                 }
             }
         }
@@ -2162,7 +2166,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta13",
+            "latest": "1.0.0-beta14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -2393,6 +2397,10 @@
                 "1.0.0-beta13": {
                     "name": "angelica-1.0.0-beta13.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta13/angelica-1.0.0-beta13.jar"
+                },
+                "1.0.0-beta14": {
+                    "name": "angelica-1.0.0-beta14.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta14/angelica-1.0.0-beta14.jar"
                 },
                 "1.0.0-beta2": {
                     "name": "angelica-1.0.0-beta2.jar",
@@ -10698,7 +10706,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.54",
+            "latest": "5.09.50.55",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -16013,6 +16021,10 @@
                 "5.09.50.54": {
                     "name": "gregtech-5.09.50.54.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.54/gregtech-5.09.50.54.jar"
+                },
+                "5.09.50.55": {
+                    "name": "gregtech-5.09.50.55.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.55/gregtech-5.09.50.55.jar"
                 },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
@@ -31691,7 +31703,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.0.82",
+            "latest": "2.0.83",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -32034,6 +32046,10 @@
                 "2.0.82": {
                     "name": "ServerUtilities-2.0.82.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.82/ServerUtilities-2.0.82.jar"
+                },
+                "2.0.83": {
+                    "name": "ServerUtilities-2.0.83.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.83/ServerUtilities-2.0.83.jar"
                 },
                 "2.0.9": {
                     "name": "ServerUtilities-2.0.9.jar",
