@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-10-29",
+            "latest": "2.7.0-nightly-2024-10-30",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.3.4-nihghtly-2023-06-05": {
@@ -787,6 +787,10 @@
                 "2.7.0-nightly-2024-10-29": {
                     "name": "2.7.0-nightly-2024-10-29.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-29/2.7.0-nightly-2024-10-29.zip"
+                },
+                "2.7.0-nightly-2024-10-30": {
+                    "name": "2.7.0-nightly-2024-10-30.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-10-30/2.7.0-nightly-2024-10-30.zip"
                 }
             }
         }
@@ -10706,7 +10710,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.55",
+            "latest": "5.09.50.56",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -16026,6 +16030,10 @@
                     "name": "gregtech-5.09.50.55.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.55/gregtech-5.09.50.55.jar"
                 },
+                "5.09.50.56": {
+                    "name": "gregtech-5.09.50.56.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.56/gregtech-5.09.50.56.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -20943,7 +20951,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.5.74",
+            "latest": "2.5.75",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -22099,6 +22107,10 @@
                     "name": "hodgepodge-2.5.74.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.74/hodgepodge-2.5.74.jar"
                 },
+                "2.5.75": {
+                    "name": "hodgepodge-2.5.75.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.75/hodgepodge-2.5.75.jar"
+                },
                 "2.5.8": {
                     "name": "hodgepodge-2.5.8.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.8/hodgepodge-2.5.8.jar"
@@ -22603,7 +22615,7 @@
         },
         "InGame-Info-XML": {
             "id": "com.github.GTNewHorizons:InGame-Info-XML:<version>",
-            "latest": "2.8.18-pre",
+            "latest": "2.8.19",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InGame-Info-XML",
             "versions": {
@@ -22654,6 +22666,10 @@
                 "2.8.18-pre": {
                     "name": "InGameInfoXML-2.8.18-pre.jar",
                     "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.18-pre/InGameInfoXML-2.8.18-pre.jar"
+                },
+                "2.8.19": {
+                    "name": "InGameInfoXML-2.8.19.jar",
+                    "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.19/InGameInfoXML-2.8.19.jar"
                 },
                 "2.8.3.88": {
                     "name": "InGameInfoXML-1.7.10-2.8.3.88.jar",
@@ -31703,7 +31719,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.0.83",
+            "latest": "2.0.84",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -32050,6 +32066,10 @@
                 "2.0.83": {
                     "name": "ServerUtilities-2.0.83.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.83/ServerUtilities-2.0.83.jar"
+                },
+                "2.0.84": {
+                    "name": "ServerUtilities-2.0.84.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.84/ServerUtilities-2.0.84.jar"
                 },
                 "2.0.9": {
                     "name": "ServerUtilities-2.0.9.jar",
