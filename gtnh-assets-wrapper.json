@@ -10146,7 +10146,7 @@
         },
         "FloodLights": {
             "id": "com.github.GTNewHorizons:FloodLights:<version>",
-            "latest": "1.4.1",
+            "latest": "1.4.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/FloodLights",
             "versions": {
@@ -10165,6 +10165,10 @@
                 "1.4.1": {
                     "name": "FloodLights-1.4.1.jar",
                     "url": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.4.1/FloodLights-1.4.1.jar"
+                },
+                "1.4.2": {
+                    "name": "FloodLights-1.4.2.jar",
+                    "url": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.4.2/FloodLights-1.4.2.jar"
                 }
             }
         },
@@ -10766,7 +10770,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.62",
+            "latest": "5.09.50.64",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -16114,6 +16118,14 @@
                     "name": "gregtech-5.09.50.62.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.62/gregtech-5.09.50.62.jar"
                 },
+                "5.09.50.63": {
+                    "name": "gregtech-5.09.50.63.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.63/gregtech-5.09.50.63.jar"
+                },
+                "5.09.50.64": {
+                    "name": "gregtech-5.09.50.64.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.64/gregtech-5.09.50.64.jar"
+                },
                 "TestDC": {
                     "name": "gregtech-TestDC.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/TestDC/gregtech-TestDC.jar"
@@ -16998,7 +17010,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.5.19",
+            "latest": "0.5.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -17229,6 +17241,10 @@
                 "0.5.2-pre": {
                     "name": "gtnhlib-0.5.2-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.2-pre/gtnhlib-0.5.2-pre.jar"
+                },
+                "0.5.20": {
+                    "name": "gtnhlib-0.5.20.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.20/gtnhlib-0.5.20.jar"
                 },
                 "0.5.3": {
                     "name": "gtnhlib-0.5.3.jar",
@@ -37519,7 +37535,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.5.15-GTNH",
+            "latest": "1.5.16-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -37678,6 +37694,10 @@
                 "1.5.15-GTNH": {
                     "name": "WitchingGadgets-1.5.15-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.5.15-GTNH/WitchingGadgets-1.5.15-GTNH.jar"
+                },
+                "1.5.16-GTNH": {
+                    "name": "WitchingGadgets-1.5.16-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.5.16-GTNH/WitchingGadgets-1.5.16-GTNH.jar"
                 },
                 "1.5.2-GTNH": {
                     "name": "WitchingGadgets-1.5.2-GTNH.jar",
