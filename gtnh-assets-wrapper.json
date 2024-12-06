@@ -1,16 +1,16 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.7.0-nightly-2024-12-03",
+            "latest": "2.7.0-nightly-2024-12-05-2",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
-                "2.7.0-RC-1": {
-                    "name": "2.7.0-RC-1.zip",
-                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/untagged-1f698b4245c9b6a5c2d3/2.7.0-RC-1.zip"
-                },
                 "2.7.0-RC-2": {
                     "name": "2.7.0-RC-2.zip",
-                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-RC-2/2.7.0-RC-2.zip"
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/untagged-1f71c7bd17f5082096fe/2.7.0-RC-2.zip"
+                },
+                "2.7.0-RC-3": {
+                    "name": "2.7.0-RC-3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-RC-3/2.7.0-RC-3.zip"
                 },
                 "2.7.0-nightlies-2024-09-19": {
                     "name": "2.7.0-nightlies-2024-09-19.zip",
@@ -471,6 +471,14 @@
                 "2.7.0-nightly-2024-12-03": {
                     "name": "2.7.0-nightly-2024-12-03.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-12-03/2.7.0-nightly-2024-12-03.zip"
+                },
+                "2.7.0-nightly-2024-12-05": {
+                    "name": "2.7.0-nightly-2024-12-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-12-05/2.7.0-nightly-2024-12-05.zip"
+                },
+                "2.7.0-nightly-2024-12-05-2": {
+                    "name": "2.7.0-nightly-2024-12-05-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-12-05-2/2.7.0-nightly-2024-12-05-2.zip"
                 }
             }
         }
@@ -5646,7 +5654,7 @@
         },
         "BlockRenderer6343": {
             "id": "com.github.GTNewHorizons:BlockRenderer6343:<version>",
-            "latest": "1.2.15",
+            "latest": "1.2.16",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BlockRenderer6343",
             "versions": {
@@ -5765,6 +5773,10 @@
                 "1.2.15": {
                     "name": "blockrenderer6343-1.2.15.jar",
                     "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.2.15/blockrenderer6343-1.2.15.jar"
+                },
+                "1.2.16": {
+                    "name": "blockrenderer6343-1.2.16.jar",
+                    "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.2.16/blockrenderer6343-1.2.16.jar"
                 },
                 "1.2.2-pre": {
                     "name": "blockrenderer6343-1.2.2-pre.jar",
@@ -10562,7 +10574,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.50.93",
+            "latest": "5.09.50.97",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -16033,6 +16045,22 @@
                 "5.09.50.93": {
                     "name": "gregtech-5.09.50.93.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.93/gregtech-5.09.50.93.jar"
+                },
+                "5.09.50.94": {
+                    "name": "gregtech-5.09.50.94.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.94/gregtech-5.09.50.94.jar"
+                },
+                "5.09.50.95": {
+                    "name": "gregtech-5.09.50.95.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.95/gregtech-5.09.50.95.jar"
+                },
+                "5.09.50.96": {
+                    "name": "gregtech-5.09.50.96.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.96/gregtech-5.09.50.96.jar"
+                },
+                "5.09.50.97": {
+                    "name": "gregtech-5.09.50.97.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.97/gregtech-5.09.50.97.jar"
                 }
             }
         },
@@ -19310,7 +19338,7 @@
         },
         "Galacticraft": {
             "id": "com.github.GTNewHorizons:Galacticraft:<version>",
-            "latest": "3.2.5-GTNH",
+            "latest": "3.2.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galacticraft",
             "versions": {
@@ -19541,6 +19569,14 @@
                 "3.2.5-GTNH": {
                     "name": "Galacticraft-3.2.5-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.2.5-GTNH/Galacticraft-3.2.5-GTNH.jar"
+                },
+                "3.2.6-GTNH": {
+                    "name": "Galacticraft-3.2.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.2.6-GTNH/Galacticraft-3.2.6-GTNH.jar"
+                },
+                "3.2.7-GTNH": {
+                    "name": "Galacticraft-3.2.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.2.7-GTNH/Galacticraft-3.2.7-GTNH.jar"
                 }
             }
         },
@@ -29079,7 +29115,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.6.49-GTNH",
+            "latest": "2.6.50-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -30034,6 +30070,10 @@
                 "2.6.5-GTNH": {
                     "name": "NotEnoughItems-2.6.5-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.5-GTNH/NotEnoughItems-2.6.5-GTNH.jar"
+                },
+                "2.6.50-GTNH": {
+                    "name": "NotEnoughItems-2.6.50-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.50-GTNH/NotEnoughItems-2.6.50-GTNH.jar"
                 },
                 "2.6.6-GTNH-pre": {
                     "name": "NotEnoughItems-2.6.6-GTNH-pre.jar",
@@ -38568,7 +38608,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "2.1.4",
+            "latest": "2.1.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -39007,6 +39047,10 @@
                 "2.1.4": {
                     "name": "lwjgl3ify-2.1.4.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.4/lwjgl3ify-2.1.4.jar"
+                },
+                "2.1.5": {
+                    "name": "lwjgl3ify-2.1.5.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.5/lwjgl3ify-2.1.5.jar"
                 }
             }
         },
