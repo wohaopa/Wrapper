@@ -6094,7 +6094,7 @@
         },
         "Botania": {
             "id": "com.github.GTNewHorizons:Botania:<version>",
-            "latest": "1.11.6-GTNH",
+            "latest": "1.12.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botania",
             "versions": {
@@ -6185,6 +6185,14 @@
                 "1.11.6-GTNH": {
                     "name": "Botania-1.11.6-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.11.6-GTNH/Botania-1.11.6-GTNH.jar"
+                },
+                "1.11.7-GTNH": {
+                    "name": "Botania-1.11.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.11.7-GTNH/Botania-1.11.7-GTNH.jar"
+                },
+                "1.12.1-GTNH": {
+                    "name": "Botania-1.12.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.12.1-GTNH/Botania-1.12.1-GTNH.jar"
                 },
                 "1.9.0-GTNH": {
                     "name": "Botania-1.7.10-1.9.0-GTNH.jar",
@@ -10634,7 +10642,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.00",
+            "latest": "5.09.51.02",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -16153,6 +16161,14 @@
                 "5.09.51.00": {
                     "name": "gregtech-5.09.51.00.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.00/gregtech-5.09.51.00.jar"
+                },
+                "5.09.51.01": {
+                    "name": "gregtech-5.09.51.01.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.01/gregtech-5.09.51.01.jar"
+                },
+                "5.09.51.02": {
+                    "name": "gregtech-5.09.51.02.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.02/gregtech-5.09.51.02.jar"
                 }
             }
         },
@@ -21039,7 +21055,7 @@
         },
         "Hardcore-Ender-Expansion": {
             "id": "com.github.GTNewHorizons:Hardcore-Ender-Expansion:<version>",
-            "latest": "1.11.3-GTNH",
+            "latest": "1.12.0-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion",
             "versions": {
@@ -21066,6 +21082,14 @@
                 "1.11.3-GTNH": {
                     "name": "HardcoreEnderExpansion-1.11.3-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.11.3-GTNH/HardcoreEnderExpansion-1.11.3-GTNH.jar"
+                },
+                "1.11.4-GTNH": {
+                    "name": "HardcoreEnderExpansion-1.11.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.11.4-GTNH/HardcoreEnderExpansion-1.11.4-GTNH.jar"
+                },
+                "1.12.0-GTNH": {
+                    "name": "HardcoreEnderExpansion-1.12.0-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.0-GTNH/HardcoreEnderExpansion-1.12.0-GTNH.jar"
                 },
                 "1.9.0-GTNH": {
                     "name": "HardcoreEnderExpansion-1.7.10-1.9.0-GTNH.jar",
@@ -21139,7 +21163,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.5.82",
+            "latest": "2.6.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -22331,9 +22355,17 @@
                     "name": "hodgepodge-2.5.82.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.82/hodgepodge-2.5.82.jar"
                 },
+                "2.5.83": {
+                    "name": "hodgepodge-2.5.83.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.83/hodgepodge-2.5.83.jar"
+                },
                 "2.5.9-pre": {
                     "name": "hodgepodge-2.5.9-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.9-pre/hodgepodge-2.5.9-pre.jar"
+                },
+                "2.6.0": {
+                    "name": "hodgepodge-2.6.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.0/hodgepodge-2.6.0.jar"
                 }
             }
         },
@@ -30923,7 +30955,7 @@
         },
         "OpenModularTurrets": {
             "id": "com.github.GTNewHorizons:OpenModularTurrets:<version>",
-            "latest": "2.3.6",
+            "latest": "2.4.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenModularTurrets",
             "versions": {
@@ -30966,6 +30998,14 @@
                 "2.3.6": {
                     "name": "OpenModularTurrets-2.3.6.jar",
                     "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.3.6/OpenModularTurrets-2.3.6.jar"
+                },
+                "2.3.7": {
+                    "name": "OpenModularTurrets-2.3.7.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.3.7/OpenModularTurrets-2.3.7.jar"
+                },
+                "2.4.0": {
+                    "name": "OpenModularTurrets-2.4.0.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.0/OpenModularTurrets-2.4.0.jar"
                 }
             }
         },
@@ -32127,7 +32167,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.0.88",
+            "latest": "2.1.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -32495,9 +32535,17 @@
                     "name": "ServerUtilities-2.0.88.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.88/ServerUtilities-2.0.88.jar"
                 },
+                "2.0.89": {
+                    "name": "ServerUtilities-2.0.89.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.89/ServerUtilities-2.0.89.jar"
+                },
                 "2.0.9": {
                     "name": "ServerUtilities-2.0.9.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.9/ServerUtilities-2.0.9.jar"
+                },
+                "2.1.0": {
+                    "name": "ServerUtilities-2.1.0.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.0/ServerUtilities-2.1.0.jar"
                 }
             }
         },
