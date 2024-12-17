@@ -5710,7 +5710,7 @@
         },
         "BlockRenderer6343": {
             "id": "com.github.GTNewHorizons:BlockRenderer6343:<version>",
-            "latest": "1.2.16",
+            "latest": "1.2.17-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BlockRenderer6343",
             "versions": {
@@ -5833,6 +5833,10 @@
                 "1.2.16": {
                     "name": "blockrenderer6343-1.2.16.jar",
                     "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.2.16/blockrenderer6343-1.2.16.jar"
+                },
+                "1.2.17-pre": {
+                    "name": "blockrenderer6343-1.2.17-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.2.17-pre/blockrenderer6343-1.2.17-pre.jar"
                 },
                 "1.2.2-pre": {
                     "name": "blockrenderer6343-1.2.2-pre.jar",
@@ -7723,7 +7727,7 @@
         },
         "Crops-plus-plus": {
             "id": "com.github.GTNewHorizons:Crops-plus-plus:<version>",
-            "latest": "1.7.13",
+            "latest": "1.8.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Crops-plus-plus",
             "versions": {
@@ -7895,6 +7899,10 @@
                     "name": "CropsPP-1.7.13.jar",
                     "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.7.13/CropsPP-1.7.13.jar"
                 },
+                "1.7.14": {
+                    "name": "CropsPP-1.7.14.jar",
+                    "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.7.14/CropsPP-1.7.14.jar"
+                },
                 "1.7.2": {
                     "name": "CropsPP-1.7.2.jar",
                     "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.7.2/CropsPP-1.7.2.jar"
@@ -7926,6 +7934,10 @@
                 "1.7.9": {
                     "name": "CropsPP-1.7.9.jar",
                     "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.7.9/CropsPP-1.7.9.jar"
+                },
+                "1.8.0": {
+                    "name": "CropsPP-1.8.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.8.0/CropsPP-1.8.0.jar"
                 }
             }
         },
@@ -30647,7 +30659,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.11.0-GTNH",
+            "latest": "1.11.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -30762,6 +30774,10 @@
                 "1.11.0-GTNH": {
                     "name": "OpenComputers-1.11.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.0-GTNH/OpenComputers-1.11.0-GTNH.jar"
+                },
+                "1.11.1-GTNH": {
+                    "name": "OpenComputers-1.11.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.1-GTNH/OpenComputers-1.11.1-GTNH.jar"
                 },
                 "1.7.4.1": {
                     "name": "OpenComputers-MC1.7.10-1.7.4.1-universal.jar",
@@ -32243,7 +32259,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.1.1",
+            "latest": "2.1.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -32626,6 +32642,10 @@
                 "2.1.1": {
                     "name": "ServerUtilities-2.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.1/ServerUtilities-2.1.1.jar"
+                },
+                "2.1.2": {
+                    "name": "ServerUtilities-2.1.2.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.2/ServerUtilities-2.1.2.jar"
                 }
             }
         },
@@ -35279,7 +35299,7 @@
         },
         "ThaumicBases": {
             "id": "com.github.GTNewHorizons:ThaumicBases:<version>",
-            "latest": "1.7.7",
+            "latest": "1.8.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicBases",
             "versions": {
@@ -35410,6 +35430,14 @@
                 "1.7.7": {
                     "name": "Thaumic-Based-1.7.7.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.7.7/Thaumic-Based-1.7.7.jar"
+                },
+                "1.7.8": {
+                    "name": "Thaumic-Based-1.7.8.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.7.8/Thaumic-Based-1.7.8.jar"
+                },
+                "1.8.0": {
+                    "name": "Thaumic-Based-1.8.0.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.8.0/Thaumic-Based-1.8.0.jar"
                 }
             }
         },
@@ -39340,7 +39368,7 @@
         },
         "nei-custom-diagram": {
             "id": "com.github.GTNewHorizons:nei-custom-diagram:<version>",
-            "latest": "1.7.0",
+            "latest": "1.7.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/nei-custom-diagram",
             "versions": {
@@ -39515,6 +39543,10 @@
                 "1.7.0": {
                     "name": "NEICustomDiagram-1.7.0.jar",
                     "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.7.0/NEICustomDiagram-1.7.0.jar"
+                },
+                "1.7.1": {
+                    "name": "NEICustomDiagram-1.7.1.jar",
+                    "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.7.1/NEICustomDiagram-1.7.1.jar"
                 }
             }
         },
