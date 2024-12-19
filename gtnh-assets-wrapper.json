@@ -1922,7 +1922,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta26",
+            "latest": "1.0.0-beta27",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -2210,6 +2210,10 @@
                     "name": "angelica-1.0.0-beta26.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta26/angelica-1.0.0-beta26.jar"
                 },
+                "1.0.0-beta27": {
+                    "name": "angelica-1.0.0-beta27.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta27/angelica-1.0.0-beta27.jar"
+                },
                 "1.0.0-beta4": {
                     "name": "angelica-1.0.0-beta4.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta4/angelica-1.0.0-beta4.jar"
@@ -2386,7 +2390,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-502-GTNH",
+            "latest": "rv3-beta-503-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -3737,6 +3741,10 @@
                 "rv3-beta-502-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-502-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-502-GTNH/appliedenergistics2-rv3-beta-502-GTNH.jar"
+                },
+                "rv3-beta-503-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-503-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-503-GTNH/appliedenergistics2-rv3-beta-503-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -9562,7 +9570,7 @@
         },
         "EnhancedLootBags": {
             "id": "com.github.GTNewHorizons:EnhancedLootBags:<version>",
-            "latest": "1.1.1",
+            "latest": "1.2.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnhancedLootBags",
             "versions": {
@@ -9593,6 +9601,14 @@
                 "1.1.1": {
                     "name": "EnhancedLootBags-1.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.1.1/EnhancedLootBags-1.1.1.jar"
+                },
+                "1.1.2": {
+                    "name": "EnhancedLootBags-1.1.2.jar",
+                    "url": "https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.1.2/EnhancedLootBags-1.1.2.jar"
+                },
+                "1.2.0": {
+                    "name": "EnhancedLootBags-1.2.0.jar",
+                    "url": "https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.2.0/EnhancedLootBags-1.2.0.jar"
                 }
             }
         },
@@ -10154,10 +10170,14 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.9.19",
+            "latest": "4.10.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
+                "4.10.0": {
+                    "name": "Forestry-4.10.0.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.0/Forestry-4.10.0.jar"
+                },
                 "4.2.19.0": {
                     "name": "forestry_1.7.10-4.2.19.0.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.2.19.0/forestry_1.7.10-4.2.19.0.jar"
@@ -10454,6 +10474,10 @@
                     "name": "Forestry-4.9.2-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.2-pre/Forestry-4.9.2-pre.jar"
                 },
+                "4.9.20": {
+                    "name": "Forestry-4.9.20.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.20/Forestry-4.9.20.jar"
+                },
                 "4.9.3": {
                     "name": "Forestry-4.9.3.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar"
@@ -10706,7 +10730,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.10",
+            "latest": "5.09.51.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -16281,6 +16305,10 @@
                 "5.09.51.10": {
                     "name": "gregtech-5.09.51.10.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.10/gregtech-5.09.51.10.jar"
+                },
+                "5.09.51.11": {
+                    "name": "gregtech-5.09.51.11.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.11/gregtech-5.09.51.11.jar"
                 }
             }
         },
@@ -16414,7 +16442,7 @@
         },
         "GTNH-Intergalactic": {
             "id": "com.github.GTNewHorizons:GTNH-Intergalactic:<version>",
-            "latest": "1.5.1",
+            "latest": "1.5.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic",
             "versions": {
@@ -16805,6 +16833,10 @@
                 "1.5.1": {
                     "name": "gtnhintergalactic-1.5.1.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.1/gtnhintergalactic-1.5.1.jar"
+                },
+                "1.5.2": {
+                    "name": "gtnhintergalactic-1.5.2.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.2/gtnhintergalactic-1.5.2.jar"
                 }
             }
         },
@@ -38359,7 +38391,7 @@
         },
         "ae2stuff": {
             "id": "com.github.GTNewHorizons:ae2stuff:<version>",
-            "latest": "0.8.5-GTNH",
+            "latest": "0.9.0-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ae2stuff",
             "versions": {
@@ -38434,6 +38466,14 @@
                 "0.8.5-GTNH": {
                     "name": "ae2stuff-0.8.5-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.5-GTNH/ae2stuff-0.8.5-GTNH.jar"
+                },
+                "0.8.6-GTNH": {
+                    "name": "ae2stuff-0.8.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.6-GTNH/ae2stuff-0.8.6-GTNH.jar"
+                },
+                "0.9.0-GTNH": {
+                    "name": "ae2stuff-0.9.0-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.9.0-GTNH/ae2stuff-0.9.0-GTNH.jar"
                 }
             }
         },
