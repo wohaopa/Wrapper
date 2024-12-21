@@ -1,20 +1,628 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2024-12-19",
+            "latest": "2.8.0-nightly-2024-12-20",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
+                "2.1.2.3qf-test": {
+                    "name": "2.1.2.3qf-test.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.3qf-test/2.1.2.3qf-test.zip"
+                },
+                "2.1.2.4-10": {
+                    "name": "2.1.2.4-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-10/2.1.2.4-10.zip"
+                },
+                "2.1.2.4-11-dev": {
+                    "name": "2.1.2.4-11-dev.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-11-dev/2.1.2.4-11-dev.zip"
+                },
+                "2.1.2.4-12-pre": {
+                    "name": "2.1.2.4-12-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-12-pre/2.1.2.4-12-pre.zip"
+                },
+                "2.1.2.4-13-pre": {
+                    "name": "2.1.2.4-13-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-13-pre/2.1.2.4-13-pre.zip"
+                },
+                "2.1.2.4-14-pre": {
+                    "name": "2.1.2.4-14-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-14-pre/2.1.2.4-14-pre.zip"
+                },
+                "2.1.2.4-15-pre": {
+                    "name": "2.1.2.4-15-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-15-pre/2.1.2.4-15-pre.zip"
+                },
+                "2.1.2.4-16-pre": {
+                    "name": "2.1.2.4-16-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-16-pre/2.1.2.4-16-pre.zip"
+                },
+                "2.1.2.4-17-pre": {
+                    "name": "2.1.2.4-17-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-17-pre/2.1.2.4-17-pre.zip"
+                },
+                "2.1.2.4-18-pre": {
+                    "name": "2.1.2.4-18-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-18-pre/2.1.2.4-18-pre.zip"
+                },
+                "2.1.2.4-19-pre": {
+                    "name": "2.1.2.4-19-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-19-pre/2.1.2.4-19-pre.zip"
+                },
+                "2.1.2.4-20-pre": {
+                    "name": "2.1.2.4-20-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-20-pre/2.1.2.4-20-pre.zip"
+                },
+                "2.1.2.4-21-pre": {
+                    "name": "2.1.2.4-21-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-21-pre/2.1.2.4-21-pre.zip"
+                },
+                "2.1.2.4-22-pre": {
+                    "name": "2.1.2.4-22-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-22-pre/2.1.2.4-22-pre.zip"
+                },
+                "2.1.2.4-23-pre": {
+                    "name": "2.1.2.4-23-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-23-pre/2.1.2.4-23-pre.zip"
+                },
+                "2.1.2.4-24-pre": {
+                    "name": "2.1.2.4-24-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-24-pre/2.1.2.4-24-pre.zip"
+                },
+                "2.1.2.4-25-pre": {
+                    "name": "2.1.2.4-25-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-25-pre/2.1.2.4-25-pre.zip"
+                },
+                "2.1.2.4-26-pre": {
+                    "name": "2.1.2.4-26-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-26-pre/2.1.2.4-26-pre.zip"
+                },
+                "2.1.2.4-27-pre": {
+                    "name": "2.1.2.4-27-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-27-pre/2.1.2.4-27-pre.zip"
+                },
+                "2.1.2.4-28-pre": {
+                    "name": "2.1.2.4-28-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-28-pre/2.1.2.4-28-pre.zip"
+                },
+                "2.1.2.4-29-pre": {
+                    "name": "2.1.2.4-29-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-29-pre/2.1.2.4-29-pre.zip"
+                },
+                "2.1.2.4-6-zeta-dev": {
+                    "name": "2.1.2.4-6-zeta-dev.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-6-zeta-dev/2.1.2.4-6-zeta-dev.zip"
+                },
+                "2.1.2.4-7-dev": {
+                    "name": "2.1.2.4-7-dev.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-7-dev/2.1.2.4-7-dev.zip"
+                },
+                "2.1.2.4-8-dev": {
+                    "name": "2.1.2.4-8-dev.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-8-dev/2.1.2.4-8-dev.zip"
+                },
+                "2.1.2.4-9-dev": {
+                    "name": "2.1.2.4-9-dev.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.1.2.4-9-dev/2.1.2.4-9-dev.zip"
+                },
+                "2.2.0.0": {
+                    "name": "2.2.0.0.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.0.0/2.2.0.0.zip"
+                },
+                "2.2.0.0-RC-1": {
+                    "name": "2.2.0.0-RC-1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.0.0-RC-1/2.2.0.0-RC-1.zip"
+                },
+                "2.2.0.0-RC-2": {
+                    "name": "2.2.0.0-RC-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.0.0-RC-2/2.2.0.0-RC-2.zip"
+                },
+                "2.2.0.0-RC-3": {
+                    "name": "2.2.0.0-RC-3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.0.0-RC-3/2.2.0.0-RC-3.zip"
+                },
+                "2.2.0.0-RC-4": {
+                    "name": "2.2.0.0-RC-4.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.0.0-RC-4/2.2.0.0-RC-4.zip"
+                },
+                "2.2.0.1": {
+                    "name": "2.2.0.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.0.1/2.2.0.1.zip"
+                },
+                "2.2.1": {
+                    "name": "2.2.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.1/2.2.1.zip"
+                },
+                "2.2.10": {
+                    "name": "2.2.10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.10/2.2.10.zip"
+                },
+                "2.2.11-nightly": {
+                    "name": "2.2.11-nightly.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.11-nightly/2.2.11-nightly.zip"
+                },
+                "2.2.2": {
+                    "name": "2.2.2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.2/2.2.2.zip"
+                },
+                "2.2.3": {
+                    "name": "2.2.3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.3/2.2.3.zip"
+                },
+                "2.2.4": {
+                    "name": "2.2.4.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.4/2.2.4.zip"
+                },
+                "2.2.5": {
+                    "name": "2.2.5.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.5/2.2.5.zip"
+                },
+                "2.2.6": {
+                    "name": "2.2.6.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.6/2.2.6.zip"
+                },
+                "2.2.7": {
+                    "name": "2.2.7.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.7/2.2.7.zip"
+                },
+                "2.2.8": {
+                    "name": "2.2.8.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.8/2.2.8.zip"
+                },
+                "2.2.9": {
+                    "name": "2.2.9.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.2.9/2.2.9.zip"
+                },
+                "2.3.0": {
+                    "name": "2.3.0.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.0/2.3.0.zip"
+                },
+                "2.3.0-RC1": {
+                    "name": "2.3.0-RC1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.0-RC1/2.3.0-RC1.zip"
+                },
+                "2.3.0-RC2": {
+                    "name": "2.3.0-RC2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.0-RC2/2.3.0-RC2.zip"
+                },
+                "2.3.0-RC3": {
+                    "name": "2.3.0-RC3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.0-RC3/2.3.0-RC3.zip"
+                },
+                "2.3.0-RC4": {
+                    "name": "2.3.0-RC4.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.0-RC4/2.3.0-RC4.zip"
+                },
+                "2.3.1": {
+                    "name": "2.3.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.1/2.3.1.zip"
+                },
+                "2.3.2": {
+                    "name": "2.3.2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.2/2.3.2.zip"
+                },
+                "2.3.3": {
+                    "name": "2.3.3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.3/2.3.3.zip"
+                },
+                "2.3.4": {
+                    "name": "2.3.4.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.4/2.3.4.zip"
+                },
+                "2.3.4-nightly-2023-05-29": {
+                    "name": "2.3.4-nightly-2023-05-29.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.4-nightly-2023-05-29/2.3.4-nightly-2023-05-29.zip"
+                },
+                "2.3.4-nightly-2023-06-02": {
+                    "name": "2.3.4-nightly-2023-06-02.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.4-nightly-2023-06-02/2.3.4-nightly-2023-06-02.zip"
+                },
+                "2.3.4-nihghtly-2023-06-05": {
+                    "name": "2.3.4-nihghtly-2023-06-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.4-nihghtly-2023-06-05/2.3.4-nihghtly-2023-06-05.zip"
+                },
+                "2.3.5": {
+                    "name": "2.3.5.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.5/2.3.5.zip"
+                },
+                "2.3.5-nightly-2023-07-08": {
+                    "name": "2.3.5-nightly-2023-07-08.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.5-nightly-2023-07-08/2.3.5-nightly-2023-07-08.zip"
+                },
+                "2.3.5-nightly-2023-07-10": {
+                    "name": "2.3.5-nightly-2023-07-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.5-nightly-2023-07-10/2.3.5-nightly-2023-07-10.zip"
+                },
+                "2.3.5-nightly-2023-07-13": {
+                    "name": "2.3.5-nightly-2023-07-13.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.5-nightly-2023-07-13/2.3.5-nightly-2023-07-13.zip"
+                },
+                "2.3.5-nightly-2023-07-15": {
+                    "name": "2.3.5-nightly-2023-07-15.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.5-nightly-2023-07-15/2.3.5-nightly-2023-07-15.zip"
+                },
+                "2.3.5-nightly-2023-07-22": {
+                    "name": "2.3.5-nightly-2023-07-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.5-nightly-2023-07-22/2.3.5-nightly-2023-07-22.zip"
+                },
+                "2.3.6": {
+                    "name": "2.3.6.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.6/2.3.6.zip"
+                },
+                "2.3.6-nightly-2023-08-02": {
+                    "name": "2.3.6-nightly-2023-08-02.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.6-nightly-2023-08-02/2.3.6-nightly-2023-08-02.zip"
+                },
+                "2.3.6-nightly-2023-08-05": {
+                    "name": "2.3.6-nightly-2023-08-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.6-nightly-2023-08-05/2.3.6-nightly-2023-08-05.zip"
+                },
+                "2.3.7": {
+                    "name": "2.3.7.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.7/2.3.7.zip"
+                },
+                "2.3.7-nightly-2023-08-11": {
+                    "name": "2.3.7-nightly-2023-08-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.7-nightly-2023-08-11/2.3.7-nightly-2023-08-11.zip"
+                },
+                "2.3.7-nightly-2023-08-18": {
+                    "name": "2.3.7-nightly-2023-08-18.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.7-nightly-2023-08-18/2.3.7-nightly-2023-08-18.zip"
+                },
+                "2.3.8-nightly-2023-08-21": {
+                    "name": "2.3.8-nightly-2023-08-21.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.8-nightly-2023-08-21/2.3.8-nightly-2023-08-21.zip"
+                },
+                "2.3.8-nightly-2023-08-25": {
+                    "name": "2.3.8-nightly-2023-08-25.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.3.8-nightly-2023-08-25/2.3.8-nightly-2023-08-25.zip"
+                },
+                "2.4.0": {
+                    "name": "2.4.0.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.0/2.4.0.zip"
+                },
+                "2.4.0-RC1": {
+                    "name": "2.4.0-RC1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.0-RC1/2.4.0-RC1.zip"
+                },
+                "2.4.0-RC2": {
+                    "name": "2.4.0-RC2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.0-RC2/2.4.0-RC2.zip"
+                },
+                "2.4.1": {
+                    "name": "2.4.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.1/2.4.1.zip"
+                },
+                "2.4.1-nightly-2023-09-06": {
+                    "name": "2.4.1-nightly-2023-09-06.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.1-nightly-2023-09-06/2.4.1-nightly-2023-09-06.zip"
+                },
+                "2.4.1-nightly-2023-09-14": {
+                    "name": "2.4.1-nightly-2023-09-14.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.1-nightly-2023-09-14/2.4.1-nightly-2023-09-14.zip"
+                },
+                "2.4.1-nightly-2023-09-17": {
+                    "name": "2.4.1-nightly-2023-09-17.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.1-nightly-2023-09-17/2.4.1-nightly-2023-09-17.zip"
+                },
+                "2.4.1-nightly-2023-09-23": {
+                    "name": "2.4.1-nightly-2023-09-23.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.1-nightly-2023-09-23/2.4.1-nightly-2023-09-23.zip"
+                },
+                "2.4.2-nightly-2023-09-27": {
+                    "name": "2.4.2-nightly-2023-09-27.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-09-27/2.4.2-nightly-2023-09-27.zip"
+                },
+                "2.4.2-nightly-2023-10-05": {
+                    "name": "2.4.2-nightly-2023-10-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-05/2.4.2-nightly-2023-10-05.zip"
+                },
+                "2.4.2-nightly-2023-10-13": {
+                    "name": "2.4.2-nightly-2023-10-13.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-13/2.4.2-nightly-2023-10-13.zip"
+                },
+                "2.4.2-nightly-2023-10-14": {
+                    "name": "2.4.2-nightly-2023-10-14.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-14/2.4.2-nightly-2023-10-14.zip"
+                },
+                "2.4.2-nightly-2023-10-21": {
+                    "name": "2.4.2-nightly-2023-10-21.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-21/2.4.2-nightly-2023-10-21.zip"
+                },
+                "2.4.2-nightly-2023-10-22": {
+                    "name": "2.4.2-nightly-2023-10-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-22/2.4.2-nightly-2023-10-22.zip"
+                },
+                "2.4.2-nightly-2023-10-24": {
+                    "name": "2.4.2-nightly-2023-10-24.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-24/2.4.2-nightly-2023-10-24.zip"
+                },
+                "2.4.2-nightly-2023-10-28": {
+                    "name": "2.4.2-nightly-2023-10-28.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-28/2.4.2-nightly-2023-10-28.zip"
+                },
+                "2.4.2-nightly-2023-10-30": {
+                    "name": "2.4.2-nightly-2023-10-30.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-10-30/2.4.2-nightly-2023-10-30.zip"
+                },
+                "2.4.2-nightly-2023-11-10": {
+                    "name": "2.4.2-nightly-2023-11-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-11-10/2.4.2-nightly-2023-11-10.zip"
+                },
+                "2.4.2-nightly-2023-11-12": {
+                    "name": "2.4.2-nightly-2023-11-12.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-11-12/2.4.2-nightly-2023-11-12.zip"
+                },
+                "2.4.2-nightly-2023-11-16": {
+                    "name": "2.4.2-nightly-2023-11-16.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-11-16/2.4.2-nightly-2023-11-16.zip"
+                },
+                "2.4.2-nightly-2023-11-22": {
+                    "name": "2.4.2-nightly-2023-11-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-11-22/2.4.2-nightly-2023-11-22.zip"
+                },
+                "2.4.2-nightly-2023-11-30": {
+                    "name": "2.4.2-nightly-2023-11-30.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-11-30/2.4.2-nightly-2023-11-30.zip"
+                },
+                "2.4.2-nightly-2023-12-01": {
+                    "name": "2.4.2-nightly-2023-12-01.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-01/2.4.2-nightly-2023-12-01.zip"
+                },
+                "2.4.2-nightly-2023-12-03": {
+                    "name": "2.4.2-nightly-2023-12-03.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-03/2.4.2-nightly-2023-12-03.zip"
+                },
+                "2.4.2-nightly-2023-12-03-2": {
+                    "name": "2.4.2-nightly-2023-12-03-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-03-2/2.4.2-nightly-2023-12-03-2.zip"
+                },
+                "2.4.2-nightly-2023-12-04": {
+                    "name": "2.4.2-nightly-2023-12-04.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-04/2.4.2-nightly-2023-12-04.zip"
+                },
+                "2.4.2-nightly-2023-12-05": {
+                    "name": "2.4.2-nightly-2023-12-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-05/2.4.2-nightly-2023-12-05.zip"
+                },
+                "2.4.2-nightly-2023-12-07": {
+                    "name": "2.4.2-nightly-2023-12-07.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-07/2.4.2-nightly-2023-12-07.zip"
+                },
+                "2.4.2-nightly-2023-12-08": {
+                    "name": "2.4.2-nightly-2023-12-08.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.4.2-nightly-2023-12-08/2.4.2-nightly-2023-12-08.zip"
+                },
+                "2.5.0": {
+                    "name": "2.5.0.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.0/2.5.0.zip"
+                },
+                "2.5.0-RC1": {
+                    "name": "2.5.0-RC1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.0-RC1/2.5.0-RC1.zip"
+                },
+                "2.5.0-beta-1": {
+                    "name": "2.5.0-beta-1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.0-beta-1/2.5.0-beta-1.zip"
+                },
+                "2.5.0-nightly-2023-12-10": {
+                    "name": "2.5.0-nightly-2023-12-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.0-nightly-2023-12-10/2.5.0-nightly-2023-12-10.zip"
+                },
+                "2.5.0-nightly-2023-12-11": {
+                    "name": "2.5.0-nightly-2023-12-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.0-nightly-2023-12-11/2.5.0-nightly-2023-12-11.zip"
+                },
+                "2.5.0-nightly-2023-12-12": {
+                    "name": "2.5.0-nightly-2023-12-12.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.0-nightly-2023-12-12/2.5.0-nightly-2023-12-12.zip"
+                },
+                "2.5.1": {
+                    "name": "2.5.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.5.1/2.5.1.zip"
+                },
+                "2.6.0": {
+                    "name": "2.6.0.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0/2.6.0.zip"
+                },
+                "2.6.0-beta-1": {
+                    "name": "2.6.0-beta-1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-beta-1/2.6.0-beta-1.zip"
+                },
+                "2.6.0-beta-1-2": {
+                    "name": "2.6.0-beta-1-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-beta-1-2/2.6.0-beta-1-2.zip"
+                },
+                "2.6.0-beta-2": {
+                    "name": "2.6.0-beta-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-beta-2/2.6.0-beta-2.zip"
+                },
+                "2.6.0-beta-3": {
+                    "name": "2.6.0-beta-3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-beta-3/2.6.0-beta-3.zip"
+                },
+                "2.6.0-nightly-2023-12-18": {
+                    "name": "2.6.0-nightly-2023-12-18.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2023-12-18/2.6.0-nightly-2023-12-18.zip"
+                },
+                "2.6.0-nightly-2023-12-19": {
+                    "name": "2.6.0-nightly-2023-12-19.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2023-12-19/2.6.0-nightly-2023-12-19.zip"
+                },
+                "2.6.0-nightly-2023-12-20": {
+                    "name": "2.6.0-nightly-2023-12-20.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2023-12-20/2.6.0-nightly-2023-12-20.zip"
+                },
+                "2.6.0-nightly-2023-12-20-2": {
+                    "name": "2.6.0-nightly-2023-12-20-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2023-12-20-2/2.6.0-nightly-2023-12-20-2.zip"
+                },
+                "2.6.0-nightly-2023-12-31": {
+                    "name": "2.6.0-nightly-2023-12-31.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2023-12-31/2.6.0-nightly-2023-12-31.zip"
+                },
+                "2.6.0-nightly-2024-01-06": {
+                    "name": "2.6.0-nightly-2024-01-06.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-06/2.6.0-nightly-2024-01-06.zip"
+                },
+                "2.6.0-nightly-2024-01-13": {
+                    "name": "2.6.0-nightly-2024-01-13.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-13/2.6.0-nightly-2024-01-13.zip"
+                },
+                "2.6.0-nightly-2024-01-16": {
+                    "name": "2.6.0-nightly-2024-01-16.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-16/2.6.0-nightly-2024-01-16.zip"
+                },
+                "2.6.0-nightly-2024-01-20": {
+                    "name": "2.6.0-nightly-2024-01-20.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-20/2.6.0-nightly-2024-01-20.zip"
+                },
+                "2.6.0-nightly-2024-01-22": {
+                    "name": "2.6.0-nightly-2024-01-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-22/2.6.0-nightly-2024-01-22.zip"
+                },
+                "2.6.0-nightly-2024-01-23": {
+                    "name": "2.6.0-nightly-2024-01-23.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-23/2.6.0-nightly-2024-01-23.zip"
+                },
+                "2.6.0-nightly-2024-01-26": {
+                    "name": "2.6.0-nightly-2024-01-26.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-26/2.6.0-nightly-2024-01-26.zip"
+                },
+                "2.6.0-nightly-2024-01-29": {
+                    "name": "2.6.0-nightly-2024-01-29.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-01-29/2.6.0-nightly-2024-01-29.zip"
+                },
+                "2.6.0-nightly-2024-02-02": {
+                    "name": "2.6.0-nightly-2024-02-02.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-02/2.6.0-nightly-2024-02-02.zip"
+                },
+                "2.6.0-nightly-2024-02-10": {
+                    "name": "2.6.0-nightly-2024-02-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-10/2.6.0-nightly-2024-02-10.zip"
+                },
+                "2.6.0-nightly-2024-02-17": {
+                    "name": "2.6.0-nightly-2024-02-17.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-17/2.6.0-nightly-2024-02-17.zip"
+                },
+                "2.6.0-nightly-2024-02-17-2": {
+                    "name": "2.6.0-nightly-2024-02-17-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-17-2/2.6.0-nightly-2024-02-17-2.zip"
+                },
+                "2.6.0-nightly-2024-02-18": {
+                    "name": "2.6.0-nightly-2024-02-18.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-18/2.6.0-nightly-2024-02-18.zip"
+                },
+                "2.6.0-nightly-2024-02-25": {
+                    "name": "2.6.0-nightly-2024-02-25.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-25/2.6.0-nightly-2024-02-25.zip"
+                },
+                "2.6.0-nightly-2024-02-28": {
+                    "name": "2.6.0-nightly-2024-02-28.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-02-28/2.6.0-nightly-2024-02-28.zip"
+                },
+                "2.6.0-nightly-2024-03-01": {
+                    "name": "2.6.0-nightly-2024-03-01.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-01/2.6.0-nightly-2024-03-01.zip"
+                },
+                "2.6.0-nightly-2024-03-03": {
+                    "name": "2.6.0-nightly-2024-03-03.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-03/2.6.0-nightly-2024-03-03.zip"
+                },
+                "2.6.0-nightly-2024-03-03-2": {
+                    "name": "2.6.0-nightly-2024-03-03-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-03-2/2.6.0-nightly-2024-03-03-2.zip"
+                },
+                "2.6.0-nightly-2024-03-04": {
+                    "name": "2.6.0-nightly-2024-03-04.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-04/2.6.0-nightly-2024-03-04.zip"
+                },
+                "2.6.0-nightly-2024-03-08": {
+                    "name": "2.6.0-nightly-2024-03-08.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-08/2.6.0-nightly-2024-03-08.zip"
+                },
+                "2.6.0-nightly-2024-03-10": {
+                    "name": "2.6.0-nightly-2024-03-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-10/2.6.0-nightly-2024-03-10.zip"
+                },
+                "2.6.0-nightly-2024-03-11": {
+                    "name": "2.6.0-nightly-2024-03-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-11/2.6.0-nightly-2024-03-11.zip"
+                },
+                "2.6.0-nightly-2024-03-12": {
+                    "name": "2.6.0-nightly-2024-03-12.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-12/2.6.0-nightly-2024-03-12.zip"
+                },
+                "2.6.0-nightly-2024-03-15": {
+                    "name": "2.6.0-nightly-2024-03-15.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-15/2.6.0-nightly-2024-03-15.zip"
+                },
+                "2.6.0-nightly-2024-03-22": {
+                    "name": "2.6.0-nightly-2024-03-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-22/2.6.0-nightly-2024-03-22.zip"
+                },
+                "2.6.0-nightly-2024-03-24": {
+                    "name": "2.6.0-nightly-2024-03-24.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-24/2.6.0-nightly-2024-03-24.zip"
+                },
+                "2.6.0-nightly-2024-03-26": {
+                    "name": "2.6.0-nightly-2024-03-26.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-26/2.6.0-nightly-2024-03-26.zip"
+                },
+                "2.6.0-nightly-2024-03-31": {
+                    "name": "2.6.0-nightly-2024-03-31.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-03-31/2.6.0-nightly-2024-03-31.zip"
+                },
+                "2.6.0-nightly-2024-04-06": {
+                    "name": "2.6.0-nightly-2024-04-06.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-04-06/2.6.0-nightly-2024-04-06.zip"
+                },
+                "2.6.0-nightly-2024-04-12": {
+                    "name": "2.6.0-nightly-2024-04-12.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-04-12/2.6.0-nightly-2024-04-12.zip"
+                },
+                "2.6.0-nightly-2024-04-16": {
+                    "name": "2.6.0-nightly-2024-04-16.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-04-16/2.6.0-nightly-2024-04-16.zip"
+                },
+                "2.6.0-nightly-2024-04-24": {
+                    "name": "2.6.0-nightly-2024-04-24.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.0-nightly-2024-04-24/2.6.0-nightly-2024-04-24.zip"
+                },
+                "2.6.1": {
+                    "name": "2.6.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.6.1/2.6.1.zip"
+                },
                 "2.7.0": {
                     "name": "2.7.0.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0/2.7.0.zip"
                 },
+                "2.7.0-RC-1": {
+                    "name": "2.7.0-RC-1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-RC-1/2.7.0-RC-1.zip"
+                },
                 "2.7.0-RC-2": {
                     "name": "2.7.0-RC-2.zip",
-                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/untagged-1f71c7bd17f5082096fe/2.7.0-RC-2.zip"
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-RC-2/2.7.0-RC-2.zip"
                 },
                 "2.7.0-RC-3": {
                     "name": "2.7.0-RC-3.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-RC-3/2.7.0-RC-3.zip"
+                },
+                "2.7.0-beta-1": {
+                    "name": "2.7.0-beta-1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-beta-1/2.7.0-beta-1.zip"
+                },
+                "2.7.0-beta-2": {
+                    "name": "2.7.0-beta-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-beta-2/2.7.0-beta-2.zip"
+                },
+                "2.7.0-beta-3": {
+                    "name": "2.7.0-beta-3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-beta-3/2.7.0-beta-3.zip"
+                },
+                "2.7.0-beta-4": {
+                    "name": "2.7.0-beta-4.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-beta-4/2.7.0-beta-4.zip"
                 },
                 "2.7.0-nightlies-2024-09-19": {
                     "name": "2.7.0-nightlies-2024-09-19.zip",
@@ -492,6 +1100,10 @@
                     "name": "2.7.0-nightly-2024-12-07-2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.0-nightly-2024-12-07-2/2.7.0-nightly-2024-12-07-2.zip"
                 },
+                "2.7.1": {
+                    "name": "2.7.1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.7.1/2.7.1.zip"
+                },
                 "2.8.0-nightly-2024-12-09": {
                     "name": "2.8.0-nightly-2024-12-09.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2024-12-09/2.8.0-nightly-2024-12-09.zip"
@@ -511,6 +1123,10 @@
                 "2.8.0-nightly-2024-12-19": {
                     "name": "2.8.0-nightly-2024-12-19.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2024-12-19/2.8.0-nightly-2024-12-19.zip"
+                },
+                "2.8.0-nightly-2024-12-20": {
+                    "name": "2.8.0-nightly-2024-12-20.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2024-12-20/2.8.0-nightly-2024-12-20.zip"
                 }
             }
         }
@@ -3450,6 +4066,10 @@
                     "name": "appliedenergistics2-rv3-beta-408-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-408-GTNH/appliedenergistics2-rv3-beta-408-GTNH.jar"
                 },
+                "rv3-beta-408-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-408-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-408-GTNH-pre/appliedenergistics2-rv3-beta-408-GTNH-pre.jar"
+                },
                 "rv3-beta-409-GTNH-pre": {
                     "name": "appliedenergistics2-rv3-beta-409-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-409-GTNH-pre/appliedenergistics2-rv3-beta-409-GTNH-pre.jar"
@@ -3733,6 +4353,18 @@
                 "rv3-beta-479-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-479-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-479-GTNH/appliedenergistics2-rv3-beta-479-GTNH.jar"
+                },
+                "rv3-beta-480-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-480-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-480-GTNH/appliedenergistics2-rv3-beta-480-GTNH.jar"
+                },
+                "rv3-beta-481-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-481-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-481-GTNH/appliedenergistics2-rv3-beta-481-GTNH.jar"
+                },
+                "rv3-beta-482-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-482-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-482-GTNH/appliedenergistics2-rv3-beta-482-GTNH.jar"
                 },
                 "rv3-beta-500-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-500-GTNH.jar",
@@ -7491,7 +8123,7 @@
         },
         "Craft-Presence": {
             "id": "curseforge:craftpresence:<version>",
-            "latest": "2.5.1",
+            "latest": "2.5.2",
             "src": "curse",
             "url": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/",
             "versions": {
@@ -7602,6 +8234,10 @@
                 "2.5.1": {
                     "name": "CraftPresence-2.5.1+1.7.10-forge.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5798/312/CraftPresence-2.5.1%2B1.7.10-forge.jar"
+                },
+                "2.5.2": {
+                    "name": "CraftPresence-2.5.2%2B1.7.10-forge.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5947/728/CraftPresence-2.5.2%2B1.7.10-forge.jar"
                 }
             }
         },
@@ -10734,7 +11370,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.12",
+            "latest": "5.09.51.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -15910,9 +16546,21 @@
                     "name": "gregtech-5.09.50.108.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.108/gregtech-5.09.50.108.jar"
                 },
+                "5.09.50.109": {
+                    "name": "gregtech-5.09.50.109.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.109/gregtech-5.09.50.109.jar"
+                },
                 "5.09.50.11": {
                     "name": "gregtech-5.09.50.11.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.11/gregtech-5.09.50.11.jar"
+                },
+                "5.09.50.110": {
+                    "name": "gregtech-5.09.50.110.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.110/gregtech-5.09.50.110.jar"
+                },
+                "5.09.50.111": {
+                    "name": "gregtech-5.09.50.111.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.50.111/gregtech-5.09.50.111.jar"
                 },
                 "5.09.50.12": {
                     "name": "gregtech-5.09.50.12.jar",
@@ -16317,6 +16965,10 @@
                 "5.09.51.12": {
                     "name": "gregtech-5.09.51.12.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.12/gregtech-5.09.51.12.jar"
+                },
+                "5.09.51.13": {
+                    "name": "gregtech-5.09.51.13.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.13/gregtech-5.09.51.13.jar"
                 }
             }
         },
@@ -16786,10 +17438,6 @@
                     "name": "gtnhintergalactic-1.4.25.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.25/gtnhintergalactic-1.4.25.jar"
                 },
-                "1.4.26": {
-                    "name": "gtnhintergalactic-1.4.26.jar",
-                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.26/gtnhintergalactic-1.4.26.jar"
-                },
                 "1.4.27": {
                     "name": "gtnhintergalactic-1.4.27.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.27/gtnhintergalactic-1.4.27.jar"
@@ -16809,6 +17457,18 @@
                 "1.4.30": {
                     "name": "gtnhintergalactic-1.4.30.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.30/gtnhintergalactic-1.4.30.jar"
+                },
+                "1.4.31": {
+                    "name": "gtnhintergalactic-1.4.31.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.31/gtnhintergalactic-1.4.31.jar"
+                },
+                "1.4.32": {
+                    "name": "gtnhintergalactic-1.4.32.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.32/gtnhintergalactic-1.4.32.jar"
+                },
+                "1.4.33": {
+                    "name": "gtnhintergalactic-1.4.33.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.4.33/gtnhintergalactic-1.4.33.jar"
                 },
                 "1.4.4": {
                     "name": "gtnhintergalactic-1.4.4.jar",
@@ -17234,7 +17894,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.5.23",
+            "latest": "0.6.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -17509,6 +18169,10 @@
                 "0.5.9": {
                     "name": "gtnhlib-0.5.9.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.9/gtnhlib-0.5.9.jar"
+                },
+                "0.6.0": {
+                    "name": "gtnhlib-0.6.0.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.0/gtnhlib-0.6.0.jar"
                 }
             }
         },
@@ -21327,7 +21991,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.3",
+            "latest": "2.6.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -22523,6 +23187,18 @@
                     "name": "hodgepodge-2.5.83.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.83/hodgepodge-2.5.83.jar"
                 },
+                "2.5.84": {
+                    "name": "hodgepodge-2.5.84.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.84/hodgepodge-2.5.84.jar"
+                },
+                "2.5.85": {
+                    "name": "hodgepodge-2.5.85.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.85/hodgepodge-2.5.85.jar"
+                },
+                "2.5.86": {
+                    "name": "hodgepodge-2.5.86.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.86/hodgepodge-2.5.86.jar"
+                },
                 "2.5.9-pre": {
                     "name": "hodgepodge-2.5.9-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.9-pre/hodgepodge-2.5.9-pre.jar"
@@ -22542,6 +23218,10 @@
                 "2.6.3": {
                     "name": "hodgepodge-2.6.3.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.3/hodgepodge-2.6.3.jar"
+                },
+                "2.6.4": {
+                    "name": "hodgepodge-2.6.4.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.4/hodgepodge-2.6.4.jar"
                 }
             }
         },
@@ -25467,18 +26147,6 @@
                     "name": "mobsinfo-0.3.3-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.3.3-GTNH/mobsinfo-0.3.3-GTNH.jar"
                 },
-                "0.3.4-GTNH-pre": {
-                    "name": "mobsinfo-0.3.4-GTNH-pre.jar",
-                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.3.4-GTNH-pre/mobsinfo-0.3.4-GTNH-pre.jar"
-                },
-                "0.3.5-GTNH-pre": {
-                    "name": "mobsinfo-0.3.5-GTNH-pre.jar",
-                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.3.5-GTNH-pre/mobsinfo-0.3.5-GTNH-pre.jar"
-                },
-                "0.3.6-GTNH-pre": {
-                    "name": "mobsinfo-0.3.6-GTNH-pre.jar",
-                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.3.6-GTNH-pre/mobsinfo-0.3.6-GTNH-pre.jar"
-                },
                 "0.4.0-GTNH": {
                     "name": "mobsinfo-0.4.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.4.0-GTNH/mobsinfo-0.4.0-GTNH.jar"
@@ -25490,14 +26158,6 @@
                 "0.4.2-GTNH": {
                     "name": "mobsinfo-0.4.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.4.2-GTNH/mobsinfo-0.4.2-GTNH.jar"
-                },
-                "0.4.3-GTNH-pre": {
-                    "name": "mobsinfo-0.4.3-GTNH-pre.jar",
-                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.4.3-GTNH-pre/mobsinfo-0.4.3-GTNH-pre.jar"
-                },
-                "0.4.4-GTNH-pre": {
-                    "name": "mobsinfo-0.4.4-GTNH-pre.jar",
-                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.4.4-GTNH-pre/mobsinfo-0.4.4-GTNH-pre.jar"
                 },
                 "0.4.5-GTNH": {
                     "name": "mobsinfo-0.4.5-GTNH.jar",
@@ -26851,7 +27511,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.4",
+            "latest": "2.7.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -29107,10 +29767,6 @@
                     "name": "GTNewHorizonsCoreMod-2.6.78.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.78/GTNewHorizonsCoreMod-2.6.78.jar"
                 },
-                "2.6.79": {
-                    "name": "GTNewHorizonsCoreMod-2.6.79.jar",
-                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/untagged-da1f94b26b609a6f70cc/GTNewHorizonsCoreMod-2.6.79.jar"
-                },
                 "2.6.8": {
                     "name": "GTNewHorizonsCoreMod-2.6.8.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.8/GTNewHorizonsCoreMod-2.6.8.jar"
@@ -29151,9 +29807,21 @@
                     "name": "GTNewHorizonsCoreMod-2.6.88.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.88/GTNewHorizonsCoreMod-2.6.88.jar"
                 },
+                "2.6.89": {
+                    "name": "GTNewHorizonsCoreMod-2.6.89.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.89/GTNewHorizonsCoreMod-2.6.89.jar"
+                },
                 "2.6.9": {
                     "name": "GTNewHorizonsCoreMod-2.6.9.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.9/GTNewHorizonsCoreMod-2.6.9.jar"
+                },
+                "2.6.90": {
+                    "name": "GTNewHorizonsCoreMod-2.6.90.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.90/GTNewHorizonsCoreMod-2.6.90.jar"
+                },
+                "2.6.91": {
+                    "name": "GTNewHorizonsCoreMod-2.6.91.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.6.91/GTNewHorizonsCoreMod-2.6.91.jar"
                 },
                 "2.7.0": {
                     "name": "GTNewHorizonsCoreMod-2.7.0.jar",
@@ -29174,6 +29842,10 @@
                 "2.7.4": {
                     "name": "GTNewHorizonsCoreMod-2.7.4.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.4/GTNewHorizonsCoreMod-2.7.4.jar"
+                },
+                "2.7.5": {
+                    "name": "GTNewHorizonsCoreMod-2.7.5.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.5/GTNewHorizonsCoreMod-2.7.5.jar"
                 }
             }
         },
@@ -30469,15 +31141,15 @@
                 },
                 "v2.0.0": {
                     "name": "NotEnoughItems-1.7.10-2.0.0-GTNH-universal.jar",
-                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/v2.0.0/NotEnoughItems-1.7.10-2.0.0-GTNH-universal.jar"
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/untagged-40a0c9b34d974bbabcee/NotEnoughItems-1.7.10-2.0.0-GTNH-universal.jar"
                 },
                 "v2.0.1": {
                     "name": "NotEnoughItems-1.7.10-2.0.1-GTNH-universal.jar",
-                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/v2.0.1/NotEnoughItems-1.7.10-2.0.1-GTNH-universal.jar"
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/untagged-e8b342da3c1adae9b303/NotEnoughItems-1.7.10-2.0.1-GTNH-universal.jar"
                 },
                 "v2.0.6": {
                     "name": "NotEnoughItems-1.7.10-2.0.6-GTNH-universal.jar",
-                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/v2.0.6/NotEnoughItems-1.7.10-2.0.6-GTNH-universal.jar"
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/untagged-5a8816ad61bc9435dc5a/NotEnoughItems-1.7.10-2.0.6-GTNH-universal.jar"
                 }
             }
         },
@@ -30874,6 +31546,10 @@
                 "1.10.27-GTNH": {
                     "name": "OpenComputers-1.10.27-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.10.27-GTNH/OpenComputers-1.10.27-GTNH.jar"
+                },
+                "1.10.28-GTNH": {
+                    "name": "OpenComputers-1.10.28-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.10.28-GTNH/OpenComputers-1.10.28-GTNH.jar"
                 },
                 "1.10.3-GTNH": {
                     "name": "OpenComputers-1.10.3-GTNH.jar",
@@ -31287,7 +31963,7 @@
         },
         "Opis": {
             "id": "com.github.GTNewHorizons:Opis:<version>",
-            "latest": "1.4.4-mapless",
+            "latest": "1.4.5-mapless",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Opis",
             "versions": {
@@ -31342,6 +32018,10 @@
                 "1.4.4-mapless": {
                     "name": "Opis-1.4.4-mapless.jar",
                     "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.4-mapless/Opis-1.4.4-mapless.jar"
+                },
+                "1.4.5-mapless": {
+                    "name": "Opis-1.4.5-mapless.jar",
+                    "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.5-mapless/Opis-1.4.5-mapless.jar"
                 }
             }
         },
@@ -32763,6 +33443,18 @@
                     "name": "ServerUtilities-2.0.9.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.9/ServerUtilities-2.0.9.jar"
                 },
+                "2.0.90": {
+                    "name": "ServerUtilities-2.0.90.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.90/ServerUtilities-2.0.90.jar"
+                },
+                "2.0.91": {
+                    "name": "ServerUtilities-2.0.91.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.91/ServerUtilities-2.0.91.jar"
+                },
+                "2.0.92": {
+                    "name": "ServerUtilities-2.0.92.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.0.92/ServerUtilities-2.0.92.jar"
+                },
                 "2.1.0": {
                     "name": "ServerUtilities-2.1.0.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.0/ServerUtilities-2.1.0.jar"
@@ -33895,7 +34587,7 @@
         },
         "TC-4-Tweaks": {
             "id": "curseforge:tc4tweaks:<version>",
-            "latest": "1.5.24",
+            "latest": "1.5.26-beta1",
             "src": "curse",
             "url": "https://www.curseforge.com/minecraft/mc-mods/tc4tweaks",
             "versions": {
@@ -33986,6 +34678,14 @@
                 "1.5.24": {
                     "name": "Thaumcraft4Tweaks-1.5.24.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5383/323/Thaumcraft4Tweaks-1.5.24.jar"
+                },
+                "1.5.25": {
+                    "name": "Thaumcraft4Tweaks-1.5.25.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5999/126/Thaumcraft4Tweaks-1.5.25.jar"
+                },
+                "1.5.26-beta1": {
+                    "name": "Thaumcraft4Tweaks-1.5.26-beta.1.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5999/138/Thaumcraft4Tweaks-1.5.26-beta.1.jar"
                 },
                 "1.5.3": {
                     "name": "Thaumcraft4Tweaks-1.5.3.jar",
@@ -37211,7 +37911,7 @@
         },
         "UniLib": {
             "id": "other:UniLib:<version>",
-            "latest": "1.0.3",
+            "latest": "1.0.4",
             "src": "other",
             "url": "https://legacy.curseforge.com/minecraft/mc-mods/unilib",
             "versions": {
@@ -37226,6 +37926,10 @@
                 "1.0.3": {
                     "name": "UniLib-1.0.3+1.7.10-forge.jar",
                     "url": "https://mediafilez.forgecdn.net/files/5797/900/UniLib-1.0.3%2B1.7.10-forge.jar"
+                },
+                "1.0.4": {
+                    "name": "UniLib-1.0.4%2B1.7.10-forge.jar",
+                    "url": "https://mediafilez.forgecdn.net/files/5947/622/UniLib-1.0.4%2B1.7.10-forge.jar"
                 }
             }
         },
@@ -37678,6 +38382,10 @@
                 "0.5.1": {
                     "name": "WAILAPlugins-0.5.1.jar",
                     "url": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.5.1/WAILAPlugins-0.5.1.jar"
+                },
+                "0.5.2": {
+                    "name": "WAILAPlugins-0.5.2.jar",
+                    "url": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.5.2/WAILAPlugins-0.5.2.jar"
                 },
                 "0.6.0": {
                     "name": "WAILAPlugins-0.6.0.jar",
@@ -40247,6 +40955,14 @@
                 "2.6.35": {
                     "name": "TwilightForest-2.6.35.jar",
                     "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.6.35/TwilightForest-2.6.35.jar"
+                },
+                "2.6.36": {
+                    "name": "TwilightForest-2.6.36.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.6.36/TwilightForest-2.6.36.jar"
+                },
+                "2.6.37": {
+                    "name": "TwilightForest-2.6.37.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.6.37/TwilightForest-2.6.37.jar"
                 },
                 "2.6.4-pre": {
                     "name": "TwilightForest-2.6.4-pre.jar",
