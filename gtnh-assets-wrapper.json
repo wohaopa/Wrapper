@@ -11426,7 +11426,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.19-pre",
+            "latest": "5.09.51.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -17049,6 +17049,10 @@
                 "5.09.51.19-pre": {
                     "name": "gregtech-5.09.51.19-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.19-pre/gregtech-5.09.51.19-pre.jar"
+                },
+                "5.09.51.20": {
+                    "name": "gregtech-5.09.51.20.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.20/gregtech-5.09.51.20.jar"
                 }
             }
         },
@@ -17182,7 +17186,7 @@
         },
         "GTNH-Intergalactic": {
             "id": "com.github.GTNewHorizons:GTNH-Intergalactic:<version>",
-            "latest": "1.5.3-pre",
+            "latest": "1.5.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic",
             "versions": {
@@ -17589,6 +17593,10 @@
                 "1.5.3-pre": {
                     "name": "gtnhintergalactic-1.5.3-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.3-pre/gtnhintergalactic-1.5.3-pre.jar"
+                },
+                "1.5.4": {
+                    "name": "gtnhintergalactic-1.5.4.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.4/gtnhintergalactic-1.5.4.jar"
                 }
             }
         },
@@ -20614,7 +20622,7 @@
         },
         "Galaxy-Space-GTNH": {
             "id": "com.github.GTNewHorizons:Galaxy-Space-GTNH:<version>",
-            "latest": "1.1.100-GTNH",
+            "latest": "1.1.101-GTNH-pre",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH",
@@ -20622,6 +20630,10 @@
                 "1.1.100-GTNH": {
                     "name": "GalaxySpace-1.1.100-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.100-GTNH/GalaxySpace-1.1.100-GTNH.jar"
+                },
+                "1.1.101-GTNH-pre": {
+                    "name": "GalaxySpace-1.1.101-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.101-GTNH-pre/GalaxySpace-1.1.101-GTNH-pre.jar"
                 },
                 "1.1.16c-GTNH": {
                     "name": "GalaxySpace-1.7.10-1.1.16c-GTNH.jar",
@@ -22083,7 +22095,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.5-pre",
+            "latest": "2.6.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -23318,6 +23330,10 @@
                 "2.6.5-pre": {
                     "name": "hodgepodge-2.6.5-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.5-pre/hodgepodge-2.6.5-pre.jar"
+                },
+                "2.6.6": {
+                    "name": "hodgepodge-2.6.6.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.6/hodgepodge-2.6.6.jar"
                 }
             }
         },
@@ -27615,7 +27631,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.7-pre",
+            "latest": "2.7.9-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -29958,6 +29974,14 @@
                 "2.7.7-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.7-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.7-pre/GTNewHorizonsCoreMod-2.7.7-pre.jar"
+                },
+                "2.7.8": {
+                    "name": "GTNewHorizonsCoreMod-2.7.8.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.8/GTNewHorizonsCoreMod-2.7.8.jar"
+                },
+                "2.7.9-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.9-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.9-pre/GTNewHorizonsCoreMod-2.7.9-pre.jar"
                 }
             }
         },
@@ -30263,7 +30287,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.7.1-GTNH-pre",
+            "latest": "2.7.3-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -31254,6 +31278,14 @@
                 "2.7.1-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.1-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.1-GTNH-pre/NotEnoughItems-2.7.1-GTNH-pre.jar"
+                },
+                "2.7.2-GTNH": {
+                    "name": "NotEnoughItems-2.7.2-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.2-GTNH/NotEnoughItems-2.7.2-GTNH.jar"
+                },
+                "2.7.3-GTNH-pre": {
+                    "name": "NotEnoughItems-2.7.3-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.3-GTNH-pre/NotEnoughItems-2.7.3-GTNH-pre.jar"
                 },
                 "v2.0.0": {
                     "name": "NotEnoughItems-1.7.10-2.0.0-GTNH-universal.jar",
