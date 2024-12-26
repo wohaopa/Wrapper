@@ -11458,7 +11458,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.28-pre",
+            "latest": "5.09.51.30-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -17109,6 +17109,14 @@
                 "5.09.51.28-pre": {
                     "name": "gregtech-5.09.51.28-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.28-pre/gregtech-5.09.51.28-pre.jar"
+                },
+                "5.09.51.29": {
+                    "name": "gregtech-5.09.51.29.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.29/gregtech-5.09.51.29.jar"
+                },
+                "5.09.51.30-pre": {
+                    "name": "gregtech-5.09.51.30-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.30-pre/gregtech-5.09.51.30-pre.jar"
                 }
             }
         },
@@ -22171,7 +22179,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.6",
+            "latest": "2.6.7-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -23410,6 +23418,10 @@
                 "2.6.6": {
                     "name": "hodgepodge-2.6.6.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.6/hodgepodge-2.6.6.jar"
+                },
+                "2.6.7-pre": {
+                    "name": "hodgepodge-2.6.7-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.7-pre/hodgepodge-2.6.7-pre.jar"
                 }
             }
         },
@@ -27711,7 +27723,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.15-pre",
+            "latest": "2.7.17-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -30054,6 +30066,14 @@
                 "2.7.15-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.15-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.15-pre/GTNewHorizonsCoreMod-2.7.15-pre.jar"
+                },
+                "2.7.16": {
+                    "name": "GTNewHorizonsCoreMod-2.7.16.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.16/GTNewHorizonsCoreMod-2.7.16.jar"
+                },
+                "2.7.17-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.17-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.17-pre/GTNewHorizonsCoreMod-2.7.17-pre.jar"
                 },
                 "2.7.2": {
                     "name": "GTNewHorizonsCoreMod-2.7.2.jar",
@@ -39195,7 +39215,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.5.20-GTNH-pre",
+            "latest": "1.5.21-GTNH.pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -39378,6 +39398,10 @@
                 "1.5.20-GTNH-pre": {
                     "name": "WitchingGadgets-1.5.20-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.5.20-GTNH-pre/WitchingGadgets-1.5.20-GTNH-pre.jar"
+                },
+                "1.5.21-GTNH.pre": {
+                    "name": "WitchingGadgets-1.5.21-GTNH.pre.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.5.21-GTNH.pre/WitchingGadgets-1.5.21-GTNH.pre.jar"
                 },
                 "1.5.3-GTNH-pre": {
                     "name": "WitchingGadgets-1.5.3-GTNH-pre.jar",
