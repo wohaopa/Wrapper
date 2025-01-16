@@ -11950,7 +11950,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.70",
+            "latest": "5.09.51.72",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -17781,6 +17781,14 @@
                 "5.09.51.70": {
                     "name": "gregtech-5.09.51.70.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.70/gregtech-5.09.51.70.jar"
+                },
+                "5.09.51.71": {
+                    "name": "gregtech-5.09.51.71.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.71/gregtech-5.09.51.71.jar"
+                },
+                "5.09.51.72": {
+                    "name": "gregtech-5.09.51.72.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.72/gregtech-5.09.51.72.jar"
                 }
             }
         },
@@ -17914,7 +17922,7 @@
         },
         "GTNH-Intergalactic": {
             "id": "com.github.GTNewHorizons:GTNH-Intergalactic:<version>",
-            "latest": "1.5.21",
+            "latest": "1.5.22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic",
             "versions": {
@@ -18365,6 +18373,10 @@
                 "1.5.21": {
                     "name": "gtnhintergalactic-1.5.21.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.21/gtnhintergalactic-1.5.21.jar"
+                },
+                "1.5.22": {
+                    "name": "gtnhintergalactic-1.5.22.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.22/gtnhintergalactic-1.5.22.jar"
                 },
                 "1.5.3-pre": {
                     "name": "gtnhintergalactic-1.5.3-pre.jar",
@@ -22967,7 +22979,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.14-pre",
+            "latest": "2.6.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -24219,6 +24231,10 @@
                     "name": "hodgepodge-2.6.14-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.14-pre/hodgepodge-2.6.14-pre.jar"
                 },
+                "2.6.15": {
+                    "name": "hodgepodge-2.6.15.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.15/hodgepodge-2.6.15.jar"
+                },
                 "2.6.2": {
                     "name": "hodgepodge-2.6.2.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.2/hodgepodge-2.6.2.jar"
@@ -24975,7 +24991,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.2.13-GTNH",
+            "latest": "1.2.14-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -25022,6 +25038,10 @@
                 "1.2.13-GTNH": {
                     "name": "bogosorter-1.2.13-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.13-GTNH/bogosorter-1.2.13-GTNH.jar"
+                },
+                "1.2.14-GTNH": {
+                    "name": "bogosorter-1.2.14-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.14-GTNH/bogosorter-1.2.14-GTNH.jar"
                 },
                 "1.2.2-GTNH": {
                     "name": "bogosorter-1.2.2-GTNH.jar",
@@ -28731,7 +28751,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.50",
+            "latest": "2.7.52",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -31242,6 +31262,14 @@
                 "2.7.50": {
                     "name": "GTNewHorizonsCoreMod-2.7.50.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.50/GTNewHorizonsCoreMod-2.7.50.jar"
+                },
+                "2.7.51": {
+                    "name": "GTNewHorizonsCoreMod-2.7.51.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.51/GTNewHorizonsCoreMod-2.7.51.jar"
+                },
+                "2.7.52": {
+                    "name": "GTNewHorizonsCoreMod-2.7.52.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.52/GTNewHorizonsCoreMod-2.7.52.jar"
                 },
                 "2.7.6": {
                     "name": "GTNewHorizonsCoreMod-2.7.6.jar",
@@ -34631,7 +34659,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.1.13-pre",
+            "latest": "2.1.14-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -35042,6 +35070,10 @@
                 "2.1.13-pre": {
                     "name": "ServerUtilities-2.1.13-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.13-pre/ServerUtilities-2.1.13-pre.jar"
+                },
+                "2.1.14-pre": {
+                    "name": "ServerUtilities-2.1.14-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.14-pre/ServerUtilities-2.1.14-pre.jar"
                 },
                 "2.1.2": {
                     "name": "ServerUtilities-2.1.2.jar",
