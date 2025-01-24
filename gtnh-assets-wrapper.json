@@ -9470,7 +9470,7 @@
         },
         "Draconic-Evolution": {
             "id": "com.github.GTNewHorizons:Draconic-Evolution:<version>",
-            "latest": "1.4.4-GTNH-pre",
+            "latest": "1.4.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Draconic-Evolution",
             "versions": {
@@ -9649,6 +9649,10 @@
                 "1.4.4-GTNH-pre": {
                     "name": "Draconic-Evolution-1.4.4-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.4.4-GTNH-pre/Draconic-Evolution-1.4.4-GTNH-pre.jar"
+                },
+                "1.4.5-GTNH": {
+                    "name": "Draconic-Evolution-1.4.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.4.5-GTNH/Draconic-Evolution-1.4.5-GTNH.jar"
                 }
             }
         },
@@ -12118,7 +12122,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.90-pre",
+            "latest": "5.09.51.92-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18025,6 +18029,14 @@
                 "5.09.51.90-pre": {
                     "name": "gregtech-5.09.51.90-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.90-pre/gregtech-5.09.51.90-pre.jar"
+                },
+                "5.09.51.91": {
+                    "name": "gregtech-5.09.51.91.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.91/gregtech-5.09.51.91.jar"
+                },
+                "5.09.51.92-pre": {
+                    "name": "gregtech-5.09.51.92-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.92-pre/gregtech-5.09.51.92-pre.jar"
                 }
             }
         },
@@ -18158,7 +18170,7 @@
         },
         "GTNH-Intergalactic": {
             "id": "com.github.GTNewHorizons:GTNH-Intergalactic:<version>",
-            "latest": "1.5.27",
+            "latest": "1.5.28",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic",
             "versions": {
@@ -18633,6 +18645,10 @@
                 "1.5.27": {
                     "name": "gtnhintergalactic-1.5.27.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.27/gtnhintergalactic-1.5.27.jar"
+                },
+                "1.5.28": {
+                    "name": "gtnhintergalactic-1.5.28.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-Intergalactic/releases/download/1.5.28/gtnhintergalactic-1.5.28.jar"
                 },
                 "1.5.3-pre": {
                     "name": "gtnhintergalactic-1.5.3-pre.jar",
@@ -23251,7 +23267,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.19-pre",
+            "latest": "2.6.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -24526,6 +24542,10 @@
                 "2.6.2": {
                     "name": "hodgepodge-2.6.2.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.2/hodgepodge-2.6.2.jar"
+                },
+                "2.6.20": {
+                    "name": "hodgepodge-2.6.20.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.20/hodgepodge-2.6.20.jar"
                 },
                 "2.6.3": {
                     "name": "hodgepodge-2.6.3.jar",
@@ -27299,7 +27319,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.0.18-GTNH",
+            "latest": "0.0.19-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -27322,6 +27342,10 @@
                 "0.0.18-GTNH": {
                     "name": "matter-manipulator-0.0.18-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.18-GTNH/matter-manipulator-0.0.18-GTNH.jar"
+                },
+                "0.0.19-GTNH": {
+                    "name": "matter-manipulator-0.0.19-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.19-GTNH/matter-manipulator-0.0.19-GTNH.jar"
                 }
             }
         },
@@ -29079,7 +29103,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.69-pre",
+            "latest": "2.7.71-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -31678,6 +31702,14 @@
                 "2.7.7-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.7-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.7-pre/GTNewHorizonsCoreMod-2.7.7-pre.jar"
+                },
+                "2.7.70": {
+                    "name": "GTNewHorizonsCoreMod-2.7.70.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.70/GTNewHorizonsCoreMod-2.7.70.jar"
+                },
+                "2.7.71-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.71-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.71-pre/GTNewHorizonsCoreMod-2.7.71-pre.jar"
                 },
                 "2.7.8": {
                     "name": "GTNewHorizonsCoreMod-2.7.8.jar",
