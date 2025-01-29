@@ -19170,7 +19170,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.6.6",
+            "latest": "0.6.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -19473,6 +19473,14 @@
                 "0.6.6": {
                     "name": "gtnhlib-0.6.6.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.6/gtnhlib-0.6.6.jar"
+                },
+                "0.6.7": {
+                    "name": "gtnhlib-0.6.7.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.7/gtnhlib-0.6.7.jar"
+                },
+                "0.6.8": {
+                    "name": "gtnhlib-0.6.8.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.8/gtnhlib-0.6.8.jar"
                 }
             }
         },
@@ -29239,7 +29247,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.80-pre",
+            "latest": "2.7.84-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -31886,6 +31894,22 @@
                 "2.7.80-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.80-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.80-pre/GTNewHorizonsCoreMod-2.7.80-pre.jar"
+                },
+                "2.7.81-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.81-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.81-pre/GTNewHorizonsCoreMod-2.7.81-pre.jar"
+                },
+                "2.7.82-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.82-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.82-pre/GTNewHorizonsCoreMod-2.7.82-pre.jar"
+                },
+                "2.7.83": {
+                    "name": "GTNewHorizonsCoreMod-2.7.83.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.83/GTNewHorizonsCoreMod-2.7.83.jar"
+                },
+                "2.7.84-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.84-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.84-pre/GTNewHorizonsCoreMod-2.7.84-pre.jar"
                 },
                 "2.7.9-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.9-pre.jar",
