@@ -3310,7 +3310,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-534-GTNH",
+            "latest": "rv3-beta-535-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -4817,6 +4817,10 @@
                 "rv3-beta-534-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-534-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-534-GTNH/appliedenergistics2-rv3-beta-534-GTNH.jar"
+                },
+                "rv3-beta-535-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-535-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-535-GTNH/appliedenergistics2-rv3-beta-535-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -10326,7 +10330,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.9.2",
+            "latest": "2.9.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -10849,6 +10853,10 @@
                 "2.9.2": {
                     "name": "EnderIO-2.9.2.jar",
                     "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.2/EnderIO-2.9.2.jar"
+                },
+                "2.9.3": {
+                    "name": "EnderIO-2.9.3.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.3/EnderIO-2.9.3.jar"
                 }
             }
         },
