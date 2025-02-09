@@ -7082,7 +7082,7 @@
         },
         "BloodArsenal": {
             "id": "com.github.GTNewHorizons:BloodArsenal:<version>",
-            "latest": "1.4.1",
+            "latest": "1.4.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodArsenal",
             "versions": {
@@ -7149,6 +7149,10 @@
                 "1.4.1": {
                     "name": "BloodArsenal-1.4.1.jar",
                     "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.1/BloodArsenal-1.4.1.jar"
+                },
+                "1.4.2": {
+                    "name": "BloodArsenal-1.4.2.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.2/BloodArsenal-1.4.2.jar"
                 }
             }
         },
@@ -12242,7 +12246,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.120-pre",
+            "latest": "5.09.51.123-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -17934,6 +17938,18 @@
                     "name": "gregtech-5.09.51.120-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.120-pre/gregtech-5.09.51.120-pre.jar"
                 },
+                "5.09.51.121": {
+                    "name": "gregtech-5.09.51.121.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.121/gregtech-5.09.51.121.jar"
+                },
+                "5.09.51.122-pre": {
+                    "name": "gregtech-5.09.51.122-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.122-pre/gregtech-5.09.51.122-pre.jar"
+                },
+                "5.09.51.123-pre": {
+                    "name": "gregtech-5.09.51.123-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.123-pre/gregtech-5.09.51.123-pre.jar"
+                },
                 "5.09.51.13": {
                     "name": "gregtech-5.09.51.13.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.13/gregtech-5.09.51.13.jar"
@@ -23539,7 +23555,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.23",
+            "latest": "2.6.24",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -24830,6 +24846,10 @@
                 "2.6.23": {
                     "name": "hodgepodge-2.6.23.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.23/hodgepodge-2.6.23.jar"
+                },
+                "2.6.24": {
+                    "name": "hodgepodge-2.6.24.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.24/hodgepodge-2.6.24.jar"
                 },
                 "2.6.3": {
                     "name": "hodgepodge-2.6.3.jar",
@@ -29431,7 +29451,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.91-pre",
+            "latest": "2.7.93-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32126,6 +32146,14 @@
                 "2.7.91-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.91-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.91-pre/GTNewHorizonsCoreMod-2.7.91-pre.jar"
+                },
+                "2.7.92": {
+                    "name": "GTNewHorizonsCoreMod-2.7.92.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.92/GTNewHorizonsCoreMod-2.7.92.jar"
+                },
+                "2.7.93-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.93-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.93-pre/GTNewHorizonsCoreMod-2.7.93-pre.jar"
                 }
             }
         },
@@ -35287,7 +35315,7 @@
         },
         "RemoteIO": {
             "id": "com.github.GTNewHorizons:RemoteIO:<version>",
-            "latest": "2.7.1",
+            "latest": "2.7.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RemoteIO",
             "versions": {
@@ -35354,6 +35382,14 @@
                 "2.7.1": {
                     "name": "RemoteIO-2.7.1.jar",
                     "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.1/RemoteIO-2.7.1.jar"
+                },
+                "2.7.2": {
+                    "name": "RemoteIO-2.7.2.jar",
+                    "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.2/RemoteIO-2.7.2.jar"
+                },
+                "2.7.3": {
+                    "name": "RemoteIO-2.7.3.jar",
+                    "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.3/RemoteIO-2.7.3.jar"
                 }
             }
         },
