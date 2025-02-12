@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-02-07",
+            "latest": "2.8.0-nightly-2025-02-11",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1267,6 +1267,14 @@
                 "2.8.0-nightly-2025-02-07": {
                     "name": "2.8.0-nightly-2025-02-07.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-07/2.8.0-nightly-2025-02-07.zip"
+                },
+                "2.8.0-nightly-2025-02-10": {
+                    "name": "2.8.0-nightly-2025-02-10.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-10/2.8.0-nightly-2025-02-10.zip"
+                },
+                "2.8.0-nightly-2025-02-11": {
+                    "name": "2.8.0-nightly-2025-02-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-11/2.8.0-nightly-2025-02-11.zip"
                 }
             }
         }
@@ -3322,7 +3330,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-538-GTNH",
+            "latest": "rv3-beta-539-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -4845,6 +4853,10 @@
                 "rv3-beta-538-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-538-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-538-GTNH/appliedenergistics2-rv3-beta-538-GTNH.jar"
+                },
+                "rv3-beta-539-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-539-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-539-GTNH-pre/appliedenergistics2-rv3-beta-539-GTNH-pre.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -10890,7 +10902,7 @@
         },
         "EnderStorage": {
             "id": "com.github.GTNewHorizons:EnderStorage:<version>",
-            "latest": "1.7.0",
+            "latest": "1.7.1-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderStorage",
             "versions": {
@@ -10953,6 +10965,10 @@
                 "1.7.0": {
                     "name": "EnderStorage-1.7.0.jar",
                     "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.7.0/EnderStorage-1.7.0.jar"
+                },
+                "1.7.1-pre": {
+                    "name": "EnderStorage-1.7.1-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.7.1-pre/EnderStorage-1.7.1-pre.jar"
                 }
             }
         },
@@ -12254,7 +12270,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.123-pre",
+            "latest": "5.09.51.125-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -17957,6 +17973,10 @@
                 "5.09.51.123-pre": {
                     "name": "gregtech-5.09.51.123-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.123-pre/gregtech-5.09.51.123-pre.jar"
+                },
+                "5.09.51.125-pre": {
+                    "name": "gregtech-5.09.51.125-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.125-pre/gregtech-5.09.51.125-pre.jar"
                 },
                 "5.09.51.13": {
                     "name": "gregtech-5.09.51.13.jar",
@@ -27923,7 +27943,7 @@
         },
         "Mobs-Info": {
             "id": "com.github.GTNewHorizons:Mobs-Info:<version>",
-            "latest": "0.5.0-GTNH",
+            "latest": "0.5.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Mobs-Info",
             "versions": {
@@ -28090,6 +28110,10 @@
                 "0.5.0-GTNH": {
                     "name": "mobsinfo-0.5.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.0-GTNH/mobsinfo-0.5.0-GTNH.jar"
+                },
+                "0.5.1-GTNH": {
+                    "name": "mobsinfo-0.5.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.1-GTNH/mobsinfo-0.5.1-GTNH.jar"
                 }
             }
         },
@@ -33923,7 +33947,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.11.6-GTNH",
+            "latest": "1.11.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -34066,6 +34090,10 @@
                 "1.11.6-GTNH": {
                     "name": "OpenComputers-1.11.6-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.6-GTNH/OpenComputers-1.11.6-GTNH.jar"
+                },
+                "1.11.7-GTNH": {
+                    "name": "OpenComputers-1.11.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.7-GTNH/OpenComputers-1.11.7-GTNH.jar"
                 },
                 "1.7.4.1": {
                     "name": "OpenComputers-MC1.7.10-1.7.4.1-universal.jar",
@@ -35335,7 +35363,7 @@
         },
         "RemoteIO": {
             "id": "com.github.GTNewHorizons:RemoteIO:<version>",
-            "latest": "2.7.3",
+            "latest": "2.7.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RemoteIO",
             "versions": {
@@ -35410,6 +35438,10 @@
                 "2.7.3": {
                     "name": "RemoteIO-2.7.3.jar",
                     "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.3/RemoteIO-2.7.3.jar"
+                },
+                "2.7.4": {
+                    "name": "RemoteIO-2.7.4.jar",
+                    "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.4/RemoteIO-2.7.4.jar"
                 }
             }
         },
@@ -35643,7 +35675,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.1.23-pre",
+            "latest": "2.1.24-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -36098,6 +36130,10 @@
                 "2.1.23-pre": {
                     "name": "ServerUtilities-2.1.23-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.23-pre/ServerUtilities-2.1.23-pre.jar"
+                },
+                "2.1.24-pre": {
+                    "name": "ServerUtilities-2.1.24-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.24-pre/ServerUtilities-2.1.24-pre.jar"
                 },
                 "2.1.3": {
                     "name": "ServerUtilities-2.1.3.jar",
@@ -43692,7 +43728,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.7.4",
+            "latest": "2.7.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
@@ -44031,6 +44067,10 @@
                 "2.7.4": {
                     "name": "TwilightForest-2.7.4.jar",
                     "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.4/TwilightForest-2.7.4.jar"
+                },
+                "2.7.5": {
+                    "name": "TwilightForest-2.7.5.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.5/TwilightForest-2.7.5.jar"
                 }
             }
         },
