@@ -3366,7 +3366,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-544-GTNH",
+            "latest": "rv3-beta-546-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -4913,6 +4913,14 @@
                 "rv3-beta-544-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-544-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-544-GTNH/appliedenergistics2-rv3-beta-544-GTNH.jar"
+                },
+                "rv3-beta-545-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-545-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-545-GTNH/appliedenergistics2-rv3-beta-545-GTNH.jar"
+                },
+                "rv3-beta-546-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-546-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-546-GTNH/appliedenergistics2-rv3-beta-546-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -12338,7 +12346,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.137-pre",
+            "latest": "5.09.51.141-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18098,9 +18106,25 @@
                     "name": "gregtech-5.09.51.137-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.137-pre/gregtech-5.09.51.137-pre.jar"
                 },
+                "5.09.51.138": {
+                    "name": "gregtech-5.09.51.138.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.138/gregtech-5.09.51.138.jar"
+                },
+                "5.09.51.139-pre": {
+                    "name": "gregtech-5.09.51.139-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.139-pre/gregtech-5.09.51.139-pre.jar"
+                },
                 "5.09.51.14": {
                     "name": "gregtech-5.09.51.14.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.14/gregtech-5.09.51.14.jar"
+                },
+                "5.09.51.140": {
+                    "name": "gregtech-5.09.51.140.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.140/gregtech-5.09.51.140.jar"
+                },
+                "5.09.51.141-pre": {
+                    "name": "gregtech-5.09.51.141-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.141-pre/gregtech-5.09.51.141-pre.jar"
                 },
                 "5.09.51.15": {
                     "name": "gregtech-5.09.51.15.jar",
@@ -19474,7 +19498,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.6.10",
+            "latest": "0.6.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -19761,6 +19785,10 @@
                 "0.6.10": {
                     "name": "gtnhlib-0.6.10.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.10/gtnhlib-0.6.10.jar"
+                },
+                "0.6.11": {
+                    "name": "gtnhlib-0.6.11.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.11/gtnhlib-0.6.11.jar"
                 },
                 "0.6.2": {
                     "name": "gtnhlib-0.6.2.jar",
@@ -25763,7 +25791,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.2.24-GTNH",
+            "latest": "1.2.25-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -25858,6 +25886,10 @@
                 "1.2.24-GTNH": {
                     "name": "bogosorter-1.2.24-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.24-GTNH/bogosorter-1.2.24-GTNH.jar"
+                },
+                "1.2.25-GTNH": {
+                    "name": "bogosorter-1.2.25-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.25-GTNH/bogosorter-1.2.25-GTNH.jar"
                 },
                 "1.2.3-GTNH": {
                     "name": "bogosorter-1.2.3-GTNH.jar",
@@ -29639,7 +29671,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.107-pre",
+            "latest": "2.7.109-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32010,6 +32042,14 @@
                 "2.7.107-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.107-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.107-pre/GTNewHorizonsCoreMod-2.7.107-pre.jar"
+                },
+                "2.7.108": {
+                    "name": "GTNewHorizonsCoreMod-2.7.108.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.108/GTNewHorizonsCoreMod-2.7.108.jar"
+                },
+                "2.7.109-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.109-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.109-pre/GTNewHorizonsCoreMod-2.7.109-pre.jar"
                 },
                 "2.7.11-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.11-pre.jar",
@@ -41587,7 +41627,7 @@
         },
         "WailaHarvestability": {
             "id": "com.github.GTNewHorizons:WailaHarvestability:<version>",
-            "latest": "1.2.1-GTNH",
+            "latest": "1.3.0-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WailaHarvestability",
             "versions": {
@@ -41614,6 +41654,10 @@
                 "1.2.1-GTNH": {
                     "name": "WailaHarvestability-1.2.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.2.1-GTNH/WailaHarvestability-1.2.1-GTNH.jar"
+                },
+                "1.3.0-GTNH": {
+                    "name": "WailaHarvestability-1.3.0-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.3.0-GTNH/WailaHarvestability-1.3.0-GTNH.jar"
                 }
             }
         },
@@ -42295,7 +42339,7 @@
         },
         "Yamcl": {
             "id": "com.github.GTNewHorizons:Yamcl:<version>",
-            "latest": "0.6.0",
+            "latest": "0.7.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Yamcl",
             "versions": {
@@ -42314,6 +42358,10 @@
                 "0.6.0": {
                     "name": "YAMCore-0.6.0.jar",
                     "url": "https://github.com/GTNewHorizons/Yamcl/releases/download/0.6.0/YAMCore-0.6.0.jar"
+                },
+                "0.7.0": {
+                    "name": "YAMCore-0.7.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Yamcl/releases/download/0.7.0/YAMCore-0.7.0.jar"
                 }
             }
         },
