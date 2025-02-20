@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-02-15",
+            "latest": "2.8.0-nightly-2025-02-19",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1291,6 +1291,10 @@
                 "2.8.0-nightly-2025-02-15": {
                     "name": "2.8.0-nightly-2025-02-15.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-15/2.8.0-nightly-2025-02-15.zip"
+                },
+                "2.8.0-nightly-2025-02-19": {
+                    "name": "2.8.0-nightly-2025-02-19.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-19/2.8.0-nightly-2025-02-19.zip"
                 }
             }
         }
@@ -2874,7 +2878,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta34",
+            "latest": "1.0.0-beta35",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -3193,6 +3197,10 @@
                 "1.0.0-beta34": {
                     "name": "angelica-1.0.0-beta34.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta34/angelica-1.0.0-beta34.jar"
+                },
+                "1.0.0-beta35": {
+                    "name": "angelica-1.0.0-beta35.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta35/angelica-1.0.0-beta35.jar"
                 },
                 "1.0.0-beta4": {
                     "name": "angelica-1.0.0-beta4.jar",
@@ -8799,7 +8807,7 @@
         },
         "CookingForBlockheads": {
             "id": "com.github.GTNewHorizons:CookingForBlockheads:<version>",
-            "latest": "1.4.0-GTNH",
+            "latest": "1.4.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CookingForBlockheads",
             "versions": {
@@ -8882,6 +8890,10 @@
                 "1.4.0-GTNH": {
                     "name": "CookingForBlockheads-1.4.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.0-GTNH/CookingForBlockheads-1.4.0-GTNH.jar"
+                },
+                "1.4.1-GTNH": {
+                    "name": "CookingForBlockheads-1.4.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.1-GTNH/CookingForBlockheads-1.4.1-GTNH.jar"
                 }
             }
         },
@@ -12358,7 +12370,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.144-pre",
+            "latest": "5.09.51.147-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18149,6 +18161,18 @@
                 "5.09.51.144-pre": {
                     "name": "gregtech-5.09.51.144-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.144-pre/gregtech-5.09.51.144-pre.jar"
+                },
+                "5.09.51.145-pre": {
+                    "name": "gregtech-5.09.51.145-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.145-pre/gregtech-5.09.51.145-pre.jar"
+                },
+                "5.09.51.146": {
+                    "name": "gregtech-5.09.51.146.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.146/gregtech-5.09.51.146.jar"
+                },
+                "5.09.51.147-pre": {
+                    "name": "gregtech-5.09.51.147-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.147-pre/gregtech-5.09.51.147-pre.jar"
                 },
                 "5.09.51.15": {
                     "name": "gregtech-5.09.51.15.jar",
@@ -29707,7 +29731,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.112-pre",
+            "latest": "2.7.113-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32102,6 +32126,10 @@
                 "2.7.112-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.112-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.112-pre/GTNewHorizonsCoreMod-2.7.112-pre.jar"
+                },
+                "2.7.113-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.113-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.113-pre/GTNewHorizonsCoreMod-2.7.113-pre.jar"
                 },
                 "2.7.12": {
                     "name": "GTNewHorizonsCoreMod-2.7.12.jar",
@@ -41275,7 +41303,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.4.1-pre",
+            "latest": "1.4.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -41574,6 +41602,10 @@
                 "1.4.1-pre": {
                     "name": "visualprospecting-1.4.1-pre.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.4.1-pre/visualprospecting-1.4.1-pre.jar"
+                },
+                "1.4.2": {
+                    "name": "visualprospecting-1.4.2.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.4.2/visualprospecting-1.4.2.jar"
                 }
             }
         },
@@ -41679,7 +41711,7 @@
         },
         "WailaHarvestability": {
             "id": "com.github.GTNewHorizons:WailaHarvestability:<version>",
-            "latest": "1.3.0-GTNH",
+            "latest": "1.3.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WailaHarvestability",
             "versions": {
@@ -41710,6 +41742,10 @@
                 "1.3.0-GTNH": {
                     "name": "WailaHarvestability-1.3.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.3.0-GTNH/WailaHarvestability-1.3.0-GTNH.jar"
+                },
+                "1.3.1-GTNH": {
+                    "name": "WailaHarvestability-1.3.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.3.1-GTNH/WailaHarvestability-1.3.1-GTNH.jar"
                 }
             }
         },
