@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-02-19",
+            "latest": "2.8.0-nightly-2025-02-20",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1295,6 +1295,10 @@
                 "2.8.0-nightly-2025-02-19": {
                     "name": "2.8.0-nightly-2025-02-19.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-19/2.8.0-nightly-2025-02-19.zip"
+                },
+                "2.8.0-nightly-2025-02-20": {
+                    "name": "2.8.0-nightly-2025-02-20.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-02-20/2.8.0-nightly-2025-02-20.zip"
                 }
             }
         }
@@ -12370,7 +12374,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.147-pre",
+            "latest": "5.09.51.149-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18173,6 +18177,14 @@
                 "5.09.51.147-pre": {
                     "name": "gregtech-5.09.51.147-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.147-pre/gregtech-5.09.51.147-pre.jar"
+                },
+                "5.09.51.148": {
+                    "name": "gregtech-5.09.51.148.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.148/gregtech-5.09.51.148.jar"
+                },
+                "5.09.51.149-pre": {
+                    "name": "gregtech-5.09.51.149-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.149-pre/gregtech-5.09.51.149-pre.jar"
                 },
                 "5.09.51.15": {
                     "name": "gregtech-5.09.51.15.jar",
@@ -28399,7 +28411,7 @@
         },
         "ModularUI": {
             "id": "com.github.GTNewHorizons:ModularUI:<version>",
-            "latest": "1.2.17",
+            "latest": "1.2.18",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI",
             "versions": {
@@ -28966,6 +28978,10 @@
                 "1.2.17": {
                     "name": "modularui-1.2.17.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.17/modularui-1.2.17.jar"
+                },
+                "1.2.18": {
+                    "name": "modularui-1.2.18.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.18/modularui-1.2.18.jar"
                 },
                 "1.2.2": {
                     "name": "modularui-1.2.2.jar",
@@ -29731,7 +29747,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.113-pre",
+            "latest": "2.7.115-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32130,6 +32146,14 @@
                 "2.7.113-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.113-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.113-pre/GTNewHorizonsCoreMod-2.7.113-pre.jar"
+                },
+                "2.7.114": {
+                    "name": "GTNewHorizonsCoreMod-2.7.114.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.114/GTNewHorizonsCoreMod-2.7.114.jar"
+                },
+                "2.7.115-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.115-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.115-pre/GTNewHorizonsCoreMod-2.7.115-pre.jar"
                 },
                 "2.7.12": {
                     "name": "GTNewHorizonsCoreMod-2.7.12.jar",
@@ -35875,13 +35899,17 @@
         },
         "Salis-Arcana": {
             "id": "com.github.GTNewHorizons:Salis-Arcana:<version>",
-            "latest": "1.1.2-GTNH",
+            "latest": "1.1.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Salis-Arcana",
             "versions": {
                 "1.1.2-GTNH": {
                     "name": "salisarcana-1.1.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.2-GTNH/salisarcana-1.1.2-GTNH.jar"
+                },
+                "1.1.3-GTNH": {
+                    "name": "salisarcana-1.1.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.3-GTNH/salisarcana-1.1.3-GTNH.jar"
                 }
             }
         },
