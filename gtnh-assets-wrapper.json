@@ -1310,7 +1310,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.29-gtnh",
+            "latest": "1.4.31-gtnh-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2421,6 +2421,14 @@
                 "1.4.3-gtnh-pre": {
                     "name": "ae2fc-1.4.3-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.3-gtnh-pre/ae2fc-1.4.3-gtnh-pre.jar"
+                },
+                "1.4.30-gtnh": {
+                    "name": "ae2fc-1.4.30-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.30-gtnh/ae2fc-1.4.30-gtnh.jar"
+                },
+                "1.4.31-gtnh-pre": {
+                    "name": "ae2fc-1.4.31-gtnh-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.31-gtnh-pre/ae2fc-1.4.31-gtnh-pre.jar"
                 },
                 "1.4.4-gtnh": {
                     "name": "ae2fc-1.4.4-gtnh.jar",
@@ -5718,7 +5726,7 @@
         },
         "Baubles-Expanded": {
             "id": "com.github.GTNewHorizons:Baubles-Expanded:<version>",
-            "latest": "2.0.3",
+            "latest": "2.1.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Baubles-Expanded",
             "versions": {
@@ -5737,6 +5745,10 @@
                 "2.0.3": {
                     "name": "BaublesExpanded-2.0.3.jar",
                     "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.0.3/BaublesExpanded-2.0.3.jar"
+                },
+                "2.1.5-GTNH": {
+                    "name": "BaublesExpanded-2.1.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.5-GTNH/BaublesExpanded-2.1.5-GTNH.jar"
                 }
             }
         },
@@ -11778,7 +11790,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.10.2",
+            "latest": "4.10.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -11793,6 +11805,10 @@
                 "4.10.2": {
                     "name": "Forestry-4.10.2.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.2/Forestry-4.10.2.jar"
+                },
+                "4.10.3": {
+                    "name": "Forestry-4.10.3.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.3/Forestry-4.10.3.jar"
                 },
                 "4.2.19.0": {
                     "name": "forestry_1.7.10-4.2.19.0.jar",
@@ -12378,7 +12394,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.151-pre",
+            "latest": "5.09.51.154-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18201,6 +18217,18 @@
                 "5.09.51.151-pre": {
                     "name": "gregtech-5.09.51.151-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.151-pre/gregtech-5.09.51.151-pre.jar"
+                },
+                "5.09.51.152": {
+                    "name": "gregtech-5.09.51.152.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.152/gregtech-5.09.51.152.jar"
+                },
+                "5.09.51.153": {
+                    "name": "gregtech-5.09.51.153.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.153/gregtech-5.09.51.153.jar"
+                },
+                "5.09.51.154-pre": {
+                    "name": "gregtech-5.09.51.154-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.154-pre/gregtech-5.09.51.154-pre.jar"
                 },
                 "5.09.51.16": {
                     "name": "gregtech-5.09.51.16.jar",
@@ -29763,7 +29791,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.118-pre",
+            "latest": "2.7.120-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32183,9 +32211,17 @@
                     "name": "GTNewHorizonsCoreMod-2.7.118-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.118-pre/GTNewHorizonsCoreMod-2.7.118-pre.jar"
                 },
+                "2.7.119": {
+                    "name": "GTNewHorizonsCoreMod-2.7.119.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.119/GTNewHorizonsCoreMod-2.7.119.jar"
+                },
                 "2.7.12": {
                     "name": "GTNewHorizonsCoreMod-2.7.12.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.12/GTNewHorizonsCoreMod-2.7.12.jar"
+                },
+                "2.7.120-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.120-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.120-pre/GTNewHorizonsCoreMod-2.7.120-pre.jar"
                 },
                 "2.7.13-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.13-pre.jar",
