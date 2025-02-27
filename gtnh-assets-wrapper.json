@@ -27619,7 +27619,7 @@
         },
         "MagicBees": {
             "id": "com.github.GTNewHorizons:MagicBees:<version>",
-            "latest": "2.9.0-GTNH",
+            "latest": "2.9.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MagicBees",
             "versions": {
@@ -27786,6 +27786,10 @@
                 "2.9.0-GTNH": {
                     "name": "magicbees-2.9.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.9.0-GTNH/magicbees-2.9.0-GTNH.jar"
+                },
+                "2.9.1-GTNH": {
+                    "name": "magicbees-2.9.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.9.1-GTNH/magicbees-2.9.1-GTNH.jar"
                 }
             }
         },
@@ -43996,7 +44000,7 @@
         },
         "oauth": {
             "id": "com.github.GTNewHorizons:oauth:<version>",
-            "latest": "1.3.0-GTNH",
+            "latest": "1.06.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/oauth",
             "versions": {
@@ -44031,6 +44035,18 @@
                 "1.3.0-GTNH": {
                     "name": "oauth-1.3.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/oauth/releases/download/1.3.0-GTNH/oauth-1.3.0-GTNH.jar"
+                },
+                "1.3.1-GTNH": {
+                    "name": "oauth-1.3.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/oauth/releases/download/1.3.1-GTNH/oauth-1.3.1-GTNH.jar"
+                },
+                "1.3.2-GTNH-pre": {
+                    "name": "oauth-1.3.2-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/oauth/releases/download/1.3.2-GTNH-pre/oauth-1.3.2-GTNH-pre.jar"
+                },
+                "1.3.3-GTNH": {
+                    "name": "oauth-1.3.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/oauth/releases/download/1.3.3-GTNH/oauth-1.3.3-GTNH.jar"
                 }
             }
         },
