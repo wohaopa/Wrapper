@@ -1310,7 +1310,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.31-gtnh-pre",
+            "latest": "1.4.32-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2430,6 +2430,10 @@
                     "name": "ae2fc-1.4.31-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.31-gtnh-pre/ae2fc-1.4.31-gtnh-pre.jar"
                 },
+                "1.4.32-gtnh": {
+                    "name": "ae2fc-1.4.32-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.32-gtnh/ae2fc-1.4.32-gtnh.jar"
+                },
                 "1.4.4-gtnh": {
                     "name": "ae2fc-1.4.4-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.4-gtnh/ae2fc-1.4.4-gtnh.jar"
@@ -3394,7 +3398,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-547-GTNH",
+            "latest": "rv3-beta-548-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -4953,6 +4957,10 @@
                 "rv3-beta-547-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-547-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-547-GTNH/appliedenergistics2-rv3-beta-547-GTNH.jar"
+                },
+                "rv3-beta-548-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-548-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-548-GTNH/appliedenergistics2-rv3-beta-548-GTNH.jar"
                 },
                 "rv3-beta-59-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-59-GTNH.jar",
@@ -12394,7 +12402,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.154-pre",
+            "latest": "5.09.51.156-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18229,6 +18237,14 @@
                 "5.09.51.154-pre": {
                     "name": "gregtech-5.09.51.154-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.154-pre/gregtech-5.09.51.154-pre.jar"
+                },
+                "5.09.51.155": {
+                    "name": "gregtech-5.09.51.155.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.155/gregtech-5.09.51.155.jar"
+                },
+                "5.09.51.156-pre": {
+                    "name": "gregtech-5.09.51.156-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.156-pre/gregtech-5.09.51.156-pre.jar"
                 },
                 "5.09.51.16": {
                     "name": "gregtech-5.09.51.16.jar",
@@ -29799,7 +29815,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.120-pre",
+            "latest": "2.7.122-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32230,6 +32246,14 @@
                 "2.7.120-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.120-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.120-pre/GTNewHorizonsCoreMod-2.7.120-pre.jar"
+                },
+                "2.7.121": {
+                    "name": "GTNewHorizonsCoreMod-2.7.121.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.121/GTNewHorizonsCoreMod-2.7.121.jar"
+                },
+                "2.7.122-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.122-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.122-pre/GTNewHorizonsCoreMod-2.7.122-pre.jar"
                 },
                 "2.7.13-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.13-pre.jar",
@@ -44008,14 +44032,10 @@
         },
         "oauth": {
             "id": "com.github.GTNewHorizons:oauth:<version>",
-            "latest": "1.06.1-GTNH",
+            "latest": "1.3.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/oauth",
             "versions": {
-                "1.06.1-GTNH": {
-                    "name": "oauth-1.7.10-1.06.1-GTNH.jar",
-                    "url": "https://github.com/GTNewHorizons/oauth/releases/download/1.06.1-GTNH/oauth-1.7.10-1.06.1-GTNH.jar"
-                },
                 "1.1.0-GTNH": {
                     "name": "oauth-1.1.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/oauth/releases/download/1.1.0-GTNH/oauth-1.1.0-GTNH.jar"
