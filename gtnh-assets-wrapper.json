@@ -19918,7 +19918,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.6.14",
+            "latest": "0.6.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -20221,6 +20221,10 @@
                 "0.6.14": {
                     "name": "gtnhlib-0.6.14.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.14/gtnhlib-0.6.14.jar"
+                },
+                "0.6.15": {
+                    "name": "gtnhlib-0.6.15.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.15/gtnhlib-0.6.15.jar"
                 },
                 "0.6.2": {
                     "name": "gtnhlib-0.6.2.jar",
@@ -29483,7 +29487,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.2.5-1.7.10",
+            "latest": "2.2.6-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -29634,6 +29638,10 @@
                 "2.2.5-1.7.10": {
                     "name": "modularui2-2.2.5-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.5-1.7.10/modularui2-2.2.5-1.7.10.jar"
+                },
+                "2.2.6-1.7.10": {
+                    "name": "modularui2-2.2.6-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.6-1.7.10/modularui2-2.2.6-1.7.10.jar"
                 }
             }
         },
@@ -43892,7 +43900,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "2.1.10",
+            "latest": "2.1.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -44323,6 +44331,10 @@
                 "2.1.10": {
                     "name": "lwjgl3ify-2.1.10.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.10/lwjgl3ify-2.1.10.jar"
+                },
+                "2.1.11": {
+                    "name": "lwjgl3ify-2.1.11.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.11/lwjgl3ify-2.1.11.jar"
                 },
                 "2.1.2": {
                     "name": "lwjgl3ify-2.1.2.jar",
