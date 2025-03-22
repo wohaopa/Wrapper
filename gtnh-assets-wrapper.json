@@ -12686,7 +12686,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.184-pre",
+            "latest": "5.09.51.186-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -18669,6 +18669,14 @@
                 "5.09.51.184-pre": {
                     "name": "gregtech-5.09.51.184-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.184-pre/gregtech-5.09.51.184-pre.jar"
+                },
+                "5.09.51.185": {
+                    "name": "gregtech-5.09.51.185.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.185/gregtech-5.09.51.185.jar"
+                },
+                "5.09.51.186-pre": {
+                    "name": "gregtech-5.09.51.186-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.186-pre/gregtech-5.09.51.186-pre.jar"
                 },
                 "5.09.51.19-pre": {
                     "name": "gregtech-5.09.51.19-pre.jar",
@@ -30395,7 +30403,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.138-pre",
+            "latest": "2.7.140-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -32915,9 +32923,17 @@
                     "name": "GTNewHorizonsCoreMod-2.7.138-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.138-pre/GTNewHorizonsCoreMod-2.7.138-pre.jar"
                 },
+                "2.7.139": {
+                    "name": "GTNewHorizonsCoreMod-2.7.139.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.139/GTNewHorizonsCoreMod-2.7.139.jar"
+                },
                 "2.7.14": {
                     "name": "GTNewHorizonsCoreMod-2.7.14.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.14/GTNewHorizonsCoreMod-2.7.14.jar"
+                },
+                "2.7.140-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.140-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.140-pre/GTNewHorizonsCoreMod-2.7.140-pre.jar"
                 },
                 "2.7.15-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.15-pre.jar",
@@ -36167,7 +36183,7 @@
         },
         "Railcraft": {
             "id": "com.github.GTNewHorizons:Railcraft:<version>",
-            "latest": "9.16.4",
+            "latest": "9.16.5-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Railcraft",
             "versions": {
@@ -36390,6 +36406,10 @@
                 "9.16.4": {
                     "name": "Railcraft-9.16.4.jar",
                     "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.4/Railcraft-9.16.4.jar"
+                },
+                "9.16.5-pre": {
+                    "name": "Railcraft-9.16.5-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.5-pre/Railcraft-9.16.5-pre.jar"
                 }
             }
         },
@@ -38775,7 +38795,7 @@
         },
         "TCNEIAdditions": {
             "id": "com.github.GTNewHorizons:TCNEIAdditions:<version>",
-            "latest": "1.4.6-pre",
+            "latest": "1.4.7-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TCNEIAdditions",
             "versions": {
@@ -38946,6 +38966,10 @@
                 "1.4.6-pre": {
                     "name": "tcneiadditions-1.4.6-pre.jar",
                     "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.4.6-pre/tcneiadditions-1.4.6-pre.jar"
+                },
+                "1.4.7-pre": {
+                    "name": "tcneiadditions-1.4.7-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.4.7-pre/tcneiadditions-1.4.7-pre.jar"
                 }
             }
         },
@@ -41167,7 +41191,7 @@
         },
         "Thaumic_Exploration": {
             "id": "com.github.GTNewHorizons:Thaumic_Exploration:<version>",
-            "latest": "1.4.0-GTNH",
+            "latest": "1.4.1-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Thaumic_Exploration",
             "versions": {
@@ -41290,6 +41314,10 @@
                 "1.4.0-GTNH": {
                     "name": "Thaumic-Exploration-1.4.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.0-GTNH/Thaumic-Exploration-1.4.0-GTNH.jar"
+                },
+                "1.4.1-GTNH-pre": {
+                    "name": "Thaumic-Exploration-1.4.1-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.1-GTNH-pre/Thaumic-Exploration-1.4.1-GTNH-pre.jar"
                 }
             }
         },
