@@ -25303,7 +25303,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.41-pre",
+            "latest": "2.6.42-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -26682,6 +26682,10 @@
                 "2.6.41-pre": {
                     "name": "hodgepodge-2.6.41-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.41-pre/hodgepodge-2.6.41-pre.jar"
+                },
+                "2.6.42-pre": {
+                    "name": "hodgepodge-2.6.42-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.42-pre/hodgepodge-2.6.42-pre.jar"
                 },
                 "2.6.5-pre": {
                     "name": "hodgepodge-2.6.5-pre.jar",
@@ -38371,7 +38375,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.1.49-pre",
+            "latest": "2.1.50-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -38942,6 +38946,10 @@
                 "2.1.5-pre": {
                     "name": "ServerUtilities-2.1.5-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.5-pre/ServerUtilities-2.1.5-pre.jar"
+                },
+                "2.1.50-pre": {
+                    "name": "ServerUtilities-2.1.50-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.50-pre/ServerUtilities-2.1.50-pre.jar"
                 },
                 "2.1.6": {
                     "name": "ServerUtilities-2.1.6.jar",
@@ -44907,7 +44915,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.7.5-GTNH",
+            "latest": "1.7.6-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -45178,6 +45186,10 @@
                 "1.7.5-GTNH": {
                     "name": "WitchingGadgets-1.7.5-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.5-GTNH/WitchingGadgets-1.7.5-GTNH.jar"
+                },
+                "1.7.6-GTNH": {
+                    "name": "WitchingGadgets-1.7.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.6-GTNH/WitchingGadgets-1.7.6-GTNH.jar"
                 }
             }
         },
