@@ -25303,7 +25303,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.42-pre",
+            "latest": "2.6.44-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -26686,6 +26686,14 @@
                 "2.6.42-pre": {
                     "name": "hodgepodge-2.6.42-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.42-pre/hodgepodge-2.6.42-pre.jar"
+                },
+                "2.6.43-pre": {
+                    "name": "hodgepodge-2.6.43-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.43-pre/hodgepodge-2.6.43-pre.jar"
+                },
+                "2.6.44-pre": {
+                    "name": "hodgepodge-2.6.44-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.44-pre/hodgepodge-2.6.44-pre.jar"
                 },
                 "2.6.5-pre": {
                     "name": "hodgepodge-2.6.5-pre.jar",
@@ -37271,7 +37279,7 @@
         },
         "Postea": {
             "id": "com.github.GTNewHorizons:Postea:<version>",
-            "latest": "1.0.14",
+            "latest": "1.1.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Postea",
             "versions": {
@@ -37342,6 +37350,10 @@
                 "1.0.9": {
                     "name": "postea-1.0.9.jar",
                     "url": "https://github.com/GTNewHorizons/Postea/releases/download/1.0.9/postea-1.0.9.jar"
+                },
+                "1.1.0": {
+                    "name": "postea-1.1.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Postea/releases/download/1.1.0/postea-1.1.0.jar"
                 }
             }
         },
