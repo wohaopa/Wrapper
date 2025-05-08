@@ -1434,7 +1434,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.57-gtnh-pre",
+            "latest": "1.4.59-gtnh-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2674,6 +2674,14 @@
                     "name": "ae2fc-1.4.57-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.57-gtnh-pre/ae2fc-1.4.57-gtnh-pre.jar"
                 },
+                "1.4.58-gtnh": {
+                    "name": "ae2fc-1.4.58-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.58-gtnh/ae2fc-1.4.58-gtnh.jar"
+                },
+                "1.4.59-gtnh-pre": {
+                    "name": "ae2fc-1.4.59-gtnh-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.59-gtnh-pre/ae2fc-1.4.59-gtnh-pre.jar"
+                },
                 "1.4.6-gtnh": {
                     "name": "ae2fc-1.4.6-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.6-gtnh/ae2fc-1.4.6-gtnh.jar"
@@ -3682,7 +3690,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-596-GTNH-pre",
+            "latest": "rv3-beta-598-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -5445,6 +5453,14 @@
                 "rv3-beta-596-GTNH-pre": {
                     "name": "appliedenergistics2-rv3-beta-596-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-596-GTNH-pre/appliedenergistics2-rv3-beta-596-GTNH-pre.jar"
+                },
+                "rv3-beta-597-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-597-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-597-GTNH/appliedenergistics2-rv3-beta-597-GTNH.jar"
+                },
+                "rv3-beta-598-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-598-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-598-GTNH-pre/appliedenergistics2-rv3-beta-598-GTNH-pre.jar"
                 },
                 "rv3-beta-63-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-63-GTNH.jar",
@@ -7578,7 +7594,7 @@
         },
         "BlockRenderer6343": {
             "id": "com.github.GTNewHorizons:BlockRenderer6343:<version>",
-            "latest": "1.3.13-pre",
+            "latest": "1.3.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BlockRenderer6343",
             "versions": {
@@ -7762,6 +7778,10 @@
                     "name": "blockrenderer6343-1.3.13-pre.jar",
                     "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.3.13-pre/blockrenderer6343-1.3.13-pre.jar"
                 },
+                "1.3.14": {
+                    "name": "blockrenderer6343-1.3.14.jar",
+                    "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.3.14/blockrenderer6343-1.3.14.jar"
+                },
                 "1.3.2": {
                     "name": "blockrenderer6343-1.3.2.jar",
                     "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.3.2/blockrenderer6343-1.3.2.jar"
@@ -7798,7 +7818,7 @@
         },
         "BloodArsenal": {
             "id": "com.github.GTNewHorizons:BloodArsenal:<version>",
-            "latest": "1.4.2",
+            "latest": "1.4.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodArsenal",
             "versions": {
@@ -7873,6 +7893,10 @@
                 "1.4.2": {
                     "name": "BloodArsenal-1.4.2.jar",
                     "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.2/BloodArsenal-1.4.2.jar"
+                },
+                "1.4.3": {
+                    "name": "BloodArsenal-1.4.3.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.3/BloodArsenal-1.4.3.jar"
                 }
             }
         },
@@ -11298,7 +11322,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.9.11-pre",
+            "latest": "2.9.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -11825,6 +11849,10 @@
                 "2.9.11-pre": {
                     "name": "EnderIO-2.9.11-pre.jar",
                     "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.11-pre/EnderIO-2.9.11-pre.jar"
+                },
+                "2.9.12": {
+                    "name": "EnderIO-2.9.12.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.12/EnderIO-2.9.12.jar"
                 },
                 "2.9.2": {
                     "name": "EnderIO-2.9.2.jar",
