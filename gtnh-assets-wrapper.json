@@ -7310,7 +7310,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.5.7",
+            "latest": "2.5.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -7553,6 +7553,10 @@
                 "2.5.7": {
                     "name": "binnie-mods-2.5.7.jar",
                     "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.5.7/binnie-mods-2.5.7.jar"
+                },
+                "2.5.8": {
+                    "name": "binnie-mods-2.5.8.jar",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.5.8/binnie-mods-2.5.8.jar"
                 }
             }
         },
@@ -7902,7 +7906,7 @@
         },
         "BloodMagic": {
             "id": "com.github.GTNewHorizons:BloodMagic:<version>",
-            "latest": "1.7.16-pre",
+            "latest": "1.7.18-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodMagic",
             "versions": {
@@ -8121,6 +8125,14 @@
                 "1.7.16-pre": {
                     "name": "BloodMagic-1.7.16-pre.jar",
                     "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.16-pre/BloodMagic-1.7.16-pre.jar"
+                },
+                "1.7.17": {
+                    "name": "BloodMagic-1.7.17.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.17/BloodMagic-1.7.17.jar"
+                },
+                "1.7.18-pre": {
+                    "name": "BloodMagic-1.7.18-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.18-pre/BloodMagic-1.7.18-pre.jar"
                 },
                 "1.7.2": {
                     "name": "BloodMagic-1.7.2.jar",
@@ -38267,7 +38279,7 @@
         },
         "Roguelike-Dungeons": {
             "id": "com.github.GTNewHorizons:Roguelike-Dungeons:<version>",
-            "latest": "1.6.2-GTNH",
+            "latest": "1.6.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Roguelike-Dungeons",
             "versions": {
@@ -38290,6 +38302,10 @@
                 "1.6.2-GTNH": {
                     "name": "roguelike-1.6.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.2-GTNH/roguelike-1.6.2-GTNH.jar"
+                },
+                "1.6.3-GTNH": {
+                    "name": "roguelike-1.6.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.3-GTNH/roguelike-1.6.3-GTNH.jar"
                 }
             }
         },
