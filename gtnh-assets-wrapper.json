@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-05-11",
+            "latest": "2.8.0-nightly-2025-05-14",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1439,6 +1439,10 @@
                 "2.8.0-nightly-2025-05-11": {
                     "name": "2.8.0-nightly-2025-05-11.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-05-11/2.8.0-nightly-2025-05-11.zip"
+                },
+                "2.8.0-nightly-2025-05-14": {
+                    "name": "2.8.0-nightly-2025-05-14.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-05-14/2.8.0-nightly-2025-05-14.zip"
                 }
             }
         }
@@ -25647,7 +25651,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.57-pre",
+            "latest": "2.6.58-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -27094,6 +27098,10 @@
                 "2.6.57-pre": {
                     "name": "hodgepodge-2.6.57-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.57-pre/hodgepodge-2.6.57-pre.jar"
+                },
+                "2.6.58-pre": {
+                    "name": "hodgepodge-2.6.58-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.58-pre/hodgepodge-2.6.58-pre.jar"
                 },
                 "2.6.6": {
                     "name": "hodgepodge-2.6.6.jar",
