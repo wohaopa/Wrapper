@@ -8586,7 +8586,7 @@
         },
         "Botanic-horizons": {
             "id": "com.github.GTNewHorizons:Botanic-horizons:<version>",
-            "latest": "1.1.9-GTNH-pre",
+            "latest": "1.1.10-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botanic-horizons",
             "versions": {
@@ -8673,6 +8673,10 @@
                 "1.1.1-GTNH": {
                     "name": "BotanicHorizons-1.1.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.1.1-GTNH/BotanicHorizons-1.1.1-GTNH.jar"
+                },
+                "1.1.10-GTNH-pre": {
+                    "name": "BotanicHorizons-1.1.10-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.1.10-GTNH-pre/BotanicHorizons-1.1.10-GTNH-pre.jar"
                 },
                 "1.1.2-GTNH": {
                     "name": "BotanicHorizons-1.1.2-GTNH.jar",
@@ -11098,7 +11102,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.6.7",
+            "latest": "1.6.8-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -11417,6 +11421,10 @@
                 "1.6.7": {
                     "name": "EMT-1.6.7.jar",
                     "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.7/EMT-1.6.7.jar"
+                },
+                "1.6.8-pre": {
+                    "name": "EMT-1.6.8-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.8-pre/EMT-1.6.8-pre.jar"
                 }
             }
         },
@@ -13646,7 +13654,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.294-pre",
+            "latest": "5.09.51.297-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -20109,6 +20117,14 @@
                 "5.09.51.294-pre": {
                     "name": "gregtech-5.09.51.294-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.294-pre/gregtech-5.09.51.294-pre.jar"
+                },
+                "5.09.51.295-pre": {
+                    "name": "gregtech-5.09.51.295-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.295-pre/gregtech-5.09.51.295-pre.jar"
+                },
+                "5.09.51.297-pre": {
+                    "name": "gregtech-5.09.51.297-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.297-pre/gregtech-5.09.51.297-pre.jar"
                 },
                 "5.09.51.30-pre": {
                     "name": "gregtech-5.09.51.30-pre.jar",
@@ -27539,7 +27555,7 @@
         },
         "HydroEnergy": {
             "id": "com.github.GTNewHorizons:HydroEnergy:<version>",
-            "latest": "1.4.5",
+            "latest": "1.4.6-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HydroEnergy",
             "versions": {
@@ -27654,6 +27670,10 @@
                 "1.4.5": {
                     "name": "hydroenergy-1.4.5.jar",
                     "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.5/hydroenergy-1.4.5.jar"
+                },
+                "1.4.6-pre": {
+                    "name": "hydroenergy-1.4.6-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.6-pre/hydroenergy-1.4.6-pre.jar"
                 },
                 "latest": {
                     "name": "hydroenergy-1.7.10-1.0.8-1-gbf778d5.jar",
@@ -31491,7 +31511,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.2.13-1.7.10",
+            "latest": "2.2.15-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -31642,6 +31662,14 @@
                 "2.2.13-1.7.10": {
                     "name": "modularui2-2.2.13-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.13-1.7.10/modularui2-2.2.13-1.7.10.jar"
+                },
+                "2.2.14-1.7.10": {
+                    "name": "modularui2-2.2.14-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.14-1.7.10/modularui2-2.2.14-1.7.10.jar"
+                },
+                "2.2.15-1.7.10": {
+                    "name": "modularui2-2.2.15-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.15-1.7.10/modularui2-2.2.15-1.7.10.jar"
                 },
                 "2.2.2-1.7.10": {
                     "name": "modularui2-2.2.2-1.7.10.jar",
@@ -32283,7 +32311,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.183-pre",
+            "latest": "2.7.185-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -35014,6 +35042,14 @@
                 "2.7.183-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.183-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.183-pre/GTNewHorizonsCoreMod-2.7.183-pre.jar"
+                },
+                "2.7.184-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.184-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.184-pre/GTNewHorizonsCoreMod-2.7.184-pre.jar"
+                },
+                "2.7.185-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.185-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.185-pre/GTNewHorizonsCoreMod-2.7.185-pre.jar"
                 },
                 "2.7.19-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.19-pre.jar",
