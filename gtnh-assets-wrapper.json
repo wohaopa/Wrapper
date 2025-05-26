@@ -1470,7 +1470,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.70-gtnh-pre",
+            "latest": "1.4.74-gtnh-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2770,6 +2770,22 @@
                     "name": "ae2fc-1.4.70-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.70-gtnh-pre/ae2fc-1.4.70-gtnh-pre.jar"
                 },
+                "1.4.71-gtnh-pre": {
+                    "name": "ae2fc-1.4.71-gtnh-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.71-gtnh-pre/ae2fc-1.4.71-gtnh-pre.jar"
+                },
+                "1.4.72-gtnh": {
+                    "name": "ae2fc-1.4.72-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.72-gtnh/ae2fc-1.4.72-gtnh.jar"
+                },
+                "1.4.73-gtnh-pre": {
+                    "name": "ae2fc-1.4.73-gtnh-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.73-gtnh-pre/ae2fc-1.4.73-gtnh-pre.jar"
+                },
+                "1.4.74-gtnh-pre": {
+                    "name": "ae2fc-1.4.74-gtnh-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.74-gtnh-pre/ae2fc-1.4.74-gtnh-pre.jar"
+                },
                 "1.4.8-gtnh": {
                     "name": "ae2fc-1.4.8-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.8-gtnh/ae2fc-1.4.8-gtnh.jar"
@@ -3790,7 +3806,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-614-GTNH-pre",
+            "latest": "rv3-beta-616-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -5625,6 +5641,14 @@
                 "rv3-beta-614-GTNH-pre": {
                     "name": "appliedenergistics2-rv3-beta-614-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-614-GTNH-pre/appliedenergistics2-rv3-beta-614-GTNH-pre.jar"
+                },
+                "rv3-beta-615-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-615-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-615-GTNH/appliedenergistics2-rv3-beta-615-GTNH.jar"
+                },
+                "rv3-beta-616-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-616-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-616-GTNH-pre/appliedenergistics2-rv3-beta-616-GTNH-pre.jar"
                 },
                 "rv3-beta-63-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-63-GTNH.jar",
@@ -13718,7 +13742,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.298",
+            "latest": "5.09.51.304-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -20194,9 +20218,29 @@
                     "name": "gregtech-5.09.51.298.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.298/gregtech-5.09.51.298.jar"
                 },
+                "5.09.51.299": {
+                    "name": "gregtech-5.09.51.299.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.299/gregtech-5.09.51.299.jar"
+                },
                 "5.09.51.30-pre": {
                     "name": "gregtech-5.09.51.30-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.30-pre/gregtech-5.09.51.30-pre.jar"
+                },
+                "5.09.51.300": {
+                    "name": "gregtech-5.09.51.300.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.300/gregtech-5.09.51.300.jar"
+                },
+                "5.09.51.302": {
+                    "name": "gregtech-5.09.51.302.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.302/gregtech-5.09.51.302.jar"
+                },
+                "5.09.51.303-pre": {
+                    "name": "gregtech-5.09.51.303-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.303-pre/gregtech-5.09.51.303-pre.jar"
+                },
+                "5.09.51.304-pre": {
+                    "name": "gregtech-5.09.51.304-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.304-pre/gregtech-5.09.51.304-pre.jar"
                 },
                 "5.09.51.31": {
                     "name": "gregtech-5.09.51.31.jar",
@@ -29539,7 +29583,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.4.11-GTNH-pre",
+            "latest": "1.4.14-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -29870,6 +29914,10 @@
                 "1.4.11-GTNH-pre": {
                     "name": "logisticspipes-1.4.11-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.4.11-GTNH-pre/logisticspipes-1.4.11-GTNH-pre.jar"
+                },
+                "1.4.14-GTNH-pre": {
+                    "name": "logisticspipes-1.4.14-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.4.14-GTNH-pre/logisticspipes-1.4.14-GTNH-pre.jar"
                 },
                 "1.4.2-GTNH": {
                     "name": "logisticspipes-1.4.2-GTNH.jar",
@@ -32387,7 +32435,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.186",
+            "latest": "2.7.188-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -35130,6 +35178,14 @@
                 "2.7.186": {
                     "name": "GTNewHorizonsCoreMod-2.7.186.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.186/GTNewHorizonsCoreMod-2.7.186.jar"
+                },
+                "2.7.187": {
+                    "name": "GTNewHorizonsCoreMod-2.7.187.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.187/GTNewHorizonsCoreMod-2.7.187.jar"
+                },
+                "2.7.188-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.7.188-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.188-pre/GTNewHorizonsCoreMod-2.7.188-pre.jar"
                 },
                 "2.7.19-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.19-pre.jar",
@@ -40559,7 +40615,7 @@
         },
         "StorageDrawers": {
             "id": "com.github.GTNewHorizons:StorageDrawers:<version>",
-            "latest": "2.1.0-GTNH",
+            "latest": "2.1.1-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StorageDrawers",
             "versions": {
@@ -40718,6 +40774,10 @@
                 "2.1.0-GTNH": {
                     "name": "StorageDrawers-2.1.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.0-GTNH/StorageDrawers-2.1.0-GTNH.jar"
+                },
+                "2.1.1-GTNH-pre": {
+                    "name": "StorageDrawers-2.1.1-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.1-GTNH-pre/StorageDrawers-2.1.1-GTNH-pre.jar"
                 }
             }
         },
@@ -48356,7 +48416,7 @@
         },
         "waila": {
             "id": "com.github.GTNewHorizons:waila:<version>",
-            "latest": "1.8.4",
+            "latest": "1.8.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/waila",
             "versions": {
@@ -48479,6 +48539,14 @@
                 "1.8.4": {
                     "name": "Waila-1.8.4.jar",
                     "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.4/Waila-1.8.4.jar"
+                },
+                "1.8.5-pre": {
+                    "name": "Waila-1.8.5-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.5-pre/Waila-1.8.5-pre.jar"
+                },
+                "1.8.6": {
+                    "name": "Waila-1.8.6.jar",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.6/Waila-1.8.6.jar"
                 }
             }
         }
