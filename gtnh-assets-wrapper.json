@@ -8230,14 +8230,6 @@
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BlockLimiter",
             "versions": {
-                "0.54": {
-                    "name": "BlockLimiter-1.7.10-0.54.jar",
-                    "url": "https://github.com/GTNewHorizons/BlockLimiter/releases/download/0.54/BlockLimiter-1.7.10-0.54.jar"
-                },
-                "0.55": {
-                    "name": "BlockLimiter-1.7.10-0.55.jar",
-                    "url": "https://github.com/GTNewHorizons/BlockLimiter/releases/download/0.55/BlockLimiter-1.7.10-0.55.jar"
-                },
                 "0.6.0": {
                     "name": "BlockLimiter-0.6.0.jar",
                     "url": "https://github.com/GTNewHorizons/BlockLimiter/releases/download/0.6.0/BlockLimiter-0.6.0.jar"
@@ -26775,7 +26767,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.76",
+            "latest": "2.6.77",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -28306,6 +28298,10 @@
                 "2.6.76": {
                     "name": "hodgepodge-2.6.76.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.76/hodgepodge-2.6.76.jar"
+                },
+                "2.6.77": {
+                    "name": "hodgepodge-2.6.77.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.77/hodgepodge-2.6.77.jar"
                 },
                 "2.6.8-pre": {
                     "name": "hodgepodge-2.6.8-pre.jar",
