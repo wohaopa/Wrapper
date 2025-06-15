@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-06-08",
+            "latest": "2.8.0-nightly-2025-06-14",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1535,6 +1535,10 @@
                 "2.8.0-nightly-2025-06-08": {
                     "name": "2.8.0-nightly-2025-06-08.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-06-08/2.8.0-nightly-2025-06-08.zip"
+                },
+                "2.8.0-nightly-2025-06-14": {
+                    "name": "2.8.0-nightly-2025-06-14.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-06-14/2.8.0-nightly-2025-06-14.zip"
                 }
             }
         }
@@ -6886,7 +6890,7 @@
         },
         "Baubles-Expanded": {
             "id": "com.github.GTNewHorizons:Baubles-Expanded:<version>",
-            "latest": "2.1.8-GTNH",
+            "latest": "2.1.9-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Baubles-Expanded",
             "versions": {
@@ -6921,6 +6925,10 @@
                 "2.1.8-GTNH": {
                     "name": "BaublesExpanded-2.1.8-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.8-GTNH/BaublesExpanded-2.1.8-GTNH.jar"
+                },
+                "2.1.9-GTNH": {
+                    "name": "BaublesExpanded-2.1.9-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.9-GTNH/BaublesExpanded-2.1.9-GTNH.jar"
                 }
             }
         },
@@ -9158,7 +9166,7 @@
         },
         "Botanic-horizons": {
             "id": "com.github.GTNewHorizons:Botanic-horizons:<version>",
-            "latest": "1.1.7-GTNH",
+            "latest": "1.1.11-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botanic-horizons",
             "versions": {
@@ -9249,6 +9257,10 @@
                 "1.1.10-GTNH-pre": {
                     "name": "BotanicHorizons-1.1.10-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.1.10-GTNH-pre/BotanicHorizons-1.1.10-GTNH-pre.jar"
+                },
+                "1.1.11-GTNH": {
+                    "name": "BotanicHorizons-1.1.11-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.1.11-GTNH/BotanicHorizons-1.1.11-GTNH.jar"
                 },
                 "1.1.2-GTNH": {
                     "name": "BotanicHorizons-1.1.2-GTNH.jar",
@@ -11738,7 +11750,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.6.7",
+            "latest": "1.6.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -12061,6 +12073,10 @@
                 "1.6.8-pre": {
                     "name": "EMT-1.6.8-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.8-pre/EMT-1.6.8-pre.jar"
+                },
+                "1.6.9": {
+                    "name": "EMT-1.6.9.jar",
+                    "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.9/EMT-1.6.9.jar"
                 }
             }
         },
@@ -13062,7 +13078,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.2.9-GTNH",
+            "latest": "2.6.2.17-GTNH-daily",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -13097,6 +13113,10 @@
                 "2.6.2.16-GTNH-pre": {
                     "name": "etfuturum-2.6.2.16-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.2.16-GTNH-pre/etfuturum-2.6.2.16-GTNH-pre.jar"
+                },
+                "2.6.2.17-GTNH-daily": {
+                    "name": "etfuturum-2.6.2.17-GTNH-daily.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.2.17-GTNH-daily/etfuturum-2.6.2.17-GTNH-daily.jar"
                 },
                 "2.6.2.2-GTNH": {
                     "name": "etfuturum-2.6.2.2-GTNH.jar",
@@ -14358,7 +14378,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.339",
+            "latest": "5.09.51.344",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -21025,6 +21045,14 @@
                 "5.09.51.342-pre": {
                     "name": "gregtech-5.09.51.342-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.342-pre/gregtech-5.09.51.342-pre.jar"
+                },
+                "5.09.51.343": {
+                    "name": "gregtech-5.09.51.343.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.343/gregtech-5.09.51.343.jar"
+                },
+                "5.09.51.344": {
+                    "name": "gregtech-5.09.51.344.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.344/gregtech-5.09.51.344.jar"
                 },
                 "5.09.51.35-pre": {
                     "name": "gregtech-5.09.51.35-pre.jar",
@@ -28547,7 +28575,7 @@
         },
         "HydroEnergy": {
             "id": "com.github.GTNewHorizons:HydroEnergy:<version>",
-            "latest": "1.4.5",
+            "latest": "1.4.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HydroEnergy",
             "versions": {
@@ -28666,6 +28694,10 @@
                 "1.4.6-pre": {
                     "name": "hydroenergy-1.4.6-pre.jar",
                     "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.6-pre/hydroenergy-1.4.6-pre.jar"
+                },
+                "1.4.7": {
+                    "name": "hydroenergy-1.4.7.jar",
+                    "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.7/hydroenergy-1.4.7.jar"
                 },
                 "latest": {
                     "name": "hydroenergy-1.7.10-1.0.8-1-gbf778d5.jar",
@@ -29095,7 +29127,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.2.34-GTNH",
+            "latest": "1.2.35-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -29230,6 +29262,10 @@
                 "1.2.34-GTNH": {
                     "name": "bogosorter-1.2.34-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.34-GTNH/bogosorter-1.2.34-GTNH.jar"
+                },
+                "1.2.35-GTNH": {
+                    "name": "bogosorter-1.2.35-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.35-GTNH/bogosorter-1.2.35-GTNH.jar"
                 },
                 "1.2.4-GTNH-pre": {
                     "name": "bogosorter-1.2.4-GTNH-pre.jar",
@@ -33411,7 +33447,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.204",
+            "latest": "2.7.210",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -36255,9 +36291,17 @@
                     "name": "GTNewHorizonsCoreMod-2.7.208-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.208-pre/GTNewHorizonsCoreMod-2.7.208-pre.jar"
                 },
+                "2.7.209": {
+                    "name": "GTNewHorizonsCoreMod-2.7.209.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.209/GTNewHorizonsCoreMod-2.7.209.jar"
+                },
                 "2.7.21-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.21-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.21-pre/GTNewHorizonsCoreMod-2.7.21-pre.jar"
+                },
+                "2.7.210": {
+                    "name": "GTNewHorizonsCoreMod-2.7.210.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.210/GTNewHorizonsCoreMod-2.7.210.jar"
                 },
                 "2.7.22": {
                     "name": "GTNewHorizonsCoreMod-2.7.22.jar",
@@ -36931,7 +36975,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.7.52-GTNH",
+            "latest": "2.7.54-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -38126,6 +38170,14 @@
                 "2.7.53-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.53-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.53-GTNH-pre/NotEnoughItems-2.7.53-GTNH-pre.jar"
+                },
+                "2.7.54-GTNH": {
+                    "name": "NotEnoughItems-2.7.54-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.54-GTNH/NotEnoughItems-2.7.54-GTNH.jar"
+                },
+                "2.7.55-GTNH-pre": {
+                    "name": "NotEnoughItems-2.7.55-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.55-GTNH-pre/NotEnoughItems-2.7.55-GTNH-pre.jar"
                 },
                 "2.7.6-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.6-GTNH-pre.jar",
@@ -45411,7 +45463,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.13.35-GTNH",
+            "latest": "1.13.37-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -45738,6 +45790,10 @@
                 "1.13.36-GTNH-pre": {
                     "name": "TConstruct-1.13.36-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.36-GTNH-pre/TConstruct-1.13.36-GTNH-pre.jar"
+                },
+                "1.13.37-GTNH": {
+                    "name": "TConstruct-1.13.37-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.37-GTNH/TConstruct-1.13.37-GTNH.jar"
                 },
                 "1.13.4-GTNH": {
                     "name": "TConstruct-1.13.4-GTNH.jar",
@@ -46127,7 +46183,7 @@
         },
         "ToroHealth": {
             "id": "com.github.GTNewHorizons:ToroHealth:<version>",
-            "latest": "1.1.0",
+            "latest": "1.2.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ToroHealth",
             "versions": {
@@ -46162,6 +46218,10 @@
                 "1.1.0": {
                     "name": "torohealth-1.1.0.jar",
                     "url": "https://github.com/GTNewHorizons/ToroHealth/releases/download/1.1.0/torohealth-1.1.0.jar"
+                },
+                "1.2.0": {
+                    "name": "torohealth-1.2.0.jar",
+                    "url": "https://github.com/GTNewHorizons/ToroHealth/releases/download/1.2.0/torohealth-1.2.0.jar"
                 }
             }
         },
@@ -49704,7 +49764,7 @@
         },
         "waila": {
             "id": "com.github.GTNewHorizons:waila:<version>",
-            "latest": "1.8.7",
+            "latest": "1.8.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/waila",
             "versions": {
@@ -49839,6 +49899,10 @@
                 "1.8.7": {
                     "name": "Waila-1.8.7.jar",
                     "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.7/Waila-1.8.7.jar"
+                },
+                "1.8.8": {
+                    "name": "Waila-1.8.8.jar",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.8/Waila-1.8.8.jar"
                 }
             }
         }
