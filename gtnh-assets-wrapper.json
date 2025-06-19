@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-06-14",
+            "latest": "2.8.0-nightly-2025-06-17",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1539,6 +1539,10 @@
                 "2.8.0-nightly-2025-06-14": {
                     "name": "2.8.0-nightly-2025-06-14.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-06-14/2.8.0-nightly-2025-06-14.zip"
+                },
+                "2.8.0-nightly-2025-06-17": {
+                    "name": "2.8.0-nightly-2025-06-17.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-06-17/2.8.0-nightly-2025-06-17.zip"
                 }
             }
         }
@@ -36983,7 +36987,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.7.54-GTNH",
+            "latest": "2.7.56-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -38187,6 +38191,10 @@
                     "name": "NotEnoughItems-2.7.55-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.55-GTNH-pre/NotEnoughItems-2.7.55-GTNH-pre.jar"
                 },
+                "2.7.56-GTNH": {
+                    "name": "NotEnoughItems-2.7.56-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.56-GTNH/NotEnoughItems-2.7.56-GTNH.jar"
+                },
                 "2.7.6-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.6-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.6-GTNH-pre/NotEnoughItems-2.7.6-GTNH-pre.jar"
@@ -38339,7 +38347,7 @@
         },
         "Nutrition": {
             "id": "com.github.GTNewHorizons:Nutrition:<version>",
-            "latest": "0.1.1",
+            "latest": "0.1.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Nutrition",
             "versions": {
@@ -38402,6 +38410,10 @@
                 "0.1.1": {
                     "name": "nutrition-0.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/0.1.1/nutrition-0.1.1.jar"
+                },
+                "0.1.2": {
+                    "name": "nutrition-0.1.2.jar",
+                    "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/0.1.2/nutrition-0.1.2.jar"
                 }
             }
         },
@@ -40083,7 +40095,7 @@
         },
         "Random-Things": {
             "id": "com.github.GTNewHorizons:Random-Things:<version>",
-            "latest": "2.6.3",
+            "latest": "2.6.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Random-Things",
             "versions": {
@@ -40142,6 +40154,10 @@
                 "2.6.3": {
                     "name": "RandomThings-2.6.3.jar",
                     "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.6.3/RandomThings-2.6.3.jar"
+                },
+                "2.6.4": {
+                    "name": "RandomThings-2.6.4.jar",
+                    "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.6.4/RandomThings-2.6.4.jar"
                 },
                 "2.6.4-pre": {
                     "name": "RandomThings-2.6.4-pre.jar",
