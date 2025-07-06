@@ -6702,7 +6702,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.6.33",
+            "latest": "1.6.34",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -6889,6 +6889,10 @@
                 "1.6.33": {
                     "name": "backhand-1.6.33.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.33/backhand-1.6.33.jar"
+                },
+                "1.6.34": {
+                    "name": "backhand-1.6.34.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.34/backhand-1.6.34.jar"
                 },
                 "1.6.4": {
                     "name": "backhand-1.6.4.jar",
@@ -22862,7 +22866,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.6.33",
+            "latest": "0.6.34",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -23249,6 +23253,10 @@
                 "0.6.33": {
                     "name": "gtnhlib-0.6.33.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.33/gtnhlib-0.6.33.jar"
+                },
+                "0.6.34": {
+                    "name": "gtnhlib-0.6.34.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.34/gtnhlib-0.6.34.jar"
                 },
                 "0.6.4-pre": {
                     "name": "gtnhlib-0.6.4-pre.jar",
@@ -45631,7 +45639,7 @@
         },
         "ThaumicHorizons": {
             "id": "com.github.GTNewHorizons:ThaumicHorizons:<version>",
-            "latest": "1.7.4",
+            "latest": "1.7.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicHorizons",
             "versions": {
@@ -45814,6 +45822,10 @@
                 "1.7.4": {
                     "name": "ThaumicHorizons-1.7.4.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.7.4/ThaumicHorizons-1.7.4.jar"
+                },
+                "1.7.5": {
+                    "name": "ThaumicHorizons-1.7.5.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.7.5/ThaumicHorizons-1.7.5.jar"
                 }
             }
         },
