@@ -1570,7 +1570,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.98-gtnh",
+            "latest": "1.4.99-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2989,6 +2989,10 @@
                 "1.4.98-gtnh": {
                     "name": "ae2fc-1.4.98-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.98-gtnh/ae2fc-1.4.98-gtnh.jar"
+                },
+                "1.4.99-gtnh": {
+                    "name": "ae2fc-1.4.99-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.99-gtnh/ae2fc-1.4.99-gtnh.jar"
                 }
             }
         },
@@ -6702,7 +6706,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.6.34",
+            "latest": "1.6.37",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -6893,6 +6897,10 @@
                 "1.6.34": {
                     "name": "backhand-1.6.34.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.34/backhand-1.6.34.jar"
+                },
+                "1.6.37": {
+                    "name": "backhand-1.6.37.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.37/backhand-1.6.37.jar"
                 },
                 "1.6.4": {
                     "name": "backhand-1.6.4.jar",
@@ -14750,7 +14758,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.368",
+            "latest": "5.09.51.369",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -21522,6 +21530,10 @@
                     "name": "gregtech-5.09.51.368.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.368/gregtech-5.09.51.368.jar"
                 },
+                "5.09.51.369": {
+                    "name": "gregtech-5.09.51.369.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.369/gregtech-5.09.51.369.jar"
+                },
                 "5.09.51.369-pre": {
                     "name": "gregtech-5.09.51.369-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.369-pre/gregtech-5.09.51.369-pre.jar"
@@ -22866,7 +22878,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.6.34",
+            "latest": "0.6.35",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -23257,6 +23269,10 @@
                 "0.6.34": {
                     "name": "gtnhlib-0.6.34.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.34/gtnhlib-0.6.34.jar"
+                },
+                "0.6.35": {
+                    "name": "gtnhlib-0.6.35.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.35/gtnhlib-0.6.35.jar"
                 },
                 "0.6.4-pre": {
                     "name": "gtnhlib-0.6.4-pre.jar",
@@ -27287,7 +27303,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.86",
+            "latest": "2.6.87",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -28863,6 +28879,10 @@
                     "name": "hodgepodge-2.6.86.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.86/hodgepodge-2.6.86.jar"
                 },
+                "2.6.87": {
+                    "name": "hodgepodge-2.6.87.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.87/hodgepodge-2.6.87.jar"
+                },
                 "2.6.9": {
                     "name": "hodgepodge-2.6.9.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.9/hodgepodge-2.6.9.jar"
@@ -29099,7 +29119,7 @@
         },
         "HydroEnergy": {
             "id": "com.github.GTNewHorizons:HydroEnergy:<version>",
-            "latest": "1.4.8",
+            "latest": "1.4.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HydroEnergy",
             "versions": {
@@ -29226,6 +29246,10 @@
                 "1.4.8": {
                     "name": "hydroenergy-1.4.8.jar",
                     "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.8/hydroenergy-1.4.8.jar"
+                },
+                "1.4.9": {
+                    "name": "hydroenergy-1.4.9.jar",
+                    "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.9/hydroenergy-1.4.9.jar"
                 },
                 "latest": {
                     "name": "hydroenergy-1.7.10-1.0.8-1-gbf778d5.jar",
@@ -32619,7 +32643,7 @@
         },
         "ModernMarkings": {
             "id": "com.github.GTNewHorizons:ModernMarkings:<version>",
-            "latest": "0.3.10-1.7.10",
+            "latest": "0.3.12-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModernMarkings",
             "versions": {
@@ -32638,6 +32662,10 @@
                 "0.3.11-1.7.10-pre": {
                     "name": "modernmarkings-0.3.11-1.7.10-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ModernMarkings/releases/download/0.3.11-1.7.10-pre/modernmarkings-0.3.11-1.7.10-pre.jar"
+                },
+                "0.3.12-1.7.10": {
+                    "name": "modernmarkings-0.3.12-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModernMarkings/releases/download/0.3.12-1.7.10/modernmarkings-0.3.12-1.7.10.jar"
                 },
                 "0.3.2-1.7.10": {
                     "name": "modernmarkings-0.3.2-1.7.10.jar",
@@ -34127,7 +34155,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.215",
+            "latest": "2.7.216",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -37002,6 +37030,10 @@
                 "2.7.215": {
                     "name": "GTNewHorizonsCoreMod-2.7.215.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.215/GTNewHorizonsCoreMod-2.7.215.jar"
+                },
+                "2.7.216": {
+                    "name": "GTNewHorizonsCoreMod-2.7.216.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.216/GTNewHorizonsCoreMod-2.7.216.jar"
                 },
                 "2.7.22": {
                     "name": "GTNewHorizonsCoreMod-2.7.22.jar",
