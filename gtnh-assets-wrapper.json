@@ -47487,7 +47487,7 @@
         },
         "UniMixins": {
             "id": "com.github.LegacyModdingMC:UniMixins:<version>",
-            "latest": "0.1.20",
+            "latest": "0.1.22",
             "src": "github",
             "url": "https://github.com/LegacyModdingMC/UniMixins",
             "versions": {
@@ -47534,6 +47534,10 @@
                 "0.1.20": {
                     "name": "+unimixins-all-1.7.10-0.1.20.jar",
                     "url": "https://mediafilez.forgecdn.net/files/6255/669/%2Bunimixins-all-1.7.10-0.1.20.jar"
+                },
+                "0.1.22": {
+                    "name": "+unimixins-all-1.7.10-0.1.22.jar",
+                    "url": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.22/+unimixins-all-1.7.10-0.1.22.jar"
                 },
                 "0.1.5": {
                     "name": "unimixins-all-1.7.10-0.1.5.jar",
