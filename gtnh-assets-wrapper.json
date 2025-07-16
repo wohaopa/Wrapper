@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-07-10-1-pre",
+            "latest": "2.8.0-nightly-2025-07-10",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -32351,7 +32351,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.0.35-GTNH",
+            "latest": "0.0.37-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -32450,6 +32450,10 @@
                 "0.0.35-GTNH": {
                     "name": "matter-manipulator-0.0.35-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.35-GTNH/matter-manipulator-0.0.35-GTNH.jar"
+                },
+                "0.0.37-GTNH": {
+                    "name": "matter-manipulator-0.0.37-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.37-GTNH/matter-manipulator-0.0.37-GTNH.jar"
                 }
             }
         },
@@ -48974,10 +48978,6 @@
                 "1.7.1-GTNH": {
                     "name": "WitchingGadgets-1.7.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.1-GTNH/WitchingGadgets-1.7.1-GTNH.jar"
-                },
-                "1.7.10": {
-                    "name": "WitchingGadgets-1.7.10.jar",
-                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/untagged-13e9b36f08f2723f9a60/WitchingGadgets-1.7.10.jar"
                 },
                 "1.7.10-GTNH": {
                     "name": "WitchingGadgets-1.7.10-GTNH.jar",
