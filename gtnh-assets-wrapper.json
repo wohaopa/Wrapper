@@ -15042,7 +15042,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.401",
+            "latest": "5.09.51.403",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -21962,6 +21962,14 @@
                     "name": "gregtech-5.09.51.401.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.401/gregtech-5.09.51.401.jar"
                 },
+                "5.09.51.402": {
+                    "name": "gregtech-5.09.51.402.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.402/gregtech-5.09.51.402.jar"
+                },
+                "5.09.51.403": {
+                    "name": "gregtech-5.09.51.403.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.403/gregtech-5.09.51.403.jar"
+                },
                 "5.09.51.41-pre": {
                     "name": "gregtech-5.09.51.41-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.41-pre/gregtech-5.09.51.41-pre.jar"
@@ -27775,7 +27783,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.93",
+            "latest": "2.6.94",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -29382,6 +29390,10 @@
                 "2.6.93": {
                     "name": "hodgepodge-2.6.93.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.93/hodgepodge-2.6.93.jar"
+                },
+                "2.6.94": {
+                    "name": "hodgepodge-2.6.94.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.94/hodgepodge-2.6.94.jar"
                 }
             }
         },
@@ -41923,7 +41935,7 @@
         },
         "SGCraft": {
             "id": "com.github.GTNewHorizons:SGCraft:<version>",
-            "latest": "1.4.4-GTNH",
+            "latest": "1.4.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SGCraft",
             "versions": {
@@ -41954,6 +41966,10 @@
                 "1.4.4-GTNH": {
                     "name": "SGCraft-1.4.4-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.4-GTNH/SGCraft-1.4.4-GTNH.jar"
+                },
+                "1.4.5-GTNH": {
+                    "name": "SGCraft-1.4.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.5-GTNH/SGCraft-1.4.5-GTNH.jar"
                 }
             }
         },
@@ -42999,7 +43015,7 @@
         },
         "SpiceOfLife": {
             "id": "com.github.GTNewHorizons:SpiceOfLife:<version>",
-            "latest": "2.2.1-carrot",
+            "latest": "2.2.2-carrot",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SpiceOfLife",
             "versions": {
@@ -43102,6 +43118,10 @@
                 "2.2.1-carrot": {
                     "name": "SpiceOfLife-2.2.1-carrot.jar",
                     "url": "https://github.com/GTNewHorizons/SpiceOfLife/releases/download/2.2.1-carrot/SpiceOfLife-2.2.1-carrot.jar"
+                },
+                "2.2.2-carrot": {
+                    "name": "SpiceOfLife-2.2.2-carrot.jar",
+                    "url": "https://github.com/GTNewHorizons/SpiceOfLife/releases/download/2.2.2-carrot/SpiceOfLife-2.2.2-carrot.jar"
                 },
                 "v.2.0.0-carrot-beta10": {
                     "name": "SpiceOfLife-1.7.10-v.2.0.0-carrot-beta10.jar",
@@ -47923,7 +47943,7 @@
         },
         "Translocators": {
             "id": "com.github.GTNewHorizons:Translocators:<version>",
-            "latest": "1.3.0",
+            "latest": "1.3.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Translocators",
             "versions": {
@@ -47958,6 +47978,10 @@
                 "1.3.0": {
                     "name": "Translocator-1.3.0.jar",
                     "url": "https://github.com/GTNewHorizons/Translocators/releases/download/1.3.0/Translocator-1.3.0.jar"
+                },
+                "1.3.1": {
+                    "name": "Translocator-1.3.1.jar",
+                    "url": "https://github.com/GTNewHorizons/Translocators/releases/download/1.3.1/Translocator-1.3.1.jar"
                 }
             }
         },
