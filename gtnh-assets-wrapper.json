@@ -6370,7 +6370,7 @@
         },
         "Archaicfix": {
             "id": "com.github.embeddedt:ArchaicFix:<version>",
-            "latest": "0.7.6",
+            "latest": "0.7.7",
             "src": "github",
             "url": "https://github.com/embeddedt/ArchaicFix",
             "versions": {
@@ -6401,6 +6401,10 @@
                 "0.7.6": {
                     "name": "archaicfix-0.7.6.jar",
                     "url": "https://mediafilez.forgecdn.net/files/6474/994/archaicfix-0.7.6.jar"
+                },
+                "0.7.7": {
+                    "name": "archaicfix-0.7.7.jar",
+                    "url": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.7/archaicfix-0.7.7.jar"
                 }
             }
         },
@@ -14390,7 +14394,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.10.15",
+            "latest": "4.10.16",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -14425,6 +14429,10 @@
                 "4.10.15": {
                     "name": "Forestry-4.10.15.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.15/Forestry-4.10.15.jar"
+                },
+                "4.10.16": {
+                    "name": "Forestry-4.10.16.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.16/Forestry-4.10.16.jar"
                 },
                 "4.10.2": {
                     "name": "Forestry-4.10.2.jar",
@@ -15086,7 +15094,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.406",
+            "latest": "5.09.51.408",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22025,6 +22033,14 @@
                 "5.09.51.406": {
                     "name": "gregtech-5.09.51.406.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.406/gregtech-5.09.51.406.jar"
+                },
+                "5.09.51.407": {
+                    "name": "gregtech-5.09.51.407.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.407/gregtech-5.09.51.407.jar"
+                },
+                "5.09.51.408": {
+                    "name": "gregtech-5.09.51.408.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.408/gregtech-5.09.51.408.jar"
                 },
                 "5.09.51.41-pre": {
                     "name": "gregtech-5.09.51.41-pre.jar",
@@ -30039,7 +30055,7 @@
         },
         "InGame-Info-XML": {
             "id": "com.github.GTNewHorizons:InGame-Info-XML:<version>",
-            "latest": "2.8.27",
+            "latest": "2.8.28",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InGame-Info-XML",
             "versions": {
@@ -30122,6 +30138,10 @@
                 "2.8.27": {
                     "name": "InGameInfoXML-2.8.27.jar",
                     "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.27/InGameInfoXML-2.8.27.jar"
+                },
+                "2.8.28": {
+                    "name": "InGameInfoXML-2.8.28.jar",
+                    "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.28/InGameInfoXML-2.8.28.jar"
                 },
                 "2.8.3.88": {
                     "name": "InGameInfoXML-1.7.10-2.8.3.88.jar",
@@ -34811,7 +34831,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.226",
+            "latest": "2.7.228",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -37742,6 +37762,10 @@
                 "2.7.227-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.227-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.227-pre/GTNewHorizonsCoreMod-2.7.227-pre.jar"
+                },
+                "2.7.228": {
+                    "name": "GTNewHorizonsCoreMod-2.7.228.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.228/GTNewHorizonsCoreMod-2.7.228.jar"
                 },
                 "2.7.23-pre": {
                     "name": "GTNewHorizonsCoreMod-2.7.23-pre.jar",
