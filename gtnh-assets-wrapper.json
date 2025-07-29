@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-07-26-1-pre",
+            "latest": "2.8.0-nightly-2025-07-26",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -33267,7 +33267,7 @@
         },
         "Mobs-Info": {
             "id": "com.github.GTNewHorizons:Mobs-Info:<version>",
-            "latest": "0.5.3-GTNH",
+            "latest": "0.5.4-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Mobs-Info",
             "versions": {
@@ -33446,6 +33446,10 @@
                 "0.5.3-GTNH": {
                     "name": "mobsinfo-0.5.3-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.3-GTNH/mobsinfo-0.5.3-GTNH.jar"
+                },
+                "0.5.4-GTNH": {
+                    "name": "mobsinfo-0.5.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.4-GTNH/mobsinfo-0.5.4-GTNH.jar"
                 }
             }
         },
