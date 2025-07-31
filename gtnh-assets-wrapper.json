@@ -6942,7 +6942,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.6.38",
+            "latest": "1.6.39",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -7141,6 +7141,10 @@
                 "1.6.38": {
                     "name": "backhand-1.6.38.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.38/backhand-1.6.38.jar"
+                },
+                "1.6.39": {
+                    "name": "backhand-1.6.39.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.39/backhand-1.6.39.jar"
                 },
                 "1.6.4": {
                     "name": "backhand-1.6.4.jar",
@@ -7458,7 +7462,7 @@
         },
         "BeeBetterAtBees-GTNH": {
             "id": "com.github.GTNewHorizons:BeeBetterAtBees-GTNH:<version>",
-            "latest": "0.4.2-GTNH",
+            "latest": "0.4.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH",
             "versions": {
@@ -7477,6 +7481,10 @@
                 "0.4.2-GTNH": {
                     "name": "beebetteratbees-0.4.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.2-GTNH/beebetteratbees-0.4.2-GTNH.jar"
+                },
+                "0.4.3-GTNH": {
+                    "name": "beebetteratbees-0.4.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.3-GTNH/beebetteratbees-0.4.3-GTNH.jar"
                 }
             }
         },
@@ -9818,7 +9826,7 @@
         },
         "Botanic-horizons": {
             "id": "com.github.GTNewHorizons:Botanic-horizons:<version>",
-            "latest": "1.11.18-GTNH",
+            "latest": "1.11.21-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botanic-horizons",
             "versions": {
@@ -9981,6 +9989,10 @@
                 "1.11.20-GTNH-pre": {
                     "name": "BotanicHorizons-1.11.20-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.20-GTNH-pre/BotanicHorizons-1.11.20-GTNH-pre.jar"
+                },
+                "1.11.21-GTNH": {
+                    "name": "BotanicHorizons-1.11.21-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.21-GTNH/BotanicHorizons-1.11.21-GTNH.jar"
                 }
             }
         },
@@ -15202,7 +15214,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.419",
+            "latest": "5.09.51.420",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22201,6 +22213,10 @@
                 "5.09.51.42-pre": {
                     "name": "gregtech-5.09.51.42-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.42-pre/gregtech-5.09.51.42-pre.jar"
+                },
+                "5.09.51.420": {
+                    "name": "gregtech-5.09.51.420.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.420/gregtech-5.09.51.420.jar"
                 },
                 "5.09.51.43-pre": {
                     "name": "gregtech-5.09.51.43-pre.jar",
@@ -38363,7 +38379,7 @@
         },
         "NotEnoughEnergistics": {
             "id": "com.github.GTNewHorizons:NotEnoughEnergistics:<version>",
-            "latest": "1.7.7",
+            "latest": "1.7.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics",
             "versions": {
@@ -38550,6 +38566,10 @@
                 "1.7.7": {
                     "name": "NotEnoughEnergistics-1.7.7.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.7/NotEnoughEnergistics-1.7.7.jar"
+                },
+                "1.7.9": {
+                    "name": "NotEnoughEnergistics-1.7.9.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.9/NotEnoughEnergistics-1.7.9.jar"
                 }
             }
         },
@@ -45031,7 +45051,7 @@
         },
         "Tainted-Magic": {
             "id": "com.github.GTNewHorizons:Tainted-Magic:<version>",
-            "latest": "7.6.23-GTNH",
+            "latest": "7.6.25-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Tainted-Magic",
             "versions": {
@@ -45098,6 +45118,10 @@
                 "7.6.23-GTNH": {
                     "name": "Tainted-Magic-7.6.23-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.23-GTNH/Tainted-Magic-7.6.23-GTNH.jar"
+                },
+                "7.6.25-GTNH": {
+                    "name": "Tainted-Magic-7.6.25-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.25-GTNH/Tainted-Magic-7.6.25-GTNH.jar"
                 },
                 "7.6.3-GTNH": {
                     "name": "Tainted-Magic-7.6.3-GTNH.jar",
@@ -46339,7 +46363,7 @@
         },
         "ThaumicBoots": {
             "id": "com.github.GTNewHorizons:ThaumicBoots:<version>",
-            "latest": "1.4.11",
+            "latest": "1.4.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicBoots",
             "versions": {
@@ -46474,6 +46498,10 @@
                 "1.4.11": {
                     "name": "thaumicboots-1.4.11.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.4.11/thaumicboots-1.4.11.jar"
+                },
+                "1.4.13": {
+                    "name": "thaumicboots-1.4.13.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.4.13/thaumicboots-1.4.13.jar"
                 },
                 "1.4.2": {
                     "name": "thaumicboots-1.4.2.jar",
@@ -49547,7 +49575,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.7.16-GTNH",
+            "latest": "1.7.18-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -49830,6 +49858,14 @@
                 "1.7.16-GTNH": {
                     "name": "WitchingGadgets-1.7.16-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.16-GTNH/WitchingGadgets-1.7.16-GTNH.jar"
+                },
+                "1.7.17-GTNH": {
+                    "name": "WitchingGadgets-1.7.17-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.17-GTNH/WitchingGadgets-1.7.17-GTNH.jar"
+                },
+                "1.7.18-GTNH": {
+                    "name": "WitchingGadgets-1.7.18-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.18-GTNH/WitchingGadgets-1.7.18-GTNH.jar"
                 },
                 "1.7.2-GTNH": {
                     "name": "WitchingGadgets-1.7.2-GTNH.jar",
