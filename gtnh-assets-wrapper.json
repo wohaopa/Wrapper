@@ -12378,7 +12378,7 @@
         },
         "DummyCore": {
             "id": "com.github.GTNewHorizons:DummyCore:<version>",
-            "latest": "1.19.0",
+            "latest": "1.20.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/DummyCore",
             "versions": {
@@ -12405,6 +12405,10 @@
                 "1.19.0": {
                     "name": "DummyCore-1.19.0.jar",
                     "url": "https://github.com/GTNewHorizons/DummyCore/releases/download/1.19.0/DummyCore-1.19.0.jar"
+                },
+                "1.20.0": {
+                    "name": "DummyCore-1.20.0.jar",
+                    "url": "https://github.com/GTNewHorizons/DummyCore/releases/download/1.20.0/DummyCore-1.20.0.jar"
                 }
             }
         },
@@ -15238,7 +15242,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.420",
+            "latest": "5.09.51.422",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22241,6 +22245,10 @@
                 "5.09.51.420": {
                     "name": "gregtech-5.09.51.420.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.420/gregtech-5.09.51.420.jar"
+                },
+                "5.09.51.422": {
+                    "name": "gregtech-5.09.51.422.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.422/gregtech-5.09.51.422.jar"
                 },
                 "5.09.51.43-pre": {
                     "name": "gregtech-5.09.51.43-pre.jar",
