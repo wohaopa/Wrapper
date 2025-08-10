@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-08-04",
+            "latest": "2.8.0-nightly-2025-08-08",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1671,6 +1671,10 @@
                 "2.8.0-nightly-2025-08-04": {
                     "name": "2.8.0-nightly-2025-08-04.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-08-04/2.8.0-nightly-2025-08-04.zip"
+                },
+                "2.8.0-nightly-2025-08-08": {
+                    "name": "2.8.0-nightly-2025-08-08.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-08-08/2.8.0-nightly-2025-08-08.zip"
                 }
             }
         }
@@ -1678,7 +1682,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.106-gtnh",
+            "latest": "1.4.108-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2737,6 +2741,10 @@
                 "1.4.106-gtnh": {
                     "name": "ae2fc-1.4.106-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.106-gtnh/ae2fc-1.4.106-gtnh.jar"
+                },
+                "1.4.108-gtnh": {
+                    "name": "ae2fc-1.4.108-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.108-gtnh/ae2fc-1.4.108-gtnh.jar"
                 },
                 "1.4.11-gtnh-pre": {
                     "name": "ae2fc-1.4.11-gtnh-pre.jar",
@@ -6662,7 +6670,7 @@
         },
         "Avaritia": {
             "id": "com.github.GTNewHorizons:Avaritia:<version>",
-            "latest": "1.70",
+            "latest": "1.72",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Avaritia",
             "versions": {
@@ -6885,6 +6893,14 @@
                 "1.70": {
                     "name": "Avaritia-1.70.jar",
                     "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.70/Avaritia-1.70.jar"
+                },
+                "1.71": {
+                    "name": "Avaritia-1.71.jar",
+                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.71/Avaritia-1.71.jar"
+                },
+                "1.72": {
+                    "name": "Avaritia-1.72.jar",
+                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.72/Avaritia-1.72.jar"
                 }
             }
         },
@@ -9838,7 +9854,7 @@
         },
         "Botanic-horizons": {
             "id": "com.github.GTNewHorizons:Botanic-horizons:<version>",
-            "latest": "1.11.22-GTNH",
+            "latest": "1.11.23-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botanic-horizons",
             "versions": {
@@ -10009,6 +10025,10 @@
                 "1.11.22-GTNH": {
                     "name": "BotanicHorizons-1.11.22-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.22-GTNH/BotanicHorizons-1.11.22-GTNH.jar"
+                },
+                "1.11.23-GTNH": {
+                    "name": "BotanicHorizons-1.11.23-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.23-GTNH/BotanicHorizons-1.11.23-GTNH.jar"
                 }
             }
         },
@@ -10711,7 +10731,7 @@
         },
         "CodeChickenCore": {
             "id": "com.github.GTNewHorizons:CodeChickenCore:<version>",
-            "latest": "1.4.3",
+            "latest": "1.4.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CodeChickenCore",
             "versions": {
@@ -10838,6 +10858,10 @@
                 "1.4.3": {
                     "name": "CodeChickenCore-1.4.3.jar",
                     "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.3/CodeChickenCore-1.4.3.jar"
+                },
+                "1.4.5": {
+                    "name": "CodeChickenCore-1.4.5.jar",
+                    "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.5/CodeChickenCore-1.4.5.jar"
                 }
             }
         },
@@ -14542,7 +14566,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.10.16",
+            "latest": "4.10.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -14581,6 +14605,10 @@
                 "4.10.16": {
                     "name": "Forestry-4.10.16.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.16/Forestry-4.10.16.jar"
+                },
+                "4.10.17": {
+                    "name": "Forestry-4.10.17.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.17/Forestry-4.10.17.jar"
                 },
                 "4.10.2": {
                     "name": "Forestry-4.10.2.jar",
@@ -15246,7 +15274,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.422",
+            "latest": "5.09.51.424",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22253,6 +22281,14 @@
                 "5.09.51.422": {
                     "name": "gregtech-5.09.51.422.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.422/gregtech-5.09.51.422.jar"
+                },
+                "5.09.51.423": {
+                    "name": "gregtech-5.09.51.423.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.423/gregtech-5.09.51.423.jar"
+                },
+                "5.09.51.424": {
+                    "name": "gregtech-5.09.51.424.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.424/gregtech-5.09.51.424.jar"
                 },
                 "5.09.51.43-pre": {
                     "name": "gregtech-5.09.51.43-pre.jar",
@@ -30071,7 +30107,7 @@
         },
         "IFU": {
             "id": "com.github.GTNewHorizons:IFU:<version>",
-            "latest": "1.11.1",
+            "latest": "1.11.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/IFU",
             "versions": {
@@ -30098,6 +30134,10 @@
                 "1.11.1": {
                     "name": "ifu-1.11.1.jar",
                     "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.11.1/ifu-1.11.1.jar"
+                },
+                "1.11.2": {
+                    "name": "ifu-1.11.2.jar",
+                    "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.11.2/ifu-1.11.2.jar"
                 },
                 "1.3": {
                     "name": "IFU-1.3.jar",
@@ -31875,7 +31915,7 @@
         },
         "LittleTiles": {
             "id": "com.github.GTNewHorizons:LittleTiles:<version>",
-            "latest": "1.5.11-GTNH",
+            "latest": "1.5.12-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LittleTiles",
             "versions": {
@@ -31942,6 +31982,10 @@
                 "1.5.11-GTNH": {
                     "name": "littletiles-1.5.11-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.5.11-GTNH/littletiles-1.5.11-GTNH.jar"
+                },
+                "1.5.12-GTNH": {
+                    "name": "littletiles-1.5.12-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.5.12-GTNH/littletiles-1.5.12-GTNH.jar"
                 },
                 "1.5.2-GTNH": {
                     "name": "littletiles-1.5.2-GTNH.jar",
@@ -35087,7 +35131,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.233",
+            "latest": "2.7.234",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -38047,6 +38091,10 @@
                     "name": "GTNewHorizonsCoreMod-2.7.233.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.233/GTNewHorizonsCoreMod-2.7.233.jar"
                 },
+                "2.7.234": {
+                    "name": "GTNewHorizonsCoreMod-2.7.234.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.234/GTNewHorizonsCoreMod-2.7.234.jar"
+                },
                 "2.7.24": {
                     "name": "GTNewHorizonsCoreMod-2.7.24.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.24/GTNewHorizonsCoreMod-2.7.24.jar"
@@ -38739,7 +38787,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.7.69-GTNH",
+            "latest": "2.7.72-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -40010,6 +40058,10 @@
                 "2.7.70-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.70-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.70-GTNH-pre/NotEnoughItems-2.7.70-GTNH-pre.jar"
+                },
+                "2.7.72-GTNH": {
+                    "name": "NotEnoughItems-2.7.72-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.72-GTNH/NotEnoughItems-2.7.72-GTNH.jar"
                 },
                 "2.7.8-GTNH": {
                     "name": "NotEnoughItems-2.7.8-GTNH.jar",
@@ -42391,7 +42443,7 @@
         },
         "Salis-Arcana": {
             "id": "com.github.GTNewHorizons:Salis-Arcana:<version>",
-            "latest": "1.1.26-GTNH",
+            "latest": "1.1.27-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Salis-Arcana",
             "versions": {
@@ -42466,6 +42518,10 @@
                 "1.1.26-GTNH": {
                     "name": "salisarcana-1.1.26-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.26-GTNH/salisarcana-1.1.26-GTNH.jar"
+                },
+                "1.1.27-GTNH": {
+                    "name": "salisarcana-1.1.27-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.27-GTNH/salisarcana-1.1.27-GTNH.jar"
                 },
                 "1.1.3-GTNH": {
                     "name": "salisarcana-1.1.3-GTNH.jar",
@@ -48679,7 +48735,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.4.6",
+            "latest": "1.4.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -48994,6 +49050,10 @@
                 "1.4.6": {
                     "name": "visualprospecting-1.4.6.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.4.6/visualprospecting-1.4.6.jar"
+                },
+                "1.4.7": {
+                    "name": "visualprospecting-1.4.7.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.4.7/visualprospecting-1.4.7.jar"
                 }
             }
         },
