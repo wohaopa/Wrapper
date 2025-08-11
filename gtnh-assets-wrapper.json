@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-08-08",
+            "latest": "2.8.0-nightly-2025-08-09",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1675,6 +1675,10 @@
                 "2.8.0-nightly-2025-08-08": {
                     "name": "2.8.0-nightly-2025-08-08.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-08-08/2.8.0-nightly-2025-08-08.zip"
+                },
+                "2.8.0-nightly-2025-08-09": {
+                    "name": "2.8.0-nightly-2025-08-09.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-08-09/2.8.0-nightly-2025-08-09.zip"
                 }
             }
         }
@@ -15274,7 +15278,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.424",
+            "latest": "5.09.51.426",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22290,6 +22294,14 @@
                     "name": "gregtech-5.09.51.424.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.424/gregtech-5.09.51.424.jar"
                 },
+                "5.09.51.425": {
+                    "name": "gregtech-5.09.51.425.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.425/gregtech-5.09.51.425.jar"
+                },
+                "5.09.51.426": {
+                    "name": "gregtech-5.09.51.426.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.426/gregtech-5.09.51.426.jar"
+                },
                 "5.09.51.43-pre": {
                     "name": "gregtech-5.09.51.43-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.43-pre/gregtech-5.09.51.43-pre.jar"
@@ -26494,7 +26506,7 @@
         },
         "Galaxy-Space-GTNH": {
             "id": "com.github.GTNewHorizons:Galaxy-Space-GTNH:<version>",
-            "latest": "1.1.116-GTNH",
+            "latest": "1.1.117-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH",
@@ -26566,6 +26578,10 @@
                 "1.1.116-GTNH": {
                     "name": "GalaxySpace-1.1.116-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.116-GTNH/GalaxySpace-1.1.116-GTNH.jar"
+                },
+                "1.1.117-GTNH": {
+                    "name": "GalaxySpace-1.1.117-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.117-GTNH/GalaxySpace-1.1.117-GTNH.jar"
                 },
                 "1.1.16c-GTNH": {
                     "name": "GalaxySpace-1.7.10-1.1.16c-GTNH.jar",
@@ -35131,7 +35147,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.234",
+            "latest": "2.7.236",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -38094,6 +38110,10 @@
                 "2.7.234": {
                     "name": "GTNewHorizonsCoreMod-2.7.234.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.234/GTNewHorizonsCoreMod-2.7.234.jar"
+                },
+                "2.7.236": {
+                    "name": "GTNewHorizonsCoreMod-2.7.236.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.236/GTNewHorizonsCoreMod-2.7.236.jar"
                 },
                 "2.7.24": {
                     "name": "GTNewHorizonsCoreMod-2.7.24.jar",
