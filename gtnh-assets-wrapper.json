@@ -3674,7 +3674,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta53",
+            "latest": "1.0.0-beta54",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -4077,6 +4077,10 @@
                 "1.0.0-beta53": {
                     "name": "angelica-1.0.0-beta53.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta53/angelica-1.0.0-beta53.jar"
+                },
+                "1.0.0-beta54": {
+                    "name": "angelica-1.0.0-beta54.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta54/angelica-1.0.0-beta54.jar"
                 },
                 "1.0.0-beta6": {
                     "name": "angelica-1.0.0-beta6.jar",
@@ -23630,7 +23634,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.6.38",
+            "latest": "0.6.39",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -24037,6 +24041,10 @@
                 "0.6.38": {
                     "name": "gtnhlib-0.6.38.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.38/gtnhlib-0.6.38.jar"
+                },
+                "0.6.39": {
+                    "name": "gtnhlib-0.6.39.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.39/gtnhlib-0.6.39.jar"
                 },
                 "0.6.4-pre": {
                     "name": "gtnhlib-0.6.4-pre.jar",
@@ -33011,7 +33019,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.0.41-GTNH",
+            "latest": "0.0.43-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -33134,6 +33142,10 @@
                 "0.0.41-GTNH": {
                     "name": "matter-manipulator-0.0.41-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.41-GTNH/matter-manipulator-0.0.41-GTNH.jar"
+                },
+                "0.0.43-GTNH": {
+                    "name": "matter-manipulator-0.0.43-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.43-GTNH/matter-manipulator-0.0.43-GTNH.jar"
                 }
             }
         },
