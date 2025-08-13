@@ -10739,7 +10739,7 @@
         },
         "CodeChickenCore": {
             "id": "com.github.GTNewHorizons:CodeChickenCore:<version>",
-            "latest": "1.4.5",
+            "latest": "1.4.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CodeChickenCore",
             "versions": {
@@ -10870,6 +10870,10 @@
                 "1.4.5": {
                     "name": "CodeChickenCore-1.4.5.jar",
                     "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.5/CodeChickenCore-1.4.5.jar"
+                },
+                "1.4.7": {
+                    "name": "CodeChickenCore-1.4.7.jar",
+                    "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.7/CodeChickenCore-1.4.7.jar"
                 }
             }
         },
@@ -15014,7 +15018,7 @@
         },
         "ForgeMultipart": {
             "id": "com.github.GTNewHorizons:ForgeMultipart:<version>",
-            "latest": "1.6.7",
+            "latest": "1.6.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForgeMultipart",
             "versions": {
@@ -15137,6 +15141,10 @@
                 "1.6.7": {
                     "name": "ForgeMultipart-1.6.7.jar",
                     "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.7/ForgeMultipart-1.6.7.jar"
+                },
+                "1.6.8": {
+                    "name": "ForgeMultipart-1.6.8.jar",
+                    "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.8/ForgeMultipart-1.6.8.jar"
                 }
             }
         },
@@ -26214,7 +26222,7 @@
         },
         "Galacticraft": {
             "id": "com.github.GTNewHorizons:Galacticraft:<version>",
-            "latest": "3.3.10-GTNH",
+            "latest": "3.3.11-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galacticraft",
             "versions": {
@@ -26478,6 +26486,10 @@
                     "name": "Galacticraft-3.3.10-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.10-GTNH/Galacticraft-3.3.10-GTNH.jar"
                 },
+                "3.3.11-GTNH": {
+                    "name": "Galacticraft-3.3.11-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.11-GTNH/Galacticraft-3.3.11-GTNH.jar"
+                },
                 "3.3.2-GTNH": {
                     "name": "Galacticraft-3.3.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.2-GTNH/Galacticraft-3.3.2-GTNH.jar"
@@ -26514,7 +26526,7 @@
         },
         "Galaxy-Space-GTNH": {
             "id": "com.github.GTNewHorizons:Galaxy-Space-GTNH:<version>",
-            "latest": "1.1.117-GTNH",
+            "latest": "1.1.118-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH",
@@ -26590,6 +26602,10 @@
                 "1.1.117-GTNH": {
                     "name": "GalaxySpace-1.1.117-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.117-GTNH/GalaxySpace-1.1.117-GTNH.jar"
+                },
+                "1.1.118-GTNH": {
+                    "name": "GalaxySpace-1.1.118-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.118-GTNH/GalaxySpace-1.1.118-GTNH.jar"
                 },
                 "1.1.16c-GTNH": {
                     "name": "GalaxySpace-1.7.10-1.1.16c-GTNH.jar",
@@ -28131,7 +28147,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.6.96",
+            "latest": "2.6.97",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -29746,6 +29762,10 @@
                 "2.6.96": {
                     "name": "hodgepodge-2.6.96.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.96/hodgepodge-2.6.96.jar"
+                },
+                "2.6.97": {
+                    "name": "hodgepodge-2.6.97.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.97/hodgepodge-2.6.97.jar"
                 }
             }
         },
@@ -41519,7 +41539,7 @@
         },
         "ProjectRed": {
             "id": "com.github.GTNewHorizons:ProjectRed:<version>",
-            "latest": "4.11.9-GTNH",
+            "latest": "4.11.11-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ProjectRed",
             "versions": {
@@ -41554,6 +41574,10 @@
                 "4.11.1-GTNH": {
                     "name": "ProjRed-4.11.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.1-GTNH/ProjRed-4.11.1-GTNH.jar"
+                },
+                "4.11.11-GTNH": {
+                    "name": "ProjRed-4.11.11-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.11-GTNH/ProjRed-4.11.11-GTNH.jar"
                 },
                 "4.11.2-GTNH-pre": {
                     "name": "ProjRed-4.11.2-GTNH-pre.jar",
@@ -42347,7 +42371,7 @@
         },
         "SC2": {
             "id": "com.github.GTNewHorizons:SC2:<version>",
-            "latest": "2.3.11",
+            "latest": "2.3.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SC2",
             "versions": {
@@ -42398,6 +42422,10 @@
                 "2.3.11": {
                     "name": "StevesCarts-2.3.11.jar",
                     "url": "https://github.com/GTNewHorizons/SC2/releases/download/2.3.11/StevesCarts-2.3.11.jar"
+                },
+                "2.3.12": {
+                    "name": "StevesCarts-2.3.12.jar",
+                    "url": "https://github.com/GTNewHorizons/SC2/releases/download/2.3.12/StevesCarts-2.3.12.jar"
                 },
                 "2.3.2-pre": {
                     "name": "StevesCarts-2.3.2-pre.jar",
@@ -49647,7 +49675,7 @@
         },
         "WitcheryExtras": {
             "id": "com.github.GTNewHorizons:WitcheryExtras:<version>",
-            "latest": "1.3.1",
+            "latest": "1.3.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitcheryExtras",
             "versions": {
@@ -49722,6 +49750,10 @@
                 "1.3.1": {
                     "name": "WitcheryExtras-1.3.1.jar",
                     "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.1/WitcheryExtras-1.3.1.jar"
+                },
+                "1.3.3": {
+                    "name": "WitcheryExtras-1.3.3.jar",
+                    "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.3/WitcheryExtras-1.3.3.jar"
                 }
             }
         },
@@ -51828,7 +51860,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.7.8",
+            "latest": "2.7.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
@@ -52183,6 +52215,10 @@
                 "2.7.8": {
                     "name": "TwilightForest-2.7.8.jar",
                     "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.8/TwilightForest-2.7.8.jar"
+                },
+                "2.7.9": {
+                    "name": "TwilightForest-2.7.9.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.9/TwilightForest-2.7.9.jar"
                 }
             }
         },
