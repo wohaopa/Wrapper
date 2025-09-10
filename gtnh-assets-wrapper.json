@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-09-07",
+            "latest": "2.8.0-nightly-2025-09-09",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1727,6 +1727,10 @@
                 "2.8.0-nightly-2025-09-07": {
                     "name": "2.8.0-nightly-2025-09-07.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-09-07/2.8.0-nightly-2025-09-07.zip"
+                },
+                "2.8.0-nightly-2025-09-09": {
+                    "name": "2.8.0-nightly-2025-09-09.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-09-09/2.8.0-nightly-2025-09-09.zip"
                 }
             }
         }
@@ -1734,7 +1738,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.4.113-gtnh",
+            "latest": "1.4.114-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -2817,6 +2821,10 @@
                 "1.4.113-gtnh": {
                     "name": "ae2fc-1.4.113-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.113-gtnh/ae2fc-1.4.113-gtnh.jar"
+                },
+                "1.4.114-gtnh": {
+                    "name": "ae2fc-1.4.114-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.114-gtnh/ae2fc-1.4.114-gtnh.jar"
                 },
                 "1.4.12-gtnh": {
                     "name": "ae2fc-1.4.12-gtnh.jar",
@@ -15546,7 +15554,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.449",
+            "latest": "5.09.51.450",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22669,6 +22677,10 @@
                 "5.09.51.45-pre": {
                     "name": "gregtech-5.09.51.45-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.45-pre/gregtech-5.09.51.45-pre.jar"
+                },
+                "5.09.51.450": {
+                    "name": "gregtech-5.09.51.450.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.450/gregtech-5.09.51.450.jar"
                 },
                 "5.09.51.46": {
                     "name": "gregtech-5.09.51.46.jar",
@@ -33407,7 +33419,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.0.47-GTNH",
+            "latest": "0.0.49-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -33542,6 +33554,10 @@
                 "0.0.47-GTNH": {
                     "name": "matter-manipulator-0.0.47-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.47-GTNH/matter-manipulator-0.0.47-GTNH.jar"
+                },
+                "0.0.49-GTNH": {
+                    "name": "matter-manipulator-0.0.49-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.49-GTNH/matter-manipulator-0.0.49-GTNH.jar"
                 }
             }
         },
@@ -39291,7 +39307,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.7.81-GTNH",
+            "latest": "2.7.82-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -40602,6 +40618,10 @@
                 "2.7.81-GTNH": {
                     "name": "NotEnoughItems-2.7.81-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.81-GTNH/NotEnoughItems-2.7.81-GTNH.jar"
+                },
+                "2.7.82-GTNH": {
+                    "name": "NotEnoughItems-2.7.82-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.82-GTNH/NotEnoughItems-2.7.82-GTNH.jar"
                 },
                 "2.7.9-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.9-GTNH-pre.jar",
@@ -43007,7 +43027,7 @@
         },
         "Salis-Arcana": {
             "id": "com.github.GTNewHorizons:Salis-Arcana:<version>",
-            "latest": "1.1.31-GTNH",
+            "latest": "1.1.32-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Salis-Arcana",
             "versions": {
@@ -43106,6 +43126,10 @@
                 "1.1.31-GTNH": {
                     "name": "salisarcana-1.1.31-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.31-GTNH/salisarcana-1.1.31-GTNH.jar"
+                },
+                "1.1.32-GTNH": {
+                    "name": "salisarcana-1.1.32-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.32-GTNH/salisarcana-1.1.32-GTNH.jar"
                 },
                 "1.1.4-GTNH": {
                     "name": "salisarcana-1.1.4-GTNH.jar",
