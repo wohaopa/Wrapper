@@ -15554,7 +15554,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.450",
+            "latest": "5.09.51.451",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22681,6 +22681,10 @@
                 "5.09.51.450": {
                     "name": "gregtech-5.09.51.450.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.450/gregtech-5.09.51.450.jar"
+                },
+                "5.09.51.451": {
+                    "name": "gregtech-5.09.51.451.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.451/gregtech-5.09.51.451.jar"
                 },
                 "5.09.51.46": {
                     "name": "gregtech-5.09.51.46.jar",
@@ -35595,7 +35599,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.247",
+            "latest": "2.7.248",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -38611,6 +38615,10 @@
                     "name": "GTNewHorizonsCoreMod-2.7.247.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.247/GTNewHorizonsCoreMod-2.7.247.jar"
                 },
+                "2.7.248": {
+                    "name": "GTNewHorizonsCoreMod-2.7.248.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.248/GTNewHorizonsCoreMod-2.7.248.jar"
+                },
                 "2.7.26": {
                     "name": "GTNewHorizonsCoreMod-2.7.26.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.26/GTNewHorizonsCoreMod-2.7.26.jar"
@@ -41043,7 +41051,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.11.18-GTNH",
+            "latest": "1.11.19-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -41210,6 +41218,10 @@
                 "1.11.18-GTNH": {
                     "name": "OpenComputers-1.11.18-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.18-GTNH/OpenComputers-1.11.18-GTNH.jar"
+                },
+                "1.11.19-GTNH": {
+                    "name": "OpenComputers-1.11.19-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.19-GTNH/OpenComputers-1.11.19-GTNH.jar"
                 },
                 "1.11.2-GTNH": {
                     "name": "OpenComputers-1.11.2-GTNH.jar",
