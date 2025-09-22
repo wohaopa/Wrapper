@@ -1767,6 +1767,10 @@
                 "2.8.0-nightly-2025-09-20-2": {
                     "name": "2.8.0-nightly-2025-09-20-2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-09-20-2/2.8.0-nightly-2025-09-20-2.zip"
+                },
+                "2.8.0-rc-1": {
+                    "name": "2.8.0-rc-1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-rc-1/2.8.0-rc-1.zip"
                 }
             }
         }
@@ -4394,7 +4398,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-687-GTNH",
+            "latest": "rv3-beta-688-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6522,6 +6526,10 @@
                     "name": "appliedenergistics2-rv3-beta-687-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-687-GTNH/appliedenergistics2-rv3-beta-687-GTNH.jar"
                 },
+                "rv3-beta-688-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-688-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-688-GTNH/appliedenergistics2-rv3-beta-688-GTNH.jar"
+                },
                 "rv3-beta-69-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-69-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-69-GTNH/appliedenergistics2-1.7.10-rv3-beta-69-GTNH.jar"
@@ -7190,7 +7198,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.7.2",
+            "latest": "1.7.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -7433,6 +7441,10 @@
                 "1.7.2": {
                     "name": "backhand-1.7.2.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.2/backhand-1.7.2.jar"
+                },
+                "1.7.3": {
+                    "name": "backhand-1.7.3.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.3/backhand-1.7.3.jar"
                 }
             }
         },
@@ -11891,7 +11903,7 @@
         },
         "Crops-plus-plus": {
             "id": "com.github.GTNewHorizons:Crops-plus-plus:<version>",
-            "latest": "1.8.10",
+            "latest": "1.8.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Crops-plus-plus",
             "versions": {
@@ -12110,6 +12122,10 @@
                 "1.8.10": {
                     "name": "CropsPP-1.8.10.jar",
                     "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.8.10/CropsPP-1.8.10.jar"
+                },
+                "1.8.11": {
+                    "name": "CropsPP-1.8.11.jar",
+                    "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.8.11/CropsPP-1.8.11.jar"
                 },
                 "1.8.2": {
                     "name": "CropsPP-1.8.2.jar",
@@ -15662,7 +15678,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.458",
+            "latest": "5.09.51.459",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22821,6 +22837,10 @@
                 "5.09.51.458": {
                     "name": "gregtech-5.09.51.458.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.458/gregtech-5.09.51.458.jar"
+                },
+                "5.09.51.459": {
+                    "name": "gregtech-5.09.51.459.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.459/gregtech-5.09.51.459.jar"
                 },
                 "5.09.51.46": {
                     "name": "gregtech-5.09.51.46.jar",
@@ -35807,7 +35827,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.7.254",
+            "latest": "2.7.256",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -38851,6 +38871,14 @@
                     "name": "GTNewHorizonsCoreMod-2.7.254.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.254/GTNewHorizonsCoreMod-2.7.254.jar"
                 },
+                "2.7.255": {
+                    "name": "GTNewHorizonsCoreMod-2.7.255.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.255/GTNewHorizonsCoreMod-2.7.255.jar"
+                },
+                "2.7.256": {
+                    "name": "GTNewHorizonsCoreMod-2.7.256.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.256/GTNewHorizonsCoreMod-2.7.256.jar"
+                },
                 "2.7.26": {
                     "name": "GTNewHorizonsCoreMod-2.7.26.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.26/GTNewHorizonsCoreMod-2.7.26.jar"
@@ -39223,7 +39251,7 @@
         },
         "NotEnoughEnergistics": {
             "id": "com.github.GTNewHorizons:NotEnoughEnergistics:<version>",
-            "latest": "1.7.13",
+            "latest": "1.7.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics",
             "versions": {
@@ -39398,6 +39426,10 @@
                 "1.7.13": {
                     "name": "NotEnoughEnergistics-1.7.13.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.13/NotEnoughEnergistics-1.7.13.jar"
+                },
+                "1.7.14": {
+                    "name": "NotEnoughEnergistics-1.7.14.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.14/NotEnoughEnergistics-1.7.14.jar"
                 },
                 "1.7.2-pre": {
                     "name": "NotEnoughEnergistics-1.7.2-pre.jar",
@@ -48155,7 +48187,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.11.22",
+            "latest": "2.11.23",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -48230,6 +48262,10 @@
                 "2.11.22": {
                     "name": "ThaumicTinkerer-2.11.22.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.22/ThaumicTinkerer-2.11.22.jar"
+                },
+                "2.11.23": {
+                    "name": "ThaumicTinkerer-2.11.23.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.23/ThaumicTinkerer-2.11.23.jar"
                 },
                 "2.11.3-pre": {
                     "name": "ThaumicTinkerer-2.11.3-pre.jar",
@@ -53216,7 +53252,7 @@
         },
         "waila": {
             "id": "com.github.GTNewHorizons:waila:<version>",
-            "latest": "1.8.13",
+            "latest": "1.8.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/waila",
             "versions": {
@@ -53343,6 +53379,10 @@
                 "1.8.13": {
                     "name": "Waila-1.8.13.jar",
                     "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.13/Waila-1.8.13.jar"
+                },
+                "1.8.14": {
+                    "name": "Waila-1.8.14.jar",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.14/Waila-1.8.14.jar"
                 },
                 "1.8.2": {
                     "name": "Waila-1.8.2.jar",
