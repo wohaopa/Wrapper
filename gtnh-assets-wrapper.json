@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.8.0-nightly-2025-09-22",
+            "latest": "2.8.0-nightly-2025-09-23",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1771,6 +1771,10 @@
                 "2.8.0-nightly-2025-09-22": {
                     "name": "2.8.0-nightly-2025-09-22.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-09-22/2.8.0-nightly-2025-09-22.zip"
+                },
+                "2.8.0-nightly-2025-09-23": {
+                    "name": "2.8.0-nightly-2025-09-23.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.0-nightly-2025-09-23/2.8.0-nightly-2025-09-23.zip"
                 },
                 "2.8.0-rc-1": {
                     "name": "2.8.0-rc-1.zip",
@@ -14326,7 +14330,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.2.21-GTNH-daily",
+            "latest": "2.6.2.22-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -14381,6 +14385,10 @@
                 "2.6.2.21-GTNH-daily": {
                     "name": "etfuturum-2.6.2.21-GTNH-daily.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.2.21-GTNH-daily/etfuturum-2.6.2.21-GTNH-daily.jar"
+                },
+                "2.6.2.22-GTNH": {
+                    "name": "etfuturum-2.6.2.22-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.2.22-GTNH/etfuturum-2.6.2.22-GTNH.jar"
                 },
                 "2.6.2.3-GTNH": {
                     "name": "etfuturum-2.6.2.3-GTNH.jar",
@@ -15686,7 +15694,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.461",
+            "latest": "5.09.51.462",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -22861,6 +22869,10 @@
                 "5.09.51.461": {
                     "name": "gregtech-5.09.51.461.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.461/gregtech-5.09.51.461.jar"
+                },
+                "5.09.51.462": {
+                    "name": "gregtech-5.09.51.462.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.462/gregtech-5.09.51.462.jar"
                 },
                 "5.09.51.47-pre": {
                     "name": "gregtech-5.09.51.47-pre.jar",
@@ -39603,7 +39615,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.7.88-GTNH",
+            "latest": "2.7.89-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -40942,6 +40954,10 @@
                 "2.7.88-GTNH": {
                     "name": "NotEnoughItems-2.7.88-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.88-GTNH/NotEnoughItems-2.7.88-GTNH.jar"
+                },
+                "2.7.89-GTNH": {
+                    "name": "NotEnoughItems-2.7.89-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.89-GTNH/NotEnoughItems-2.7.89-GTNH.jar"
                 },
                 "2.7.9-GTNH-pre": {
                     "name": "NotEnoughItems-2.7.9-GTNH-pre.jar",
