@@ -470,7 +470,8 @@
             "1.5.2-gtnh-pre",
             "1.5.3-gtnh",
             "1.5.4-gtnh-pre",
-            "1.5.5-gtnh"
+            "1.5.5-gtnh",
+            "1.5.6-gtnh"
         ]
     },
     {
@@ -1401,7 +1402,8 @@
             "rv3-beta-707-GTNH-pre",
             "rv3-beta-708-GTNH",
             "rv3-beta-709-GTNH-pre",
-            "rv3-beta-710-GTNH"
+            "rv3-beta-710-GTNH",
+            "rv3-beta-711-GTNH"
         ]
     },
     {
@@ -1732,7 +1734,8 @@
             "1.5.8-backhand",
             "1.6.0-backhand",
             "1.6.1-backhand-pre",
-            "1.6.2-backhand"
+            "1.6.2-backhand",
+            "1.6.3-backhand"
         ]
     },
     {
@@ -2080,7 +2083,9 @@
             "3.8.2-GTNH",
             "3.8.3-GTNH-pre",
             "3.8.4-GTNH",
-            "3.8.5-GTNH-pre"
+            "3.8.5-GTNH-pre",
+            "3.8.6-GTNH",
+            "3.8.8-GTNH"
         ]
     },
     {
@@ -6568,7 +6573,8 @@
             "5.09.52.16-pre",
             "5.09.52.17",
             "5.09.52.18-pre",
-            "5.09.52.19"
+            "5.09.52.19",
+            "5.09.52.20"
         ]
     },
     {
@@ -10739,7 +10745,8 @@
             "2.8.4-pre",
             "2.8.5",
             "2.8.6-pre",
-            "2.8.7-pre"
+            "2.8.7-pre",
+            "2.8.8"
         ]
     },
     {
@@ -13945,8 +13952,15 @@
         ]
     },
     {
+        "name": "VendingMachine",
+        "path": "version/303_VendingMachine.json",
+        "versions": [
+            "0.4.1"
+        ]
+    },
+    {
         "name": "VisualProspecting",
-        "path": "version/303_VisualProspecting.json",
+        "path": "version/304_VisualProspecting.json",
         "versions": [
             "1.0.22b",
             "1.0.24b",
@@ -14034,7 +14048,7 @@
     },
     {
         "name": "waila",
-        "path": "version/304_waila.json",
+        "path": "version/305_waila.json",
         "versions": [
             "1.5.12",
             "1.5.13",
@@ -14082,7 +14096,7 @@
     },
     {
         "name": "WailaHarvestability",
-        "path": "version/305_WailaHarvestability.json",
+        "path": "version/306_WailaHarvestability.json",
         "versions": [
             "1.1.7-gtnh",
             "1.1.8-gtnh",
@@ -14099,7 +14113,7 @@
     },
     {
         "name": "WAILAPlugins",
-        "path": "version/306_WAILAPlugins.json",
+        "path": "version/307_WAILAPlugins.json",
         "versions": [
             "0.2.1",
             "0.2.2",
@@ -14119,7 +14133,7 @@
     },
     {
         "name": "WanionLib",
-        "path": "version/307_WanionLib.json",
+        "path": "version/308_WanionLib.json",
         "versions": [
             "1.8.1",
             "1.8.2",
@@ -14131,7 +14145,7 @@
     },
     {
         "name": "WarpTheory",
-        "path": "version/308_WarpTheory.json",
+        "path": "version/309_WarpTheory.json",
         "versions": [
             "1.0k-dev",
             "1.0l-Dev",
@@ -14170,7 +14184,7 @@
     },
     {
         "name": "WAWLA",
-        "path": "version/309_WAWLA.json",
+        "path": "version/310_WAWLA.json",
         "versions": [
             "1.1.0-GTNH",
             "1.1.1-GTNH",
@@ -14184,7 +14198,7 @@
     },
     {
         "name": "WirelessCraftingTerminal",
-        "path": "version/310_WirelessCraftingTerminal.json",
+        "path": "version/311_WirelessCraftingTerminal.json",
         "versions": [
             "1.8.8.1",
             "1.8.8.2",
@@ -14228,7 +14242,7 @@
     },
     {
         "name": "WirelessRedstone-CBE",
-        "path": "version/311_WirelessRedstone-CBE.json",
+        "path": "version/312_WirelessRedstone-CBE.json",
         "versions": [
             "1.4.2",
             "1.4.3",
@@ -14246,14 +14260,14 @@
     },
     {
         "name": "Witchery",
-        "path": "version/312_Witchery.json",
+        "path": "version/313_Witchery.json",
         "versions": [
             "0.24.1"
         ]
     },
     {
         "name": "WitcheryExtras",
-        "path": "version/313_WitcheryExtras.json",
+        "path": "version/314_WitcheryExtras.json",
         "versions": [
             "1.1.3",
             "1.1.4",
@@ -14281,7 +14295,7 @@
     },
     {
         "name": "WitchingGadgets",
-        "path": "version/314_WitchingGadgets.json",
+        "path": "version/315_WitchingGadgets.json",
         "versions": [
             "1.2.9j",
             "1.2.9k",
@@ -14373,7 +14387,7 @@
     },
     {
         "name": "Yamcl",
-        "path": "version/315_Yamcl.json",
+        "path": "version/316_Yamcl.json",
         "versions": [
             "0.5.81",
             "0.5.84",
@@ -14385,7 +14399,7 @@
     },
     {
         "name": "Ztones",
-        "path": "version/316_Ztones.json",
+        "path": "version/317_Ztones.json",
         "versions": [
             "2.2.2"
         ]
