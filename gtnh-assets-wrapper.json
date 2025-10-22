@@ -16434,7 +16434,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.60",
+            "latest": "5.09.52.62",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24125,6 +24125,14 @@
                 "5.09.52.60": {
                     "name": "gregtech-5.09.52.60.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.60/gregtech-5.09.52.60.jar"
+                },
+                "5.09.52.61": {
+                    "name": "gregtech-5.09.52.61.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.61/gregtech-5.09.52.61.jar"
+                },
+                "5.09.52.62": {
+                    "name": "gregtech-5.09.52.62.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.62/gregtech-5.09.52.62.jar"
                 }
             }
         },
@@ -51631,7 +51639,7 @@
         },
         "Universal-Singularities": {
             "id": "com.github.GTNewHorizons:Universal-Singularities:<version>",
-            "latest": "8.11.0",
+            "latest": "8.12.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Universal-Singularities",
             "versions": {
@@ -51642,6 +51650,10 @@
                 "8.11.0": {
                     "name": "Universal-Singularities-8.11.0.jar",
                     "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.11.0/Universal-Singularities-8.11.0.jar"
+                },
+                "8.12.0": {
+                    "name": "Universal-Singularities-8.12.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.12.0/Universal-Singularities-8.12.0.jar"
                 },
                 "8.5": {
                     "name": "Universal.Singularities-1.7.10-8.5.jar",
