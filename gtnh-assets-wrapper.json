@@ -11651,7 +11651,7 @@
         },
         "Chisel": {
             "id": "com.github.GTNewHorizons:Chisel:<version>",
-            "latest": "2.17.3-GTNH",
+            "latest": "2.17.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Chisel",
             "versions": {
@@ -11898,6 +11898,10 @@
                 "2.17.4-GTNH-pre": {
                     "name": "chisel-2.17.4-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.4-GTNH-pre/chisel-2.17.4-GTNH-pre.jar"
+                },
+                "2.17.5-GTNH": {
+                    "name": "chisel-2.17.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.5-GTNH/chisel-2.17.5-GTNH.jar"
                 },
                 "2.9.7": {
                     "name": "Chisel-1.7.10-2.9.7-GTNH.1.jar",
@@ -16770,7 +16774,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.102",
+            "latest": "5.09.52.104",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24281,6 +24285,10 @@
                 "5.09.52.103-pre": {
                     "name": "gregtech-5.09.52.103-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.103-pre/gregtech-5.09.52.103-pre.jar"
+                },
+                "5.09.52.104": {
+                    "name": "gregtech-5.09.52.104.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.104/gregtech-5.09.52.104.jar"
                 },
                 "5.09.52.11-pre": {
                     "name": "gregtech-5.09.52.11-pre.jar",
@@ -44899,7 +44907,7 @@
         },
         "ProjectRed": {
             "id": "com.github.GTNewHorizons:ProjectRed:<version>",
-            "latest": "4.12.0-GTNH",
+            "latest": "4.12.4-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ProjectRed",
             "versions": {
@@ -44994,6 +45002,10 @@
                 "4.12.3-GTNH-pre": {
                     "name": "ProjRed-4.12.3-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.3-GTNH-pre/ProjRed-4.12.3-GTNH-pre.jar"
+                },
+                "4.12.4-GTNH": {
+                    "name": "ProjRed-4.12.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.4-GTNH/ProjRed-4.12.4-GTNH.jar"
                 },
                 "4.7.1": {
                     "name": "ProjRed-1.7.10-4.7.1.jar",
