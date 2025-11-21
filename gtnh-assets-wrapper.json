@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2025-11-18",
+            "latest": "2.9.0-nightly-2025-11-20",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2015,6 +2015,10 @@
                 "2.9.0-nightly-2025-11-18": {
                     "name": "2.9.0-nightly-2025-11-18.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-11-18/2.9.0-nightly-2025-11-18.zip"
+                },
+                "2.9.0-nightly-2025-11-20": {
+                    "name": "2.9.0-nightly-2025-11-20.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-11-20/2.9.0-nightly-2025-11-20.zip"
                 }
             }
         }
@@ -16910,7 +16914,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.118",
+            "latest": "5.09.52.120",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24482,9 +24486,17 @@
                     "name": "gregtech-5.09.52.118.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.118/gregtech-5.09.52.118.jar"
                 },
+                "5.09.52.119": {
+                    "name": "gregtech-5.09.52.119.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.119/gregtech-5.09.52.119.jar"
+                },
                 "5.09.52.12": {
                     "name": "gregtech-5.09.52.12.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.12/gregtech-5.09.52.12.jar"
+                },
+                "5.09.52.120": {
+                    "name": "gregtech-5.09.52.120.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.120/gregtech-5.09.52.120.jar"
                 },
                 "5.09.52.13-pre": {
                     "name": "gregtech-5.09.52.13-pre.jar",
@@ -25910,7 +25922,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.8.9",
+            "latest": "0.8.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -26389,6 +26401,18 @@
                 "0.8.0": {
                     "name": "gtnhlib-0.8.0.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.0/gtnhlib-0.8.0.jar"
+                },
+                "0.8.10": {
+                    "name": "gtnhlib-0.8.10.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.10/gtnhlib-0.8.10.jar"
+                },
+                "0.8.11": {
+                    "name": "gtnhlib-0.8.11.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.11/gtnhlib-0.8.11.jar"
+                },
+                "0.8.12": {
+                    "name": "gtnhlib-0.8.12.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.12/gtnhlib-0.8.12.jar"
                 },
                 "0.8.2": {
                     "name": "gtnhlib-0.8.2.jar",
@@ -38223,7 +38247,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.54",
+            "latest": "2.8.55",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -41810,6 +41834,10 @@
                 "2.8.54": {
                     "name": "GTNewHorizonsCoreMod-2.8.54.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.54/GTNewHorizonsCoreMod-2.8.54.jar"
+                },
+                "2.8.55": {
+                    "name": "GTNewHorizonsCoreMod-2.8.55.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.55/GTNewHorizonsCoreMod-2.8.55.jar"
                 },
                 "2.8.6-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.6-pre.jar",
@@ -47847,7 +47875,7 @@
         },
         "StorageDrawers": {
             "id": "com.github.GTNewHorizons:StorageDrawers:<version>",
-            "latest": "2.2.3-GTNH",
+            "latest": "2.2.4-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StorageDrawers",
             "versions": {
@@ -48054,6 +48082,10 @@
                 "2.2.3-GTNH": {
                     "name": "StorageDrawers-2.2.3-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.3-GTNH/StorageDrawers-2.2.3-GTNH.jar"
+                },
+                "2.2.4-GTNH": {
+                    "name": "StorageDrawers-2.2.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.4-GTNH/StorageDrawers-2.2.4-GTNH.jar"
                 }
             }
         },
@@ -51915,7 +51947,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.10-GTNH",
+            "latest": "1.14.12-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -52362,6 +52394,10 @@
                 "1.14.11-GTNH-pre": {
                     "name": "TConstruct-1.14.11-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.11-GTNH-pre/TConstruct-1.14.11-GTNH-pre.jar"
+                },
+                "1.14.12-GTNH": {
+                    "name": "TConstruct-1.14.12-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.12-GTNH/TConstruct-1.14.12-GTNH.jar"
                 },
                 "1.14.2-GTNH": {
                     "name": "TConstruct-1.14.2-GTNH.jar",
@@ -53091,7 +53127,7 @@
         },
         "VendingMachine": {
             "id": "com.github.GTNewHorizons:VendingMachine:<version>",
-            "latest": "0.4.24",
+            "latest": "0.4.25",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VendingMachine",
             "versions": {
@@ -53158,6 +53194,10 @@
                 "0.4.24": {
                     "name": "vendingmachine-0.4.24.jar",
                     "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.24/vendingmachine-0.4.24.jar"
+                },
+                "0.4.25": {
+                    "name": "vendingmachine-0.4.25.jar",
+                    "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.25/vendingmachine-0.4.25.jar"
                 },
                 "0.4.3": {
                     "name": "vendingmachine-0.4.3.jar",
