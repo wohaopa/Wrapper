@@ -16922,7 +16922,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.120",
+            "latest": "5.09.52.122",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24505,6 +24505,14 @@
                 "5.09.52.120": {
                     "name": "gregtech-5.09.52.120.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.120/gregtech-5.09.52.120.jar"
+                },
+                "5.09.52.121": {
+                    "name": "gregtech-5.09.52.121.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.121/gregtech-5.09.52.121.jar"
+                },
+                "5.09.52.122": {
+                    "name": "gregtech-5.09.52.122.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.122/gregtech-5.09.52.122.jar"
                 },
                 "5.09.52.13-pre": {
                     "name": "gregtech-5.09.52.13-pre.jar",
@@ -37343,7 +37351,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.14-1.7.10",
+            "latest": "2.3.15-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -37582,6 +37590,10 @@
                 "2.3.14-1.7.10": {
                     "name": "modularui2-2.3.14-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.14-1.7.10/modularui2-2.3.14-1.7.10.jar"
+                },
+                "2.3.15-1.7.10": {
+                    "name": "modularui2-2.3.15-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.15-1.7.10/modularui2-2.3.15-1.7.10.jar"
                 },
                 "2.3.2-1.7.10": {
                     "name": "modularui2-2.3.2-1.7.10.jar",
@@ -51147,7 +51159,7 @@
         },
         "ThaumicHorizons": {
             "id": "com.github.GTNewHorizons:ThaumicHorizons:<version>",
-            "latest": "1.8.9",
+            "latest": "1.8.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicHorizons",
             "versions": {
@@ -51358,6 +51370,10 @@
                 "1.8.1-pre": {
                     "name": "ThaumicHorizons-1.8.1-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.1-pre/ThaumicHorizons-1.8.1-pre.jar"
+                },
+                "1.8.10": {
+                    "name": "ThaumicHorizons-1.8.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.10/ThaumicHorizons-1.8.10.jar"
                 },
                 "1.8.2-pre": {
                     "name": "ThaumicHorizons-1.8.2-pre.jar",
