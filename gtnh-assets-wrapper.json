@@ -15166,7 +15166,7 @@
         },
         "EnderStorage": {
             "id": "com.github.GTNewHorizons:EnderStorage:<version>",
-            "latest": "1.7.7",
+            "latest": "1.8.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderStorage",
             "versions": {
@@ -15257,6 +15257,10 @@
                 "1.7.7": {
                     "name": "EnderStorage-1.7.7.jar",
                     "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.7.7/EnderStorage-1.7.7.jar"
+                },
+                "1.8.0": {
+                    "name": "EnderStorage-1.8.0.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.8.0/EnderStorage-1.8.0.jar"
                 }
             }
         },
@@ -16922,7 +16926,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.122",
+            "latest": "5.09.52.123",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24513,6 +24517,10 @@
                 "5.09.52.122": {
                     "name": "gregtech-5.09.52.122.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.122/gregtech-5.09.52.122.jar"
+                },
+                "5.09.52.123": {
+                    "name": "gregtech-5.09.52.123.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.123/gregtech-5.09.52.123.jar"
                 },
                 "5.09.52.13-pre": {
                     "name": "gregtech-5.09.52.13-pre.jar",
@@ -56064,7 +56072,7 @@
         },
         "nei-custom-diagram": {
             "id": "com.github.GTNewHorizons:nei-custom-diagram:<version>",
-            "latest": "1.8.5",
+            "latest": "1.8.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/nei-custom-diagram",
             "versions": {
@@ -56283,6 +56291,10 @@
                 "1.8.5": {
                     "name": "NEICustomDiagram-1.8.5.jar",
                     "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.5/NEICustomDiagram-1.8.5.jar"
+                },
+                "1.8.6": {
+                    "name": "NEICustomDiagram-1.8.6.jar",
+                    "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.6/NEICustomDiagram-1.8.6.jar"
                 }
             }
         },
