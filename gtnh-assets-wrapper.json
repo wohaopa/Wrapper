@@ -11146,7 +11146,7 @@
         },
         "Botanic-horizons": {
             "id": "com.github.GTNewHorizons:Botanic-horizons:<version>",
-            "latest": "1.12.1-GTNH",
+            "latest": "1.12.2-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botanic-horizons",
             "versions": {
@@ -11337,6 +11337,10 @@
                 "1.12.1-GTNH": {
                     "name": "BotanicHorizons-1.12.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.12.1-GTNH/BotanicHorizons-1.12.1-GTNH.jar"
+                },
+                "1.12.2-GTNH": {
+                    "name": "BotanicHorizons-1.12.2-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.12.2-GTNH/BotanicHorizons-1.12.2-GTNH.jar"
                 }
             }
         },
@@ -37415,7 +37419,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.16-1.7.10",
+            "latest": "2.3.18-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -37662,6 +37666,14 @@
                 "2.3.16-1.7.10": {
                     "name": "modularui2-2.3.16-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.16-1.7.10/modularui2-2.3.16-1.7.10.jar"
+                },
+                "2.3.17-1.7.10": {
+                    "name": "modularui2-2.3.17-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.17-1.7.10/modularui2-2.3.17-1.7.10.jar"
+                },
+                "2.3.18-1.7.10": {
+                    "name": "modularui2-2.3.18-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.18-1.7.10/modularui2-2.3.18-1.7.10.jar"
                 },
                 "2.3.2-1.7.10": {
                     "name": "modularui2-2.3.2-1.7.10.jar",
@@ -55656,7 +55668,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "2.1.18",
+            "latest": "3.0.0-beta.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -56151,6 +56163,14 @@
                 "2.1.9": {
                     "name": "lwjgl3ify-2.1.9.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.9/lwjgl3ify-2.1.9.jar"
+                },
+                "3.0.0-beta.1": {
+                    "name": "lwjgl3ify-3.0.0-beta.1.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.1/lwjgl3ify-3.0.0-beta.1.jar"
+                },
+                "3.0.0-beta.2": {
+                    "name": "lwjgl3ify-3.0.0-beta.2.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.2/lwjgl3ify-3.0.0-beta.2.jar"
                 }
             }
         },
