@@ -16982,7 +16982,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.130",
+            "latest": "5.09.52.131",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24610,6 +24610,10 @@
                     "name": "gregtech-5.09.52.130.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.130/gregtech-5.09.52.130.jar"
                 },
+                "5.09.52.131": {
+                    "name": "gregtech-5.09.52.131.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.131/gregtech-5.09.52.131.jar"
+                },
                 "5.09.52.14": {
                     "name": "gregtech-5.09.52.14.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.14/gregtech-5.09.52.14.jar"
@@ -26030,7 +26034,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.8.15",
+            "latest": "0.8.16",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -26533,6 +26537,10 @@
                 "0.8.15": {
                     "name": "gtnhlib-0.8.15.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.15/gtnhlib-0.8.15.jar"
+                },
+                "0.8.16": {
+                    "name": "gtnhlib-0.8.16.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.16/gtnhlib-0.8.16.jar"
                 },
                 "0.8.2": {
                     "name": "gtnhlib-0.8.2.jar",
@@ -30727,7 +30735,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.18",
+            "latest": "2.7.19",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -32446,6 +32454,10 @@
                 "2.7.18": {
                     "name": "hodgepodge-2.7.18.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.18/hodgepodge-2.7.18.jar"
+                },
+                "2.7.19": {
+                    "name": "hodgepodge-2.7.19.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.19/hodgepodge-2.7.19.jar"
                 },
                 "2.7.2": {
                     "name": "hodgepodge-2.7.2.jar",
@@ -52199,7 +52211,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.12-GTNH",
+            "latest": "1.14.13-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -52650,6 +52662,10 @@
                 "1.14.12-GTNH": {
                     "name": "TConstruct-1.14.12-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.12-GTNH/TConstruct-1.14.12-GTNH.jar"
+                },
+                "1.14.13-GTNH": {
+                    "name": "TConstruct-1.14.13-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.13-GTNH/TConstruct-1.14.13-GTNH.jar"
                 },
                 "1.14.2-GTNH": {
                     "name": "TConstruct-1.14.2-GTNH.jar",
