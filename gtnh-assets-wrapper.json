@@ -26050,7 +26050,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.8.18",
+            "latest": "0.8.19",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -26565,6 +26565,10 @@
                 "0.8.18": {
                     "name": "gtnhlib-0.8.18.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.18/gtnhlib-0.8.18.jar"
+                },
+                "0.8.19": {
+                    "name": "gtnhlib-0.8.19.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.19/gtnhlib-0.8.19.jar"
                 },
                 "0.8.2": {
                     "name": "gtnhlib-0.8.2.jar",
@@ -44943,6 +44947,14 @@
                     "name": "OpenModsLibs-0.10.11.jar",
                     "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.11/OpenModsLibs-0.10.11.jar"
                 },
+                "0.10.12": {
+                    "name": "OpenModsLibs-0.10.12.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.12/OpenModsLibs-0.10.12.jar"
+                },
+                "0.10.13": {
+                    "name": "OpenModsLibs-0.10.13.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.13/OpenModsLibs-0.10.13.jar"
+                },
                 "0.10.2": {
                     "name": "OpenMods-1.7.10-0.10.2.jar",
                     "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.2/OpenMods-1.7.10-0.10.2.jar"
@@ -46231,7 +46243,7 @@
         },
         "RandomBoubles": {
             "id": "com.github.GTNewHorizons:RandomBoubles:<version>",
-            "latest": "1.0.3",
+            "latest": "1.1.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RandomBoubles",
             "versions": {
@@ -46262,6 +46274,10 @@
                 "1.0.6-pre": {
                     "name": "randomboubles-1.0.6-pre.jar",
                     "url": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.0.6-pre/randomboubles-1.0.6-pre.jar"
+                },
+                "1.1.0": {
+                    "name": "randomboubles-1.1.0.jar",
+                    "url": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.0/randomboubles-1.1.0.jar"
                 }
             }
         },
