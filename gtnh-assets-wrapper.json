@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2025-12-02",
+            "latest": "2.9.0-nightly-2025-12-08",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2067,6 +2067,10 @@
                 "2.9.0-nightly-2025-12-02": {
                     "name": "2.9.0-nightly-2025-12-02.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-02/2.9.0-nightly-2025-12-02.zip"
+                },
+                "2.9.0-nightly-2025-12-08": {
+                    "name": "2.9.0-nightly-2025-12-08.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-08/2.9.0-nightly-2025-12-08.zip"
                 }
             }
         }
@@ -4254,7 +4258,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "1.0.0-beta75-pre",
+            "latest": "1.0.0-beta68",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -16874,7 +16878,7 @@
         },
         "ForgeMultipart": {
             "id": "com.github.GTNewHorizons:ForgeMultipart:<version>",
-            "latest": "1.7.1",
+            "latest": "1.7.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForgeMultipart",
             "versions": {
@@ -17009,6 +17013,10 @@
                 "1.7.1": {
                     "name": "ForgeMultipart-1.7.1.jar",
                     "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.1/ForgeMultipart-1.7.1.jar"
+                },
+                "1.7.2": {
+                    "name": "ForgeMultipart-1.7.2.jar",
+                    "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.2/ForgeMultipart-1.7.2.jar"
                 }
             }
         },
@@ -17158,7 +17166,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.51.481",
+            "latest": "5.09.52.134",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24822,6 +24830,10 @@
                     "name": "gregtech-5.09.52.133.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.133/gregtech-5.09.52.133.jar"
                 },
+                "5.09.52.134": {
+                    "name": "gregtech-5.09.52.134.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.134/gregtech-5.09.52.134.jar"
+                },
                 "5.09.52.14": {
                     "name": "gregtech-5.09.52.14.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.14/gregtech-5.09.52.14.jar"
@@ -30987,7 +30999,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.19",
+            "latest": "2.7.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -32718,6 +32730,10 @@
                 "2.7.2": {
                     "name": "hodgepodge-2.7.2.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.2/hodgepodge-2.7.2.jar"
+                },
+                "2.7.20": {
+                    "name": "hodgepodge-2.7.20.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.20/hodgepodge-2.7.20.jar"
                 },
                 "2.7.3": {
                     "name": "hodgepodge-2.7.3.jar",
@@ -35119,7 +35135,7 @@
         },
         "LittleTiles": {
             "id": "com.github.GTNewHorizons:LittleTiles:<version>",
-            "latest": "1.6.9",
+            "latest": "1.6.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LittleTiles",
             "versions": {
@@ -35238,6 +35254,10 @@
                 "1.6.1-pre": {
                     "name": "littletiles-1.6.1-pre.jar",
                     "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.1-pre/littletiles-1.6.1-pre.jar"
+                },
+                "1.6.10": {
+                    "name": "littletiles-1.6.10.jar",
+                    "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.10/littletiles-1.6.10.jar"
                 },
                 "1.6.2": {
                     "name": "littletiles-1.6.2.jar",
@@ -45791,7 +45811,7 @@
         },
         "ProjectRed": {
             "id": "com.github.GTNewHorizons:ProjectRed:<version>",
-            "latest": "4.12.5-GTNH",
+            "latest": "4.12.6-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ProjectRed",
             "versions": {
@@ -45826,6 +45846,10 @@
                 "4.11.1-GTNH": {
                     "name": "ProjRed-4.11.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.1-GTNH/ProjRed-4.11.1-GTNH.jar"
+                },
+                "4.11.10-GTNH-pre": {
+                    "name": "ProjRed-4.11.10-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.10-GTNH-pre/ProjRed-4.11.10-GTNH-pre.jar"
                 },
                 "4.11.11-GTNH": {
                     "name": "ProjRed-4.11.11-GTNH.jar",
@@ -45894,6 +45918,10 @@
                 "4.12.5-GTNH": {
                     "name": "ProjRed-4.12.5-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.5-GTNH/ProjRed-4.12.5-GTNH.jar"
+                },
+                "4.12.6-GTNH": {
+                    "name": "ProjRed-4.12.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.6-GTNH/ProjRed-4.12.6-GTNH.jar"
                 },
                 "4.7.1": {
                     "name": "ProjRed-1.7.10-4.7.1.jar",
@@ -51359,7 +51387,7 @@
         },
         "ThaumicEnergistics": {
             "id": "com.github.GTNewHorizons:ThaumicEnergistics:<version>",
-            "latest": "1.7.15-GTNH",
+            "latest": "1.7.16-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicEnergistics",
             "versions": {
@@ -51654,6 +51682,10 @@
                 "1.7.15-GTNH": {
                     "name": "thaumicenergistics-1.7.15-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.15-GTNH/thaumicenergistics-1.7.15-GTNH.jar"
+                },
+                "1.7.16-GTNH": {
+                    "name": "thaumicenergistics-1.7.16-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.16-GTNH/thaumicenergistics-1.7.16-GTNH.jar"
                 },
                 "1.7.2-GTNH": {
                     "name": "thaumicenergistics-1.7.2-GTNH.jar",
@@ -56148,7 +56180,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.0-beta.8",
+            "latest": "3.0.0-beta.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -56648,6 +56680,14 @@
                     "name": "lwjgl3ify-3.0.0-beta.1.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.1/lwjgl3ify-3.0.0-beta.1.jar"
                 },
+                "3.0.0-beta.10": {
+                    "name": "lwjgl3ify-3.0.0-beta.10.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.10/lwjgl3ify-3.0.0-beta.10.jar"
+                },
+                "3.0.0-beta.11": {
+                    "name": "lwjgl3ify-3.0.0-beta.11.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.11/lwjgl3ify-3.0.0-beta.11.jar"
+                },
                 "3.0.0-beta.2": {
                     "name": "lwjgl3ify-3.0.0-beta.2.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.2/lwjgl3ify-3.0.0-beta.2.jar"
@@ -56675,6 +56715,10 @@
                 "3.0.0-beta.8": {
                     "name": "lwjgl3ify-3.0.0-beta.8.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.8/lwjgl3ify-3.0.0-beta.8.jar"
+                },
+                "3.0.0-beta.9": {
+                    "name": "lwjgl3ify-3.0.0-beta.9.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0-beta.9/lwjgl3ify-3.0.0-beta.9.jar"
                 }
             }
         },
