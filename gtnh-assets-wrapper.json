@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2025-12-10",
+            "latest": "2.9.0-nightly-2025-12-11-2-pre",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -1812,6 +1812,14 @@
                     "name": "2.8.2-pre2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.2-pre2/2.8.2-pre2.zip"
                 },
+                "2.8.3": {
+                    "name": "2.8.3.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.3/2.8.3.zip"
+                },
+                "2.8.3-pre1": {
+                    "name": "2.8.3-pre1.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.8.3-pre1/2.8.3-pre1.zip"
+                },
                 "2.9.0-daily-2025-10-01": {
                     "name": "2.9.0-daily-2025-10-01.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-daily-2025-10-01/2.9.0-daily-2025-10-01.zip"
@@ -2072,6 +2080,10 @@
                     "name": "2.9.0-nightly-2025-12-08.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-08/2.9.0-nightly-2025-12-08.zip"
                 },
+                "2.9.0-nightly-2025-12-08-pre": {
+                    "name": "2.9.0-nightly-2025-12-08-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-08-pre/2.9.0-nightly-2025-12-08-pre.zip"
+                },
                 "2.9.0-nightly-2025-12-10": {
                     "name": "2.9.0-nightly-2025-12-10.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-10/2.9.0-nightly-2025-12-10.zip"
@@ -2079,6 +2091,14 @@
                 "2.9.0-nightly-2025-12-10-2-pre": {
                     "name": "2.9.0-nightly-2025-12-10-2-pre.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-10-2-pre/2.9.0-nightly-2025-12-10-2-pre.zip"
+                },
+                "2.9.0-nightly-2025-12-11": {
+                    "name": "2.9.0-nightly-2025-12-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-11/2.9.0-nightly-2025-12-11.zip"
+                },
+                "2.9.0-nightly-2025-12-11-2-pre": {
+                    "name": "2.9.0-nightly-2025-12-11-2-pre.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2025-12-11-2-pre/2.9.0-nightly-2025-12-11-2-pre.zip"
                 }
             }
         }
@@ -2086,7 +2106,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.27-gtnh",
+            "latest": "1.5.31-gtnh-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -3666,9 +3686,21 @@
                     "name": "ae2fc-1.5.28-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.28-gtnh-pre/ae2fc-1.5.28-gtnh-pre.jar"
                 },
+                "1.5.29-gtnh": {
+                    "name": "ae2fc-1.5.29-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.29-gtnh/ae2fc-1.5.29-gtnh.jar"
+                },
                 "1.5.3-gtnh": {
                     "name": "ae2fc-1.5.3-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.3-gtnh/ae2fc-1.5.3-gtnh.jar"
+                },
+                "1.5.30-gtnh": {
+                    "name": "ae2fc-1.5.30-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.30-gtnh/ae2fc-1.5.30-gtnh.jar"
+                },
+                "1.5.31-gtnh-pre": {
+                    "name": "ae2fc-1.5.31-gtnh-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.31-gtnh-pre/ae2fc-1.5.31-gtnh-pre.jar"
                 },
                 "1.5.4-gtnh-pre": {
                     "name": "ae2fc-1.5.4-gtnh-pre.jar",
@@ -3798,7 +3830,7 @@
         },
         "AdventureBackpack2": {
             "id": "com.github.GTNewHorizons:AdventureBackpack2:<version>",
-            "latest": "1.4.4-GTNH",
+            "latest": "1.4.5-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AdventureBackpack2",
             "versions": {
@@ -4974,7 +5006,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-752-GTNH",
+            "latest": "rv3-beta-757-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7386,6 +7418,22 @@
                     "name": "appliedenergistics2-rv3-beta-753-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-753-GTNH-pre/appliedenergistics2-rv3-beta-753-GTNH-pre.jar"
                 },
+                "rv3-beta-754-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-754-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-754-GTNH/appliedenergistics2-rv3-beta-754-GTNH.jar"
+                },
+                "rv3-beta-755-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-755-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-755-GTNH-pre/appliedenergistics2-rv3-beta-755-GTNH-pre.jar"
+                },
+                "rv3-beta-756-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-756-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-756-GTNH-pre/appliedenergistics2-rv3-beta-756-GTNH-pre.jar"
+                },
+                "rv3-beta-757-GTNH-pre": {
+                    "name": "appliedenergistics2-rv3-beta-757-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-757-GTNH-pre/appliedenergistics2-rv3-beta-757-GTNH-pre.jar"
+                },
                 "rv3-beta-76-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-76-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-76-GTNH/appliedenergistics2-1.7.10-rv3-beta-76-GTNH.jar"
@@ -7526,7 +7574,7 @@
         },
         "ArchitectureCraft": {
             "id": "com.github.GTNewHorizons:ArchitectureCraft:<version>",
-            "latest": "1.12.1",
+            "latest": "1.12.4-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ArchitectureCraft",
             "versions": {
@@ -7585,6 +7633,14 @@
                 "1.12.2-pre": {
                     "name": "ArchitectureCraft-1.12.2-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.2-pre/ArchitectureCraft-1.12.2-pre.jar"
+                },
+                "1.12.3": {
+                    "name": "ArchitectureCraft-1.12.3.jar",
+                    "url": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.3/ArchitectureCraft-1.12.3.jar"
+                },
+                "1.12.4-pre": {
+                    "name": "ArchitectureCraft-1.12.4-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.4-pre/ArchitectureCraft-1.12.4-pre.jar"
                 },
                 "1.4.2": {
                     "name": "ArchitectureCraft-1.7.10-1.4.2.jar",
@@ -7682,7 +7738,7 @@
         },
         "AsieLib": {
             "id": "com.github.GTNewHorizons:AsieLib:<version>",
-            "latest": "0.7.0",
+            "latest": "0.7.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AsieLib",
             "versions": {
@@ -7717,6 +7773,10 @@
                 "0.7.0": {
                     "name": "AsieLib-0.7.0.jar",
                     "url": "https://github.com/GTNewHorizons/AsieLib/releases/download/0.7.0/AsieLib-0.7.0.jar"
+                },
+                "0.7.1": {
+                    "name": "AsieLib-0.7.1.jar",
+                    "url": "https://github.com/GTNewHorizons/AsieLib/releases/download/0.7.1/AsieLib-0.7.1.jar"
                 }
             }
         },
@@ -7734,7 +7794,7 @@
         },
         "Avaritia": {
             "id": "com.github.GTNewHorizons:Avaritia:<version>",
-            "latest": "1.78",
+            "latest": "1.79-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Avaritia",
             "versions": {
@@ -7989,6 +8049,10 @@
                 "1.78": {
                     "name": "Avaritia-1.78.jar",
                     "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.78/Avaritia-1.78.jar"
+                },
+                "1.79-pre": {
+                    "name": "Avaritia-1.79-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.79-pre/Avaritia-1.79-pre.jar"
                 }
             }
         },
@@ -8502,7 +8566,7 @@
         },
         "Battlegear2-for-Backhand": {
             "id": "com.github.GTNewHorizons:Battlegear2-for-Backhand:<version>",
-            "latest": "1.6.3-backhand",
+            "latest": "1.6.7-backhand-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand",
             "versions": {
@@ -8569,6 +8633,14 @@
                 "1.6.5-backhand-pre": {
                     "name": "battlegear2-1.6.5-backhand-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.6.5-backhand-pre/battlegear2-1.6.5-backhand-pre.jar"
+                },
+                "1.6.6-backhand": {
+                    "name": "battlegear2-1.6.6-backhand.jar",
+                    "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.6.6-backhand/battlegear2-1.6.6-backhand.jar"
+                },
+                "1.6.7-backhand-pre": {
+                    "name": "battlegear2-1.6.7-backhand-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.6.7-backhand-pre/battlegear2-1.6.7-backhand-pre.jar"
                 }
             }
         },
@@ -8610,7 +8682,7 @@
         },
         "Baubles-Expanded": {
             "id": "com.github.GTNewHorizons:Baubles-Expanded:<version>",
-            "latest": "2.2.4-GTNH",
+            "latest": "2.2.5-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Baubles-Expanded",
             "versions": {
@@ -8794,7 +8866,7 @@
         },
         "BetterBuildersWands": {
             "id": "com.github.GTNewHorizons:BetterBuildersWands:<version>",
-            "latest": "0.13.3-GTNH",
+            "latest": "0.13.5-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterBuildersWands",
             "versions": {
@@ -8950,7 +9022,7 @@
         },
         "BetterLoadingScreen": {
             "id": "com.github.GTNewHorizons:BetterLoadingScreen:<version>",
-            "latest": "1.7.2-GTNH",
+            "latest": "1.7.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterLoadingScreen",
             "versions": {
@@ -9053,6 +9125,10 @@
                 "1.7.2-GTNH": {
                     "name": "betterloadingscreen-1.7.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.2-GTNH/betterloadingscreen-1.7.2-GTNH.jar"
+                },
+                "1.7.3-GTNH": {
+                    "name": "betterloadingscreen-1.7.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.3-GTNH/betterloadingscreen-1.7.3-GTNH.jar"
                 }
             }
         },
@@ -9278,7 +9354,7 @@
         },
         "BetterQuesting": {
             "id": "com.github.GTNewHorizons:BetterQuesting:<version>",
-            "latest": "3.8.14-GTNH",
+            "latest": "3.8.15-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterQuesting",
             "versions": {
@@ -9894,7 +9970,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.6.2",
+            "latest": "2.6.3-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -10502,7 +10578,7 @@
         },
         "BloodArsenal": {
             "id": "com.github.GTNewHorizons:BloodArsenal:<version>",
-            "latest": "1.5.0",
+            "latest": "1.5.1-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodArsenal",
             "versions": {
@@ -11054,7 +11130,7 @@
         },
         "Botania": {
             "id": "com.github.GTNewHorizons:Botania:<version>",
-            "latest": "1.13.6-GTNH",
+            "latest": "1.13.7-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botania",
             "versions": {
@@ -11734,7 +11810,7 @@
         },
         "BuildCraft": {
             "id": "com.github.GTNewHorizons:BuildCraft:<version>",
-            "latest": "7.1.47",
+            "latest": "7.1.48",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BuildCraft",
             "versions": {
@@ -11833,6 +11909,10 @@
                 "7.1.47": {
                     "name": "buildcraft-7.1.47.jar",
                     "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.47/buildcraft-7.1.47.jar"
+                },
+                "7.1.48": {
+                    "name": "buildcraft-7.1.48.jar",
+                    "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.48/buildcraft-7.1.48.jar"
                 }
             }
         },
@@ -12047,7 +12127,7 @@
         },
         "Chisel": {
             "id": "com.github.GTNewHorizons:Chisel:<version>",
-            "latest": "2.17.7-GTNH",
+            "latest": "2.17.8-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Chisel",
             "versions": {
@@ -13618,7 +13698,7 @@
         },
         "Default-Configs": {
             "id": "com.github.GTNewHorizons:Default-Configs:<version>",
-            "latest": "1.3.1",
+            "latest": "1.3.2-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Default-Configs",
             "versions": {
@@ -13670,7 +13750,7 @@
         },
         "DefaultServerList": {
             "id": "com.github.GTNewHorizons:DefaultServerList:<version>",
-            "latest": "1.7.0",
+            "latest": "1.7.1-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/DefaultServerList",
             "versions": {
@@ -13854,7 +13934,7 @@
         },
         "Draconic-Evolution": {
             "id": "com.github.GTNewHorizons:Draconic-Evolution:<version>",
-            "latest": "1.5.4-GTNH",
+            "latest": "1.5.7-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Draconic-Evolution",
             "versions": {
@@ -14157,6 +14237,14 @@
                 "1.5.5-GTNH-pre": {
                     "name": "Draconic-Evolution-1.5.5-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.5-GTNH-pre/Draconic-Evolution-1.5.5-GTNH-pre.jar"
+                },
+                "1.5.6-GTNH": {
+                    "name": "Draconic-Evolution-1.5.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.6-GTNH/Draconic-Evolution-1.5.6-GTNH.jar"
+                },
+                "1.5.7-GTNH-pre": {
+                    "name": "Draconic-Evolution-1.5.7-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.7-GTNH-pre/Draconic-Evolution-1.5.7-GTNH-pre.jar"
                 }
             }
         },
@@ -14314,7 +14402,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.7.6",
+            "latest": "1.7.7-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -14706,7 +14794,7 @@
         },
         "EnderCore": {
             "id": "com.github.GTNewHorizons:EnderCore:<version>",
-            "latest": "0.5.0",
+            "latest": "0.5.2-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderCore",
             "versions": {
@@ -14850,7 +14938,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.10.8",
+            "latest": "2.10.9-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -15522,7 +15610,7 @@
         },
         "EnderStorage": {
             "id": "com.github.GTNewHorizons:EnderStorage:<version>",
-            "latest": "1.8.0",
+            "latest": "1.8.1-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderStorage",
             "versions": {
@@ -15694,7 +15782,7 @@
         },
         "EnhancedLootBags": {
             "id": "com.github.GTNewHorizons:EnhancedLootBags:<version>",
-            "latest": "1.2.8",
+            "latest": "1.2.9-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnhancedLootBags",
             "versions": {
@@ -15834,7 +15922,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.2.28-GTNH",
+            "latest": "2.6.2.29-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -16382,7 +16470,7 @@
         },
         "FloodLights": {
             "id": "com.github.GTNewHorizons:FloodLights:<version>",
-            "latest": "1.5.4",
+            "latest": "1.5.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/FloodLights",
             "versions": {
@@ -16441,6 +16529,10 @@
                 "1.5.4": {
                     "name": "FloodLights-1.5.4.jar",
                     "url": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.5.4/FloodLights-1.5.4.jar"
+                },
+                "1.5.5": {
+                    "name": "FloodLights-1.5.5.jar",
+                    "url": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.5.5/FloodLights-1.5.5.jar"
                 }
             }
         },
@@ -16558,7 +16650,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.11.2",
+            "latest": "4.11.3-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -17298,7 +17390,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.138",
+            "latest": "5.09.52.142-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -24570,6 +24662,10 @@
                     "name": "gregtech-5.09.51.481.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.481/gregtech-5.09.51.481.jar"
                 },
+                "5.09.51.482": {
+                    "name": "gregtech-5.09.51.482.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.482/gregtech-5.09.51.482.jar"
+                },
                 "5.09.51.49-pre": {
                     "name": "gregtech-5.09.51.49-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.49-pre/gregtech-5.09.51.49-pre.jar"
@@ -24970,6 +25066,10 @@
                     "name": "gregtech-5.09.52.135-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.135-pre/gregtech-5.09.52.135-pre.jar"
                 },
+                "5.09.52.136-pre": {
+                    "name": "gregtech-5.09.52.136-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.136-pre/gregtech-5.09.52.136-pre.jar"
+                },
                 "5.09.52.137": {
                     "name": "gregtech-5.09.52.137.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.137/gregtech-5.09.52.137.jar"
@@ -24985,6 +25085,18 @@
                 "5.09.52.14": {
                     "name": "gregtech-5.09.52.14.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.14/gregtech-5.09.52.14.jar"
+                },
+                "5.09.52.140": {
+                    "name": "gregtech-5.09.52.140.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.140/gregtech-5.09.52.140.jar"
+                },
+                "5.09.52.141-pre": {
+                    "name": "gregtech-5.09.52.141-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.141-pre/gregtech-5.09.52.141-pre.jar"
+                },
+                "5.09.52.142-pre": {
+                    "name": "gregtech-5.09.52.142-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.142-pre/gregtech-5.09.52.142-pre.jar"
                 },
                 "5.09.52.15-pre": {
                     "name": "gregtech-5.09.52.15-pre.jar",
@@ -26402,7 +26514,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.8.27",
+            "latest": "0.8.30-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -26966,9 +27078,17 @@
                     "name": "gtnhlib-0.8.28-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.28-pre/gtnhlib-0.8.28-pre.jar"
                 },
+                "0.8.29": {
+                    "name": "gtnhlib-0.8.29.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.29/gtnhlib-0.8.29.jar"
+                },
                 "0.8.3-pre": {
                     "name": "gtnhlib-0.8.3-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.3-pre/gtnhlib-0.8.3-pre.jar"
+                },
+                "0.8.30-pre": {
+                    "name": "gtnhlib-0.8.30-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.30-pre/gtnhlib-0.8.30-pre.jar"
                 },
                 "0.8.4": {
                     "name": "gtnhlib-0.8.4.jar",
@@ -28966,7 +29086,7 @@
         },
         "Gadomancy": {
             "id": "com.github.GTNewHorizons:Gadomancy:<version>",
-            "latest": "1.5.4",
+            "latest": "1.5.5-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Gadomancy",
             "versions": {
@@ -29166,7 +29286,7 @@
         },
         "Galacticraft": {
             "id": "com.github.GTNewHorizons:Galacticraft:<version>",
-            "latest": "3.4.11-GTNH",
+            "latest": "3.4.12-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galacticraft",
             "versions": {
@@ -31179,7 +31299,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.23",
+            "latest": "2.7.26-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -32471,6 +32591,10 @@
                     "name": "hodgepodge-2.6.111.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.111/hodgepodge-2.6.111.jar"
                 },
+                "2.6.112": {
+                    "name": "hodgepodge-2.6.112.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.112/hodgepodge-2.6.112.jar"
+                },
                 "2.6.12": {
                     "name": "hodgepodge-2.6.12.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.12/hodgepodge-2.6.12.jar"
@@ -32930,6 +33054,14 @@
                 "2.7.24-pre": {
                     "name": "hodgepodge-2.7.24-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.24-pre/hodgepodge-2.7.24-pre.jar"
+                },
+                "2.7.25": {
+                    "name": "hodgepodge-2.7.25.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.25/hodgepodge-2.7.25.jar"
+                },
+                "2.7.26-pre": {
+                    "name": "hodgepodge-2.7.26-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.26-pre/hodgepodge-2.7.26-pre.jar"
                 },
                 "2.7.3": {
                     "name": "hodgepodge-2.7.3.jar",
@@ -33823,7 +33955,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.3.11-GTNH",
+            "latest": "1.3.13-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -34138,6 +34270,10 @@
                 "1.3.12-GTNH-pre": {
                     "name": "bogosorter-1.3.12-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.12-GTNH-pre/bogosorter-1.3.12-GTNH-pre.jar"
+                },
+                "1.3.13-GTNH": {
+                    "name": "bogosorter-1.3.13-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.13-GTNH/bogosorter-1.3.13-GTNH.jar"
                 },
                 "1.3.2-GTNH": {
                     "name": "bogosorter-1.3.2-GTNH.jar",
@@ -35335,7 +35471,7 @@
         },
         "LittleTiles": {
             "id": "com.github.GTNewHorizons:LittleTiles:<version>",
-            "latest": "1.6.10",
+            "latest": "1.6.14-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LittleTiles",
             "versions": {
@@ -35467,6 +35603,14 @@
                     "name": "littletiles-1.6.12-pre.jar",
                     "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.12-pre/littletiles-1.6.12-pre.jar"
                 },
+                "1.6.13": {
+                    "name": "littletiles-1.6.13.jar",
+                    "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.13/littletiles-1.6.13.jar"
+                },
+                "1.6.14-pre": {
+                    "name": "littletiles-1.6.14-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.14-pre/littletiles-1.6.14-pre.jar"
+                },
                 "1.6.2": {
                     "name": "littletiles-1.6.2.jar",
                     "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.2/littletiles-1.6.2.jar"
@@ -35503,7 +35647,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.5.7-GTNH",
+            "latest": "1.5.8-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -36171,7 +36315,7 @@
         },
         "MagicBees": {
             "id": "com.github.GTNewHorizons:MagicBees:<version>",
-            "latest": "2.10.2-GTNH",
+            "latest": "2.10.3-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MagicBees",
             "versions": {
@@ -37995,7 +38139,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.22-1.7.10",
+            "latest": "2.3.23-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -38270,6 +38414,10 @@
                 "2.3.22-1.7.10": {
                     "name": "modularui2-2.3.22-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.22-1.7.10/modularui2-2.3.22-1.7.10.jar"
+                },
+                "2.3.23-1.7.10": {
+                    "name": "modularui2-2.3.23-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.23-1.7.10/modularui2-2.3.23-1.7.10.jar"
                 },
                 "2.3.3-1.7.10": {
                     "name": "modularui2-2.3.3-1.7.10.jar",
@@ -38595,7 +38743,7 @@
         },
         "Natura": {
             "id": "com.github.GTNewHorizons:Natura:<version>",
-            "latest": "2.8.9",
+            "latest": "2.8.10-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Natura",
             "versions": {
@@ -38963,7 +39111,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.62",
+            "latest": "2.8.65-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -42059,6 +42207,14 @@
                     "name": "GTNewHorizonsCoreMod-2.7.265.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.265/GTNewHorizonsCoreMod-2.7.265.jar"
                 },
+                "2.7.266": {
+                    "name": "GTNewHorizonsCoreMod-2.7.266.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.266/GTNewHorizonsCoreMod-2.7.266.jar"
+                },
+                "2.7.267": {
+                    "name": "GTNewHorizonsCoreMod-2.7.267.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.267/GTNewHorizonsCoreMod-2.7.267.jar"
+                },
                 "2.7.27": {
                     "name": "GTNewHorizonsCoreMod-2.7.27.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.27/GTNewHorizonsCoreMod-2.7.27.jar"
@@ -42615,6 +42771,14 @@
                     "name": "GTNewHorizonsCoreMod-2.8.63-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.63-pre/GTNewHorizonsCoreMod-2.8.63-pre.jar"
                 },
+                "2.8.64": {
+                    "name": "GTNewHorizonsCoreMod-2.8.64.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.64/GTNewHorizonsCoreMod-2.8.64.jar"
+                },
+                "2.8.65-pre": {
+                    "name": "GTNewHorizonsCoreMod-2.8.65-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.65-pre/GTNewHorizonsCoreMod-2.8.65-pre.jar"
+                },
                 "2.8.7-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.7-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.7-pre/GTNewHorizonsCoreMod-2.8.7-pre.jar"
@@ -42679,7 +42843,7 @@
         },
         "NotEnoughEnergistics": {
             "id": "com.github.GTNewHorizons:NotEnoughEnergistics:<version>",
-            "latest": "1.7.14",
+            "latest": "1.7.18",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics",
             "versions": {
@@ -42870,6 +43034,10 @@
                 "1.7.17-pre": {
                     "name": "NotEnoughEnergistics-1.7.17-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.17-pre/NotEnoughEnergistics-1.7.17-pre.jar"
+                },
+                "1.7.18": {
+                    "name": "NotEnoughEnergistics-1.7.18.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.18/NotEnoughEnergistics-1.7.18.jar"
                 },
                 "1.7.2-pre": {
                     "name": "NotEnoughEnergistics-1.7.2-pre.jar",
@@ -44707,7 +44875,7 @@
         },
         "Nutrition": {
             "id": "com.github.GTNewHorizons:Nutrition:<version>",
-            "latest": "0.1.4",
+            "latest": "0.1.5-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Nutrition",
             "versions": {
@@ -44991,7 +45159,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.12.6-GTNH",
+            "latest": "1.12.8-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -45230,6 +45398,10 @@
                 "1.12.7-GTNH-pre": {
                     "name": "OpenComputers-1.12.7-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.7-GTNH-pre/OpenComputers-1.12.7-GTNH-pre.jar"
+                },
+                "1.12.8-GTNH": {
+                    "name": "OpenComputers-1.12.8-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.8-GTNH/OpenComputers-1.12.8-GTNH.jar"
                 },
                 "1.7.4.1": {
                     "name": "OpenComputers-MC1.7.10-1.7.4.1-universal.jar",
@@ -46299,7 +46471,7 @@
         },
         "Railcraft": {
             "id": "com.github.GTNewHorizons:Railcraft:<version>",
-            "latest": "9.17.6",
+            "latest": "9.17.8-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Railcraft",
             "versions": {
@@ -46775,7 +46947,7 @@
         },
         "RandomBoubles": {
             "id": "com.github.GTNewHorizons:RandomBoubles:<version>",
-            "latest": "1.1.1",
+            "latest": "1.1.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RandomBoubles",
             "versions": {
@@ -46814,6 +46986,10 @@
                 "1.1.1": {
                     "name": "randomboubles-1.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.1/randomboubles-1.1.1.jar"
+                },
+                "1.1.2": {
+                    "name": "randomboubles-1.1.2.jar",
+                    "url": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.2/randomboubles-1.1.2.jar"
                 }
             }
         },
@@ -47439,7 +47615,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.2.6",
+            "latest": "2.2.7-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -49719,7 +49895,7 @@
         },
         "TCNEIAdditions": {
             "id": "com.github.GTNewHorizons:TCNEIAdditions:<version>",
-            "latest": "1.5.4",
+            "latest": "1.5.7-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TCNEIAdditions",
             "versions": {
@@ -49918,12 +50094,20 @@
                 "1.5.5-pre": {
                     "name": "tcneiadditions-1.5.5-pre.jar",
                     "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.5-pre/tcneiadditions-1.5.5-pre.jar"
+                },
+                "1.5.6": {
+                    "name": "tcneiadditions-1.5.6.jar",
+                    "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.6/tcneiadditions-1.5.6.jar"
+                },
+                "1.5.7-pre": {
+                    "name": "tcneiadditions-1.5.7-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.7-pre/tcneiadditions-1.5.7-pre.jar"
                 }
             }
         },
         "TCNodeTracker": {
             "id": "com.github.GTNewHorizons:TCNodeTracker:<version>",
-            "latest": "1.4.0",
+            "latest": "1.4.1-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TCNodeTracker",
             "versions": {
@@ -49975,7 +50159,7 @@
         },
         "TX-Loader": {
             "id": "com.github.GTNewHorizons:TX-Loader:<version>",
-            "latest": "1.8.5",
+            "latest": "1.8.6-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TX-Loader",
             "versions": {
@@ -50091,7 +50275,7 @@
         },
         "Tainted-Magic": {
             "id": "com.github.GTNewHorizons:Tainted-Magic:<version>",
-            "latest": "7.7.0-GTNH",
+            "latest": "7.7.1-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Tainted-Magic",
             "versions": {
@@ -51451,7 +51635,7 @@
         },
         "ThaumicBoots": {
             "id": "com.github.GTNewHorizons:ThaumicBoots:<version>",
-            "latest": "1.5.2",
+            "latest": "1.5.4-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicBoots",
             "versions": {
@@ -51651,7 +51835,7 @@
         },
         "ThaumicEnergistics": {
             "id": "com.github.GTNewHorizons:ThaumicEnergistics:<version>",
-            "latest": "1.7.16-GTNH",
+            "latest": "1.7.17-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicEnergistics",
             "versions": {
@@ -52275,7 +52459,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.4",
+            "latest": "2.12.5-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -52551,7 +52735,7 @@
         },
         "Thaumic_Exploration": {
             "id": "com.github.GTNewHorizons:Thaumic_Exploration:<version>",
-            "latest": "1.5.6-GTNH",
+            "latest": "1.5.7-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Thaumic_Exploration",
             "versions": {
@@ -52795,7 +52979,7 @@
         },
         "Tinkers-Defense": {
             "id": "com.github.GTNewHorizons:Tinkers-Defense:<version>",
-            "latest": "1.3.2",
+            "latest": "1.3.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Tinkers-Defense",
             "versions": {
@@ -52814,6 +52998,10 @@
                 "1.3.2": {
                     "name": "tinkersdefense-1.3.2.jar",
                     "url": "https://github.com/GTNewHorizons/Tinkers-Defense/releases/download/1.3.2/tinkersdefense-1.3.2.jar"
+                },
+                "1.3.3": {
+                    "name": "tinkersdefense-1.3.3.jar",
+                    "url": "https://github.com/GTNewHorizons/Tinkers-Defense/releases/download/1.3.3/tinkersdefense-1.3.3.jar"
                 }
             }
         },
@@ -52855,7 +53043,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.14-GTNH",
+            "latest": "1.14.16-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -53319,9 +53507,17 @@
                     "name": "TConstruct-1.14.14-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.14-GTNH/TConstruct-1.14.14-GTNH.jar"
                 },
+                "1.14.15-GTNH": {
+                    "name": "TConstruct-1.14.15-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.15-GTNH/TConstruct-1.14.15-GTNH.jar"
+                },
                 "1.14.15-GTNH-pre": {
                     "name": "TConstruct-1.14.15-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.15-GTNH-pre/TConstruct-1.14.15-GTNH-pre.jar"
+                },
+                "1.14.16-GTNH-pre": {
+                    "name": "TConstruct-1.14.16-GTNH-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.16-GTNH-pre/TConstruct-1.14.16-GTNH-pre.jar"
                 },
                 "1.14.2-GTNH": {
                     "name": "TConstruct-1.14.2-GTNH.jar",
@@ -53779,7 +53975,7 @@
         },
         "Translocators": {
             "id": "com.github.GTNewHorizons:Translocators:<version>",
-            "latest": "1.4.0",
+            "latest": "1.4.1-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Translocators",
             "versions": {
@@ -54735,7 +54931,7 @@
         },
         "WarpTheory": {
             "id": "com.github.GTNewHorizons:WarpTheory:<version>",
-            "latest": "1.5.0-GTNH",
+            "latest": "1.5.1-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WarpTheory",
             "versions": {
@@ -54879,7 +55075,7 @@
         },
         "WirelessCraftingTerminal": {
             "id": "com.github.GTNewHorizons:WirelessCraftingTerminal:<version>",
-            "latest": "1.12.7",
+            "latest": "1.12.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WirelessCraftingTerminal",
             "versions": {
@@ -54934,6 +55130,10 @@
                 "1.12.1": {
                     "name": "WirelessCraftingTerminal-1.12.1.jar",
                     "url": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.12.1/WirelessCraftingTerminal-1.12.1.jar"
+                },
+                "1.12.10": {
+                    "name": "WirelessCraftingTerminal-1.12.10.jar",
+                    "url": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.12.10/WirelessCraftingTerminal-1.12.10.jar"
                 },
                 "1.12.2": {
                     "name": "WirelessCraftingTerminal-1.12.2.jar",
@@ -55115,7 +55315,7 @@
         },
         "WitcheryExtras": {
             "id": "com.github.GTNewHorizons:WitcheryExtras:<version>",
-            "latest": "1.4.3",
+            "latest": "1.4.4-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitcheryExtras",
             "versions": {
@@ -55239,7 +55439,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.8.12-GTNH",
+            "latest": "1.8.13-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -55695,7 +55895,7 @@
         },
         "ae2stuff": {
             "id": "com.github.GTNewHorizons:ae2stuff:<version>",
-            "latest": "0.10.2-GTNH",
+            "latest": "0.10.3-GTNH-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ae2stuff",
             "versions": {
@@ -56195,7 +56395,7 @@
         },
         "harvestcraft": {
             "id": "com.github.GTNewHorizons:harvestcraft:<version>",
-            "latest": "1.3.2-GTNH",
+            "latest": "1.3.3-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/harvestcraft",
@@ -56295,6 +56495,10 @@
                 "1.3.2-GTNH": {
                     "name": "harvestcraft-1.3.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/harvestcraft/releases/download/1.3.2-GTNH/harvestcraft-1.3.2-GTNH.jar"
+                },
+                "1.3.3-GTNH": {
+                    "name": "harvestcraft-1.3.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/harvestcraft/releases/download/1.3.3-GTNH/harvestcraft-1.3.3-GTNH.jar"
                 }
             }
         },
@@ -56356,7 +56560,7 @@
         },
         "ironchest": {
             "id": "com.github.GTNewHorizons:ironchest:<version>",
-            "latest": "6.1.6",
+            "latest": "6.1.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ironchest",
             "versions": {
@@ -56475,6 +56679,10 @@
                 "6.1.6": {
                     "name": "IronChest-6.1.6.jar",
                     "url": "https://github.com/GTNewHorizons/ironchest/releases/download/6.1.6/IronChest-6.1.6.jar"
+                },
+                "6.1.7": {
+                    "name": "IronChest-6.1.7.jar",
+                    "url": "https://github.com/GTNewHorizons/ironchest/releases/download/6.1.7/IronChest-6.1.7.jar"
                 }
             }
         },
@@ -57544,7 +57752,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.7.13",
+            "latest": "2.7.14-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
