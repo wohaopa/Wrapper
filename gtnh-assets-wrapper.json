@@ -9198,7 +9198,7 @@
         },
         "BetterLoadingScreen": {
             "id": "com.github.GTNewHorizons:BetterLoadingScreen:<version>",
-            "latest": "1.7.3-GTNH",
+            "latest": "1.7.4-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterLoadingScreen",
             "versions": {
@@ -9305,6 +9305,10 @@
                 "1.7.3-GTNH": {
                     "name": "betterloadingscreen-1.7.3-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.3-GTNH/betterloadingscreen-1.7.3-GTNH.jar"
+                },
+                "1.7.4-GTNH": {
+                    "name": "betterloadingscreen-1.7.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.4-GTNH/betterloadingscreen-1.7.4-GTNH.jar"
                 }
             }
         },
@@ -15170,7 +15174,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.10.10",
+            "latest": "2.10.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -15189,6 +15193,10 @@
                 "2.10.11-pre": {
                     "name": "EnderIO-2.10.11-pre.jar",
                     "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.11-pre/EnderIO-2.10.11-pre.jar"
+                },
+                "2.10.12": {
+                    "name": "EnderIO-2.10.12.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.12/EnderIO-2.10.12.jar"
                 },
                 "2.10.2": {
                     "name": "EnderIO-2.10.2.jar",
@@ -57492,7 +57500,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.0-beta.11",
+            "latest": "3.0.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -57987,6 +57995,10 @@
                 "2.1.9": {
                     "name": "lwjgl3ify-2.1.9.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.9/lwjgl3ify-2.1.9.jar"
+                },
+                "3.0.0": {
+                    "name": "lwjgl3ify-3.0.0.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.0/lwjgl3ify-3.0.0.jar"
                 },
                 "3.0.0-beta.1": {
                     "name": "lwjgl3ify-3.0.0-beta.1.jar",
