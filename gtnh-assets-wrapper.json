@@ -10954,7 +10954,7 @@
         },
         "BloodMagic": {
             "id": "com.github.GTNewHorizons:BloodMagic:<version>",
-            "latest": "1.8.7",
+            "latest": "1.8.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodMagic",
             "versions": {
@@ -11381,6 +11381,10 @@
                 "1.8.7": {
                     "name": "BloodMagic-1.8.7.jar",
                     "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.7/BloodMagic-1.8.7.jar"
+                },
+                "1.8.8": {
+                    "name": "BloodMagic-1.8.8.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.8/BloodMagic-1.8.8.jar"
                 }
             }
         },
@@ -17722,7 +17726,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.187",
+            "latest": "5.09.52.189",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -25585,6 +25589,14 @@
                 "5.09.52.187": {
                     "name": "gregtech-5.09.52.187.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.187/gregtech-5.09.52.187.jar"
+                },
+                "5.09.52.188": {
+                    "name": "gregtech-5.09.52.188.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.188/gregtech-5.09.52.188.jar"
+                },
+                "5.09.52.189": {
+                    "name": "gregtech-5.09.52.189.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.189/gregtech-5.09.52.189.jar"
                 },
                 "5.09.52.19": {
                     "name": "gregtech-5.09.52.19.jar",
@@ -39751,7 +39763,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.90",
+            "latest": "2.8.91",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -43514,6 +43526,10 @@
                 "2.8.90": {
                     "name": "GTNewHorizonsCoreMod-2.8.90.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.90/GTNewHorizonsCoreMod-2.8.90.jar"
+                },
+                "2.8.91": {
+                    "name": "GTNewHorizonsCoreMod-2.8.91.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.91/GTNewHorizonsCoreMod-2.8.91.jar"
                 }
             }
         },
@@ -57387,7 +57403,7 @@
         },
         "gendustry": {
             "id": "com.github.GTNewHorizons:gendustry:<version>",
-            "latest": "1.9.5-GTNH",
+            "latest": "1.9.6-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/gendustry",
             "versions": {
@@ -57458,6 +57474,10 @@
                 "1.9.5-GTNH": {
                     "name": "gendustry-1.9.5-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.5-GTNH/gendustry-1.9.5-GTNH.jar"
+                },
+                "1.9.6-GTNH": {
+                    "name": "gendustry-1.9.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.6-GTNH/gendustry-1.9.6-GTNH.jar"
                 }
             }
         },
@@ -58336,7 +58356,7 @@
         },
         "nei-custom-diagram": {
             "id": "com.github.GTNewHorizons:nei-custom-diagram:<version>",
-            "latest": "1.8.6",
+            "latest": "1.8.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/nei-custom-diagram",
             "versions": {
@@ -58559,6 +58579,10 @@
                 "1.8.6": {
                     "name": "NEICustomDiagram-1.8.6.jar",
                     "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.6/NEICustomDiagram-1.8.6.jar"
+                },
+                "1.8.7": {
+                    "name": "NEICustomDiagram-1.8.7.jar",
+                    "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.7/NEICustomDiagram-1.8.7.jar"
                 }
             }
         },
