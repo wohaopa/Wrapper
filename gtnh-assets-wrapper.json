@@ -27038,7 +27038,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.8.45",
+            "latest": "0.9.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -27689,6 +27689,10 @@
                 "0.8.9": {
                     "name": "gtnhlib-0.8.9.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.8.9/gtnhlib-0.8.9.jar"
+                },
+                "0.9.0": {
+                    "name": "gtnhlib-0.9.0.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.0/gtnhlib-0.9.0.jar"
                 }
             }
         },
@@ -39811,7 +39815,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.92",
+            "latest": "2.8.94",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -43582,6 +43586,10 @@
                 "2.8.92": {
                     "name": "GTNewHorizonsCoreMod-2.8.92.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.92/GTNewHorizonsCoreMod-2.8.92.jar"
+                },
+                "2.8.94": {
+                    "name": "GTNewHorizonsCoreMod-2.8.94.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.94/GTNewHorizonsCoreMod-2.8.94.jar"
                 }
             }
         },
