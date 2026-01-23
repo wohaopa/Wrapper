@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-01-20",
+            "latest": "2.9.0-nightly-2026-01-21",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2227,6 +2227,10 @@
                 "2.9.0-nightly-2026-01-20": {
                     "name": "2.9.0-nightly-2026-01-20.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-01-20/2.9.0-nightly-2026-01-20.zip"
+                },
+                "2.9.0-nightly-2026-01-21": {
+                    "name": "2.9.0-nightly-2026-01-21.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-01-21/2.9.0-nightly-2026-01-21.zip"
                 }
             }
         }
@@ -40415,7 +40419,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.109",
+            "latest": "2.8.110",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -43894,6 +43898,10 @@
                 "2.8.11": {
                     "name": "GTNewHorizonsCoreMod-2.8.11.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.11/GTNewHorizonsCoreMod-2.8.11.jar"
+                },
+                "2.8.110": {
+                    "name": "GTNewHorizonsCoreMod-2.8.110.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.110/GTNewHorizonsCoreMod-2.8.110.jar"
                 },
                 "2.8.12": {
                     "name": "GTNewHorizonsCoreMod-2.8.12.jar",
@@ -48951,7 +48959,7 @@
         },
         "SGCraft": {
             "id": "com.github.GTNewHorizons:SGCraft:<version>",
-            "latest": "1.4.5-GTNH",
+            "latest": "1.4.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SGCraft",
             "versions": {
@@ -48990,6 +48998,10 @@
                 "1.4.6-GTNH-pre": {
                     "name": "SGCraft-1.4.6-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.6-GTNH-pre/SGCraft-1.4.6-GTNH-pre.jar"
+                },
+                "1.4.7-GTNH": {
+                    "name": "SGCraft-1.4.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.7-GTNH/SGCraft-1.4.7-GTNH.jar"
                 }
             }
         },
@@ -56059,7 +56071,7 @@
         },
         "Universal-Singularities": {
             "id": "com.github.GTNewHorizons:Universal-Singularities:<version>",
-            "latest": "8.12.0",
+            "latest": "8.13.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Universal-Singularities",
             "versions": {
@@ -56074,6 +56086,10 @@
                 "8.12.0": {
                     "name": "Universal-Singularities-8.12.0.jar",
                     "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.12.0/Universal-Singularities-8.12.0.jar"
+                },
+                "8.13.0": {
+                    "name": "Universal-Singularities-8.13.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.13.0/Universal-Singularities-8.13.0.jar"
                 },
                 "8.5": {
                     "name": "Universal.Singularities-1.7.10-8.5.jar",
@@ -58752,7 +58768,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.6",
+            "latest": "3.0.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -59319,6 +59335,10 @@
                 "3.0.6": {
                     "name": "lwjgl3ify-3.0.6.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.6/lwjgl3ify-3.0.6.jar"
+                },
+                "3.0.7": {
+                    "name": "lwjgl3ify-3.0.7.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.7/lwjgl3ify-3.0.7.jar"
                 }
             }
         },
