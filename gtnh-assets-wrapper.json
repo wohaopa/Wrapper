@@ -4534,7 +4534,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.0.0-alpha8",
+            "latest": "2.0.0-alpha9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5097,6 +5097,10 @@
                 "2.0.0-alpha8": {
                     "name": "angelica-2.0.0-alpha8.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha8/angelica-2.0.0-alpha8.jar"
+                },
+                "2.0.0-alpha9": {
+                    "name": "angelica-2.0.0-alpha9.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha9/angelica-2.0.0-alpha9.jar"
                 }
             }
         },
@@ -5286,7 +5290,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-792-GTNH",
+            "latest": "rv3-beta-793-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7866,6 +7870,10 @@
                     "name": "appliedenergistics2-rv3-beta-792-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-792-GTNH/appliedenergistics2-rv3-beta-792-GTNH.jar"
                 },
+                "rv3-beta-793-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-793-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-793-GTNH/appliedenergistics2-rv3-beta-793-GTNH.jar"
+                },
                 "rv3-beta-80-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-80-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-80-GTNH/appliedenergistics2-1.7.10-rv3-beta-80-GTNH.jar"
@@ -9318,7 +9326,7 @@
         },
         "BetterBuildersWands": {
             "id": "com.github.GTNewHorizons:BetterBuildersWands:<version>",
-            "latest": "0.13.3-GTNH",
+            "latest": "0.13.6-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterBuildersWands",
             "versions": {
@@ -9365,6 +9373,10 @@
                 "0.13.5-GTNH-pre": {
                     "name": "BetterBuildersWands-0.13.5-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.13.5-GTNH-pre/BetterBuildersWands-0.13.5-GTNH-pre.jar"
+                },
+                "0.13.6-GTNH": {
+                    "name": "BetterBuildersWands-0.13.6-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.13.6-GTNH/BetterBuildersWands-0.13.6-GTNH.jar"
                 },
                 "0.9.0-GTNH": {
                     "name": "BetterBuildersWands-1.7.10-0.9.0-GTNH.jar",
@@ -11222,7 +11234,7 @@
         },
         "BloodMagic": {
             "id": "com.github.GTNewHorizons:BloodMagic:<version>",
-            "latest": "1.8.8",
+            "latest": "1.8.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodMagic",
             "versions": {
@@ -11653,6 +11665,10 @@
                 "1.8.8": {
                     "name": "BloodMagic-1.8.8.jar",
                     "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.8/BloodMagic-1.8.8.jar"
+                },
+                "1.8.9": {
+                    "name": "BloodMagic-1.8.9.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.9/BloodMagic-1.8.9.jar"
                 }
             }
         },
@@ -18114,7 +18130,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.221",
+            "latest": "5.09.52.222",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -26126,6 +26142,10 @@
                     "name": "gregtech-5.09.52.221.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.221/gregtech-5.09.52.221.jar"
                 },
+                "5.09.52.222": {
+                    "name": "gregtech-5.09.52.222.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.222/gregtech-5.09.52.222.jar"
+                },
                 "5.09.52.23": {
                     "name": "gregtech-5.09.52.23.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.23/gregtech-5.09.52.23.jar"
@@ -27522,7 +27542,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.3",
+            "latest": "0.9.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -28189,6 +28209,14 @@
                 "0.9.3": {
                     "name": "gtnhlib-0.9.3.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.3/gtnhlib-0.9.3.jar"
+                },
+                "0.9.5": {
+                    "name": "gtnhlib-0.9.5.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.5/gtnhlib-0.9.5.jar"
+                },
+                "0.9.6": {
+                    "name": "gtnhlib-0.9.6.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.6/gtnhlib-0.9.6.jar"
                 }
             }
         },
@@ -32243,7 +32271,7 @@
         },
         "Hardcore-Ender-Expansion": {
             "id": "com.github.GTNewHorizons:Hardcore-Ender-Expansion:<version>",
-            "latest": "1.12.16-GTNH",
+            "latest": "1.12.17-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion",
             "versions": {
@@ -32310,6 +32338,10 @@
                 "1.12.16-GTNH": {
                     "name": "HardcoreEnderExpansion-1.12.16-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.16-GTNH/HardcoreEnderExpansion-1.12.16-GTNH.jar"
+                },
+                "1.12.17-GTNH": {
+                    "name": "HardcoreEnderExpansion-1.12.17-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.17-GTNH/HardcoreEnderExpansion-1.12.17-GTNH.jar"
                 },
                 "1.12.2-GTNH-pre": {
                     "name": "HardcoreEnderExpansion-1.12.2-GTNH-pre.jar",
@@ -37971,7 +38003,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.6-GTNH",
+            "latest": "0.1.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -38162,6 +38194,10 @@
                 "0.1.6-GTNH": {
                     "name": "matter-manipulator-0.1.6-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.6-GTNH/matter-manipulator-0.1.6-GTNH.jar"
+                },
+                "0.1.7-GTNH": {
+                    "name": "matter-manipulator-0.1.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.7-GTNH/matter-manipulator-0.1.7-GTNH.jar"
                 }
             }
         },
@@ -40419,7 +40455,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.110",
+            "latest": "2.8.111",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -43902,6 +43938,10 @@
                 "2.8.110": {
                     "name": "GTNewHorizonsCoreMod-2.8.110.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.110/GTNewHorizonsCoreMod-2.8.110.jar"
+                },
+                "2.8.111": {
+                    "name": "GTNewHorizonsCoreMod-2.8.111.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.111/GTNewHorizonsCoreMod-2.8.111.jar"
                 },
                 "2.8.12": {
                     "name": "GTNewHorizonsCoreMod-2.8.12.jar",
@@ -49007,7 +49047,7 @@
         },
         "Salis-Arcana": {
             "id": "com.github.GTNewHorizons:Salis-Arcana:<version>",
-            "latest": "1.1.45-GTNH",
+            "latest": "1.1.46-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Salis-Arcana",
             "versions": {
@@ -49166,6 +49206,10 @@
                 "1.1.45-GTNH": {
                     "name": "salisarcana-1.1.45-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.45-GTNH/salisarcana-1.1.45-GTNH.jar"
+                },
+                "1.1.46-GTNH": {
+                    "name": "salisarcana-1.1.46-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.46-GTNH/salisarcana-1.1.46-GTNH.jar"
                 },
                 "1.1.5-GTNH": {
                     "name": "salisarcana-1.1.5-GTNH.jar",
@@ -58768,7 +58812,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.7",
+            "latest": "3.0.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -59339,6 +59383,10 @@
                 "3.0.7": {
                     "name": "lwjgl3ify-3.0.7.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.7/lwjgl3ify-3.0.7.jar"
+                },
+                "3.0.8": {
+                    "name": "lwjgl3ify-3.0.8.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.8/lwjgl3ify-3.0.8.jar"
                 }
             }
         },
