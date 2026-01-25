@@ -4534,7 +4534,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.0.0-alpha9",
+            "latest": "2.0.0-alpha11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5069,6 +5069,14 @@
                 "2.0.0-alpha1": {
                     "name": "angelica-2.0.0-alpha1.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha1/angelica-2.0.0-alpha1.jar"
+                },
+                "2.0.0-alpha10": {
+                    "name": "angelica-2.0.0-alpha10.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha10/angelica-2.0.0-alpha10.jar"
+                },
+                "2.0.0-alpha11": {
+                    "name": "angelica-2.0.0-alpha11.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha11/angelica-2.0.0-alpha11.jar"
                 },
                 "2.0.0-alpha2": {
                     "name": "angelica-2.0.0-alpha2.jar",
@@ -13939,7 +13947,7 @@
         },
         "Crops-plus-plus": {
             "id": "com.github.GTNewHorizons:Crops-plus-plus:<version>",
-            "latest": "1.9.5",
+            "latest": "1.9.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Crops-plus-plus",
             "versions": {
@@ -14218,6 +14226,10 @@
                 "1.9.5": {
                     "name": "CropsPP-1.9.5.jar",
                     "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.9.5/CropsPP-1.9.5.jar"
+                },
+                "1.9.6": {
+                    "name": "CropsPP-1.9.6.jar",
+                    "url": "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.9.6/CropsPP-1.9.6.jar"
                 }
             }
         },
@@ -15054,7 +15066,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.7.16",
+            "latest": "1.7.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -15445,6 +15457,10 @@
                 "1.7.16": {
                     "name": "EMT-1.7.16.jar",
                     "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.7.16/EMT-1.7.16.jar"
+                },
+                "1.7.17": {
+                    "name": "EMT-1.7.17.jar",
+                    "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.7.17/EMT-1.7.17.jar"
                 },
                 "1.7.4": {
                     "name": "EMT-1.7.4.jar",
@@ -18130,7 +18146,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.222",
+            "latest": "5.09.52.224",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -26146,6 +26162,14 @@
                     "name": "gregtech-5.09.52.222.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.222/gregtech-5.09.52.222.jar"
                 },
+                "5.09.52.223": {
+                    "name": "gregtech-5.09.52.223.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.223/gregtech-5.09.52.223.jar"
+                },
+                "5.09.52.224": {
+                    "name": "gregtech-5.09.52.224.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.224/gregtech-5.09.52.224.jar"
+                },
                 "5.09.52.23": {
                     "name": "gregtech-5.09.52.23.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.23/gregtech-5.09.52.23.jar"
@@ -32447,7 +32471,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.48",
+            "latest": "2.7.49",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -34298,6 +34322,10 @@
                 "2.7.48": {
                     "name": "hodgepodge-2.7.48.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.48/hodgepodge-2.7.48.jar"
+                },
+                "2.7.49": {
+                    "name": "hodgepodge-2.7.49.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.49/hodgepodge-2.7.49.jar"
                 },
                 "2.7.5": {
                     "name": "hodgepodge-2.7.5.jar",
@@ -38003,7 +38031,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.7-GTNH",
+            "latest": "0.1.8-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -38198,6 +38226,10 @@
                 "0.1.7-GTNH": {
                     "name": "matter-manipulator-0.1.7-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.7-GTNH/matter-manipulator-0.1.7-GTNH.jar"
+                },
+                "0.1.8-GTNH": {
+                    "name": "matter-manipulator-0.1.8-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.8-GTNH/matter-manipulator-0.1.8-GTNH.jar"
                 }
             }
         },
@@ -44715,7 +44747,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.54-GTNH",
+            "latest": "2.8.55-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -46270,6 +46302,10 @@
                 "2.8.54-GTNH": {
                     "name": "NotEnoughItems-2.8.54-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.54-GTNH/NotEnoughItems-2.8.54-GTNH.jar"
+                },
+                "2.8.55-GTNH": {
+                    "name": "NotEnoughItems-2.8.55-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.55-GTNH/NotEnoughItems-2.8.55-GTNH.jar"
                 },
                 "2.8.6-GTNH": {
                     "name": "NotEnoughItems-2.8.6-GTNH.jar",
@@ -60304,7 +60340,7 @@
         },
         "waila": {
             "id": "com.github.GTNewHorizons:waila:<version>",
-            "latest": "1.19.19",
+            "latest": "1.19.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/waila",
             "versions": {
@@ -60315,6 +60351,10 @@
                 "1.19.19": {
                     "name": "Waila-1.19.19.jar",
                     "url": "https://github.com/GTNewHorizons/waila/releases/download/1.19.19/Waila-1.19.19.jar"
+                },
+                "1.19.20": {
+                    "name": "Waila-1.19.20.jar",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.19.20/Waila-1.19.20.jar"
                 },
                 "1.5.12": {
                     "name": "Waila-1.7.10-1.5.12.jar",
