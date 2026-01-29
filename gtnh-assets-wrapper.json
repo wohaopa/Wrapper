@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-01-26",
+            "latest": "2.9.0-nightly-2026-01-27",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2251,6 +2251,10 @@
                 "2.9.0-nightly-2026-01-26": {
                     "name": "2.9.0-nightly-2026-01-26.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-01-26/2.9.0-nightly-2026-01-26.zip"
+                },
+                "2.9.0-nightly-2026-01-27": {
+                    "name": "2.9.0-nightly-2026-01-27.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-01-27/2.9.0-nightly-2026-01-27.zip"
                 }
             }
         }
@@ -4570,7 +4574,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.0.0-alpha14",
+            "latest": "2.0.0-alpha16",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5125,6 +5129,14 @@
                 "2.0.0-alpha14": {
                     "name": "angelica-2.0.0-alpha14.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha14/angelica-2.0.0-alpha14.jar"
+                },
+                "2.0.0-alpha15": {
+                    "name": "angelica-2.0.0-alpha15.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha15/angelica-2.0.0-alpha15.jar"
+                },
+                "2.0.0-alpha16": {
+                    "name": "angelica-2.0.0-alpha16.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha16/angelica-2.0.0-alpha16.jar"
                 },
                 "2.0.0-alpha2": {
                     "name": "angelica-2.0.0-alpha2.jar",
@@ -10582,7 +10594,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.6.7",
+            "latest": "2.6.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -10929,6 +10941,10 @@
                 "2.6.8-pre": {
                     "name": "binnie-mods-2.6.8-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.8-pre/binnie-mods-2.6.8-pre.jar"
+                },
+                "2.6.9": {
+                    "name": "binnie-mods-2.6.9.jar",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.9/binnie-mods-2.6.9.jar"
                 }
             }
         },
@@ -18274,7 +18290,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.237",
+            "latest": "5.09.52.238",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -26345,6 +26361,10 @@
                 "5.09.52.237": {
                     "name": "gregtech-5.09.52.237.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.237/gregtech-5.09.52.237.jar"
+                },
+                "5.09.52.238": {
+                    "name": "gregtech-5.09.52.238.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.238/gregtech-5.09.52.238.jar"
                 },
                 "5.09.52.24": {
                     "name": "gregtech-5.09.52.24.jar",
@@ -40719,7 +40739,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.118",
+            "latest": "2.8.119",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -44234,6 +44254,10 @@
                 "2.8.118": {
                     "name": "GTNewHorizonsCoreMod-2.8.118.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.118/GTNewHorizonsCoreMod-2.8.118.jar"
+                },
+                "2.8.119": {
+                    "name": "GTNewHorizonsCoreMod-2.8.119.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.119/GTNewHorizonsCoreMod-2.8.119.jar"
                 },
                 "2.8.12": {
                     "name": "GTNewHorizonsCoreMod-2.8.12.jar",
@@ -53619,7 +53643,7 @@
         },
         "ThaumicBases": {
             "id": "com.github.GTNewHorizons:ThaumicBases:<version>",
-            "latest": "1.9.6",
+            "latest": "1.9.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicBases",
             "versions": {
@@ -53838,6 +53862,10 @@
                 "1.9.6": {
                     "name": "Thaumic-Based-1.9.6.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.9.6/Thaumic-Based-1.9.6.jar"
+                },
+                "1.9.7": {
+                    "name": "Thaumic-Based-1.9.7.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.9.7/Thaumic-Based-1.9.7.jar"
                 }
             }
         },
@@ -54051,7 +54079,7 @@
         },
         "ThaumicEnergistics": {
             "id": "com.github.GTNewHorizons:ThaumicEnergistics:<version>",
-            "latest": "1.7.20-GTNH",
+            "latest": "1.7.22-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicEnergistics",
             "versions": {
@@ -54375,6 +54403,10 @@
                     "name": "thaumicenergistics-1.7.21-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.21-GTNH-pre/thaumicenergistics-1.7.21-GTNH-pre.jar"
                 },
+                "1.7.22-GTNH": {
+                    "name": "thaumicenergistics-1.7.22-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.22-GTNH/thaumicenergistics-1.7.22-GTNH.jar"
+                },
                 "1.7.3-GTNH-pre": {
                     "name": "thaumicenergistics-1.7.3-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.3-GTNH-pre/thaumicenergistics-1.7.3-GTNH-pre.jar"
@@ -54691,7 +54723,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.4",
+            "latest": "2.12.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -54839,6 +54871,10 @@
                     "name": "ThaumicTinkerer-2.12.5-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.5-pre/ThaumicTinkerer-2.12.5-pre.jar"
                 },
+                "2.12.6": {
+                    "name": "ThaumicTinkerer-2.12.6.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.6/ThaumicTinkerer-2.12.6.jar"
+                },
                 "2.5.541": {
                     "name": "ThaumicTinkerer-2.5-1.7.10-541GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.5.541/ThaumicTinkerer-2.5-1.7.10-541GTNH.jar"
@@ -54967,7 +55003,7 @@
         },
         "Thaumic_Exploration": {
             "id": "com.github.GTNewHorizons:Thaumic_Exploration:<version>",
-            "latest": "1.5.10-GTNH",
+            "latest": "1.5.12-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Thaumic_Exploration",
             "versions": {
@@ -55138,6 +55174,10 @@
                 "1.5.11-GTNH-pre": {
                     "name": "Thaumic-Exploration-1.5.11-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.11-GTNH-pre/Thaumic-Exploration-1.5.11-GTNH-pre.jar"
+                },
+                "1.5.12-GTNH": {
+                    "name": "Thaumic-Exploration-1.5.12-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.12-GTNH/Thaumic-Exploration-1.5.12-GTNH.jar"
                 },
                 "1.5.2-GTNH-pre": {
                     "name": "Thaumic-Exploration-1.5.2-GTNH-pre.jar",
