@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-01-31-2",
+            "latest": "2.9.0-nightly-2026-02-02",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2275,6 +2275,10 @@
                 "2.9.0-nightly-2026-01-31-2": {
                     "name": "2.9.0-nightly-2026-01-31-2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-01-31-2/2.9.0-nightly-2026-01-31-2.zip"
+                },
+                "2.9.0-nightly-2026-02-02": {
+                    "name": "2.9.0-nightly-2026-02-02.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-02-02/2.9.0-nightly-2026-02-02.zip"
                 }
             }
         }
@@ -4610,7 +4614,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.0.0-alpha17",
+            "latest": "2.0.0-alpha18",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5177,6 +5181,10 @@
                 "2.0.0-alpha17": {
                     "name": "angelica-2.0.0-alpha17.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha17/angelica-2.0.0-alpha17.jar"
+                },
+                "2.0.0-alpha18": {
+                    "name": "angelica-2.0.0-alpha18.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha18/angelica-2.0.0-alpha18.jar"
                 },
                 "2.0.0-alpha2": {
                     "name": "angelica-2.0.0-alpha2.jar",
@@ -9486,7 +9494,7 @@
         },
         "BetterAchievements": {
             "id": "com.github.GTNewHorizons:BetterAchievements:<version>",
-            "latest": "0.3.0",
+            "latest": "0.3.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterAchievements",
             "versions": {
@@ -9513,6 +9521,10 @@
                 "0.3.1-pre": {
                     "name": "BetterAchievements-0.3.1-pre.jar",
                     "url": "https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.3.1-pre/BetterAchievements-0.3.1-pre.jar"
+                },
+                "0.3.2": {
+                    "name": "BetterAchievements-0.3.2.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.3.2/BetterAchievements-0.3.2.jar"
                 }
             }
         },
@@ -12626,7 +12638,7 @@
         },
         "BuildCraft": {
             "id": "com.github.GTNewHorizons:BuildCraft:<version>",
-            "latest": "7.1.51",
+            "latest": "7.1.53",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BuildCraft",
             "versions": {
@@ -12745,6 +12757,10 @@
                 "7.1.52-pre": {
                     "name": "buildcraft-7.1.52-pre.jar",
                     "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.52-pre/buildcraft-7.1.52-pre.jar"
+                },
+                "7.1.53": {
+                    "name": "buildcraft-7.1.53.jar",
+                    "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.53/buildcraft-7.1.53.jar"
                 }
             }
         },
@@ -18430,7 +18446,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.250",
+            "latest": "5.09.52.252",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -26558,6 +26574,14 @@
                     "name": "gregtech-5.09.52.250.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.250/gregtech-5.09.52.250.jar"
                 },
+                "5.09.52.251": {
+                    "name": "gregtech-5.09.52.251.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.251/gregtech-5.09.52.251.jar"
+                },
+                "5.09.52.252": {
+                    "name": "gregtech-5.09.52.252.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.252/gregtech-5.09.52.252.jar"
+                },
                 "5.09.52.26": {
                     "name": "gregtech-5.09.52.26.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.26/gregtech-5.09.52.26.jar"
@@ -32859,7 +32883,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.56",
+            "latest": "2.7.58",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -34742,6 +34766,10 @@
                 "2.7.57-pre": {
                     "name": "hodgepodge-2.7.57-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.57-pre/hodgepodge-2.7.57-pre.jar"
+                },
+                "2.7.58": {
+                    "name": "hodgepodge-2.7.58.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.58/hodgepodge-2.7.58.jar"
                 },
                 "2.7.6-pre": {
                     "name": "hodgepodge-2.7.6-pre.jar",
@@ -38067,7 +38095,7 @@
         },
         "MagicBees": {
             "id": "com.github.GTNewHorizons:MagicBees:<version>",
-            "latest": "2.10.2-GTNH",
+            "latest": "2.10.4-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MagicBees",
             "versions": {
@@ -38086,6 +38114,10 @@
                 "2.10.3-GTNH-pre": {
                     "name": "magicbees-2.10.3-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.10.3-GTNH-pre/magicbees-2.10.3-GTNH-pre.jar"
+                },
+                "2.10.4-GTNH": {
+                    "name": "magicbees-2.10.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.10.4-GTNH/magicbees-2.10.4-GTNH.jar"
                 },
                 "2.5.10-GTNH": {
                     "name": "magicbees-1.7.10-2.5.10-GTNH.jar",
@@ -48783,7 +48815,7 @@
         },
         "Railcraft": {
             "id": "com.github.GTNewHorizons:Railcraft:<version>",
-            "latest": "9.17.15",
+            "latest": "9.17.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Railcraft",
             "versions": {
@@ -49154,6 +49186,10 @@
                 "9.17.16-pre": {
                     "name": "Railcraft-9.17.16-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.16-pre/Railcraft-9.17.16-pre.jar"
+                },
+                "9.17.17": {
+                    "name": "Railcraft-9.17.17.jar",
+                    "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.17/Railcraft-9.17.17.jar"
                 },
                 "9.17.2": {
                     "name": "Railcraft-9.17.2.jar",
