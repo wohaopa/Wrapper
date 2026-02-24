@@ -4718,7 +4718,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.0.0-alpha21",
+            "latest": "2.0.0-alpha22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5305,6 +5305,10 @@
                 "2.0.0-alpha21": {
                     "name": "angelica-2.0.0-alpha21.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha21/angelica-2.0.0-alpha21.jar"
+                },
+                "2.0.0-alpha22": {
+                    "name": "angelica-2.0.0-alpha22.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha22/angelica-2.0.0-alpha22.jar"
                 },
                 "2.0.0-alpha3": {
                     "name": "angelica-2.0.0-alpha3.jar",
@@ -18914,7 +18918,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.311-chunck-api",
+            "latest": "5.09.52.313",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -27281,6 +27285,14 @@
                 "5.09.52.311-chunck-api": {
                     "name": "gregtech-5.09.52.311-chunck-api-dev-preshadow.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.311-chunck-api/gregtech-5.09.52.311-chunck-api-dev-preshadow.jar"
+                },
+                "5.09.52.312": {
+                    "name": "gregtech-5.09.52.312.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.312/gregtech-5.09.52.312.jar"
+                },
+                "5.09.52.313": {
+                    "name": "gregtech-5.09.52.313.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.313/gregtech-5.09.52.313.jar"
                 },
                 "5.09.52.32": {
                     "name": "gregtech-5.09.52.32.jar",
@@ -36555,7 +36567,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.3.21-GTNH",
+            "latest": "1.3.22-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -36910,6 +36922,10 @@
                 "1.3.21-GTNH": {
                     "name": "bogosorter-1.3.21-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.21-GTNH/bogosorter-1.3.21-GTNH.jar"
+                },
+                "1.3.22-GTNH": {
+                    "name": "bogosorter-1.3.22-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.22-GTNH/bogosorter-1.3.22-GTNH.jar"
                 },
                 "1.3.3-GTNH": {
                     "name": "bogosorter-1.3.3-GTNH.jar",
@@ -40903,7 +40919,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.44-1.7.10",
+            "latest": "2.3.45-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -41262,6 +41278,10 @@
                 "2.3.44-1.7.10": {
                     "name": "modularui2-2.3.44-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.44-1.7.10/modularui2-2.3.44-1.7.10.jar"
+                },
+                "2.3.45-1.7.10": {
+                    "name": "modularui2-2.3.45-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.45-1.7.10/modularui2-2.3.45-1.7.10.jar"
                 },
                 "2.3.5-1.7.10": {
                     "name": "modularui2-2.3.5-1.7.10.jar",
