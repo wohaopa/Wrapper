@@ -2346,7 +2346,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.63-gtnh",
+            "latest": "1.5.64-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -4082,6 +4082,10 @@
                     "name": "ae2fc-1.5.63-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.63-gtnh/ae2fc-1.5.63-gtnh.jar"
                 },
+                "1.5.64-gtnh": {
+                    "name": "ae2fc-1.5.64-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.64-gtnh/ae2fc-1.5.64-gtnh.jar"
+                },
                 "1.5.7-gtnh": {
                     "name": "ae2fc-1.5.7-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.7-gtnh/ae2fc-1.5.7-gtnh.jar"
@@ -4718,7 +4722,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.0.0-alpha23",
+            "latest": "2.0.0-alpha24",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5314,6 +5318,10 @@
                     "name": "angelica-2.0.0-alpha23.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha23/angelica-2.0.0-alpha23.jar"
                 },
+                "2.0.0-alpha24": {
+                    "name": "angelica-2.0.0-alpha24.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha24/angelica-2.0.0-alpha24.jar"
+                },
                 "2.0.0-alpha3": {
                     "name": "angelica-2.0.0-alpha3.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.0.0-alpha3/angelica-2.0.0-alpha3.jar"
@@ -5346,7 +5354,7 @@
         },
         "AngerMod": {
             "id": "com.github.GTNewHorizons:AngerMod:<version>",
-            "latest": "1.0.3",
+            "latest": "1.0.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AngerMod",
             "versions": {
@@ -5397,6 +5405,10 @@
                 "1.0.3": {
                     "name": "AngerMod-1.0.3.jar",
                     "url": "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.3/AngerMod-1.0.3.jar"
+                },
+                "1.0.4": {
+                    "name": "AngerMod-1.0.4.jar",
+                    "url": "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.4/AngerMod-1.0.4.jar"
                 }
             }
         },
@@ -5534,7 +5546,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-844-GTNH",
+            "latest": "rv3-beta-846-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -8317,6 +8329,14 @@
                 "rv3-beta-844-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-844-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-844-GTNH/appliedenergistics2-rv3-beta-844-GTNH.jar"
+                },
+                "rv3-beta-845-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-845-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-845-GTNH/appliedenergistics2-rv3-beta-845-GTNH.jar"
+                },
+                "rv3-beta-846-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-846-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-846-GTNH/appliedenergistics2-rv3-beta-846-GTNH.jar"
                 },
                 "rv3-beta-85-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-85-GTNH.jar",
@@ -18934,7 +18954,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.314",
+            "latest": "5.09.52.315",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -27314,6 +27334,10 @@
                     "name": "gregtech-5.09.52.314.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.314/gregtech-5.09.52.314.jar"
                 },
+                "5.09.52.315": {
+                    "name": "gregtech-5.09.52.315.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.315/gregtech-5.09.52.315.jar"
+                },
                 "5.09.52.32": {
                     "name": "gregtech-5.09.52.32.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.32/gregtech-5.09.52.32.jar"
@@ -28674,7 +28698,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.27",
+            "latest": "0.9.30",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -29434,9 +29458,17 @@
                     "name": "gtnhlib-0.9.27.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.27/gtnhlib-0.9.27.jar"
                 },
+                "0.9.29": {
+                    "name": "gtnhlib-0.9.29.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.29/gtnhlib-0.9.29.jar"
+                },
                 "0.9.3": {
                     "name": "gtnhlib-0.9.3.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.3/gtnhlib-0.9.3.jar"
+                },
+                "0.9.30": {
+                    "name": "gtnhlib-0.9.30.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.30/gtnhlib-0.9.30.jar"
                 },
                 "0.9.5": {
                     "name": "gtnhlib-0.9.5.jar",
@@ -33707,7 +33739,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.80",
+            "latest": "2.7.81",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -35690,6 +35722,10 @@
                 "2.7.80": {
                     "name": "hodgepodge-2.7.80.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.80/hodgepodge-2.7.80.jar"
+                },
+                "2.7.81": {
+                    "name": "hodgepodge-2.7.81.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.81/hodgepodge-2.7.81.jar"
                 },
                 "2.7.9": {
                     "name": "hodgepodge-2.7.9.jar",
@@ -52623,7 +52659,7 @@
         },
         "StorageDrawers": {
             "id": "com.github.GTNewHorizons:StorageDrawers:<version>",
-            "latest": "2.2.15-GTNH",
+            "latest": "2.2.16-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StorageDrawers",
             "versions": {
@@ -52854,6 +52890,10 @@
                 "2.2.15-GTNH": {
                     "name": "StorageDrawers-2.2.15-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.15-GTNH/StorageDrawers-2.2.15-GTNH.jar"
+                },
+                "2.2.16-GTNH": {
+                    "name": "StorageDrawers-2.2.16-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.16-GTNH/StorageDrawers-2.2.16-GTNH.jar"
                 },
                 "2.2.2-GTNH-pre": {
                     "name": "StorageDrawers-2.2.2-GTNH-pre.jar",
