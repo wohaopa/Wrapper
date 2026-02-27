@@ -5354,7 +5354,7 @@
         },
         "AngerMod": {
             "id": "com.github.GTNewHorizons:AngerMod:<version>",
-            "latest": "1.0.4",
+            "latest": "1.0.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AngerMod",
             "versions": {
@@ -5409,6 +5409,10 @@
                 "1.0.4": {
                     "name": "AngerMod-1.0.4.jar",
                     "url": "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.4/AngerMod-1.0.4.jar"
+                },
+                "1.0.5": {
+                    "name": "AngerMod-1.0.5.jar",
+                    "url": "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.5/AngerMod-1.0.5.jar"
                 }
             }
         },
@@ -18934,7 +18938,7 @@
         },
         "Freecam": {
             "id": "com.github.GTNewHorizons:Freecam:<version>",
-            "latest": "1.0.4",
+            "latest": "1.0.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Freecam",
             "versions": {
@@ -18949,12 +18953,16 @@
                 "1.0.4": {
                     "name": "freecam-1.0.4.jar",
                     "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.4/freecam-1.0.4.jar"
+                },
+                "1.0.5": {
+                    "name": "freecam-1.0.5.jar",
+                    "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.5/freecam-1.0.5.jar"
                 }
             }
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.315",
+            "latest": "5.09.52.316",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -27338,6 +27346,10 @@
                     "name": "gregtech-5.09.52.315.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.315/gregtech-5.09.52.315.jar"
                 },
+                "5.09.52.316": {
+                    "name": "gregtech-5.09.52.316.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.316/gregtech-5.09.52.316.jar"
+                },
                 "5.09.52.32": {
                     "name": "gregtech-5.09.52.32.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.32/gregtech-5.09.52.32.jar"
@@ -28698,7 +28710,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.30",
+            "latest": "0.9.31",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -29469,6 +29481,10 @@
                 "0.9.30": {
                     "name": "gtnhlib-0.9.30.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.30/gtnhlib-0.9.30.jar"
+                },
+                "0.9.31": {
+                    "name": "gtnhlib-0.9.31.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.31/gtnhlib-0.9.31.jar"
                 },
                 "0.9.5": {
                     "name": "gtnhlib-0.9.5.jar",
@@ -33739,7 +33755,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.81",
+            "latest": "2.7.82",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -35727,6 +35743,10 @@
                     "name": "hodgepodge-2.7.81.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.81/hodgepodge-2.7.81.jar"
                 },
+                "2.7.82": {
+                    "name": "hodgepodge-2.7.82.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.82/hodgepodge-2.7.82.jar"
+                },
                 "2.7.9": {
                     "name": "hodgepodge-2.7.9.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.9/hodgepodge-2.7.9.jar"
@@ -35979,7 +35999,7 @@
         },
         "HydroEnergy": {
             "id": "com.github.GTNewHorizons:HydroEnergy:<version>",
-            "latest": "1.4.12",
+            "latest": "1.4.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HydroEnergy",
             "versions": {
@@ -36094,6 +36114,10 @@
                 "1.4.13-pre": {
                     "name": "hydroenergy-1.4.13-pre.jar",
                     "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.13-pre/hydroenergy-1.4.13-pre.jar"
+                },
+                "1.4.14": {
+                    "name": "hydroenergy-1.4.14.jar",
+                    "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.14/hydroenergy-1.4.14.jar"
                 },
                 "1.4.2": {
                     "name": "hydroenergy-1.4.2.jar",
@@ -38395,7 +38419,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.5.12-GTNH",
+            "latest": "1.5.14-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -38826,6 +38850,10 @@
                 "1.5.13-GTNH-pre": {
                     "name": "logisticspipes-1.5.13-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.13-GTNH-pre/logisticspipes-1.5.13-GTNH-pre.jar"
+                },
+                "1.5.14-GTNH": {
+                    "name": "logisticspipes-1.5.14-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.14-GTNH/logisticspipes-1.5.14-GTNH.jar"
                 },
                 "1.5.2-GTNH": {
                     "name": "logisticspipes-1.5.2-GTNH.jar",
@@ -50951,7 +50979,7 @@
         },
         "SGCraft": {
             "id": "com.github.GTNewHorizons:SGCraft:<version>",
-            "latest": "1.4.7-GTNH",
+            "latest": "1.4.8-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SGCraft",
             "versions": {
@@ -50994,6 +51022,10 @@
                 "1.4.7-GTNH": {
                     "name": "SGCraft-1.4.7-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.7-GTNH/SGCraft-1.4.7-GTNH.jar"
+                },
+                "1.4.8-GTNH": {
+                    "name": "SGCraft-1.4.8-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.8-GTNH/SGCraft-1.4.8-GTNH.jar"
                 }
             }
         },
