@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-02-20",
+            "latest": "2.9.0-nightly-2026-02-26",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2339,6 +2339,10 @@
                 "2.9.0-nightly-2026-02-20": {
                     "name": "2.9.0-nightly-2026-02-20.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-02-20/2.9.0-nightly-2026-02-20.zip"
+                },
+                "2.9.0-nightly-2026-02-26": {
+                    "name": "2.9.0-nightly-2026-02-26.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-02-26/2.9.0-nightly-2026-02-26.zip"
                 }
             }
         }
@@ -18082,7 +18086,7 @@
         },
         "ForbiddenMagic": {
             "id": "com.github.GTNewHorizons:ForbiddenMagic:<version>",
-            "latest": "0.9.7-GTNH",
+            "latest": "0.9.9-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForbiddenMagic",
             "versions": {
@@ -18181,6 +18185,10 @@
                 "0.9.8-GTNH-pre": {
                     "name": "Forbidden.Magic-0.9.8-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.9.8-GTNH-pre/Forbidden.Magic-0.9.8-GTNH-pre.jar"
+                },
+                "0.9.9-GTNH": {
+                    "name": "Forbidden.Magic-0.9.9-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.9.9-GTNH/Forbidden.Magic-0.9.9-GTNH.jar"
                 }
             }
         },
@@ -31478,7 +31486,7 @@
         },
         "Gadomancy": {
             "id": "com.github.GTNewHorizons:Gadomancy:<version>",
-            "latest": "1.5.7",
+            "latest": "1.5.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Gadomancy",
             "versions": {
@@ -31641,6 +31649,10 @@
                 "1.5.7": {
                     "name": "gadomancy-1.5.7.jar",
                     "url": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.5.7/gadomancy-1.5.7.jar"
+                },
+                "1.5.8": {
+                    "name": "gadomancy-1.5.8.jar",
+                    "url": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.5.8/gadomancy-1.5.8.jar"
                 }
             }
         },
@@ -48491,7 +48503,7 @@
         },
         "OpenBlocks": {
             "id": "com.github.GTNewHorizons:OpenBlocks:<version>",
-            "latest": "1.12.4-GTNH",
+            "latest": "1.12.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenBlocks",
             "versions": {
@@ -48562,6 +48574,10 @@
                 "1.12.6-GTNH-pre": {
                     "name": "OpenBlocks-1.12.6-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.6-GTNH-pre/OpenBlocks-1.12.6-GTNH-pre.jar"
+                },
+                "1.12.7-GTNH": {
+                    "name": "OpenBlocks-1.12.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.7-GTNH/OpenBlocks-1.12.7-GTNH.jar"
                 },
                 "1.6.1": {
                     "name": "OpenBlocks-1.7.10-1.6.1-1.7.10.jar",
@@ -51031,7 +51047,7 @@
         },
         "Salis-Arcana": {
             "id": "com.github.GTNewHorizons:Salis-Arcana:<version>",
-            "latest": "1.1.46-GTNH",
+            "latest": "1.1.47-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Salis-Arcana",
             "versions": {
@@ -51194,6 +51210,10 @@
                 "1.1.46-GTNH": {
                     "name": "salisarcana-1.1.46-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.46-GTNH/salisarcana-1.1.46-GTNH.jar"
+                },
+                "1.1.47-GTNH": {
+                    "name": "salisarcana-1.1.47-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.47-GTNH/salisarcana-1.1.47-GTNH.jar"
                 },
                 "1.1.5-GTNH": {
                     "name": "salisarcana-1.1.5-GTNH.jar",
