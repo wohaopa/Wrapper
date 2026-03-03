@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-03-01",
+            "latest": "2.9.0-nightly-2026-03-01-2",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2351,6 +2351,10 @@
                 "2.9.0-nightly-2026-03-01": {
                     "name": "2.9.0-nightly-2026-03-01.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-03-01/2.9.0-nightly-2026-03-01.zip"
+                },
+                "2.9.0-nightly-2026-03-01-2": {
+                    "name": "2.9.0-nightly-2026-03-01-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-03-01-2/2.9.0-nightly-2026-03-01-2.zip"
                 }
             }
         }
@@ -5566,7 +5570,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-848-GTNH",
+            "latest": "rv3-beta-849-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -8365,6 +8369,10 @@
                 "rv3-beta-848-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-848-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-848-GTNH/appliedenergistics2-rv3-beta-848-GTNH.jar"
+                },
+                "rv3-beta-849-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-849-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-849-GTNH/appliedenergistics2-rv3-beta-849-GTNH.jar"
                 },
                 "rv3-beta-85-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-85-GTNH.jar",
@@ -13395,7 +13403,7 @@
         },
         "Chisel": {
             "id": "com.github.GTNewHorizons:Chisel:<version>",
-            "latest": "2.17.18-GTNH",
+            "latest": "2.17.19-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Chisel",
             "versions": {
@@ -13666,6 +13674,10 @@
                 "2.17.18-GTNH": {
                     "name": "chisel-2.17.18-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.18-GTNH/chisel-2.17.18-GTNH.jar"
+                },
+                "2.17.19-GTNH": {
+                    "name": "chisel-2.17.19-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.19-GTNH/chisel-2.17.19-GTNH.jar"
                 },
                 "2.17.2-GTNH-pre": {
                     "name": "chisel-2.17.2-GTNH-pre.jar",
@@ -14963,13 +14975,17 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.0",
+            "latest": "2.0.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
                 "2.0.0": {
                     "name": "cropsnh-2.0.0.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.0/cropsnh-2.0.0.jar"
+                },
+                "2.0.1": {
+                    "name": "cropsnh-2.0.1.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.1/cropsnh-2.0.1.jar"
                 }
             }
         },
@@ -19019,7 +19035,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.324",
+            "latest": "5.09.52.325",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -27443,6 +27459,10 @@
                     "name": "gregtech-5.09.52.324.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.324/gregtech-5.09.52.324.jar"
                 },
+                "5.09.52.325": {
+                    "name": "gregtech-5.09.52.325.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.325/gregtech-5.09.52.325.jar"
+                },
                 "5.09.52.34": {
                     "name": "gregtech-5.09.52.34.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.34/gregtech-5.09.52.34.jar"
@@ -28799,7 +28819,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.31",
+            "latest": "0.9.32",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -29574,6 +29594,10 @@
                 "0.9.31": {
                     "name": "gtnhlib-0.9.31.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.31/gtnhlib-0.9.31.jar"
+                },
+                "0.9.32": {
+                    "name": "gtnhlib-0.9.32.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.32/gtnhlib-0.9.32.jar"
                 },
                 "0.9.5": {
                     "name": "gtnhlib-0.9.5.jar",
@@ -36104,7 +36128,7 @@
         },
         "HydroEnergy": {
             "id": "com.github.GTNewHorizons:HydroEnergy:<version>",
-            "latest": "1.4.14",
+            "latest": "1.4.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HydroEnergy",
             "versions": {
@@ -36223,6 +36247,10 @@
                 "1.4.14": {
                     "name": "hydroenergy-1.4.14.jar",
                     "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.14/hydroenergy-1.4.14.jar"
+                },
+                "1.4.15": {
+                    "name": "hydroenergy-1.4.15.jar",
+                    "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.15/hydroenergy-1.4.15.jar"
                 },
                 "1.4.2": {
                     "name": "hydroenergy-1.4.2.jar",
@@ -46640,7 +46668,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.71-GTNH",
+            "latest": "2.8.72-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -48263,6 +48291,10 @@
                 "2.8.71-GTNH": {
                     "name": "NotEnoughItems-2.8.71-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.71-GTNH/NotEnoughItems-2.8.71-GTNH.jar"
+                },
+                "2.8.72-GTNH": {
+                    "name": "NotEnoughItems-2.8.72-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.72-GTNH/NotEnoughItems-2.8.72-GTNH.jar"
                 },
                 "2.8.8-GTNH": {
                     "name": "NotEnoughItems-2.8.8-GTNH.jar",
@@ -53352,7 +53384,7 @@
         },
         "StructureLib": {
             "id": "com.github.GTNewHorizons:StructureLib:<version>",
-            "latest": "1.4.28",
+            "latest": "1.4.30",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StructureLib",
             "versions": {
@@ -53599,6 +53631,10 @@
                 "1.4.3-pre": {
                     "name": "structurelib-1.4.3-pre.jar",
                     "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.3-pre/structurelib-1.4.3-pre.jar"
+                },
+                "1.4.30": {
+                    "name": "structurelib-1.4.30.jar",
+                    "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.30/structurelib-1.4.30.jar"
                 },
                 "1.4.4": {
                     "name": "structurelib-1.4.4.jar",
