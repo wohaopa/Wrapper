@@ -8834,7 +8834,7 @@
         },
         "AspectRecipeIndex": {
             "id": "com.github.GTNewHorizons:AspectRecipeIndex:<version>",
-            "latest": "1.0.4",
+            "latest": "1.0.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AspectRecipeIndex",
             "versions": {
@@ -8857,6 +8857,10 @@
                 "1.0.4": {
                     "name": "aspectrecipeindex-1.0.4.jar",
                     "url": "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.0.4/aspectrecipeindex-1.0.4.jar"
+                },
+                "1.0.5": {
+                    "name": "aspectrecipeindex-1.0.5.jar",
+                    "url": "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.0.5/aspectrecipeindex-1.0.5.jar"
                 }
             }
         },
@@ -18735,7 +18739,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.11.8",
+            "latest": "4.11.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -18842,6 +18846,10 @@
                 "4.11.8": {
                     "name": "Forestry-4.11.8.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.8/Forestry-4.11.8.jar"
+                },
+                "4.11.9": {
+                    "name": "Forestry-4.11.9.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.9/Forestry-4.11.9.jar"
                 },
                 "4.2.19.0": {
                     "name": "forestry_1.7.10-4.2.19.0.jar",
@@ -19523,7 +19531,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.350",
+            "latest": "5.09.52.354",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28067,6 +28075,10 @@
                     "name": "gregtech-5.09.52.352-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.352-pre/gregtech-5.09.52.352-pre.jar"
                 },
+                "5.09.52.354": {
+                    "name": "gregtech-5.09.52.354.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.354/gregtech-5.09.52.354.jar"
+                },
                 "5.09.52.36-pre": {
                     "name": "gregtech-5.09.52.36-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.36-pre/gregtech-5.09.52.36-pre.jar"
@@ -29419,7 +29431,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.40",
+            "latest": "0.9.41",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -30230,6 +30242,10 @@
                 "0.9.40": {
                     "name": "gtnhlib-0.9.40.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.40/gtnhlib-0.9.40.jar"
+                },
+                "0.9.41": {
+                    "name": "gtnhlib-0.9.41.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.41/gtnhlib-0.9.41.jar"
                 },
                 "0.9.5": {
                     "name": "gtnhlib-0.9.5.jar",
