@@ -1721,7 +1721,9 @@
             "rv3-beta-859-GTNH",
             "rv3-beta-860-GTNH",
             "rv3-beta-861-GTNH",
-            "rv3-beta-862-GTNH-pre"
+            "rv3-beta-862-GTNH-pre",
+            "rv3-beta-863-GTNH",
+            "rv3-beta-864-GTNH-pre"
         ]
     },
     {
@@ -1821,7 +1823,9 @@
             "1.0.2",
             "1.0.3",
             "1.0.4",
-            "1.0.5"
+            "1.0.5",
+            "1.0.6",
+            "1.0.7"
         ]
     },
     {
@@ -2295,7 +2299,8 @@
             "1.7.1-GTNH",
             "1.7.2-GTNH",
             "1.7.3-GTNH",
-            "1.7.4-GTNH"
+            "1.7.4-GTNH",
+            "1.7.5-GTNH"
         ]
     },
     {
@@ -3474,7 +3479,8 @@
             "2.1.3",
             "2.1.4",
             "2.1.5",
-            "2.1.6"
+            "2.1.6",
+            "2.1.7"
         ]
     },
     {
@@ -3608,7 +3614,8 @@
             "3.3.1",
             "3.4.0",
             "3.4.1",
-            "3.4.2"
+            "3.4.2",
+            "3.4.3"
         ]
     },
     {
@@ -3733,7 +3740,8 @@
             "2.0.9",
             "2.0.10",
             "2.0.11",
-            "2.0.12"
+            "2.0.12",
+            "2.0.13"
         ]
     },
     {
@@ -4149,7 +4157,9 @@
             "0.5.4-pre",
             "0.5.5",
             "0.5.7",
-            "0.5.8-pre"
+            "0.5.8-pre",
+            "0.5.9",
+            "0.5.10-pre"
         ]
     },
     {
@@ -4476,7 +4486,10 @@
             "2.6.2.26-GTNH-pre",
             "2.6.2.28-GTNH",
             "2.6.2.29-GTNH-pre",
-            "2.6.2.30-GTNH-pre"
+            "2.6.2.30-GTNH-pre",
+            "2.6.3-GTNH",
+            "2.6.4-GTNH",
+            "2.6.5-GTNH-pre"
         ]
     },
     {
@@ -4687,7 +4700,8 @@
             "0.9.10-GTNH",
             "0.9.11-GTNH",
             "0.9.12-GTNH",
-            "0.9.13-GTNH"
+            "0.9.13-GTNH",
+            "0.9.14-GTNH"
         ]
     },
     {
@@ -4804,7 +4818,9 @@
             "4.11.6",
             "4.11.7",
             "4.11.8",
-            "4.11.9"
+            "4.11.9",
+            "4.11.10",
+            "4.11.11"
         ]
     },
     {
@@ -5168,7 +5184,8 @@
             "1.1.128-GTNH",
             "1.1.129-GTNH",
             "1.1.130-GTNH",
-            "1.1.131-GTNH"
+            "1.1.131-GTNH",
+            "1.1.132-GTNH"
         ]
     },
     {
@@ -7730,7 +7747,12 @@
             "5.09.52.350",
             "5.09.52.351-pre",
             "5.09.52.352-pre",
-            "5.09.52.354"
+            "5.09.52.354",
+            "5.09.52.355",
+            "5.09.52.357",
+            "5.09.52.358",
+            "5.09.52.359-pre",
+            "5.09.52.360"
         ]
     },
     {
@@ -7770,8 +7792,16 @@
         ]
     },
     {
+        "name": "GTNH-Credits",
+        "path": "version/140_GTNH-Credits.json",
+        "versions": [
+            "1.0.0",
+            "1.1.0"
+        ]
+    },
+    {
         "name": "GTNH-Intergalactic",
-        "path": "version/140_GTNH-Intergalactic.json",
+        "path": "version/141_GTNH-Intergalactic.json",
         "versions": [
             "0.9.0-pre",
             "0.9.1-pre",
@@ -7917,7 +7947,7 @@
     },
     {
         "name": "GTNH-Lanthanides",
-        "path": "version/141_GTNH-Lanthanides.json",
+        "path": "version/142_GTNH-Lanthanides.json",
         "versions": [
             "0.8.1",
             "0.8.2",
@@ -7997,7 +8027,7 @@
     },
     {
         "name": "GTNH-TC-Wands",
-        "path": "version/142_GTNH-TC-Wands.json",
+        "path": "version/143_GTNH-TC-Wands.json",
         "versions": [
             "1.0.3",
             "1.0.4",
@@ -8024,7 +8054,7 @@
     },
     {
         "name": "GTNHLib",
-        "path": "version/143_GTNHLib.json",
+        "path": "version/144_GTNHLib.json",
         "versions": [
             "0.0.1",
             "0.0.2",
@@ -8233,12 +8263,13 @@
             "0.9.38",
             "0.9.39",
             "0.9.40",
-            "0.9.41"
+            "0.9.41",
+            "0.9.42"
         ]
     },
     {
         "name": "GTNHMixins",
-        "path": "version/144_GTNHMixins.json",
+        "path": "version/145_GTNHMixins.json",
         "versions": [
             "2.0.0",
             "2.0.1",
@@ -8261,7 +8292,7 @@
     },
     {
         "name": "GTplusplus",
-        "path": "version/145_GTplusplus.json",
+        "path": "version/146_GTplusplus.json",
         "versions": [
             "1.7.16",
             "1.7.22",
@@ -8738,7 +8769,7 @@
     },
     {
         "name": "Guide-API",
-        "path": "version/146_Guide-API.json",
+        "path": "version/147_Guide-API.json",
         "versions": [
             "1.0.2",
             "1.1.0"
@@ -8746,14 +8777,14 @@
     },
     {
         "name": "Hardcore Darkness",
-        "path": "version/147_Hardcore-Darkness.json",
+        "path": "version/148_Hardcore-Darkness.json",
         "versions": [
             "1.7"
         ]
     },
     {
         "name": "Hardcore-Ender-Expansion",
-        "path": "version/148_Hardcore-Ender-Expansion.json",
+        "path": "version/149_Hardcore-Ender-Expansion.json",
         "versions": [
             "1.9.0-GTNH",
             "1.9.1-GTNH",
@@ -8795,7 +8826,7 @@
     },
     {
         "name": "harvestcraft",
-        "path": "version/149_harvestcraft.json",
+        "path": "version/150_harvestcraft.json",
         "versions": [
             "1.0.8-GTNH",
             "1.0.9-GTNH",
@@ -8832,7 +8863,7 @@
     },
     {
         "name": "Healer",
-        "path": "version/150_Healer.json",
+        "path": "version/151_Healer.json",
         "versions": [
             "1.2.0",
             "1.2.1"
@@ -8840,7 +8871,7 @@
     },
     {
         "name": "HelpFixer",
-        "path": "version/151_HelpFixer.json",
+        "path": "version/152_HelpFixer.json",
         "versions": [
             "1.1.0",
             "1.2.0",
@@ -8849,7 +8880,7 @@
     },
     {
         "name": "Hodgepodge",
-        "path": "version/152_Hodgepodge.json",
+        "path": "version/153_Hodgepodge.json",
         "versions": [
             "1.6.7",
             "1.6.14",
@@ -9365,12 +9396,14 @@
             "2.7.96",
             "2.7.97",
             "2.7.98",
-            "2.7.99-pre"
+            "2.7.99-pre",
+            "2.7.100",
+            "2.7.101-pre"
         ]
     },
     {
         "name": "HoloInventory",
-        "path": "version/153_HoloInventory.json",
+        "path": "version/154_HoloInventory.json",
         "versions": [
             "1.9.2-GTNH",
             "2.0.0-beta1",
@@ -9428,14 +9461,14 @@
     },
     {
         "name": "Hunger-Overhaul",
-        "path": "version/154_Hunger-Overhaul.json",
+        "path": "version/155_Hunger-Overhaul.json",
         "versions": [
             "1.0.0.104"
         ]
     },
     {
         "name": "HungerOverhaul",
-        "path": "version/155_HungerOverhaul.json",
+        "path": "version/156_HungerOverhaul.json",
         "versions": [
             "1.0.3-GTNH",
             "1.0.4-GTNH",
@@ -9444,7 +9477,7 @@
     },
     {
         "name": "HydroEnergy",
-        "path": "version/156_HydroEnergy.json",
+        "path": "version/157_HydroEnergy.json",
         "versions": [
             "1.0.10",
             "1.0.11",
@@ -9488,14 +9521,14 @@
     },
     {
         "name": "IC2 Crop-Breeding Plugin",
-        "path": "version/157_IC2-Crop-Breeding-Plugin.json",
+        "path": "version/158_IC2-Crop-Breeding-Plugin.json",
         "versions": [
             "1.3.1"
         ]
     },
     {
         "name": "IFU",
-        "path": "version/158_IFU.json",
+        "path": "version/159_IFU.json",
         "versions": [
             "1.3",
             "1.4",
@@ -9520,7 +9553,7 @@
     },
     {
         "name": "IguanaTweaksTConstruct",
-        "path": "version/159_IguanaTweaksTConstruct.json",
+        "path": "version/160_IguanaTweaksTConstruct.json",
         "versions": [
             "2.1.9",
             "2.2.0",
@@ -9550,14 +9583,14 @@
     },
     {
         "name": "Industrial Craft 2",
-        "path": "version/160_Industrial-Craft-2.json",
+        "path": "version/161_Industrial-Craft-2.json",
         "versions": [
             "2.2.2.828"
         ]
     },
     {
         "name": "Infernal-Mobs",
-        "path": "version/161_Infernal-Mobs.json",
+        "path": "version/162_Infernal-Mobs.json",
         "versions": [
             "1.7.0-GTNH",
             "1.7.1",
@@ -9580,7 +9613,7 @@
     },
     {
         "name": "InGame-Info-XML",
-        "path": "version/162_InGame-Info-XML.json",
+        "path": "version/163_InGame-Info-XML.json",
         "versions": [
             "2.8.1.83",
             "2.8.1.84",
@@ -9629,7 +9662,7 @@
     },
     {
         "name": "INpureCore",
-        "path": "version/163_INpureCore.json",
+        "path": "version/164_INpureCore.json",
         "versions": [
             "1.1.0-GTNH",
             "1.1.1-GTNH",
@@ -9642,7 +9675,7 @@
     },
     {
         "name": "inventory-tweaks",
-        "path": "version/164_inventory-tweaks.json",
+        "path": "version/165_inventory-tweaks.json",
         "versions": [
             "1.5.11",
             "1.5.12",
@@ -9660,7 +9693,7 @@
     },
     {
         "name": "InventoryBogoSorter",
-        "path": "version/165_InventoryBogoSorter.json",
+        "path": "version/166_InventoryBogoSorter.json",
         "versions": [
             "1.0-GTNH",
             "1.1-GTNH",
@@ -9763,7 +9796,7 @@
     },
     {
         "name": "ironchest",
-        "path": "version/166_ironchest.json",
+        "path": "version/167_ironchest.json",
         "versions": [
             "6.0.66",
             "6.0.67",
@@ -9803,7 +9836,7 @@
     },
     {
         "name": "IronChestMinecarts",
-        "path": "version/167_IronChestMinecarts.json",
+        "path": "version/168_IronChestMinecarts.json",
         "versions": [
             "1.0.5",
             "1.0.6",
@@ -9815,7 +9848,7 @@
     },
     {
         "name": "IronTankMinecarts",
-        "path": "version/168_IronTankMinecarts.json",
+        "path": "version/169_IronTankMinecarts.json",
         "versions": [
             "1.0.0",
             "1.0.2",
@@ -9833,7 +9866,7 @@
     },
     {
         "name": "Irontanks",
-        "path": "version/169_Irontanks.json",
+        "path": "version/170_Irontanks.json",
         "versions": [
             "v1.1.17",
             "1.1.18",
@@ -9851,21 +9884,21 @@
     },
     {
         "name": "It's the little things",
-        "path": "version/170_It's-the-little-things.json",
+        "path": "version/171_It's-the-little-things.json",
         "versions": [
             "1.0.3"
         ]
     },
     {
         "name": "itlt",
-        "path": "version/171_itlt.json",
+        "path": "version/172_itlt.json",
         "versions": [
             "1.0.4"
         ]
     },
     {
         "name": "Jabba",
-        "path": "version/172_Jabba.json",
+        "path": "version/173_Jabba.json",
         "versions": [
             "1.2.5",
             "1.2.10",
@@ -9918,7 +9951,7 @@
     },
     {
         "name": "JourneyMap",
-        "path": "version/173_JourneyMap.json",
+        "path": "version/174_JourneyMap.json",
         "versions": [
             "5.1.4p2-fairplay",
             "5.1.4p6-fairplay",
@@ -9936,14 +9969,14 @@
     },
     {
         "name": "JourneyMap Server",
-        "path": "version/174_JourneyMap-Server.json",
+        "path": "version/175_JourneyMap-Server.json",
         "versions": [
             "1.0.5"
         ]
     },
     {
         "name": "KekzTech",
-        "path": "version/175_KekzTech.json",
+        "path": "version/176_KekzTech.json",
         "versions": [
             "0.6.0",
             "0.6.1",
@@ -10020,7 +10053,7 @@
     },
     {
         "name": "KubaTech",
-        "path": "version/176_KubaTech.json",
+        "path": "version/177_KubaTech.json",
         "versions": [
             "0.1",
             "0.1.1",
@@ -10140,7 +10173,7 @@
     },
     {
         "name": "LittleTiles",
-        "path": "version/177_LittleTiles.json",
+        "path": "version/178_LittleTiles.json",
         "versions": [
             "1.2.1-GTNH",
             "1.2.2-GTNH",
@@ -10193,7 +10226,7 @@
     },
     {
         "name": "LogisticsPipes",
-        "path": "version/178_LogisticsPipes.json",
+        "path": "version/179_LogisticsPipes.json",
         "versions": [
             "0.9.4.5.4-GTNH",
             "0.9.4.5.5",
@@ -10318,7 +10351,7 @@
     },
     {
         "name": "LootGames",
-        "path": "version/179_LootGames.json",
+        "path": "version/180_LootGames.json",
         "versions": [
             "2.0.1",
             "2.0.2",
@@ -10348,7 +10381,7 @@
     },
     {
         "name": "LunatriusCore",
-        "path": "version/180_LunatriusCore.json",
+        "path": "version/181_LunatriusCore.json",
         "versions": [
             "1.1.4",
             "1.1.5-GTNH",
@@ -10360,7 +10393,7 @@
     },
     {
         "name": "lwjgl3ify",
-        "path": "version/181_lwjgl3ify.json",
+        "path": "version/182_lwjgl3ify.json",
         "versions": [
             "0.1.0",
             "1.0.0",
@@ -10516,7 +10549,7 @@
     },
     {
         "name": "MagicBees",
-        "path": "version/182_MagicBees.json",
+        "path": "version/183_MagicBees.json",
         "versions": [
             "2.5.2-GTNH",
             "2.5.8-GTNH",
@@ -10575,7 +10608,7 @@
     },
     {
         "name": "MalisisCore",
-        "path": "version/183_MalisisCore.json",
+        "path": "version/184_MalisisCore.json",
         "versions": [
             "0.14.4-GTNH",
             "0.14.5-GTNH",
@@ -10589,14 +10622,14 @@
     },
     {
         "name": "MalisisDoor",
-        "path": "version/184_MalisisDoor.json",
+        "path": "version/185_MalisisDoor.json",
         "versions": [
             "1.13.2"
         ]
     },
     {
         "name": "MalisisDoors",
-        "path": "version/185_MalisisDoors.json",
+        "path": "version/186_MalisisDoors.json",
         "versions": [
             "1.13.3-GTNH",
             "1.13.4-GTNH",
@@ -10625,7 +10658,7 @@
     },
     {
         "name": "Mantle",
-        "path": "version/186_Mantle.json",
+        "path": "version/187_Mantle.json",
         "versions": [
             "0.3.4",
             "0.3.5",
@@ -10640,7 +10673,7 @@
     },
     {
         "name": "MatterManipulator",
-        "path": "version/187_MatterManipulator.json",
+        "path": "version/188_MatterManipulator.json",
         "versions": [
             "0.0.14",
             "0.0.15",
@@ -10697,12 +10730,13 @@
             "0.1.12-GTNH",
             "0.1.13-GTNH-pre",
             "0.1.14-GTNH",
-            "0.1.15-GTNH"
+            "0.1.15-GTNH",
+            "0.1.16-GTNH"
         ]
     },
     {
         "name": "Minecraft-Backpack-Mod",
-        "path": "version/188_Minecraft-Backpack-Mod.json",
+        "path": "version/189_Minecraft-Backpack-Mod.json",
         "versions": [
             "2.2.5-GTNH",
             "2.2.6-GTNH",
@@ -10744,7 +10778,7 @@
     },
     {
         "name": "Minetweaker-Gregtech-5-Addon",
-        "path": "version/189_Minetweaker-Gregtech-5-Addon.json",
+        "path": "version/190_Minetweaker-Gregtech-5-Addon.json",
         "versions": [
             "0.7.6",
             "1.0.0",
@@ -10786,7 +10820,7 @@
     },
     {
         "name": "Mixingasm",
-        "path": "version/190_Mixingasm.json",
+        "path": "version/191_Mixingasm.json",
         "versions": [
             "v0.2.3",
             "v0.2.4"
@@ -10794,7 +10828,7 @@
     },
     {
         "name": "Mobs-Info",
-        "path": "version/191_Mobs-Info.json",
+        "path": "version/192_Mobs-Info.json",
         "versions": [
             "0.0.1-GTNH",
             "0.0.2-GTNH",
@@ -10851,7 +10885,7 @@
     },
     {
         "name": "ModernMarkings",
-        "path": "version/192_ModernMarkings.json",
+        "path": "version/193_ModernMarkings.json",
         "versions": [
             "v0.0.1",
             "v0.0.2",
@@ -10872,26 +10906,27 @@
     },
     {
         "name": "ModMixins",
-        "path": "version/193_ModMixins.json",
+        "path": "version/194_ModMixins.json",
         "versions": [
             "0.0.5"
         ]
     },
     {
         "name": "ModTweaker",
-        "path": "version/194_ModTweaker.json",
+        "path": "version/195_ModTweaker.json",
         "versions": [
             "0.9.8",
             "0.9.9",
             "0.9.10",
             "0.10.0",
             "0.11.0",
-            "0.12.0"
+            "0.12.0",
+            "0.13.0"
         ]
     },
     {
         "name": "ModularUI",
-        "path": "version/195_ModularUI.json",
+        "path": "version/196_ModularUI.json",
         "versions": [
             "0.0.1",
             "0.0.2",
@@ -11051,7 +11086,7 @@
     },
     {
         "name": "ModularUI2",
-        "path": "version/196_ModularUI2.json",
+        "path": "version/197_ModularUI2.json",
         "versions": [
             "2.0.0-1.7.10",
             "2.0.1-1.7.10",
@@ -11147,26 +11182,27 @@
             "2.3.41-1.7.10",
             "2.3.43-1.7.10",
             "2.3.44-1.7.10",
-            "2.3.45-1.7.10"
+            "2.3.45-1.7.10",
+            "2.3.46-1.7.10"
         ]
     },
     {
         "name": "Morpheus",
-        "path": "version/197_Morpheus.json",
+        "path": "version/198_Morpheus.json",
         "versions": [
             "1.6.21"
         ]
     },
     {
         "name": "Mouse Tweaks",
-        "path": "version/198_Mouse-Tweaks.json",
+        "path": "version/199_Mouse-Tweaks.json",
         "versions": [
             "2.4.4"
         ]
     },
     {
         "name": "MouseTweaks",
-        "path": "version/199_MouseTweaks.json",
+        "path": "version/200_MouseTweaks.json",
         "versions": [
             "2.4.5-GTNH",
             "2.4.6-GTNH",
@@ -11188,7 +11224,7 @@
     },
     {
         "name": "MrTJPCore",
-        "path": "version/200_MrTJPCore.json",
+        "path": "version/201_MrTJPCore.json",
         "versions": [
             "1.1.1",
             "1.1.2-pre",
@@ -11208,7 +11244,7 @@
     },
     {
         "name": "MX-Random",
-        "path": "version/201_MX-Random.json",
+        "path": "version/202_MX-Random.json",
         "versions": [
             "0.1.0",
             "0.1.1",
@@ -11235,7 +11271,7 @@
     },
     {
         "name": "MyEssentials-Core",
-        "path": "version/202_MyEssentials-Core.json",
+        "path": "version/203_MyEssentials-Core.json",
         "versions": [
             "1.19r",
             "1.20r",
@@ -11244,7 +11280,7 @@
     },
     {
         "name": "MyPermissions",
-        "path": "version/203_MyPermissions.json",
+        "path": "version/204_MyPermissions.json",
         "versions": [
             "1.0-GTNH",
             "1.0.1-GTNH",
@@ -11254,7 +11290,7 @@
     },
     {
         "name": "MyTown2",
-        "path": "version/204_MyTown2.json",
+        "path": "version/205_MyTown2.json",
         "versions": [
             "0.5.3-GTNH",
             "0.5.3.1-GTNH",
@@ -11263,7 +11299,7 @@
     },
     {
         "name": "Natura",
-        "path": "version/205_Natura.json",
+        "path": "version/206_Natura.json",
         "versions": [
             "2.4.3-dev",
             "2.4.4",
@@ -11314,14 +11350,14 @@
     },
     {
         "name": "Nature's Compass",
-        "path": "version/206_Nature's-Compass.json",
+        "path": "version/207_Nature's-Compass.json",
         "versions": [
             "1.3.1"
         ]
     },
     {
         "name": "NaturesCompass",
-        "path": "version/207_NaturesCompass.json",
+        "path": "version/208_NaturesCompass.json",
         "versions": [
             "1.3.2-GTNH",
             "1.3.3-GTNH",
@@ -11339,7 +11375,7 @@
     },
     {
         "name": "Navigator",
-        "path": "version/208_Navigator.json",
+        "path": "version/209_Navigator.json",
         "versions": [
             "1.0.0",
             "1.0.1",
@@ -11363,7 +11399,7 @@
     },
     {
         "name": "nei-custom-diagram",
-        "path": "version/209_nei-custom-diagram.json",
+        "path": "version/210_nei-custom-diagram.json",
         "versions": [
             "1.4.3",
             "1.4.4",
@@ -11435,7 +11471,7 @@
     },
     {
         "name": "NEI-Integration",
-        "path": "version/210_NEI-Integration.json",
+        "path": "version/211_NEI-Integration.json",
         "versions": [
             "1.1.3",
             "1.1.4",
@@ -11455,14 +11491,14 @@
     },
     {
         "name": "NEI-Utilities",
-        "path": "version/211_NEI-Utilities.json",
+        "path": "version/212_NEI-Utilities.json",
         "versions": [
             "0.1.10"
         ]
     },
     {
         "name": "neiaddons",
-        "path": "version/212_neiaddons.json",
+        "path": "version/213_neiaddons.json",
         "versions": [
             "1.12.17",
             "1.12.18",
@@ -11480,7 +11516,7 @@
     },
     {
         "name": "NetherPortalFix",
-        "path": "version/213_NetherPortalFix.json",
+        "path": "version/214_NetherPortalFix.json",
         "versions": [
             "1.1.1",
             "1.1.2",
@@ -11491,7 +11527,7 @@
     },
     {
         "name": "Netty-Patcher",
-        "path": "version/214_Netty-Patcher.json",
+        "path": "version/215_Netty-Patcher.json",
         "versions": [
             "0.3",
             "0.3.1",
@@ -11501,7 +11537,7 @@
     },
     {
         "name": "NewHorizonsCoreMod",
-        "path": "version/215_NewHorizonsCoreMod.json",
+        "path": "version/216_NewHorizonsCoreMod.json",
         "versions": [
             "1.9.11",
             "1.9.12",
@@ -12521,12 +12557,15 @@
             "2.8.169-pre",
             "2.8.170",
             "2.8.172",
-            "2.8.173-pre"
+            "2.8.173-pre",
+            "2.8.174",
+            "2.8.175-pre",
+            "2.8.176"
         ]
     },
     {
         "name": "Nodal-Mechanics",
-        "path": "version/216_Nodal-Mechanics.json",
+        "path": "version/217_Nodal-Mechanics.json",
         "versions": [
             "Nodal-Mechanics",
             "1.1.-6-GTNH",
@@ -12540,7 +12579,7 @@
     },
     {
         "name": "NotEnoughCharacters",
-        "path": "version/217_NotEnoughCharacters.json",
+        "path": "version/218_NotEnoughCharacters.json",
         "versions": [
             "1.7.10-1.5.3-GTNH",
             "1.7.10-1.5.4-GTNH"
@@ -12548,7 +12587,7 @@
     },
     {
         "name": "NotEnoughEnergistics",
-        "path": "version/218_NotEnoughEnergistics.json",
+        "path": "version/219_NotEnoughEnergistics.json",
         "versions": [
             "1.3.8",
             "1.3.9",
@@ -12617,7 +12656,7 @@
     },
     {
         "name": "NotEnoughIds",
-        "path": "version/219_NotEnoughIds.json",
+        "path": "version/220_NotEnoughIds.json",
         "versions": [
             "1.4.3.4",
             "1.4.4",
@@ -12651,7 +12690,7 @@
     },
     {
         "name": "NotEnoughItems",
-        "path": "version/220_NotEnoughItems.json",
+        "path": "version/221_NotEnoughItems.json",
         "versions": [
             "1.0.6-GTNH",
             "2.0.0-beta-1-GTNH",
@@ -13068,7 +13107,7 @@
     },
     {
         "name": "Nuclear-Control",
-        "path": "version/221_Nuclear-Control.json",
+        "path": "version/222_Nuclear-Control.json",
         "versions": [
             "2.4.7",
             "2.4.8",
@@ -13118,7 +13157,7 @@
     },
     {
         "name": "Nutrition",
-        "path": "version/222_Nutrition.json",
+        "path": "version/223_Nutrition.json",
         "versions": [
             "0.0.1",
             "0.0.2",
@@ -13144,7 +13183,7 @@
     },
     {
         "name": "oauth",
-        "path": "version/223_oauth.json",
+        "path": "version/224_oauth.json",
         "versions": [
             "1.1.0-GTNH",
             "1.2.0-GTNH",
@@ -13159,7 +13198,7 @@
     },
     {
         "name": "OCGlasses",
-        "path": "version/224_OCGlasses.json",
+        "path": "version/225_OCGlasses.json",
         "versions": [
             "1.2-GTNH",
             "1.2.1-GTNH",
@@ -13184,7 +13223,7 @@
     },
     {
         "name": "OpenBlocks",
-        "path": "version/225_OpenBlocks.json",
+        "path": "version/226_OpenBlocks.json",
         "versions": [
             "1.6.1",
             "1.6.7",
@@ -13222,7 +13261,7 @@
     },
     {
         "name": "OpenComputers",
-        "path": "version/226_OpenComputers.json",
+        "path": "version/227_OpenComputers.json",
         "versions": [
             "1.7.4.1",
             "1.7.5.1",
@@ -13351,12 +13390,14 @@
             "1.12.17-GTNH-pre",
             "1.12.18-GTNH-pre",
             "1.12.20-GTNH-pre",
-            "1.12.21-GTNH-pre"
+            "1.12.21-GTNH-pre",
+            "1.12.22-GTNH",
+            "1.12.23-GTNH-pre"
         ]
     },
     {
         "name": "OpenModsLib",
-        "path": "version/227_OpenModsLib.json",
+        "path": "version/228_OpenModsLib.json",
         "versions": [
             "0.10.2",
             "0.10.3",
@@ -13374,7 +13415,7 @@
     },
     {
         "name": "OpenModularTurrets",
-        "path": "version/228_OpenModularTurrets.json",
+        "path": "version/229_OpenModularTurrets.json",
         "versions": [
             "2.2.2",
             "2.2.11-246",
@@ -13395,7 +13436,7 @@
     },
     {
         "name": "OpenPrinter",
-        "path": "version/229_OpenPrinter.json",
+        "path": "version/230_OpenPrinter.json",
         "versions": [
             "0.1.1-GTNH-pre",
             "0.1.2-GTNH",
@@ -13406,7 +13447,7 @@
     },
     {
         "name": "OpenSecurity",
-        "path": "version/230_OpenSecurity.json",
+        "path": "version/231_OpenSecurity.json",
         "versions": [
             "1.0.118-GTNH",
             "1.0.119-GTNH",
@@ -13418,7 +13459,7 @@
     },
     {
         "name": "Opis",
-        "path": "version/231_Opis.json",
+        "path": "version/232_Opis.json",
         "versions": [
             "1.3.2-mapless",
             "1.3.3-mapless",
@@ -13441,7 +13482,7 @@
     },
     {
         "name": "OverloadedArmorBar",
-        "path": "version/232_OverloadedArmorBar.json",
+        "path": "version/233_OverloadedArmorBar.json",
         "versions": [
             "1.0.0",
             "1.0.1",
@@ -13452,21 +13493,21 @@
     },
     {
         "name": "p455w0rd's Library",
-        "path": "version/233_p455w0rd's-Library.json",
+        "path": "version/234_p455w0rd's-Library.json",
         "versions": [
             "1.0.4"
         ]
     },
     {
         "name": "Pam's Harvest the Nether",
-        "path": "version/234_Pam's-Harvest-the-Nether.json",
+        "path": "version/235_Pam's-Harvest-the-Nether.json",
         "versions": [
             "1.7.10a"
         ]
     },
     {
         "name": "PersonalSpace",
-        "path": "version/235_PersonalSpace.json",
+        "path": "version/236_PersonalSpace.json",
         "versions": [
             "1.0.3-GTNH",
             "1.0.4-GTNH-pre",
@@ -13503,14 +13544,14 @@
     },
     {
         "name": "Player API",
-        "path": "version/236_Player-API.json",
+        "path": "version/237_Player-API.json",
         "versions": [
             "1.4"
         ]
     },
     {
         "name": "Player-API",
-        "path": "version/237_Player-API.json",
+        "path": "version/238_Player-API.json",
         "versions": [
             "1.4.1",
             "1.4.2",
@@ -13521,7 +13562,7 @@
     },
     {
         "name": "Postea",
-        "path": "version/238_Postea.json",
+        "path": "version/239_Postea.json",
         "versions": [
             "0.1.1",
             "1.0.0",
@@ -13555,7 +13596,7 @@
     },
     {
         "name": "ProjectBlue",
-        "path": "version/239_ProjectBlue.json",
+        "path": "version/240_ProjectBlue.json",
         "versions": [
             "1.1.7-GTNH",
             "1.1.8-GTNH",
@@ -13571,7 +13612,7 @@
     },
     {
         "name": "ProjectRed",
-        "path": "version/240_ProjectRed.json",
+        "path": "version/241_ProjectRed.json",
         "versions": [
             "4.7.1",
             "4.7.2",
@@ -13644,7 +13685,7 @@
     },
     {
         "name": "QmunityLib",
-        "path": "version/241_QmunityLib.json",
+        "path": "version/242_QmunityLib.json",
         "versions": [
             "0.1.115",
             "0.2.0",
@@ -13654,7 +13695,7 @@
     },
     {
         "name": "QuestBook",
-        "path": "version/242_QuestBook.json",
+        "path": "version/243_QuestBook.json",
         "versions": [
             "2.1.2-GTNH",
             "2.1.3-GTNH"
@@ -13662,7 +13703,7 @@
     },
     {
         "name": "Railcraft",
-        "path": "version/243_Railcraft.json",
+        "path": "version/244_Railcraft.json",
         "versions": [
             "9.12.7",
             "9.12.8",
@@ -13776,14 +13817,14 @@
     },
     {
         "name": "Random Things",
-        "path": "version/244_Random-Things.json",
+        "path": "version/245_Random-Things.json",
         "versions": [
             "2.2.4"
         ]
     },
     {
         "name": "Random-Things",
-        "path": "version/245_Random-Things.json",
+        "path": "version/246_Random-Things.json",
         "versions": [
             "2.4.1",
             "2.4.2-pre",
@@ -13811,7 +13852,7 @@
     },
     {
         "name": "RandomBoubles",
-        "path": "version/246_RandomBoubles.json",
+        "path": "version/247_RandomBoubles.json",
         "versions": [
             "1.0.0",
             "1.0.1-pre",
@@ -13830,7 +13871,7 @@
     },
     {
         "name": "Realistic-World-Gen",
-        "path": "version/247_Realistic-World-Gen.json",
+        "path": "version/248_Realistic-World-Gen.json",
         "versions": [
             "alpha-1.3.2.1",
             "alpha-1.3.3.0",
@@ -13851,7 +13892,7 @@
     },
     {
         "name": "RemoteIO",
-        "path": "version/248_RemoteIO.json",
+        "path": "version/249_RemoteIO.json",
         "versions": [
             "2.4.3",
             "2.4.4",
@@ -13879,14 +13920,14 @@
     },
     {
         "name": "Resource Loader",
-        "path": "version/249_Resource-Loader.json",
+        "path": "version/250_Resource-Loader.json",
         "versions": [
             "1.3"
         ]
     },
     {
         "name": "Roguelike-Dungeons",
-        "path": "version/250_Roguelike-Dungeons.json",
+        "path": "version/251_Roguelike-Dungeons.json",
         "versions": [
             "1.5.2-GTNH",
             "1.5.3-GTNH",
@@ -13901,7 +13942,7 @@
     },
     {
         "name": "Salis-Arcana",
-        "path": "version/251_Salis-Arcana.json",
+        "path": "version/252_Salis-Arcana.json",
         "versions": [
             "1.1.2-GTNH",
             "1.1.3-GTNH",
@@ -13955,7 +13996,7 @@
     },
     {
         "name": "SC2",
-        "path": "version/252_SC2.json",
+        "path": "version/253_SC2.json",
         "versions": [
             "2.0.0.b21",
             "2.0.0.b22",
@@ -13983,7 +14024,7 @@
     },
     {
         "name": "Schematica",
-        "path": "version/253_Schematica.json",
+        "path": "version/254_Schematica.json",
         "versions": [
             "1.8.0-GTNH",
             "1.8.1-GTNH",
@@ -14017,7 +14058,7 @@
     },
     {
         "name": "ServerUtilities",
-        "path": "version/254_ServerUtilities.json",
+        "path": "version/255_ServerUtilities.json",
         "versions": [
             "1.0.0",
             "1.0.1",
@@ -14199,7 +14240,7 @@
     },
     {
         "name": "SGCraft",
-        "path": "version/255_SGCraft.json",
+        "path": "version/256_SGCraft.json",
         "versions": [
             "1.3.12-GTNH",
             "1.3.13-GTNH",
@@ -14216,7 +14257,7 @@
     },
     {
         "name": "Share-Where-I-am",
-        "path": "version/256_Share-Where-I-am.json",
+        "path": "version/257_Share-Where-I-am.json",
         "versions": [
             "0.1.0-pre",
             "0.1.0",
@@ -14235,14 +14276,14 @@
     },
     {
         "name": "SimpleSkinBackport",
-        "path": "version/257_SimpleSkinBackport.json",
+        "path": "version/258_SimpleSkinBackport.json",
         "versions": [
             "1.0.0-GTNH"
         ]
     },
     {
         "name": "SleepingBags",
-        "path": "version/258_SleepingBags.json",
+        "path": "version/259_SleepingBags.json",
         "versions": [
             "0.1.2",
             "0.1.3",
@@ -14255,7 +14296,7 @@
     },
     {
         "name": "SpecialAI",
-        "path": "version/259_SpecialAI.json",
+        "path": "version/260_SpecialAI.json",
         "versions": [
             "1.1.2",
             "1.2.0"
@@ -14263,7 +14304,7 @@
     },
     {
         "name": "SpecialMobs",
-        "path": "version/260_SpecialMobs.json",
+        "path": "version/261_SpecialMobs.json",
         "versions": [
             "3.3.1",
             "3.3.2",
@@ -14294,7 +14335,7 @@
     },
     {
         "name": "SpiceOfLife",
-        "path": "version/261_SpiceOfLife.json",
+        "path": "version/262_SpiceOfLife.json",
         "versions": [
             "v2.0.0-carrot-beta1",
             "v2.0.0-carrot-beta2",
@@ -14334,7 +14375,7 @@
     },
     {
         "name": "SpongeMixins",
-        "path": "version/262_SpongeMixins.json",
+        "path": "version/263_SpongeMixins.json",
         "versions": [
             "1.2.0",
             "1.5.0"
@@ -14342,7 +14383,7 @@
     },
     {
         "name": "StandardQuestingPack",
-        "path": "version/263_StandardQuestingPack.json",
+        "path": "version/264_StandardQuestingPack.json",
         "versions": [
             "3.0.187-GTNH",
             "3.0.188-GTNH",
@@ -14361,7 +14402,7 @@
     },
     {
         "name": "Steve-s-Factory-Manager",
-        "path": "version/264_Steve-s-Factory-Manager.json",
+        "path": "version/265_Steve-s-Factory-Manager.json",
         "versions": [
             "A94-GTNH",
             "1.0.0-GTNH",
@@ -14392,7 +14433,7 @@
     },
     {
         "name": "StevesAddons",
-        "path": "version/265_StevesAddons.json",
+        "path": "version/266_StevesAddons.json",
         "versions": [
             "0.10.18",
             "0.10.19",
@@ -14420,7 +14461,7 @@
     },
     {
         "name": "StorageDrawers",
-        "path": "version/266_StorageDrawers.json",
+        "path": "version/267_StorageDrawers.json",
         "versions": [
             "1.10.8b",
             "1.11.0-gtnh",
@@ -14487,12 +14528,13 @@
             "2.2.13-GTNH",
             "2.2.14-GTNH",
             "2.2.15-GTNH",
-            "2.2.16-GTNH"
+            "2.2.16-GTNH",
+            "2.2.17-GTNH"
         ]
     },
     {
         "name": "StorageDrawers-BiomesOPlenty",
-        "path": "version/267_StorageDrawers-BiomesOPlenty.json",
+        "path": "version/268_StorageDrawers-BiomesOPlenty.json",
         "versions": [
             "1.11.9-gtnh",
             "1.11.10-gtnh",
@@ -14505,7 +14547,7 @@
     },
     {
         "name": "StorageDrawers-Forestry",
-        "path": "version/268_StorageDrawers-Forestry.json",
+        "path": "version/269_StorageDrawers-Forestry.json",
         "versions": [
             "1.11.9-gtnh",
             "1.11.10-gtnh",
@@ -14520,7 +14562,7 @@
     },
     {
         "name": "StorageDrawers-Misc",
-        "path": "version/269_StorageDrawers-Misc.json",
+        "path": "version/270_StorageDrawers-Misc.json",
         "versions": [
             "1.2.0-GTNH",
             "1.11.9-gtnh",
@@ -14534,7 +14576,7 @@
     },
     {
         "name": "StorageDrawers-Natura",
-        "path": "version/270_StorageDrawers-Natura.json",
+        "path": "version/271_StorageDrawers-Natura.json",
         "versions": [
             "1.2.0-GTNH",
             "1.11.9-gtnh",
@@ -14547,7 +14589,7 @@
     },
     {
         "name": "StructureCompat",
-        "path": "version/271_StructureCompat.json",
+        "path": "version/272_StructureCompat.json",
         "versions": [
             "0.1",
             "0.2.0",
@@ -14571,7 +14613,7 @@
     },
     {
         "name": "StructureLib",
-        "path": "version/272_StructureLib.json",
+        "path": "version/273_StructureLib.json",
         "versions": [
             "1.0.11",
             "1.0.12",
@@ -14648,7 +14690,7 @@
     },
     {
         "name": "Super-TiC",
-        "path": "version/273_Super-TiC.json",
+        "path": "version/274_Super-TiC.json",
         "versions": [
             "1.2.2",
             "1.2.3",
@@ -14665,7 +14707,7 @@
     },
     {
         "name": "supersolarpanels",
-        "path": "version/274_supersolarpanels.json",
+        "path": "version/275_supersolarpanels.json",
         "versions": [
             "1.1.2-GT-NH-Mod",
             "1.1.3",
@@ -14674,14 +14716,14 @@
     },
     {
         "name": "Tainted Magic",
-        "path": "version/275_Tainted-Magic.json",
+        "path": "version/276_Tainted-Magic.json",
         "versions": [
             "r7.6"
         ]
     },
     {
         "name": "Tainted-Magic",
-        "path": "version/276_Tainted-Magic.json",
+        "path": "version/277_Tainted-Magic.json",
         "versions": [
             "7.6.0-GTNH",
             "7.6.2-GTNH",
@@ -14712,12 +14754,13 @@
             "7.7.1-GTNH-pre",
             "7.7.2-GTNH",
             "7.7.3-GTNH",
-            "7.7.4-GTNH"
+            "7.7.4-GTNH",
+            "7.7.5-GTNH"
         ]
     },
     {
         "name": "TC-4-Tweaks",
-        "path": "version/277_TC-4-Tweaks.json",
+        "path": "version/278_TC-4-Tweaks.json",
         "versions": [
             "1.4.23",
             "1.4.24",
@@ -14769,7 +14812,7 @@
     },
     {
         "name": "TC4Tweaks",
-        "path": "version/278_TC4Tweaks.json",
+        "path": "version/279_TC4Tweaks.json",
         "versions": [
             "1.4.7",
             "1.4.10",
@@ -14786,7 +14829,7 @@
     },
     {
         "name": "TCNEIAdditions",
-        "path": "version/279_TCNEIAdditions.json",
+        "path": "version/280_TCNEIAdditions.json",
         "versions": [
             "1.0.1.0",
             "1.0.2.0",
@@ -14849,7 +14892,7 @@
     },
     {
         "name": "TCNodeTracker",
-        "path": "version/280_TCNodeTracker.json",
+        "path": "version/281_TCNodeTracker.json",
         "versions": [
             "1.1.3",
             "1.1.4",
@@ -14867,7 +14910,7 @@
     },
     {
         "name": "TecTech",
-        "path": "version/281_TecTech.json",
+        "path": "version/282_TecTech.json",
         "versions": [
             "4.10.12",
             "4.10.13",
@@ -15106,7 +15149,7 @@
     },
     {
         "name": "Thaumcraft",
-        "path": "version/282_Thaumcraft.json",
+        "path": "version/283_Thaumcraft.json",
         "versions": [
             "4.2.3.5a",
             "4.2.3.5"
@@ -15114,14 +15157,14 @@
     },
     {
         "name": "Thaumcraft NEI Plugin",
-        "path": "version/283_Thaumcraft-NEI-Plugin.json",
+        "path": "version/284_Thaumcraft-NEI-Plugin.json",
         "versions": [
             "1.7a"
         ]
     },
     {
         "name": "thaumcraft-research-tweaks",
-        "path": "version/284_thaumcraft-research-tweaks.json",
+        "path": "version/285_thaumcraft-research-tweaks.json",
         "versions": [
             "1.0.3",
             "1.0.4",
@@ -15134,7 +15177,7 @@
     },
     {
         "name": "ThaumcraftMobAspects",
-        "path": "version/285_ThaumcraftMobAspects.json",
+        "path": "version/286_ThaumcraftMobAspects.json",
         "versions": [
             "1.0.0-GTNH",
             "1.1.0-GTNH",
@@ -15146,21 +15189,21 @@
     },
     {
         "name": "Thaumic Inventory Scanning",
-        "path": "version/286_Thaumic-Inventory-Scanning.json",
+        "path": "version/287_Thaumic-Inventory-Scanning.json",
         "versions": [
             "1.0.11"
         ]
     },
     {
         "name": "Thaumic Machina",
-        "path": "version/287_Thaumic-Machina.json",
+        "path": "version/288_Thaumic-Machina.json",
         "versions": [
             "0.2.1"
         ]
     },
     {
         "name": "Thaumic_Exploration",
-        "path": "version/288_Thaumic_Exploration.json",
+        "path": "version/289_Thaumic_Exploration.json",
         "versions": [
             "1.1.56",
             "1.1.57",
@@ -15227,7 +15270,7 @@
     },
     {
         "name": "ThaumicBases",
-        "path": "version/289_ThaumicBases.json",
+        "path": "version/290_ThaumicBases.json",
         "versions": [
             "1.4.18",
             "1.4.19",
@@ -15290,7 +15333,7 @@
     },
     {
         "name": "ThaumicBoots",
-        "path": "version/290_ThaumicBoots.json",
+        "path": "version/291_ThaumicBoots.json",
         "versions": [
             "0.0.1.0",
             "0.0.1",
@@ -15347,7 +15390,7 @@
     },
     {
         "name": "ThaumicEnergistics",
-        "path": "version/291_ThaumicEnergistics.json",
+        "path": "version/292_ThaumicEnergistics.json",
         "versions": [
             "1.1.3.1",
             "1.3.15-GTNH",
@@ -15446,12 +15489,13 @@
             "1.7.31-GTNH",
             "1.7.32-GTNH",
             "1.7.33-GTNH",
-            "1.7.34-GTNH"
+            "1.7.34-GTNH",
+            "1.7.35-GTNH"
         ]
     },
     {
         "name": "ThaumicHorizons",
-        "path": "version/292_ThaumicHorizons.json",
+        "path": "version/293_ThaumicHorizons.json",
         "versions": [
             "1.1.9.8",
             "1.1.9.9",
@@ -15518,7 +15562,7 @@
     },
     {
         "name": "thaumicinsurgence",
-        "path": "version/293_thaumicinsurgence.json",
+        "path": "version/294_thaumicinsurgence.json",
         "versions": [
             "0.0.0.1",
             "0.0.0.2",
@@ -15551,7 +15595,7 @@
     },
     {
         "name": "ThaumicInventoryScanning",
-        "path": "version/294_ThaumicInventoryScanning.json",
+        "path": "version/295_ThaumicInventoryScanning.json",
         "versions": [
             "1.0.12-GTNH",
             "1.1.0-GTNH",
@@ -15564,7 +15608,7 @@
     },
     {
         "name": "ThaumicTinkerer",
-        "path": "version/295_ThaumicTinkerer.json",
+        "path": "version/296_ThaumicTinkerer.json",
         "versions": [
             "2.5.541",
             "2.5.555-GTNH",
@@ -15645,7 +15689,7 @@
     },
     {
         "name": "TiC-Tooltips",
-        "path": "version/296_TiC-Tooltips.json",
+        "path": "version/297_TiC-Tooltips.json",
         "versions": [
             "1.2.7",
             "1.2.8",
@@ -15659,14 +15703,14 @@
     },
     {
         "name": "Tinkers' Defense",
-        "path": "version/297_Tinkers'-Defense.json",
+        "path": "version/298_Tinkers'-Defense.json",
         "versions": [
             "1.2.1d"
         ]
     },
     {
         "name": "Tinkers-Defense",
-        "path": "version/298_Tinkers-Defense.json",
+        "path": "version/299_Tinkers-Defense.json",
         "versions": [
             "1.2.2",
             "1.3.0",
@@ -15677,7 +15721,7 @@
     },
     {
         "name": "Tinkers-Gregworks",
-        "path": "version/299_Tinkers-Gregworks.json",
+        "path": "version/300_Tinkers-Gregworks.json",
         "versions": [
             "1.0.23",
             "1.0.24",
@@ -15691,7 +15735,7 @@
     },
     {
         "name": "TinkersConstruct",
-        "path": "version/300_TinkersConstruct.json",
+        "path": "version/301_TinkersConstruct.json",
         "versions": [
             "1.8.9.1-GTNH",
             "1.8.9.2-GTNH",
@@ -15902,12 +15946,14 @@
             "1.14.33-GTNH-pre",
             "1.14.34-GTNH",
             "1.14.35-GTNH",
-            "1.14.36-GTNH-pre"
+            "1.14.36-GTNH-pre",
+            "1.14.37-GTNH",
+            "1.14.38-GTNH-pre"
         ]
     },
     {
         "name": "TinkersGregworks",
-        "path": "version/301_TinkersGregworks.json",
+        "path": "version/302_TinkersGregworks.json",
         "versions": [
             "GTNH-1.0.22",
             "GTNH-1.0.23",
@@ -15926,7 +15972,7 @@
     },
     {
         "name": "TinkersMechworks",
-        "path": "version/302_TinkersMechworks.json",
+        "path": "version/303_TinkersMechworks.json",
         "versions": [
             "0.2.16.2",
             "0.2.16.3",
@@ -15940,7 +15986,7 @@
     },
     {
         "name": "TooMuchLoot",
-        "path": "version/303_TooMuchLoot.json",
+        "path": "version/304_TooMuchLoot.json",
         "versions": [
             "4.1.0-GTNH",
             "4.2.0-GTNH",
@@ -15949,7 +15995,7 @@
     },
     {
         "name": "ToroHealth",
-        "path": "version/304_ToroHealth.json",
+        "path": "version/305_ToroHealth.json",
         "versions": [
             "1.0.0-beta2",
             "1.0.0-beta3",
@@ -15966,7 +16012,7 @@
     },
     {
         "name": "Translocators",
-        "path": "version/305_Translocators.json",
+        "path": "version/306_Translocators.json",
         "versions": [
             "1.1.2.17",
             "1.1.2.18",
@@ -15984,14 +16030,14 @@
     },
     {
         "name": "Travellers Gear",
-        "path": "version/306_Travellers-Gear.json",
+        "path": "version/307_Travellers-Gear.json",
         "versions": [
             "1.16.6"
         ]
     },
     {
         "name": "TravellersGearNeo",
-        "path": "version/307_TravellersGearNeo.json",
+        "path": "version/308_TravellersGearNeo.json",
         "versions": [
             "1.0",
             "1.1.0",
@@ -16004,7 +16050,7 @@
     },
     {
         "name": "twilightforest",
-        "path": "version/308_twilightforest.json",
+        "path": "version/309_twilightforest.json",
         "versions": [
             "2.3.8.9",
             "2.3.8.10",
@@ -16112,7 +16158,7 @@
     },
     {
         "name": "TX-Loader",
-        "path": "version/309_TX-Loader.json",
+        "path": "version/310_TX-Loader.json",
         "versions": [
             "1.1",
             "1.2",
@@ -16145,7 +16191,7 @@
     },
     {
         "name": "UniLib",
-        "path": "version/310_UniLib.json",
+        "path": "version/311_UniLib.json",
         "versions": [
             "1.0.1",
             "1.0.2",
@@ -16161,7 +16207,7 @@
     },
     {
         "name": "Universal-Singularities",
-        "path": "version/311_Universal-Singularities.json",
+        "path": "version/312_Universal-Singularities.json",
         "versions": [
             "8.5a",
             "8.5",
@@ -16184,7 +16230,7 @@
     },
     {
         "name": "VendingMachine",
-        "path": "version/312_VendingMachine.json",
+        "path": "version/313_VendingMachine.json",
         "versions": [
             "0.4.1",
             "0.4.2",
@@ -16234,12 +16280,24 @@
             "0.4.47",
             "0.4.48",
             "0.4.49",
-            "0.4.50"
+            "0.4.50",
+            "0.4.51",
+            "0.4.52"
+        ]
+    },
+    {
+        "name": "VillageNames",
+        "path": "version/314_VillageNames.json",
+        "versions": [
+            "4.5.0-GTNH-pre",
+            "4.5.1-GTNH",
+            "4.5.2-GTNH",
+            "4.5.3-GTNH"
         ]
     },
     {
         "name": "VisualProspecting",
-        "path": "version/313_VisualProspecting.json",
+        "path": "version/315_VisualProspecting.json",
         "versions": [
             "1.0.22b",
             "1.0.24b",
@@ -16340,7 +16398,7 @@
     },
     {
         "name": "waila",
-        "path": "version/314_waila.json",
+        "path": "version/316_waila.json",
         "versions": [
             "1.5.12",
             "1.5.13",
@@ -16408,7 +16466,7 @@
     },
     {
         "name": "WailaHarvestability",
-        "path": "version/315_WailaHarvestability.json",
+        "path": "version/317_WailaHarvestability.json",
         "versions": [
             "1.1.7-gtnh",
             "1.1.8-gtnh",
@@ -16425,7 +16483,7 @@
     },
     {
         "name": "WAILAPlugins",
-        "path": "version/316_WAILAPlugins.json",
+        "path": "version/318_WAILAPlugins.json",
         "versions": [
             "0.2.1",
             "0.2.2",
@@ -16448,7 +16506,7 @@
     },
     {
         "name": "WanionLib",
-        "path": "version/317_WanionLib.json",
+        "path": "version/319_WanionLib.json",
         "versions": [
             "1.8.1",
             "1.8.2",
@@ -16460,7 +16518,7 @@
     },
     {
         "name": "WarpTheory",
-        "path": "version/318_WarpTheory.json",
+        "path": "version/320_WarpTheory.json",
         "versions": [
             "1.0k-dev",
             "1.0l-Dev",
@@ -16502,7 +16560,7 @@
     },
     {
         "name": "WAWLA",
-        "path": "version/319_WAWLA.json",
+        "path": "version/321_WAWLA.json",
         "versions": [
             "1.1.0-GTNH",
             "1.1.1-GTNH",
@@ -16518,7 +16576,7 @@
     },
     {
         "name": "WirelessCraftingTerminal",
-        "path": "version/320_WirelessCraftingTerminal.json",
+        "path": "version/322_WirelessCraftingTerminal.json",
         "versions": [
             "1.8.8.1",
             "1.8.8.2",
@@ -16568,7 +16626,7 @@
     },
     {
         "name": "WirelessRedstone-CBE",
-        "path": "version/321_WirelessRedstone-CBE.json",
+        "path": "version/323_WirelessRedstone-CBE.json",
         "versions": [
             "1.4.2",
             "1.4.3",
@@ -16586,14 +16644,14 @@
     },
     {
         "name": "Witchery",
-        "path": "version/322_Witchery.json",
+        "path": "version/324_Witchery.json",
         "versions": [
             "0.24.1"
         ]
     },
     {
         "name": "WitcheryExtras",
-        "path": "version/323_WitcheryExtras.json",
+        "path": "version/325_WitcheryExtras.json",
         "versions": [
             "1.1.3",
             "1.1.4",
@@ -16636,7 +16694,7 @@
     },
     {
         "name": "WitchingGadgets",
-        "path": "version/324_WitchingGadgets.json",
+        "path": "version/326_WitchingGadgets.json",
         "versions": [
             "1.2.9j",
             "1.2.9k",
@@ -16768,7 +16826,7 @@
     },
     {
         "name": "Yamcl",
-        "path": "version/325_Yamcl.json",
+        "path": "version/327_Yamcl.json",
         "versions": [
             "0.5.81",
             "0.5.84",
@@ -16782,7 +16840,7 @@
     },
     {
         "name": "Ztones",
-        "path": "version/326_Ztones.json",
+        "path": "version/328_Ztones.json",
         "versions": [
             "2.2.2"
         ]
