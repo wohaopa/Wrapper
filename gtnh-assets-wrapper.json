@@ -4294,7 +4294,7 @@
         },
         "AdventureBackpack2": {
             "id": "com.github.GTNewHorizons:AdventureBackpack2:<version>",
-            "latest": "1.4.17-GTNH",
+            "latest": "1.4.18-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AdventureBackpack2",
             "versions": {
@@ -4505,6 +4505,10 @@
                 "1.4.17-GTNH": {
                     "name": "adventurebackpack-1.4.17-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.4.17-GTNH/adventurebackpack-1.4.17-GTNH.jar"
+                },
+                "1.4.18-GTNH": {
+                    "name": "adventurebackpack-1.4.18-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.4.18-GTNH/adventurebackpack-1.4.18-GTNH.jar"
                 },
                 "1.4.2-GTNH-pre": {
                     "name": "adventurebackpack-1.4.2-GTNH-pre.jar",
@@ -5682,7 +5686,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-869-GTNH",
+            "latest": "rv3-beta-870-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -8570,6 +8574,10 @@
                     "name": "appliedenergistics2-1.7.10-rv3-beta-87-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-87-GTNH/appliedenergistics2-1.7.10-rv3-beta-87-GTNH.jar"
                 },
+                "rv3-beta-870-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-870-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-870-GTNH/appliedenergistics2-rv3-beta-870-GTNH.jar"
+                },
                 "rv3-beta-88-GTNH-pre": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-88-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-88-GTNH-pre/appliedenergistics2-1.7.10-rv3-beta-88-GTNH-pre.jar"
@@ -9346,7 +9354,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.8.3",
+            "latest": "1.8.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -9625,6 +9633,10 @@
                 "1.8.3": {
                     "name": "backhand-1.8.3.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.3/backhand-1.8.3.jar"
+                },
+                "1.8.4": {
+                    "name": "backhand-1.8.4.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.4/backhand-1.8.4.jar"
                 }
             }
         },
@@ -18007,13 +18019,17 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.11-GTNH",
+            "latest": "2.6.12-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
                 "2.6.11-GTNH": {
                     "name": "etfuturum-2.6.11-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.11-GTNH/etfuturum-2.6.11-GTNH.jar"
+                },
+                "2.6.12-GTNH": {
+                    "name": "etfuturum-2.6.12-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.12-GTNH/etfuturum-2.6.12-GTNH.jar"
                 },
                 "2.6.2.1-GTNH-pre": {
                     "name": "etfuturum-2.6.2.1-GTNH-pre.jar",
@@ -19675,7 +19691,7 @@
         },
         "Freecam": {
             "id": "com.github.GTNewHorizons:Freecam:<version>",
-            "latest": "1.0.5",
+            "latest": "1.0.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Freecam",
             "versions": {
@@ -19694,6 +19710,10 @@
                 "1.0.5": {
                     "name": "freecam-1.0.5.jar",
                     "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.5/freecam-1.0.5.jar"
+                },
+                "1.0.6": {
+                    "name": "freecam-1.0.6.jar",
+                    "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.6/freecam-1.0.6.jar"
                 }
             }
         },
@@ -34828,7 +34848,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.106",
+            "latest": "2.7.107",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -36547,6 +36567,10 @@
                 "2.7.106": {
                     "name": "hodgepodge-2.7.106.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.106/hodgepodge-2.7.106.jar"
+                },
+                "2.7.107": {
+                    "name": "hodgepodge-2.7.107.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.107/hodgepodge-2.7.107.jar"
                 },
                 "2.7.11": {
                     "name": "hodgepodge-2.7.11.jar",
@@ -40732,7 +40756,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.17-GTNH",
+            "latest": "0.1.18-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -40935,6 +40959,10 @@
                 "0.1.17-GTNH": {
                     "name": "matter-manipulator-0.1.17-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.17-GTNH/matter-manipulator-0.1.17-GTNH.jar"
+                },
+                "0.1.18-GTNH": {
+                    "name": "matter-manipulator-0.1.18-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.18-GTNH/matter-manipulator-0.1.18-GTNH.jar"
                 },
                 "0.1.2-GTNH": {
                     "name": "matter-manipulator-0.1.2-GTNH.jar",
@@ -43332,7 +43360,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.183",
+            "latest": "2.8.184",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -47119,6 +47147,10 @@
                 "2.8.183": {
                     "name": "GTNewHorizonsCoreMod-2.8.183.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.183/GTNewHorizonsCoreMod-2.8.183.jar"
+                },
+                "2.8.184": {
+                    "name": "GTNewHorizonsCoreMod-2.8.184.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.184/GTNewHorizonsCoreMod-2.8.184.jar"
                 },
                 "2.8.19-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.19-pre.jar",
@@ -52092,7 +52124,7 @@
         },
         "RandomBoubles": {
             "id": "com.github.GTNewHorizons:RandomBoubles:<version>",
-            "latest": "1.1.5",
+            "latest": "1.1.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RandomBoubles",
             "versions": {
@@ -52147,6 +52179,10 @@
                 "1.1.5": {
                     "name": "randomboubles-1.1.5.jar",
                     "url": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.5/randomboubles-1.1.5.jar"
+                },
+                "1.1.6": {
+                    "name": "randomboubles-1.1.6.jar",
+                    "url": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.6/randomboubles-1.1.6.jar"
                 }
             }
         },
@@ -58044,7 +58080,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.17",
+            "latest": "2.12.18",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -58203,6 +58239,10 @@
                 "2.12.17": {
                     "name": "ThaumicTinkerer-2.12.17.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.17/ThaumicTinkerer-2.12.17.jar"
+                },
+                "2.12.18": {
+                    "name": "ThaumicTinkerer-2.12.18.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.18/ThaumicTinkerer-2.12.18.jar"
                 },
                 "2.12.2": {
                     "name": "ThaumicTinkerer-2.12.2.jar",
@@ -60292,7 +60332,7 @@
         },
         "VillageNames": {
             "id": "com.github.GTNewHorizons:VillageNames:<version>",
-            "latest": "4.5.4-GTNH",
+            "latest": "4.5.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VillageNames",
             "versions": {
@@ -60315,6 +60355,10 @@
                 "4.5.4-GTNH": {
                     "name": "VillageNames-4.5.4-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.4-GTNH/VillageNames-4.5.4-GTNH.jar"
+                },
+                "4.5.5-GTNH": {
+                    "name": "VillageNames-4.5.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.5-GTNH/VillageNames-4.5.5-GTNH.jar"
                 }
             }
         },
