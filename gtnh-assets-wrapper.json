@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-03-20",
+            "latest": "2.9.0-nightly-2026-03-20-2",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2419,6 +2419,10 @@
                 "2.9.0-nightly-2026-03-20": {
                     "name": "2.9.0-nightly-2026-03-20.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-03-20/2.9.0-nightly-2026-03-20.zip"
+                },
+                "2.9.0-nightly-2026-03-20-2": {
+                    "name": "2.9.0-nightly-2026-03-20-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-03-20-2/2.9.0-nightly-2026-03-20-2.zip"
                 }
             }
         }
@@ -9930,7 +9934,7 @@
         },
         "Baubles-Expanded": {
             "id": "com.github.GTNewHorizons:Baubles-Expanded:<version>",
-            "latest": "2.2.12-GTNH-pre",
+            "latest": "2.2.11-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Baubles-Expanded",
             "versions": {
@@ -11370,7 +11374,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.6.21-pre",
+            "latest": "2.6.22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -11741,6 +11745,10 @@
                 "2.6.21-pre": {
                     "name": "binnie-mods-2.6.21-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.21-pre/binnie-mods-2.6.21-pre.jar"
+                },
+                "2.6.22": {
+                    "name": "binnie-mods-2.6.22.jar",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.22/binnie-mods-2.6.22.jar"
                 },
                 "2.6.3-pre": {
                     "name": "binnie-mods-2.6.3-pre.jar",
@@ -13402,7 +13410,7 @@
         },
         "BuildCraft": {
             "id": "com.github.GTNewHorizons:BuildCraft:<version>",
-            "latest": "7.1.58-pre",
+            "latest": "7.1.57",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BuildCraft",
             "versions": {
@@ -16799,7 +16807,7 @@
         },
         "EnderCore": {
             "id": "com.github.GTNewHorizons:EnderCore:<version>",
-            "latest": "0.5.10-pre",
+            "latest": "0.5.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderCore",
             "versions": {
@@ -18039,7 +18047,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.13-GTNH-pre",
+            "latest": "2.6.12-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -19743,7 +19751,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.376-pre",
+            "latest": "5.09.52.377",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28375,6 +28383,10 @@
                     "name": "gregtech-5.09.52.376-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.376-pre/gregtech-5.09.52.376-pre.jar"
                 },
+                "5.09.52.377": {
+                    "name": "gregtech-5.09.52.377.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.377/gregtech-5.09.52.377.jar"
+                },
                 "5.09.52.38-pre": {
                     "name": "gregtech-5.09.52.38-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.38-pre/gregtech-5.09.52.38-pre.jar"
@@ -36992,7 +37004,7 @@
         },
         "HoloInventory": {
             "id": "com.github.GTNewHorizons:HoloInventory:<version>",
-            "latest": "2.5.9-GTNH-pre",
+            "latest": "2.5.8-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/HoloInventory",
             "versions": {
@@ -39676,7 +39688,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.5.17-GTNH-pre",
+            "latest": "1.5.16-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -42320,7 +42332,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.47-1.7.10",
+            "latest": "2.3.48-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -42691,6 +42703,10 @@
                 "2.3.47-1.7.10": {
                     "name": "modularui2-2.3.47-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.47-1.7.10/modularui2-2.3.47-1.7.10.jar"
+                },
+                "2.3.48-1.7.10": {
+                    "name": "modularui2-2.3.48-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.48-1.7.10/modularui2-2.3.48-1.7.10.jar"
                 },
                 "2.3.5-1.7.10": {
                     "name": "modularui2-2.3.5-1.7.10.jar",
@@ -43412,7 +43428,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.186-pre",
+            "latest": "2.8.185",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -49924,7 +49940,7 @@
         },
         "OCGlasses": {
             "id": "com.github.GTNewHorizons:OCGlasses:<version>",
-            "latest": "1.6.2-GTNH-pre",
+            "latest": "1.6.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OCGlasses",
             "versions": {
@@ -50148,7 +50164,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.12.23-GTNH-pre",
+            "latest": "1.12.22-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -51276,7 +51292,7 @@
         },
         "ProjectBlue": {
             "id": "com.github.GTNewHorizons:ProjectBlue:<version>",
-            "latest": "1.2.3-GTNH-pre",
+            "latest": "1.2.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ProjectBlue",
             "versions": {
@@ -53900,7 +53916,7 @@
         },
         "SpiceOfLife": {
             "id": "com.github.GTNewHorizons:SpiceOfLife:<version>",
-            "latest": "2.2.6-carrot-pre",
+            "latest": "2.2.3-carrot",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SpiceOfLife",
             "versions": {
@@ -54840,7 +54856,7 @@
         },
         "StructureLib": {
             "id": "com.github.GTNewHorizons:StructureLib:<version>",
-            "latest": "1.4.33-pre",
+            "latest": "1.4.32",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StructureLib",
             "versions": {
@@ -57004,7 +57020,7 @@
         },
         "ThaumicBases": {
             "id": "com.github.GTNewHorizons:ThaumicBases:<version>",
-            "latest": "1.9.9-pre",
+            "latest": "1.9.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicBases",
             "versions": {
@@ -58856,7 +58872,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.42-GTNH-pre",
+            "latest": "1.14.43-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -59439,6 +59455,10 @@
                 "1.14.42-GTNH-pre": {
                     "name": "TConstruct-1.14.42-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.42-GTNH-pre/TConstruct-1.14.42-GTNH-pre.jar"
+                },
+                "1.14.43-GTNH": {
+                    "name": "TConstruct-1.14.43-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.43-GTNH/TConstruct-1.14.43-GTNH.jar"
                 },
                 "1.14.5-GTNH-pre": {
                     "name": "TConstruct-1.14.5-GTNH-pre.jar",
@@ -60420,7 +60440,7 @@
         },
         "VillageNames": {
             "id": "com.github.GTNewHorizons:VillageNames:<version>",
-            "latest": "4.5.6-GTNH-pre",
+            "latest": "4.5.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VillageNames",
             "versions": {
@@ -64285,7 +64305,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.7.24-pre",
+            "latest": "2.7.23",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
