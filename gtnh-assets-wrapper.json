@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-03-22",
+            "latest": "2.9.0-nightly-2026-03-23",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2431,6 +2431,10 @@
                 "2.9.0-nightly-2026-03-22": {
                     "name": "2.9.0-nightly-2026-03-22.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-03-22/2.9.0-nightly-2026-03-22.zip"
+                },
+                "2.9.0-nightly-2026-03-23": {
+                    "name": "2.9.0-nightly-2026-03-23.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-03-23/2.9.0-nightly-2026-03-23.zip"
                 }
             }
         }
@@ -4850,7 +4854,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.7",
+            "latest": "2.1.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5513,6 +5517,10 @@
                 "2.1.7": {
                     "name": "angelica-2.1.7.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.7/angelica-2.1.7.jar"
+                },
+                "2.1.8": {
+                    "name": "angelica-2.1.8.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.8/angelica-2.1.8.jar"
                 }
             }
         },
@@ -8942,7 +8950,7 @@
         },
         "AspectRecipeIndex": {
             "id": "com.github.GTNewHorizons:AspectRecipeIndex:<version>",
-            "latest": "1.0.8",
+            "latest": "1.0.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AspectRecipeIndex",
             "versions": {
@@ -8981,6 +8989,10 @@
                 "1.0.8": {
                     "name": "aspectrecipeindex-1.0.8.jar",
                     "url": "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.0.8/aspectrecipeindex-1.0.8.jar"
+                },
+                "1.0.9": {
+                    "name": "aspectrecipeindex-1.0.9.jar",
+                    "url": "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.0.9/aspectrecipeindex-1.0.9.jar"
                 }
             }
         },
@@ -15007,7 +15019,7 @@
         },
         "CraftTweaker": {
             "id": "com.github.GTNewHorizons:CraftTweaker:<version>",
-            "latest": "3.4.3",
+            "latest": "3.4.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CraftTweaker",
             "versions": {
@@ -15074,6 +15086,10 @@
                 "3.4.3": {
                     "name": "CraftTweaker-3.4.3.jar",
                     "url": "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.3/CraftTweaker-3.4.3.jar"
+                },
+                "3.4.4": {
+                    "name": "CraftTweaker-3.4.4.jar",
+                    "url": "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.4/CraftTweaker-3.4.4.jar"
                 }
             }
         },
@@ -19807,7 +19823,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.386",
+            "latest": "5.09.52.387",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28479,6 +28495,10 @@
                     "name": "gregtech-5.09.52.386.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.386/gregtech-5.09.52.386.jar"
                 },
+                "5.09.52.387": {
+                    "name": "gregtech-5.09.52.387.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.387/gregtech-5.09.52.387.jar"
+                },
                 "5.09.52.39": {
                     "name": "gregtech-5.09.52.39.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.39/gregtech-5.09.52.39.jar"
@@ -35000,7 +35020,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.110",
+            "latest": "2.7.111",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -36739,6 +36759,10 @@
                 "2.7.110": {
                     "name": "hodgepodge-2.7.110.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.110/hodgepodge-2.7.110.jar"
+                },
+                "2.7.111": {
+                    "name": "hodgepodge-2.7.111.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.111/hodgepodge-2.7.111.jar"
                 },
                 "2.7.12-pre": {
                     "name": "hodgepodge-2.7.12-pre.jar",
@@ -43540,7 +43564,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.187",
+            "latest": "2.8.189",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -47347,6 +47371,10 @@
                 "2.8.188-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.188-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.188-pre/GTNewHorizonsCoreMod-2.8.188-pre.jar"
+                },
+                "2.8.189": {
+                    "name": "GTNewHorizonsCoreMod-2.8.189.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.189/GTNewHorizonsCoreMod-2.8.189.jar"
                 },
                 "2.8.19-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.19-pre.jar",
@@ -60364,7 +60392,7 @@
         },
         "VendingMachine": {
             "id": "com.github.GTNewHorizons:VendingMachine:<version>",
-            "latest": "0.4.54",
+            "latest": "0.4.55",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VendingMachine",
             "versions": {
@@ -60567,6 +60595,10 @@
                 "0.4.54": {
                     "name": "vendingmachine-0.4.54.jar",
                     "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.54/vendingmachine-0.4.54.jar"
+                },
+                "0.4.55": {
+                    "name": "vendingmachine-0.4.55.jar",
+                    "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.55/vendingmachine-0.4.55.jar"
                 },
                 "0.4.6-pre": {
                     "name": "vendingmachine-0.4.6-pre.jar",
