@@ -4858,7 +4858,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.8",
+            "latest": "2.1.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5498,6 +5498,14 @@
                     "name": "angelica-2.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.1/angelica-2.1.1.jar"
                 },
+                "2.1.10": {
+                    "name": "angelica-2.1.10.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.10/angelica-2.1.10.jar"
+                },
+                "2.1.11": {
+                    "name": "angelica-2.1.11.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.11/angelica-2.1.11.jar"
+                },
                 "2.1.2": {
                     "name": "angelica-2.1.2.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.2/angelica-2.1.2.jar"
@@ -5525,6 +5533,10 @@
                 "2.1.8": {
                     "name": "angelica-2.1.8.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.8/angelica-2.1.8.jar"
+                },
+                "2.1.9": {
+                    "name": "angelica-2.1.9.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.9/angelica-2.1.9.jar"
                 }
             }
         },
@@ -16879,7 +16891,7 @@
         },
         "EnderCore": {
             "id": "com.github.GTNewHorizons:EnderCore:<version>",
-            "latest": "0.5.9",
+            "latest": "0.5.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderCore",
             "versions": {
@@ -17022,6 +17034,10 @@
                 "0.5.11-pre": {
                     "name": "endercore-0.5.11-pre.jar",
                     "url": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.5.11-pre/endercore-0.5.11-pre.jar"
+                },
+                "0.5.12": {
+                    "name": "endercore-0.5.12.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.5.12/endercore-0.5.12.jar"
                 },
                 "0.5.2-pre": {
                     "name": "endercore-0.5.2-pre.jar",
@@ -19827,7 +19843,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.388",
+            "latest": "5.09.52.389",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28506,6 +28522,10 @@
                 "5.09.52.388": {
                     "name": "gregtech-5.09.52.388.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.388/gregtech-5.09.52.388.jar"
+                },
+                "5.09.52.389": {
+                    "name": "gregtech-5.09.52.389.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.389/gregtech-5.09.52.389.jar"
                 },
                 "5.09.52.39": {
                     "name": "gregtech-5.09.52.39.jar",
@@ -58368,7 +58388,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.18",
+            "latest": "2.12.19",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -58532,6 +58552,10 @@
                     "name": "ThaumicTinkerer-2.12.18.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.18/ThaumicTinkerer-2.12.18.jar"
                 },
+                "2.12.19": {
+                    "name": "ThaumicTinkerer-2.12.19.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.19/ThaumicTinkerer-2.12.19.jar"
+                },
                 "2.12.2": {
                     "name": "ThaumicTinkerer-2.12.2.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.2/ThaumicTinkerer-2.12.2.jar"
@@ -58692,7 +58716,7 @@
         },
         "Thaumic_Exploration": {
             "id": "com.github.GTNewHorizons:Thaumic_Exploration:<version>",
-            "latest": "1.5.22-GTNH",
+            "latest": "1.5.23-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Thaumic_Exploration",
             "versions": {
@@ -58911,6 +58935,10 @@
                 "1.5.22-GTNH": {
                     "name": "Thaumic-Exploration-1.5.22-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.22-GTNH/Thaumic-Exploration-1.5.22-GTNH.jar"
+                },
+                "1.5.23-GTNH": {
+                    "name": "Thaumic-Exploration-1.5.23-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.23-GTNH/Thaumic-Exploration-1.5.23-GTNH.jar"
                 },
                 "1.5.3-GTNH": {
                     "name": "Thaumic-Exploration-1.5.3-GTNH.jar",
