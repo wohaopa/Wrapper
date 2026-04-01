@@ -4878,7 +4878,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.13",
+            "latest": "2.1.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -5533,6 +5533,10 @@
                 "2.1.13": {
                     "name": "angelica-2.1.13.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.13/angelica-2.1.13.jar"
+                },
+                "2.1.14": {
+                    "name": "angelica-2.1.14.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.14/angelica-2.1.14.jar"
                 },
                 "2.1.2": {
                     "name": "angelica-2.1.2.jar",
@@ -15083,7 +15087,7 @@
         },
         "CraftTweaker": {
             "id": "com.github.GTNewHorizons:CraftTweaker:<version>",
-            "latest": "3.4.5",
+            "latest": "3.4.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CraftTweaker",
             "versions": {
@@ -15158,6 +15162,10 @@
                 "3.4.5": {
                     "name": "CraftTweaker-3.4.5.jar",
                     "url": "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.5/CraftTweaker-3.4.5.jar"
+                },
+                "3.4.6": {
+                    "name": "CraftTweaker-3.4.6.jar",
+                    "url": "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.6/CraftTweaker-3.4.6.jar"
                 }
             }
         },
@@ -19875,7 +19883,7 @@
         },
         "Freecam": {
             "id": "com.github.GTNewHorizons:Freecam:<version>",
-            "latest": "1.0.6",
+            "latest": "1.0.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Freecam",
             "versions": {
@@ -19898,12 +19906,16 @@
                 "1.0.6": {
                     "name": "freecam-1.0.6.jar",
                     "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.6/freecam-1.0.6.jar"
+                },
+                "1.0.7": {
+                    "name": "freecam-1.0.7.jar",
+                    "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.7/freecam-1.0.7.jar"
                 }
             }
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.394",
+            "latest": "5.09.52.395",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28610,6 +28622,10 @@
                 "5.09.52.394": {
                     "name": "gregtech-5.09.52.394.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.394/gregtech-5.09.52.394.jar"
+                },
+                "5.09.52.395": {
+                    "name": "gregtech-5.09.52.395.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.395/gregtech-5.09.52.395.jar"
                 },
                 "5.09.52.40": {
                     "name": "gregtech-5.09.52.40.jar",
@@ -39752,7 +39768,7 @@
         },
         "LittleTiles": {
             "id": "com.github.GTNewHorizons:LittleTiles:<version>",
-            "latest": "1.6.21",
+            "latest": "1.6.22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LittleTiles",
             "versions": {
@@ -39923,6 +39939,10 @@
                 "1.6.21": {
                     "name": "littletiles-1.6.21.jar",
                     "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.21/littletiles-1.6.21.jar"
+                },
+                "1.6.22": {
+                    "name": "littletiles-1.6.22.jar",
+                    "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.22/littletiles-1.6.22.jar"
                 },
                 "1.6.3-pre": {
                     "name": "littletiles-1.6.3-pre.jar",
@@ -42620,7 +42640,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.49-1.7.10",
+            "latest": "2.3.50-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -43003,6 +43023,10 @@
                 "2.3.5-1.7.10": {
                     "name": "modularui2-2.3.5-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.5-1.7.10/modularui2-2.3.5-1.7.10.jar"
+                },
+                "2.3.50-1.7.10": {
+                    "name": "modularui2-2.3.50-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.50-1.7.10/modularui2-2.3.50-1.7.10.jar"
                 },
                 "2.3.6-1.7.10": {
                     "name": "modularui2-2.3.6-1.7.10.jar",
@@ -43728,7 +43752,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.192",
+            "latest": "2.8.193",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -47556,6 +47580,10 @@
                     "name": "GTNewHorizonsCoreMod-2.8.192.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.192/GTNewHorizonsCoreMod-2.8.192.jar"
                 },
+                "2.8.193": {
+                    "name": "GTNewHorizonsCoreMod-2.8.193.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.193/GTNewHorizonsCoreMod-2.8.193.jar"
+                },
                 "2.8.2": {
                     "name": "GTNewHorizonsCoreMod-2.8.2.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.2/GTNewHorizonsCoreMod-2.8.2.jar"
@@ -48324,7 +48352,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.82-GTNH",
+            "latest": "2.8.83-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -49995,6 +50023,10 @@
                 "2.8.82-GTNH": {
                     "name": "NotEnoughItems-2.8.82-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.82-GTNH/NotEnoughItems-2.8.82-GTNH.jar"
+                },
+                "2.8.83-GTNH": {
+                    "name": "NotEnoughItems-2.8.83-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.83-GTNH/NotEnoughItems-2.8.83-GTNH.jar"
                 },
                 "2.8.9-GTNH": {
                     "name": "NotEnoughItems-2.8.9-GTNH.jar",
@@ -54604,7 +54636,7 @@
         },
         "StevesAddons": {
             "id": "com.github.GTNewHorizons:StevesAddons:<version>",
-            "latest": "0.15.2",
+            "latest": "0.15.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StevesAddons",
             "versions": {
@@ -54695,6 +54727,10 @@
                 "0.15.2": {
                     "name": "StevesAddons-0.15.2.jar",
                     "url": "https://github.com/GTNewHorizons/StevesAddons/releases/download/0.15.2/StevesAddons-0.15.2.jar"
+                },
+                "0.15.3": {
+                    "name": "StevesAddons-0.15.3.jar",
+                    "url": "https://github.com/GTNewHorizons/StevesAddons/releases/download/0.15.3/StevesAddons-0.15.3.jar"
                 }
             }
         },
