@@ -5810,7 +5810,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-893-GTNH",
+            "latest": "rv3-beta-894-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -8801,6 +8801,10 @@
                 "rv3-beta-893-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-893-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-893-GTNH/appliedenergistics2-rv3-beta-893-GTNH.jar"
+                },
+                "rv3-beta-894-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-894-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-894-GTNH/appliedenergistics2-rv3-beta-894-GTNH.jar"
                 },
                 "rv3-beta-90-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-90-GTNH.jar",
@@ -20159,7 +20163,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.417",
+            "latest": "5.09.52.418",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28959,6 +28963,10 @@
                     "name": "gregtech-5.09.52.417.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.417/gregtech-5.09.52.417.jar"
                 },
+                "5.09.52.418": {
+                    "name": "gregtech-5.09.52.418.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.418/gregtech-5.09.52.418.jar"
+                },
                 "5.09.52.42": {
                     "name": "gregtech-5.09.52.42.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.42/gregtech-5.09.52.42.jar"
@@ -30311,7 +30319,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.49",
+            "latest": "0.9.50",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -31162,6 +31170,10 @@
                 "0.9.5": {
                     "name": "gtnhlib-0.9.5.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.5/gtnhlib-0.9.5.jar"
+                },
+                "0.9.50": {
+                    "name": "gtnhlib-0.9.50.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.50/gtnhlib-0.9.50.jar"
                 },
                 "0.9.6": {
                     "name": "gtnhlib-0.9.6.jar",
@@ -44180,7 +44192,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.202",
+            "latest": "2.8.203",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -48051,6 +48063,10 @@
                 "2.8.202": {
                     "name": "GTNewHorizonsCoreMod-2.8.202.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.202/GTNewHorizonsCoreMod-2.8.202.jar"
+                },
+                "2.8.203": {
+                    "name": "GTNewHorizonsCoreMod-2.8.203.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.203/GTNewHorizonsCoreMod-2.8.203.jar"
                 },
                 "2.8.21-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.21-pre.jar",
