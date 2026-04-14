@@ -15023,7 +15023,7 @@
         },
         "CoreTweaks": {
             "id": "com.github.GTNewHorizons:CoreTweaks:<version>",
-            "latest": "0.3.4.0-GTNH",
+            "latest": "0.3.4.1-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CoreTweaks",
             "versions": {
@@ -15054,6 +15054,10 @@
                 "0.3.4.0-GTNH": {
                     "name": "coretweaks-0.3.4.0-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.4.0-GTNH/coretweaks-0.3.4.0-GTNH.jar"
+                },
+                "0.3.4.1-GTNH": {
+                    "name": "coretweaks-0.3.4.1-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.4.1-GTNH/coretweaks-0.3.4.1-GTNH.jar"
                 }
             }
         },
@@ -15703,7 +15707,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.34",
+            "latest": "2.0.36",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -15822,6 +15826,14 @@
                 "2.0.34": {
                     "name": "cropsnh-2.0.34.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.34/cropsnh-2.0.34.jar"
+                },
+                "2.0.35": {
+                    "name": "cropsnh-2.0.35.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.35/cropsnh-2.0.35.jar"
+                },
+                "2.0.36": {
+                    "name": "cropsnh-2.0.36.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.36/cropsnh-2.0.36.jar"
                 },
                 "2.0.4": {
                     "name": "cropsnh-2.0.4.jar",
@@ -20163,7 +20175,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.418",
+            "latest": "5.09.52.420",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -28967,9 +28979,17 @@
                     "name": "gregtech-5.09.52.418.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.418/gregtech-5.09.52.418.jar"
                 },
+                "5.09.52.419": {
+                    "name": "gregtech-5.09.52.419.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.419/gregtech-5.09.52.419.jar"
+                },
                 "5.09.52.42": {
                     "name": "gregtech-5.09.52.42.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.42/gregtech-5.09.52.42.jar"
+                },
+                "5.09.52.420": {
+                    "name": "gregtech-5.09.52.420.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.420/gregtech-5.09.52.420.jar"
                 },
                 "5.09.52.43-pre": {
                     "name": "gregtech-5.09.52.43-pre.jar",
@@ -35512,7 +35532,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.117",
+            "latest": "2.7.118",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -37279,6 +37299,10 @@
                 "2.7.117": {
                     "name": "hodgepodge-2.7.117.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.117/hodgepodge-2.7.117.jar"
+                },
+                "2.7.118": {
+                    "name": "hodgepodge-2.7.118.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.118/hodgepodge-2.7.118.jar"
                 },
                 "2.7.12-pre": {
                     "name": "hodgepodge-2.7.12-pre.jar",
@@ -44192,7 +44216,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.203",
+            "latest": "2.8.204",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -48068,6 +48092,10 @@
                     "name": "GTNewHorizonsCoreMod-2.8.203.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.203/GTNewHorizonsCoreMod-2.8.203.jar"
                 },
+                "2.8.204": {
+                    "name": "GTNewHorizonsCoreMod-2.8.204.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.204/GTNewHorizonsCoreMod-2.8.204.jar"
+                },
                 "2.8.21-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.21-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.21-pre/GTNewHorizonsCoreMod-2.8.21-pre.jar"
@@ -48828,7 +48856,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.89-GTNH",
+            "latest": "2.8.90-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -50531,6 +50559,10 @@
                 "2.8.9-GTNH": {
                     "name": "NotEnoughItems-2.8.9-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.9-GTNH/NotEnoughItems-2.8.9-GTNH.jar"
+                },
+                "2.8.90-GTNH": {
+                    "name": "NotEnoughItems-2.8.90-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.90-GTNH/NotEnoughItems-2.8.90-GTNH.jar"
                 }
             }
         },
@@ -53268,7 +53300,7 @@
         },
         "RemoteIO": {
             "id": "com.github.GTNewHorizons:RemoteIO:<version>",
-            "latest": "2.7.7",
+            "latest": "2.7.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/RemoteIO",
             "versions": {
@@ -53359,6 +53391,10 @@
                 "2.7.7": {
                     "name": "RemoteIO-2.7.7.jar",
                     "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.7/RemoteIO-2.7.7.jar"
+                },
+                "2.7.8": {
+                    "name": "RemoteIO-2.7.8.jar",
+                    "url": "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.8/RemoteIO-2.7.8.jar"
                 }
             }
         },
@@ -53904,7 +53940,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.2.20",
+            "latest": "2.2.21",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -54591,6 +54627,10 @@
                 "2.2.20": {
                     "name": "ServerUtilities-2.2.20.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.20/ServerUtilities-2.2.20.jar"
+                },
+                "2.2.21": {
+                    "name": "ServerUtilities-2.2.21.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.21/ServerUtilities-2.2.21.jar"
                 },
                 "2.2.3": {
                     "name": "ServerUtilities-2.2.3.jar",
@@ -55292,7 +55332,7 @@
         },
         "StorageDrawers": {
             "id": "com.github.GTNewHorizons:StorageDrawers:<version>",
-            "latest": "2.2.18-GTNH",
+            "latest": "2.2.19-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StorageDrawers",
             "versions": {
@@ -55535,6 +55575,10 @@
                 "2.2.18-GTNH": {
                     "name": "StorageDrawers-2.2.18-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.18-GTNH/StorageDrawers-2.2.18-GTNH.jar"
+                },
+                "2.2.19-GTNH": {
+                    "name": "StorageDrawers-2.2.19-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.19-GTNH/StorageDrawers-2.2.19-GTNH.jar"
                 },
                 "2.2.2-GTNH-pre": {
                     "name": "StorageDrawers-2.2.2-GTNH-pre.jar",
