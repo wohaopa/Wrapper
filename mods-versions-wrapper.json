@@ -572,7 +572,9 @@
             "1.5.75-gtnh",
             "1.5.76-gtnh",
             "1.5.77-gtnh",
-            "1.5.78-gtnh"
+            "1.5.78-gtnh",
+            "1.5.79-gtnh",
+            "1.5.80-gtnh"
         ]
     },
     {
@@ -1817,7 +1819,10 @@
             "rv3-beta-913-GTNH",
             "rv3-beta-914-GTNH",
             "rv3-beta-915-GTNH",
-            "rv3-beta-916-GTNH"
+            "rv3-beta-916-GTNH",
+            "rv3-beta-917-GTNH",
+            "rv3-beta-918-GTNH",
+            "rv3-beta-919-GTNH"
         ]
     },
     {
@@ -1832,7 +1837,8 @@
             "0.7.5",
             "0.7.6",
             "0.7.7",
-            "0.7.8"
+            "0.7.8",
+            "0.7.9"
         ]
     },
     {
@@ -2652,7 +2658,9 @@
             "3.8.36-GTNH",
             "3.8.37-GTNH",
             "3.8.38-GTNH",
-            "3.8.39-GTNH"
+            "3.8.39-GTNH",
+            "3.8.40-GTNH",
+            "3.8.41-GTNH-pre"
         ]
     },
     {
@@ -2789,7 +2797,8 @@
             "2.6.22",
             "2.6.23-pre",
             "2.6.24",
-            "2.6.25-pre"
+            "2.6.25-pre",
+            "2.6.26"
         ]
     },
     {
@@ -3290,7 +3299,8 @@
             "7.1.55",
             "7.1.56-pre",
             "7.1.57",
-            "7.1.58-pre"
+            "7.1.58-pre",
+            "7.1.59"
         ]
     },
     {
@@ -3484,7 +3494,8 @@
             "1.0.18-GTNH",
             "1.0.19-GTNH",
             "1.0.20-GTNH",
-            "1.0.21-GTNH"
+            "1.0.21-GTNH",
+            "1.0.22-GTNH"
         ]
     },
     {
@@ -3494,7 +3505,8 @@
             "1.0.23-GTNH",
             "1.0.24-GTNH",
             "1.0.25-GTNH",
-            "1.0.26-GTNH"
+            "1.0.26-GTNH",
+            "1.0.27-GTNH"
         ]
     },
     {
@@ -4829,14 +4841,16 @@
         "versions": [
             "1.0.14",
             "1.0.15",
-            "1.0.17"
+            "1.0.17",
+            "1.1.0"
         ]
     },
     {
         "name": "FalsepatternLib",
         "path": "version/114_FalsepatternLib.json",
         "versions": [
-            "1.10.7"
+            "1.10.7",
+            "1.11.0"
         ]
     },
     {
@@ -5170,7 +5184,8 @@
             "1.7.2",
             "1.7.3",
             "1.7.4",
-            "1.7.5"
+            "1.7.5",
+            "1.7.6"
         ]
     },
     {
@@ -5283,7 +5298,8 @@
             "1.5.7",
             "1.5.8",
             "1.5.9",
-            "1.5.10"
+            "1.5.10",
+            "1.5.11"
         ]
     },
     {
@@ -8148,7 +8164,11 @@
             "5.09.52.466",
             "5.09.52.467",
             "5.09.52.468",
-            "5.09.52.469-pre"
+            "5.09.52.469-pre",
+            "5.09.52.470",
+            "5.09.52.471",
+            "5.09.52.472",
+            "5.09.52.473-pre"
         ]
     },
     {
@@ -9837,7 +9857,10 @@
             "2.7.126",
             "2.7.127",
             "2.7.128",
-            "2.7.129"
+            "2.7.129",
+            "2.7.130",
+            "2.7.131",
+            "2.7.132"
         ]
     },
     {
@@ -10244,7 +10267,8 @@
             "1.3.23-GTNH",
             "1.3.24-GTNH",
             "1.3.25-GTNH",
-            "1.3.26-GTNH"
+            "1.3.26-GTNH",
+            "1.3.27-GTNH"
         ]
     },
     {
@@ -11225,7 +11249,8 @@
             "0.1.24-GTNH",
             "0.1.25-GTNH",
             "0.1.26-GTNH",
-            "0.1.27-GTNH"
+            "0.1.27-GTNH",
+            "0.1.28-GTNH"
         ]
     },
     {
@@ -11379,7 +11404,8 @@
             "0.5.10-GTNH",
             "0.5.11-GTNH",
             "0.5.12-GTNH",
-            "0.5.13-GTNH"
+            "0.5.13-GTNH",
+            "0.5.14-GTNH"
         ]
     },
     {
@@ -11698,7 +11724,8 @@
             "2.3.55-1.7.10",
             "2.3.56-1.7.10",
             "2.3.57-1.7.10",
-            "2.3.58-1.7.10"
+            "2.3.58-1.7.10",
+            "2.3.59-1.7.10"
         ]
     },
     {
@@ -13139,7 +13166,8 @@
             "2.8.223",
             "2.8.225",
             "2.8.226",
-            "2.8.227-pre"
+            "2.8.227-pre",
+            "2.8.228-pre"
         ]
     },
     {
@@ -13828,7 +13856,8 @@
             "1.6.3-GTNH",
             "1.6.4-GTNH-pre",
             "1.6.5-GTNH",
-            "1.6.6-GTNH-pre"
+            "1.6.6-GTNH-pre",
+            "1.6.7-GTNH"
         ]
     },
     {
@@ -14328,7 +14357,8 @@
             "4.12.32-GTNH",
             "4.12.33-GTNH",
             "4.12.34-GTNH",
-            "4.12.35-GTNH"
+            "4.12.35-GTNH",
+            "4.12.36-GTNH"
         ]
     },
     {
@@ -16325,8 +16355,15 @@
         ]
     },
     {
+        "name": "ThaumicMachina",
+        "path": "version/300_ThaumicMachina.json",
+        "versions": [
+            "0.2.2-GTNH"
+        ]
+    },
+    {
         "name": "ThaumicTinkerer",
-        "path": "version/300_ThaumicTinkerer.json",
+        "path": "version/301_ThaumicTinkerer.json",
         "versions": [
             "2.5.541",
             "2.5.555-GTNH",
@@ -16413,7 +16450,7 @@
     },
     {
         "name": "TiC-Tooltips",
-        "path": "version/301_TiC-Tooltips.json",
+        "path": "version/302_TiC-Tooltips.json",
         "versions": [
             "1.2.7",
             "1.2.8",
@@ -16427,14 +16464,14 @@
     },
     {
         "name": "Tinkers' Defense",
-        "path": "version/302_Tinkers'-Defense.json",
+        "path": "version/303_Tinkers'-Defense.json",
         "versions": [
             "1.2.1d"
         ]
     },
     {
         "name": "Tinkers-Defense",
-        "path": "version/303_Tinkers-Defense.json",
+        "path": "version/304_Tinkers-Defense.json",
         "versions": [
             "1.2.2",
             "1.3.0",
@@ -16446,7 +16483,7 @@
     },
     {
         "name": "Tinkers-Gregworks",
-        "path": "version/304_Tinkers-Gregworks.json",
+        "path": "version/305_Tinkers-Gregworks.json",
         "versions": [
             "1.0.23",
             "1.0.24",
@@ -16461,7 +16498,7 @@
     },
     {
         "name": "TinkersConstruct",
-        "path": "version/305_TinkersConstruct.json",
+        "path": "version/306_TinkersConstruct.json",
         "versions": [
             "1.8.9.1-GTNH",
             "1.8.9.2-GTNH",
@@ -16700,7 +16737,7 @@
     },
     {
         "name": "TinkersGregworks",
-        "path": "version/306_TinkersGregworks.json",
+        "path": "version/307_TinkersGregworks.json",
         "versions": [
             "GTNH-1.0.22",
             "GTNH-1.0.23",
@@ -16719,7 +16756,7 @@
     },
     {
         "name": "TinkersMechworks",
-        "path": "version/307_TinkersMechworks.json",
+        "path": "version/308_TinkersMechworks.json",
         "versions": [
             "0.2.16.2",
             "0.2.16.3",
@@ -16734,7 +16771,7 @@
     },
     {
         "name": "TooMuchLoot",
-        "path": "version/308_TooMuchLoot.json",
+        "path": "version/309_TooMuchLoot.json",
         "versions": [
             "4.1.0-GTNH",
             "4.2.0-GTNH",
@@ -16743,7 +16780,7 @@
     },
     {
         "name": "ToroHealth",
-        "path": "version/309_ToroHealth.json",
+        "path": "version/310_ToroHealth.json",
         "versions": [
             "1.0.0-beta2",
             "1.0.0-beta3",
@@ -16760,7 +16797,7 @@
     },
     {
         "name": "Translocators",
-        "path": "version/310_Translocators.json",
+        "path": "version/311_Translocators.json",
         "versions": [
             "1.1.2.17",
             "1.1.2.18",
@@ -16779,14 +16816,14 @@
     },
     {
         "name": "Travellers Gear",
-        "path": "version/311_Travellers-Gear.json",
+        "path": "version/312_Travellers-Gear.json",
         "versions": [
             "1.16.6"
         ]
     },
     {
         "name": "TravellersGearNeo",
-        "path": "version/312_TravellersGearNeo.json",
+        "path": "version/313_TravellersGearNeo.json",
         "versions": [
             "1.0",
             "1.1.0",
@@ -16799,7 +16836,7 @@
     },
     {
         "name": "twilightforest",
-        "path": "version/313_twilightforest.json",
+        "path": "version/314_twilightforest.json",
         "versions": [
             "2.3.8.9",
             "2.3.8.10",
@@ -16913,7 +16950,7 @@
     },
     {
         "name": "TX-Loader",
-        "path": "version/314_TX-Loader.json",
+        "path": "version/315_TX-Loader.json",
         "versions": [
             "1.1",
             "1.2",
@@ -16947,7 +16984,7 @@
     },
     {
         "name": "UniLib",
-        "path": "version/315_UniLib.json",
+        "path": "version/316_UniLib.json",
         "versions": [
             "1.0.1",
             "1.0.2",
@@ -16963,7 +17000,7 @@
     },
     {
         "name": "Universal-Singularities",
-        "path": "version/316_Universal-Singularities.json",
+        "path": "version/317_Universal-Singularities.json",
         "versions": [
             "8.5a",
             "8.5",
@@ -16986,7 +17023,7 @@
     },
     {
         "name": "VendingMachine",
-        "path": "version/317_VendingMachine.json",
+        "path": "version/318_VendingMachine.json",
         "versions": [
             "0.4.1",
             "0.4.2",
@@ -17053,7 +17090,7 @@
     },
     {
         "name": "VillageNames",
-        "path": "version/318_VillageNames.json",
+        "path": "version/319_VillageNames.json",
         "versions": [
             "4.5.0-GTNH-pre",
             "4.5.1-GTNH",
@@ -17067,7 +17104,7 @@
     },
     {
         "name": "VisualProspecting",
-        "path": "version/319_VisualProspecting.json",
+        "path": "version/320_VisualProspecting.json",
         "versions": [
             "1.0.22b",
             "1.0.24b",
@@ -17171,7 +17208,7 @@
     },
     {
         "name": "waila",
-        "path": "version/320_waila.json",
+        "path": "version/321_waila.json",
         "versions": [
             "1.5.12",
             "1.5.13",
@@ -17241,7 +17278,7 @@
     },
     {
         "name": "WailaHarvestability",
-        "path": "version/321_WailaHarvestability.json",
+        "path": "version/322_WailaHarvestability.json",
         "versions": [
             "1.1.7-gtnh",
             "1.1.8-gtnh",
@@ -17258,7 +17295,7 @@
     },
     {
         "name": "WAILAPlugins",
-        "path": "version/322_WAILAPlugins.json",
+        "path": "version/323_WAILAPlugins.json",
         "versions": [
             "0.2.1",
             "0.2.2",
@@ -17281,7 +17318,7 @@
     },
     {
         "name": "WanionLib",
-        "path": "version/323_WanionLib.json",
+        "path": "version/324_WanionLib.json",
         "versions": [
             "1.8.1",
             "1.8.2",
@@ -17294,7 +17331,7 @@
     },
     {
         "name": "WarpTheory",
-        "path": "version/324_WarpTheory.json",
+        "path": "version/325_WarpTheory.json",
         "versions": [
             "1.0k-dev",
             "1.0l-Dev",
@@ -17337,7 +17374,7 @@
     },
     {
         "name": "WAWLA",
-        "path": "version/325_WAWLA.json",
+        "path": "version/326_WAWLA.json",
         "versions": [
             "1.1.0-GTNH",
             "1.1.1-GTNH",
@@ -17353,7 +17390,7 @@
     },
     {
         "name": "WirelessCraftingTerminal",
-        "path": "version/326_WirelessCraftingTerminal.json",
+        "path": "version/327_WirelessCraftingTerminal.json",
         "versions": [
             "1.8.8.1",
             "1.8.8.2",
@@ -17405,7 +17442,7 @@
     },
     {
         "name": "WirelessRedstone-CBE",
-        "path": "version/327_WirelessRedstone-CBE.json",
+        "path": "version/328_WirelessRedstone-CBE.json",
         "versions": [
             "1.4.2",
             "1.4.3",
@@ -17426,14 +17463,14 @@
     },
     {
         "name": "Witchery",
-        "path": "version/328_Witchery.json",
+        "path": "version/329_Witchery.json",
         "versions": [
             "0.24.1"
         ]
     },
     {
         "name": "WitcheryExtras",
-        "path": "version/329_WitcheryExtras.json",
+        "path": "version/330_WitcheryExtras.json",
         "versions": [
             "1.1.3",
             "1.1.4",
@@ -17473,12 +17510,13 @@
             "1.4.10-pre",
             "1.4.11",
             "1.4.12",
-            "1.4.13"
+            "1.4.13",
+            "1.4.14"
         ]
     },
     {
         "name": "WitchingGadgets",
-        "path": "version/330_WitchingGadgets.json",
+        "path": "version/331_WitchingGadgets.json",
         "versions": [
             "1.2.9j",
             "1.2.9k",
@@ -17614,7 +17652,7 @@
     },
     {
         "name": "Yamcl",
-        "path": "version/331_Yamcl.json",
+        "path": "version/332_Yamcl.json",
         "versions": [
             "0.5.81",
             "0.5.84",
@@ -17629,7 +17667,7 @@
     },
     {
         "name": "Ztones",
-        "path": "version/332_Ztones.json",
+        "path": "version/333_Ztones.json",
         "versions": [
             "2.2.2"
         ]
