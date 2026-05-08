@@ -2630,7 +2630,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.80-gtnh",
+            "latest": "1.5.81-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -4442,6 +4442,10 @@
                     "name": "ae2fc-1.5.80-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.80-gtnh/ae2fc-1.5.80-gtnh.jar"
                 },
+                "1.5.81-gtnh": {
+                    "name": "ae2fc-1.5.81-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.81-gtnh/ae2fc-1.5.81-gtnh.jar"
+                },
                 "1.5.9-gtnh-pre": {
                     "name": "ae2fc-1.5.9-gtnh-pre.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.9-gtnh-pre/ae2fc-1.5.9-gtnh-pre.jar"
@@ -6038,7 +6042,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-926-GTNH",
+            "latest": "rv3-beta-928-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -9177,6 +9181,10 @@
                 "rv3-beta-927-GTNH-pre": {
                     "name": "appliedenergistics2-rv3-beta-927-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-927-GTNH-pre/appliedenergistics2-rv3-beta-927-GTNH-pre.jar"
+                },
+                "rv3-beta-928-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-928-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-928-GTNH/appliedenergistics2-rv3-beta-928-GTNH.jar"
                 },
                 "rv3-beta-93-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-93-GTNH.jar",
@@ -21087,7 +21095,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.494",
+            "latest": "5.09.52.495",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -30195,6 +30203,10 @@
                     "name": "gregtech-5.09.52.494.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.494/gregtech-5.09.52.494.jar"
                 },
+                "5.09.52.495": {
+                    "name": "gregtech-5.09.52.495.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.495/gregtech-5.09.52.495.jar"
+                },
                 "5.09.52.50": {
                     "name": "gregtech-5.09.52.50.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.50/gregtech-5.09.52.50.jar"
@@ -31523,7 +31535,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.9.60",
+            "latest": "0.9.61",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -32422,6 +32434,10 @@
                 "0.9.60": {
                     "name": "gtnhlib-0.9.60.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.60/gtnhlib-0.9.60.jar"
+                },
+                "0.9.61": {
+                    "name": "gtnhlib-0.9.61.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.61/gtnhlib-0.9.61.jar"
                 },
                 "0.9.7-pre": {
                     "name": "gtnhlib-0.9.7-pre.jar",
@@ -60520,7 +60536,7 @@
         },
         "ThaumicEnergistics": {
             "id": "com.github.GTNewHorizons:ThaumicEnergistics:<version>",
-            "latest": "1.7.46-GTNH",
+            "latest": "1.7.47-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicEnergistics",
             "versions": {
@@ -60943,6 +60959,10 @@
                 "1.7.46-GTNH": {
                     "name": "thaumicenergistics-1.7.46-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.46-GTNH/thaumicenergistics-1.7.46-GTNH.jar"
+                },
+                "1.7.47-GTNH": {
+                    "name": "thaumicenergistics-1.7.47-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.47-GTNH/thaumicenergistics-1.7.47-GTNH.jar"
                 },
                 "1.7.5-GTNH": {
                     "name": "thaumicenergistics-1.7.5-GTNH.jar",
