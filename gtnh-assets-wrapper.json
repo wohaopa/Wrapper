@@ -16459,7 +16459,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.50",
+            "latest": "2.0.53",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -16654,6 +16654,14 @@
                 "2.0.51-pre": {
                     "name": "cropsnh-2.0.51-pre.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.51-pre/cropsnh-2.0.51-pre.jar"
+                },
+                "2.0.52": {
+                    "name": "cropsnh-2.0.52.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.52/cropsnh-2.0.52.jar"
+                },
+                "2.0.53": {
+                    "name": "cropsnh-2.0.53.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.53/cropsnh-2.0.53.jar"
                 },
                 "2.0.6": {
                     "name": "cropsnh-2.0.6.jar",
@@ -21195,7 +21203,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.502",
+            "latest": "5.09.52.504",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -30343,6 +30351,10 @@
                     "name": "gregtech-5.09.52.503-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.503-pre/gregtech-5.09.52.503-pre.jar"
                 },
+                "5.09.52.504": {
+                    "name": "gregtech-5.09.52.504.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.504/gregtech-5.09.52.504.jar"
+                },
                 "5.09.52.51": {
                     "name": "gregtech-5.09.52.51.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.51/gregtech-5.09.52.51.jar"
@@ -31563,7 +31575,7 @@
         },
         "GTNH-TC-Wands": {
             "id": "com.github.GTNewHorizons:GTNH-TC-Wands:<version>",
-            "latest": "1.4.12",
+            "latest": "1.4.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNH-TC-Wands",
             "versions": {
@@ -31630,6 +31642,10 @@
                 "1.4.13-pre": {
                     "name": "GTNH-TC-Wands-1.4.13-pre.jar",
                     "url": "https://github.com/GTNewHorizons/GTNH-TC-Wands/releases/download/1.4.13-pre/GTNH-TC-Wands-1.4.13-pre.jar"
+                },
+                "1.4.14": {
+                    "name": "GTNH-TC-Wands-1.4.14.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNH-TC-Wands/releases/download/1.4.14/GTNH-TC-Wands-1.4.14.jar"
                 },
                 "1.4.2-pre": {
                     "name": "GTNH-TC-Wands-1.4.2-pre.jar",
@@ -46012,7 +46028,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.242",
+            "latest": "2.8.244",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -50048,6 +50064,10 @@
                     "name": "GTNewHorizonsCoreMod-2.8.243-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.243-pre/GTNewHorizonsCoreMod-2.8.243-pre.jar"
                 },
+                "2.8.244": {
+                    "name": "GTNewHorizonsCoreMod-2.8.244.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.244/GTNewHorizonsCoreMod-2.8.244.jar"
+                },
                 "2.8.25-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.25-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.25-pre/GTNewHorizonsCoreMod-2.8.25-pre.jar"
@@ -50352,13 +50372,17 @@
         },
         "NoHotbarNeeded": {
             "id": "com.github.GTNewHorizons:NoHotbarNeeded:<version>",
-            "latest": "0.0.3",
+            "latest": "0.0.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NoHotbarNeeded",
             "versions": {
                 "0.0.3": {
                     "name": "nohotbarneeded-0.0.3.jar",
                     "url": "https://github.com/GTNewHorizons/NoHotbarNeeded/releases/download/0.0.3/nohotbarneeded-0.0.3.jar"
+                },
+                "0.0.4": {
+                    "name": "nohotbarneeded-0.0.4.jar",
+                    "url": "https://github.com/GTNewHorizons/NoHotbarNeeded/releases/download/0.0.4/nohotbarneeded-0.0.4.jar"
                 }
             }
         },
@@ -66084,7 +66108,7 @@
         },
         "amunra": {
             "id": "com.github.GTNewHorizons:amunra:<version>",
-            "latest": "0.8.10",
+            "latest": "0.8.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/amunra",
             "versions": {
@@ -66231,6 +66255,10 @@
                 "0.8.10": {
                     "name": "AmunRa-GC-0.8.10.jar",
                     "url": "https://github.com/GTNewHorizons/amunra/releases/download/0.8.10/AmunRa-GC-0.8.10.jar"
+                },
+                "0.8.11": {
+                    "name": "AmunRa-GC-0.8.11.jar",
+                    "url": "https://github.com/GTNewHorizons/amunra/releases/download/0.8.11/AmunRa-GC-0.8.11.jar"
                 },
                 "0.8.2": {
                     "name": "AmunRa-GC-0.8.2.jar",
