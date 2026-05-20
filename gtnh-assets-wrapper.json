@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-05-18",
+            "latest": "2.9.0-nightly-2026-05-19",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2671,6 +2671,10 @@
                 "2.9.0-nightly-2026-05-18": {
                     "name": "2.9.0-nightly-2026-05-18.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-05-18/2.9.0-nightly-2026-05-18.zip"
+                },
+                "2.9.0-nightly-2026-05-19": {
+                    "name": "2.9.0-nightly-2026-05-19.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-05-19/2.9.0-nightly-2026-05-19.zip"
                 }
             }
         }
@@ -11082,7 +11086,7 @@
         },
         "BetterCrashes": {
             "id": "com.github.GTNewHorizons:BetterCrashes:<version>",
-            "latest": "1.4.4-GTNH",
+            "latest": "1.4.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterCrashes",
             "versions": {
@@ -11169,6 +11173,10 @@
                 "1.4.4-GTNH": {
                     "name": "bettercrashes-1.4.4-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/BetterCrashes/releases/download/1.4.4-GTNH/bettercrashes-1.4.4-GTNH.jar"
+                },
+                "1.4.5-GTNH": {
+                    "name": "bettercrashes-1.4.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterCrashes/releases/download/1.4.5-GTNH/bettercrashes-1.4.5-GTNH.jar"
                 }
             }
         },
@@ -13698,7 +13706,7 @@
         },
         "Botania": {
             "id": "com.github.GTNewHorizons:Botania:<version>",
-            "latest": "1.13.17-GTNH",
+            "latest": "1.13.19-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botania",
             "versions": {
@@ -13945,6 +13953,10 @@
                 "1.13.18-GTNH-pre": {
                     "name": "Botania-1.13.18-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.18-GTNH-pre/Botania-1.13.18-GTNH-pre.jar"
+                },
+                "1.13.19-GTNH": {
+                    "name": "Botania-1.13.19-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.19-GTNH/Botania-1.13.19-GTNH.jar"
                 },
                 "1.13.2-GTNH-pre": {
                     "name": "Botania-1.13.2-GTNH-pre.jar",
@@ -15927,7 +15939,7 @@
         },
         "CoreTweaks": {
             "id": "com.github.GTNewHorizons:CoreTweaks:<version>",
-            "latest": "0.3.4.3-GTNH",
+            "latest": "0.3.4.4-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CoreTweaks",
             "versions": {
@@ -15970,6 +15982,10 @@
                 "0.3.4.3-GTNH": {
                     "name": "coretweaks-0.3.4.3-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.4.3-GTNH/coretweaks-0.3.4.3-GTNH.jar"
+                },
+                "0.3.4.4-GTNH": {
+                    "name": "coretweaks-0.3.4.4-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.4.4-GTNH/coretweaks-0.3.4.4-GTNH.jar"
                 }
             }
         },
@@ -40160,7 +40176,7 @@
         },
         "IguanaTweaksTConstruct": {
             "id": "com.github.GTNewHorizons:IguanaTweaksTConstruct:<version>",
-            "latest": "2.7.5",
+            "latest": "2.7.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct",
             "versions": {
@@ -40275,6 +40291,10 @@
                 "2.7.5": {
                     "name": "IguanaTweaksTConstruct-2.7.5.jar",
                     "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.5/IguanaTweaksTConstruct-2.7.5.jar"
+                },
+                "2.7.6": {
+                    "name": "IguanaTweaksTConstruct-2.7.6.jar",
+                    "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.6/IguanaTweaksTConstruct-2.7.6.jar"
                 }
             }
         },
@@ -46456,7 +46476,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.255",
+            "latest": "2.8.257",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -50544,6 +50564,10 @@
                     "name": "GTNewHorizonsCoreMod-2.8.256-pre.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.256-pre/GTNewHorizonsCoreMod-2.8.256-pre.jar"
                 },
+                "2.8.257": {
+                    "name": "GTNewHorizonsCoreMod-2.8.257.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.257/GTNewHorizonsCoreMod-2.8.257.jar"
+                },
                 "2.8.26": {
                     "name": "GTNewHorizonsCoreMod-2.8.26.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.26/GTNewHorizonsCoreMod-2.8.26.jar"
@@ -53616,7 +53640,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.12.40-GTNH",
+            "latest": "1.12.42-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -53963,6 +53987,10 @@
                 "1.12.41-GTNH-pre": {
                     "name": "OpenComputers-1.12.41-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.41-GTNH-pre/OpenComputers-1.12.41-GTNH-pre.jar"
+                },
+                "1.12.42-GTNH": {
+                    "name": "OpenComputers-1.12.42-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.42-GTNH/OpenComputers-1.12.42-GTNH.jar"
                 },
                 "1.12.5-GTNH-pre": {
                     "name": "OpenComputers-1.12.5-GTNH-pre.jar",
@@ -62160,7 +62188,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.21",
+            "latest": "2.12.22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -62339,6 +62367,10 @@
                 "2.12.21": {
                     "name": "ThaumicTinkerer-2.12.21.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.21/ThaumicTinkerer-2.12.21.jar"
+                },
+                "2.12.22": {
+                    "name": "ThaumicTinkerer-2.12.22.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.22/ThaumicTinkerer-2.12.22.jar"
                 },
                 "2.12.3-pre": {
                     "name": "ThaumicTinkerer-2.12.3-pre.jar",
@@ -62888,7 +62920,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.72-GTNH",
+            "latest": "1.14.73-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -63599,6 +63631,10 @@
                 "1.14.72-GTNH": {
                     "name": "TConstruct-1.14.72-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.72-GTNH/TConstruct-1.14.72-GTNH.jar"
+                },
+                "1.14.73-GTNH": {
+                    "name": "TConstruct-1.14.73-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.73-GTNH/TConstruct-1.14.73-GTNH.jar"
                 },
                 "1.14.8-GTNH-pre": {
                     "name": "TConstruct-1.14.8-GTNH-pre.jar",
@@ -64360,7 +64396,7 @@
         },
         "VendingMachine": {
             "id": "com.github.GTNewHorizons:VendingMachine:<version>",
-            "latest": "0.4.70",
+            "latest": "0.4.71",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VendingMachine",
             "versions": {
@@ -64631,6 +64667,10 @@
                 "0.4.70": {
                     "name": "vendingmachine-0.4.70.jar",
                     "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.70/vendingmachine-0.4.70.jar"
+                },
+                "0.4.71": {
+                    "name": "vendingmachine-0.4.71.jar",
+                    "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.71/vendingmachine-0.4.71.jar"
                 },
                 "0.4.8": {
                     "name": "vendingmachine-0.4.8.jar",
@@ -68117,7 +68157,7 @@
         },
         "nei-custom-diagram": {
             "id": "com.github.GTNewHorizons:nei-custom-diagram:<version>",
-            "latest": "1.8.27",
+            "latest": "1.8.29",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/nei-custom-diagram",
             "versions": {
@@ -68392,6 +68432,10 @@
                 "1.8.28-pre": {
                     "name": "NEICustomDiagram-1.8.28-pre.jar",
                     "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.28-pre/NEICustomDiagram-1.8.28-pre.jar"
+                },
+                "1.8.29": {
+                    "name": "NEICustomDiagram-1.8.29.jar",
+                    "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.29/NEICustomDiagram-1.8.29.jar"
                 },
                 "1.8.3": {
                     "name": "NEICustomDiagram-1.8.3.jar",
