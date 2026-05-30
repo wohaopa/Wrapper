@@ -21779,7 +21779,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.558",
+            "latest": "5.09.52.560",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -31311,6 +31311,10 @@
                     "name": "gregtech-5.09.52.56.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.56/gregtech-5.09.52.56.jar"
                 },
+                "5.09.52.560": {
+                    "name": "gregtech-5.09.52.560.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.560/gregtech-5.09.52.560.jar"
+                },
                 "5.09.52.57": {
                     "name": "gregtech-5.09.52.57.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.57/gregtech-5.09.52.57.jar"
@@ -32615,19 +32619,23 @@
         },
         "GTNHExtLib": {
             "id": "com.github.GTNewHorizons:GTNHExtLib:<version>",
-            "latest": "1.0.0",
+            "latest": "1.0.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHExtLib",
             "versions": {
                 "1.0.0": {
                     "name": "gtnhextlib-1.0.0.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.0/gtnhextlib-1.0.0.jar"
+                },
+                "1.0.1": {
+                    "name": "gtnhextlib-1.0.1.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.1/gtnhextlib-1.0.1.jar"
                 }
             }
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.0",
+            "latest": "0.11.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -32738,6 +32746,10 @@
                 "0.11.0": {
                     "name": "gtnhlib-0.11.0.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.0/gtnhlib-0.11.0.jar"
+                },
+                "0.11.1": {
+                    "name": "gtnhlib-0.11.1.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.1/gtnhlib-0.11.1.jar"
                 },
                 "0.2.0": {
                     "name": "gtnhlib-0.2.0.jar",
@@ -47280,7 +47292,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.268",
+            "latest": "2.8.270",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -51415,6 +51427,14 @@
                 "2.8.268": {
                     "name": "GTNewHorizonsCoreMod-2.8.268.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.268/GTNewHorizonsCoreMod-2.8.268.jar"
+                },
+                "2.8.269": {
+                    "name": "GTNewHorizonsCoreMod-2.8.269.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.269/GTNewHorizonsCoreMod-2.8.269.jar"
+                },
+                "2.8.270": {
+                    "name": "GTNewHorizonsCoreMod-2.8.270.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.270/GTNewHorizonsCoreMod-2.8.270.jar"
                 },
                 "2.8.28": {
                     "name": "GTNewHorizonsCoreMod-2.8.28.jar",
@@ -57572,7 +57592,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.2.35",
+            "latest": "2.2.36",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -58324,6 +58344,10 @@
                     "name": "ServerUtilities-2.2.35.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.35/ServerUtilities-2.2.35.jar"
                 },
+                "2.2.36": {
+                    "name": "ServerUtilities-2.2.36.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.36/ServerUtilities-2.2.36.jar"
+                },
                 "2.2.4-pre": {
                     "name": "ServerUtilities-2.2.4-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.4-pre/ServerUtilities-2.2.4-pre.jar"
@@ -58976,7 +59000,7 @@
         },
         "StevesAddons": {
             "id": "com.github.GTNewHorizons:StevesAddons:<version>",
-            "latest": "0.15.4",
+            "latest": "0.15.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StevesAddons",
             "versions": {
@@ -59075,12 +59099,16 @@
                 "0.15.4": {
                     "name": "StevesAddons-0.15.4.jar",
                     "url": "https://github.com/GTNewHorizons/StevesAddons/releases/download/0.15.4/StevesAddons-0.15.4.jar"
+                },
+                "0.15.5": {
+                    "name": "StevesAddons-0.15.5.jar",
+                    "url": "https://github.com/GTNewHorizons/StevesAddons/releases/download/0.15.5/StevesAddons-0.15.5.jar"
                 }
             }
         },
         "StorageDrawers": {
             "id": "com.github.GTNewHorizons:StorageDrawers:<version>",
-            "latest": "2.2.23-GTNH",
+            "latest": "2.2.24-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StorageDrawers",
             "versions": {
@@ -59347,6 +59375,10 @@
                 "2.2.23-GTNH": {
                     "name": "StorageDrawers-2.2.23-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.23-GTNH/StorageDrawers-2.2.23-GTNH.jar"
+                },
+                "2.2.24-GTNH": {
+                    "name": "StorageDrawers-2.2.24-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.24-GTNH/StorageDrawers-2.2.24-GTNH.jar"
                 },
                 "2.2.3-GTNH": {
                     "name": "StorageDrawers-2.2.3-GTNH.jar",
@@ -65348,7 +65380,7 @@
         },
         "VendingMachine": {
             "id": "com.github.GTNewHorizons:VendingMachine:<version>",
-            "latest": "0.4.79",
+            "latest": "0.4.80",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VendingMachine",
             "versions": {
@@ -65660,6 +65692,10 @@
                     "name": "vendingmachine-0.4.8.jar",
                     "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.8/vendingmachine-0.4.8.jar"
                 },
+                "0.4.80": {
+                    "name": "vendingmachine-0.4.80.jar",
+                    "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.80/vendingmachine-0.4.80.jar"
+                },
                 "0.4.9": {
                     "name": "vendingmachine-0.4.9.jar",
                     "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.9/vendingmachine-0.4.9.jar"
@@ -65732,7 +65768,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.5.24",
+            "latest": "1.5.25",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -66123,6 +66159,10 @@
                 "1.5.24": {
                     "name": "visualprospecting-1.5.24.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.24/visualprospecting-1.5.24.jar"
+                },
+                "1.5.25": {
+                    "name": "visualprospecting-1.5.25.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.25/visualprospecting-1.5.25.jar"
                 },
                 "1.5.3": {
                     "name": "visualprospecting-1.5.3.jar",
@@ -66984,7 +67024,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.8.45-GTNH",
+            "latest": "1.8.46-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -67495,6 +67535,10 @@
                 "1.8.45-GTNH": {
                     "name": "WitchingGadgets-1.8.45-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.8.45-GTNH/WitchingGadgets-1.8.45-GTNH.jar"
+                },
+                "1.8.46-GTNH": {
+                    "name": "WitchingGadgets-1.8.46-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.8.46-GTNH/WitchingGadgets-1.8.46-GTNH.jar"
                 },
                 "1.8.5-GTNH-pre": {
                     "name": "WitchingGadgets-1.8.5-GTNH-pre.jar",
@@ -68553,7 +68597,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.18",
+            "latest": "3.0.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -69137,9 +69181,17 @@
                     "name": "lwjgl3ify-3.0.18.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.18/lwjgl3ify-3.0.18.jar"
                 },
+                "3.0.19": {
+                    "name": "lwjgl3ify-3.0.19.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.19/lwjgl3ify-3.0.19.jar"
+                },
                 "3.0.2": {
                     "name": "lwjgl3ify-3.0.2.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.2/lwjgl3ify-3.0.2.jar"
+                },
+                "3.0.20": {
+                    "name": "lwjgl3ify-3.0.20.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.20/lwjgl3ify-3.0.20.jar"
                 },
                 "3.0.3": {
                     "name": "lwjgl3ify-3.0.3.jar",
