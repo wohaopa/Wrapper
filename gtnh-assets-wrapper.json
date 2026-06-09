@@ -5322,7 +5322,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.32",
+            "latest": "2.1.33",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6061,6 +6061,10 @@
                 "2.1.32": {
                     "name": "angelica-2.1.32.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.32/angelica-2.1.32.jar"
+                },
+                "2.1.33": {
+                    "name": "angelica-2.1.33.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.33/angelica-2.1.33.jar"
                 },
                 "2.1.4": {
                     "name": "angelica-2.1.4.jar",
@@ -17167,7 +17171,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.69",
+            "latest": "2.0.70",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17443,6 +17447,10 @@
                     "name": "cropsnh-2.0.7.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.7/cropsnh-2.0.7.jar"
                 },
+                "2.0.70": {
+                    "name": "cropsnh-2.0.70.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.70/cropsnh-2.0.70.jar"
+                },
                 "2.0.8": {
                     "name": "cropsnh-2.0.8.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.8/cropsnh-2.0.8.jar"
@@ -17619,7 +17627,7 @@
         },
         "DefaultServerList": {
             "id": "com.github.GTNewHorizons:DefaultServerList:<version>",
-            "latest": "1.7.3",
+            "latest": "1.7.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/DefaultServerList",
             "versions": {
@@ -17690,6 +17698,10 @@
                 "1.7.3": {
                     "name": "defaultserverlist-1.7.3.jar",
                     "url": "https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.7.3/defaultserverlist-1.7.3.jar"
+                },
+                "1.7.4": {
+                    "name": "defaultserverlist-1.7.4.jar",
+                    "url": "https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.7.4/defaultserverlist-1.7.4.jar"
                 }
             }
         },
@@ -33047,7 +33059,7 @@
         },
         "GTNHExtLib": {
             "id": "com.github.GTNewHorizons:GTNHExtLib:<version>",
-            "latest": "1.0.1",
+            "latest": "1.0.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHExtLib",
             "versions": {
@@ -33058,12 +33070,16 @@
                 "1.0.1": {
                     "name": "gtnhextlib-1.0.1.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.1/gtnhextlib-1.0.1.jar"
+                },
+                "1.0.2": {
+                    "name": "gtnhextlib-1.0.2.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.2/gtnhextlib-1.0.2.jar"
                 }
             }
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.9",
+            "latest": "0.11.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -33178,6 +33194,14 @@
                 "0.11.1": {
                     "name": "gtnhlib-0.11.1.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.1/gtnhlib-0.11.1.jar"
+                },
+                "0.11.10": {
+                    "name": "gtnhlib-0.11.10.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.10/gtnhlib-0.11.10.jar"
+                },
+                "0.11.11": {
+                    "name": "gtnhlib-0.11.11.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.11/gtnhlib-0.11.11.jar"
                 },
                 "0.11.2": {
                     "name": "gtnhlib-0.11.2.jar",
