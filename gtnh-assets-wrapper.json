@@ -5338,7 +5338,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.34",
+            "latest": "2.1.35",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6086,6 +6086,10 @@
                     "name": "angelica-2.1.34.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.34/angelica-2.1.34.jar"
                 },
+                "2.1.35": {
+                    "name": "angelica-2.1.35.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.35/angelica-2.1.35.jar"
+                },
                 "2.1.4": {
                     "name": "angelica-2.1.4.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.4/angelica-2.1.4.jar"
@@ -6322,7 +6326,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-978-GTNH",
+            "latest": "rv3-beta-979-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -9666,6 +9670,10 @@
                     "name": "appliedenergistics2-rv3-beta-978-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-978-GTNH/appliedenergistics2-rv3-beta-978-GTNH.jar"
                 },
+                "rv3-beta-979-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-979-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-979-GTNH/appliedenergistics2-rv3-beta-979-GTNH.jar"
+                },
                 "rv3-beta-98-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-98-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-98-GTNH/appliedenergistics2-1.7.10-rv3-beta-98-GTNH.jar"
@@ -11554,7 +11562,7 @@
         },
         "BetterLoadingScreen": {
             "id": "com.github.GTNewHorizons:BetterLoadingScreen:<version>",
-            "latest": "1.7.8-GTNH",
+            "latest": "1.7.9-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterLoadingScreen",
             "versions": {
@@ -11681,6 +11689,10 @@
                 "1.7.8-GTNH": {
                     "name": "betterloadingscreen-1.7.8-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.8-GTNH/betterloadingscreen-1.7.8-GTNH.jar"
+                },
+                "1.7.9-GTNH": {
+                    "name": "betterloadingscreen-1.7.9-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.9-GTNH/betterloadingscreen-1.7.9-GTNH.jar"
                 }
             }
         },
@@ -17199,7 +17211,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.70",
+            "latest": "2.0.71",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17478,6 +17490,10 @@
                 "2.0.70": {
                     "name": "cropsnh-2.0.70.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.70/cropsnh-2.0.70.jar"
+                },
+                "2.0.71": {
+                    "name": "cropsnh-2.0.71.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.71/cropsnh-2.0.71.jar"
                 },
                 "2.0.8": {
                     "name": "cropsnh-2.0.8.jar",
@@ -20163,7 +20179,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.41-GTNH",
+            "latest": "2.6.42-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -20410,6 +20426,10 @@
                 "2.6.41-GTNH": {
                     "name": "etfuturum-2.6.41-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.41-GTNH/etfuturum-2.6.41-GTNH.jar"
+                },
+                "2.6.42-GTNH": {
+                    "name": "etfuturum-2.6.42-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.42-GTNH/etfuturum-2.6.42-GTNH.jar"
                 },
                 "2.6.5-GTNH-pre": {
                     "name": "etfuturum-2.6.5-GTNH-pre.jar",
@@ -22123,7 +22143,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.597",
+            "latest": "5.09.52.598",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -31807,6 +31827,10 @@
                     "name": "gregtech-5.09.52.597.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.597/gregtech-5.09.52.597.jar"
                 },
+                "5.09.52.598": {
+                    "name": "gregtech-5.09.52.598.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.598/gregtech-5.09.52.598.jar"
+                },
                 "5.09.52.60": {
                     "name": "gregtech-5.09.52.60.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.60/gregtech-5.09.52.60.jar"
@@ -33127,7 +33151,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.11",
+            "latest": "0.11.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -33250,6 +33274,14 @@
                 "0.11.11": {
                     "name": "gtnhlib-0.11.11.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.11/gtnhlib-0.11.11.jar"
+                },
+                "0.11.12": {
+                    "name": "gtnhlib-0.11.12.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.12/gtnhlib-0.11.12.jar"
+                },
+                "0.11.13": {
+                    "name": "gtnhlib-0.11.13.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.13/gtnhlib-0.11.13.jar"
                 },
                 "0.11.2": {
                     "name": "gtnhlib-0.11.2.jar",
@@ -38372,7 +38404,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.5",
+            "latest": "1.3.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -38387,6 +38419,10 @@
                 "1.3.5": {
                     "name": "guidenh-1.3.5.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.5/guidenh-1.3.5.jar"
+                },
+                "1.3.6": {
+                    "name": "guidenh-1.3.6.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.6/guidenh-1.3.6.jar"
                 }
             }
         },
@@ -41500,7 +41536,7 @@
         },
         "IguanaTweaksTConstruct": {
             "id": "com.github.GTNewHorizons:IguanaTweaksTConstruct:<version>",
-            "latest": "2.7.7",
+            "latest": "2.7.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct",
             "versions": {
@@ -41623,6 +41659,10 @@
                 "2.7.7": {
                     "name": "IguanaTweaksTConstruct-2.7.7.jar",
                     "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.7/IguanaTweaksTConstruct-2.7.7.jar"
+                },
+                "2.7.8": {
+                    "name": "IguanaTweaksTConstruct-2.7.8.jar",
+                    "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.8/IguanaTweaksTConstruct-2.7.8.jar"
                 }
             }
         },
@@ -47972,7 +48012,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.283",
+            "latest": "2.8.284",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -52172,6 +52212,10 @@
                     "name": "GTNewHorizonsCoreMod-2.8.283.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.283/GTNewHorizonsCoreMod-2.8.283.jar"
                 },
+                "2.8.284": {
+                    "name": "GTNewHorizonsCoreMod-2.8.284.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.284/GTNewHorizonsCoreMod-2.8.284.jar"
+                },
                 "2.8.29": {
                     "name": "GTNewHorizonsCoreMod-2.8.29.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.29/GTNewHorizonsCoreMod-2.8.29.jar"
@@ -52944,7 +52988,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.101-GTNH",
+            "latest": "2.8.102-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -54327,6 +54371,10 @@
                 "2.8.101-GTNH": {
                     "name": "NotEnoughItems-2.8.101-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.101-GTNH/NotEnoughItems-2.8.101-GTNH.jar"
+                },
+                "2.8.102-GTNH": {
+                    "name": "NotEnoughItems-2.8.102-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.102-GTNH/NotEnoughItems-2.8.102-GTNH.jar"
                 },
                 "2.8.11-GTNH": {
                     "name": "NotEnoughItems-2.8.11-GTNH.jar",
@@ -63960,7 +64008,7 @@
         },
         "ThaumicMachina": {
             "id": "com.github.GTNewHorizons:ThaumicMachina:<version>",
-            "latest": "0.2.4-GTNH",
+            "latest": "0.2.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicMachina",
             "versions": {
@@ -63975,6 +64023,10 @@
                 "0.2.4-GTNH": {
                     "name": "ThaumicMachina-0.2.4-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicMachina/releases/download/0.2.4-GTNH/ThaumicMachina-0.2.4-GTNH.jar"
+                },
+                "0.2.5-GTNH": {
+                    "name": "ThaumicMachina-0.2.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicMachina/releases/download/0.2.5-GTNH/ThaumicMachina-0.2.5-GTNH.jar"
                 }
             }
         },
@@ -68788,7 +68840,7 @@
         },
         "amunra": {
             "id": "com.github.GTNewHorizons:amunra:<version>",
-            "latest": "0.8.12",
+            "latest": "0.8.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/amunra",
             "versions": {
@@ -68943,6 +68995,10 @@
                 "0.8.12": {
                     "name": "AmunRa-GC-0.8.12.jar",
                     "url": "https://github.com/GTNewHorizons/amunra/releases/download/0.8.12/AmunRa-GC-0.8.12.jar"
+                },
+                "0.8.13": {
+                    "name": "AmunRa-GC-0.8.13.jar",
+                    "url": "https://github.com/GTNewHorizons/amunra/releases/download/0.8.13/AmunRa-GC-0.8.13.jar"
                 },
                 "0.8.2": {
                     "name": "AmunRa-GC-0.8.2.jar",
@@ -69116,7 +69172,7 @@
         },
         "gendustry": {
             "id": "com.github.GTNewHorizons:gendustry:<version>",
-            "latest": "1.9.9-GTNH",
+            "latest": "1.9.11-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/gendustry",
             "versions": {
@@ -69171,6 +69227,14 @@
                 "1.9.1-GTNH": {
                     "name": "gendustry-1.9.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.1-GTNH/gendustry-1.9.1-GTNH.jar"
+                },
+                "1.9.10-GTNH": {
+                    "name": "gendustry-1.9.10-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.10-GTNH/gendustry-1.9.10-GTNH.jar"
+                },
+                "1.9.11-GTNH": {
+                    "name": "gendustry-1.9.11-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.11-GTNH/gendustry-1.9.11-GTNH.jar"
                 },
                 "1.9.2-GTNH-pre": {
                     "name": "gendustry-1.9.2-GTNH-pre.jar",
@@ -69565,7 +69629,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.23",
+            "latest": "3.0.24",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -70172,6 +70236,10 @@
                 "3.0.23": {
                     "name": "lwjgl3ify-3.0.23.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.23/lwjgl3ify-3.0.23.jar"
+                },
+                "3.0.24": {
+                    "name": "lwjgl3ify-3.0.24.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.24/lwjgl3ify-3.0.24.jar"
                 },
                 "3.0.3": {
                     "name": "lwjgl3ify-3.0.3.jar",
