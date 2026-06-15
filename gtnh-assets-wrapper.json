@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-06-13-03",
+            "latest": "2.9.0-nightly-2026-06-14",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2827,6 +2827,10 @@
                 "2.9.0-nightly-2026-06-13-03": {
                     "name": "2.9.0-nightly-2026-06-13-03.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-06-13-03/2.9.0-nightly-2026-06-13-03.zip"
+                },
+                "2.9.0-nightly-2026-06-14": {
+                    "name": "2.9.0-nightly-2026-06-14.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-06-14/2.9.0-nightly-2026-06-14.zip"
                 }
             }
         }
@@ -5366,7 +5370,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.36",
+            "latest": "2.1.37",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6121,6 +6125,10 @@
                 "2.1.36": {
                     "name": "angelica-2.1.36.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.36/angelica-2.1.36.jar"
+                },
+                "2.1.37": {
+                    "name": "angelica-2.1.37.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.37/angelica-2.1.37.jar"
                 },
                 "2.1.4": {
                     "name": "angelica-2.1.4.jar",
@@ -17267,7 +17275,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.75",
+            "latest": "2.0.76",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17566,6 +17574,10 @@
                 "2.0.75": {
                     "name": "cropsnh-2.0.75.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.75/cropsnh-2.0.75.jar"
+                },
+                "2.0.76": {
+                    "name": "cropsnh-2.0.76.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.76/cropsnh-2.0.76.jar"
                 },
                 "2.0.8": {
                     "name": "cropsnh-2.0.8.jar",
@@ -22239,7 +22251,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.52.607",
+            "latest": "5.09.52.609-pre",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -31966,6 +31978,14 @@
                 "5.09.52.607": {
                     "name": "gregtech-5.09.52.607.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.607/gregtech-5.09.52.607.jar"
+                },
+                "5.09.52.608": {
+                    "name": "gregtech-5.09.52.608.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.608/gregtech-5.09.52.608.jar"
+                },
+                "5.09.52.609-pre": {
+                    "name": "gregtech-5.09.52.609-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.609-pre/gregtech-5.09.52.609-pre.jar"
                 },
                 "5.09.52.61": {
                     "name": "gregtech-5.09.52.61.jar",
@@ -41696,7 +41716,7 @@
         },
         "IguanaTweaksTConstruct": {
             "id": "com.github.GTNewHorizons:IguanaTweaksTConstruct:<version>",
-            "latest": "2.7.8",
+            "latest": "2.7.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct",
             "versions": {
@@ -41823,6 +41843,10 @@
                 "2.7.8": {
                     "name": "IguanaTweaksTConstruct-2.7.8.jar",
                     "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.8/IguanaTweaksTConstruct-2.7.8.jar"
+                },
+                "2.7.9": {
+                    "name": "IguanaTweaksTConstruct-2.7.9.jar",
+                    "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.9/IguanaTweaksTConstruct-2.7.9.jar"
                 }
             }
         },
@@ -60912,6 +60936,10 @@
                     "name": "structurelib-1.4.18.jar",
                     "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.18/structurelib-1.4.18.jar"
                 },
+                "1.4.19-pre": {
+                    "name": "structurelib-1.4.19-pre.jar",
+                    "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.19-pre/structurelib-1.4.19-pre.jar"
+                },
                 "1.4.2": {
                     "name": "structurelib-1.4.2.jar",
                     "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.2/structurelib-1.4.2.jar"
@@ -60983,10 +61011,6 @@
                 "1.4.35": {
                     "name": "structurelib-1.4.35.jar",
                     "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.35/structurelib-1.4.35.jar"
-                },
-                "1.4.35-pre": {
-                    "name": "structurelib-1.4.35-pre.jar",
-                    "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.35-pre/structurelib-1.4.35-pre.jar"
                 },
                 "1.4.36": {
                     "name": "structurelib-1.4.36.jar",
@@ -71169,7 +71193,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.7.33",
+            "latest": "2.7.34",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
@@ -71592,6 +71616,10 @@
                 "2.7.33": {
                     "name": "TwilightForest-2.7.33.jar",
                     "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.33/TwilightForest-2.7.33.jar"
+                },
+                "2.7.34": {
+                    "name": "TwilightForest-2.7.34.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.34/TwilightForest-2.7.34.jar"
                 },
                 "2.7.4": {
                     "name": "TwilightForest-2.7.4.jar",
