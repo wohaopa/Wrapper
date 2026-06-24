@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-06-22",
+            "latest": "2.9.0-nightly-2026-06-22-2",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2851,6 +2851,10 @@
                 "2.9.0-nightly-2026-06-22": {
                     "name": "2.9.0-nightly-2026-06-22.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-06-22/2.9.0-nightly-2026-06-22.zip"
+                },
+                "2.9.0-nightly-2026-06-22-2": {
+                    "name": "2.9.0-nightly-2026-06-22-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-06-22-2/2.9.0-nightly-2026-06-22-2.zip"
                 }
             }
         }
@@ -2858,7 +2862,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.94-gtnh",
+            "latest": "1.5.95-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -4729,6 +4733,10 @@
                 "1.5.94-gtnh": {
                     "name": "ae2fc-1.5.94-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.94-gtnh/ae2fc-1.5.94-gtnh.jar"
+                },
+                "1.5.95-gtnh": {
+                    "name": "ae2fc-1.5.95-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.95-gtnh/ae2fc-1.5.95-gtnh.jar"
                 }
             }
         },
@@ -6214,7 +6222,7 @@
         },
         "AngerMod": {
             "id": "com.github.GTNewHorizons:AngerMod:<version>",
-            "latest": "1.0.6",
+            "latest": "1.0.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AngerMod",
             "versions": {
@@ -6277,6 +6285,10 @@
                 "1.0.6": {
                     "name": "AngerMod-1.0.6.jar",
                     "url": "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.6/AngerMod-1.0.6.jar"
+                },
+                "1.0.7": {
+                    "name": "AngerMod-1.0.7.jar",
+                    "url": "https://github.com/GTNewHorizons/AngerMod/releases/download/1.0.7/AngerMod-1.0.7.jar"
                 }
             }
         },
@@ -6422,7 +6434,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-990-GTNH",
+            "latest": "rv3-beta-991-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -9821,6 +9833,10 @@
                 "rv3-beta-990-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-990-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-990-GTNH/appliedenergistics2-rv3-beta-990-GTNH.jar"
+                },
+                "rv3-beta-991-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-991-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-991-GTNH/appliedenergistics2-rv3-beta-991-GTNH.jar"
                 }
             }
         },
@@ -10126,7 +10142,7 @@
         },
         "AspectRecipeIndex": {
             "id": "com.github.GTNewHorizons:AspectRecipeIndex:<version>",
-            "latest": "1.1.1",
+            "latest": "1.1.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AspectRecipeIndex",
             "versions": {
@@ -10205,6 +10221,10 @@
                 "1.1.1": {
                     "name": "aspectrecipeindex-1.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.1.1/aspectrecipeindex-1.1.1.jar"
+                },
+                "1.1.2": {
+                    "name": "aspectrecipeindex-1.1.2.jar",
+                    "url": "https://github.com/GTNewHorizons/AspectRecipeIndex/releases/download/1.1.2/aspectrecipeindex-1.1.2.jar"
                 }
             }
         },
@@ -17395,7 +17415,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.79",
+            "latest": "2.0.80",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17714,6 +17734,10 @@
                 "2.0.8": {
                     "name": "cropsnh-2.0.8.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.8/cropsnh-2.0.8.jar"
+                },
+                "2.0.80": {
+                    "name": "cropsnh-2.0.80.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.80/cropsnh-2.0.80.jar"
                 },
                 "2.0.9": {
                     "name": "cropsnh-2.0.9.jar",
@@ -18643,7 +18667,7 @@
         },
         "Electro-Magic-Tools": {
             "id": "com.github.GTNewHorizons:Electro-Magic-Tools:<version>",
-            "latest": "1.7.23",
+            "latest": "1.7.24",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools",
             "versions": {
@@ -19062,6 +19086,10 @@
                 "1.7.23": {
                     "name": "EMT-1.7.23.jar",
                     "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.7.23/EMT-1.7.23.jar"
+                },
+                "1.7.24": {
+                    "name": "EMT-1.7.24.jar",
+                    "url": "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.7.24/EMT-1.7.24.jar"
                 },
                 "1.7.4": {
                     "name": "EMT-1.7.4.jar",
@@ -22363,7 +22391,7 @@
         },
         "Freecam": {
             "id": "com.github.GTNewHorizons:Freecam:<version>",
-            "latest": "1.0.8",
+            "latest": "1.0.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Freecam",
             "versions": {
@@ -22394,12 +22422,16 @@
                 "1.0.8": {
                     "name": "freecam-1.0.8.jar",
                     "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.8/freecam-1.0.8.jar"
+                },
+                "1.0.9": {
+                    "name": "freecam-1.0.9.jar",
+                    "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.0.9/freecam-1.0.9.jar"
                 }
             }
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.53.04",
+            "latest": "5.09.53.06",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -32346,6 +32378,14 @@
                 "5.09.53.04": {
                     "name": "gregtech-5.09.53.04.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.53.04/gregtech-5.09.53.04.jar"
+                },
+                "5.09.53.05": {
+                    "name": "gregtech-5.09.53.05.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.53.05/gregtech-5.09.53.05.jar"
+                },
+                "5.09.53.06": {
+                    "name": "gregtech-5.09.53.06.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.53.06/gregtech-5.09.53.06.jar"
                 }
             }
         },
@@ -39040,7 +39080,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.164",
+            "latest": "2.7.165",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -41015,6 +41055,10 @@
                 "2.7.164": {
                     "name": "hodgepodge-2.7.164.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.164/hodgepodge-2.7.164.jar"
+                },
+                "2.7.165": {
+                    "name": "hodgepodge-2.7.165.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.165/hodgepodge-2.7.165.jar"
                 },
                 "2.7.17": {
                     "name": "hodgepodge-2.7.17.jar",
@@ -48520,7 +48564,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.8.294",
+            "latest": "2.8.296",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -52767,6 +52811,14 @@
                 "2.8.294": {
                     "name": "GTNewHorizonsCoreMod-2.8.294.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.294/GTNewHorizonsCoreMod-2.8.294.jar"
+                },
+                "2.8.295": {
+                    "name": "GTNewHorizonsCoreMod-2.8.295.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.295/GTNewHorizonsCoreMod-2.8.295.jar"
+                },
+                "2.8.296": {
+                    "name": "GTNewHorizonsCoreMod-2.8.296.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.8.296/GTNewHorizonsCoreMod-2.8.296.jar"
                 },
                 "2.8.3-pre": {
                     "name": "GTNewHorizonsCoreMod-2.8.3-pre.jar",
