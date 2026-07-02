@@ -6502,7 +6502,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-994-GTNH",
+            "latest": "rv3-beta-995-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -9917,6 +9917,10 @@
                 "rv3-beta-994-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-994-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-994-GTNH/appliedenergistics2-rv3-beta-994-GTNH.jar"
+                },
+                "rv3-beta-995-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-995-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-995-GTNH/appliedenergistics2-rv3-beta-995-GTNH.jar"
                 }
             }
         },
@@ -17515,7 +17519,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.84",
+            "latest": "2.0.85",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17854,6 +17858,10 @@
                 "2.0.84": {
                     "name": "cropsnh-2.0.84.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.84/cropsnh-2.0.84.jar"
+                },
+                "2.0.85": {
+                    "name": "cropsnh-2.0.85.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.85/cropsnh-2.0.85.jar"
                 },
                 "2.0.9": {
                     "name": "cropsnh-2.0.9.jar",
@@ -18659,7 +18667,7 @@
         },
         "DuraDisplay": {
             "id": "com.github.GTNewHorizons:DuraDisplay:<version>",
-            "latest": "1.4.3",
+            "latest": "1.4.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/DuraDisplay",
             "versions": {
@@ -18782,6 +18790,10 @@
                 "1.4.3": {
                     "name": "duradisplay-1.4.3.jar",
                     "url": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.3/duradisplay-1.4.3.jar"
+                },
+                "1.4.4": {
+                    "name": "duradisplay-1.4.4.jar",
+                    "url": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.4/duradisplay-1.4.4.jar"
                 }
             }
         },
@@ -22575,7 +22587,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.04",
+            "latest": "5.09.54.07",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -32602,6 +32614,18 @@
                 "5.09.54.04": {
                     "name": "gregtech-5.09.54.04.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.04/gregtech-5.09.54.04.jar"
+                },
+                "5.09.54.05": {
+                    "name": "gregtech-5.09.54.05.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.05/gregtech-5.09.54.05.jar"
+                },
+                "5.09.54.06": {
+                    "name": "gregtech-5.09.54.06.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.06/gregtech-5.09.54.06.jar"
+                },
+                "5.09.54.07": {
+                    "name": "gregtech-5.09.54.07.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.07/gregtech-5.09.54.07.jar"
                 }
             }
         },
@@ -33767,7 +33791,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.20",
+            "latest": "0.11.21",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -33930,6 +33954,10 @@
                 "0.11.20": {
                     "name": "gtnhlib-0.11.20.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.20/gtnhlib-0.11.20.jar"
+                },
+                "0.11.21": {
+                    "name": "gtnhlib-0.11.21.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.21/gtnhlib-0.11.21.jar"
                 },
                 "0.11.3": {
                     "name": "gtnhlib-0.11.3.jar",
@@ -42112,7 +42140,7 @@
         },
         "IFU": {
             "id": "com.github.GTNewHorizons:IFU:<version>",
-            "latest": "1.12.1",
+            "latest": "1.12.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/IFU",
             "versions": {
@@ -42175,6 +42203,10 @@
                 "1.12.1": {
                     "name": "ifu-1.12.1.jar",
                     "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.1/ifu-1.12.1.jar"
+                },
+                "1.12.2": {
+                    "name": "ifu-1.12.2.jar",
+                    "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.2/ifu-1.12.2.jar"
                 },
                 "1.3": {
                     "name": "IFU-1.3.jar",
@@ -42676,7 +42708,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.3.34-GTNH",
+            "latest": "1.3.35-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -43087,6 +43119,10 @@
                 "1.3.34-GTNH": {
                     "name": "bogosorter-1.3.34-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.34-GTNH/bogosorter-1.3.34-GTNH.jar"
+                },
+                "1.3.35-GTNH": {
+                    "name": "bogosorter-1.3.35-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.35-GTNH/bogosorter-1.3.35-GTNH.jar"
                 },
                 "1.3.4-GTNH": {
                     "name": "bogosorter-1.3.4-GTNH.jar",
@@ -48852,7 +48888,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.0",
+            "latest": "2.9.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -53411,6 +53447,10 @@
                 "2.9.0": {
                     "name": "GTNewHorizonsCoreMod-2.9.0.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.0/GTNewHorizonsCoreMod-2.9.0.jar"
+                },
+                "2.9.1": {
+                    "name": "GTNewHorizonsCoreMod-2.9.1.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.1/GTNewHorizonsCoreMod-2.9.1.jar"
                 }
             }
         },
@@ -56276,7 +56316,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.12.47-GTNH",
+            "latest": "1.12.48-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -56647,6 +56687,10 @@
                 "1.12.47-GTNH": {
                     "name": "OpenComputers-1.12.47-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.47-GTNH/OpenComputers-1.12.47-GTNH.jar"
+                },
+                "1.12.48-GTNH": {
+                    "name": "OpenComputers-1.12.48-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.48-GTNH/OpenComputers-1.12.48-GTNH.jar"
                 },
                 "1.12.5-GTNH-pre": {
                     "name": "OpenComputers-1.12.5-GTNH-pre.jar",
