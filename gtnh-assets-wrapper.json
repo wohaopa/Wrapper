@@ -6502,7 +6502,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-995-GTNH",
+            "latest": "rv3-beta-997-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -9921,6 +9921,14 @@
                 "rv3-beta-995-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-995-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-995-GTNH/appliedenergistics2-rv3-beta-995-GTNH.jar"
+                },
+                "rv3-beta-996-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-996-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-996-GTNH/appliedenergistics2-rv3-beta-996-GTNH.jar"
+                },
+                "rv3-beta-997-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-997-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-997-GTNH/appliedenergistics2-rv3-beta-997-GTNH.jar"
                 }
             }
         },
@@ -17519,7 +17527,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.85",
+            "latest": "2.0.87",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17862,6 +17870,14 @@
                 "2.0.85": {
                     "name": "cropsnh-2.0.85.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.85/cropsnh-2.0.85.jar"
+                },
+                "2.0.86": {
+                    "name": "cropsnh-2.0.86.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.86/cropsnh-2.0.86.jar"
+                },
+                "2.0.87": {
+                    "name": "cropsnh-2.0.87.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.87/cropsnh-2.0.87.jar"
                 },
                 "2.0.9": {
                     "name": "cropsnh-2.0.9.jar",
@@ -21675,7 +21691,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.11.29",
+            "latest": "4.11.30",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -21838,6 +21854,10 @@
                 "4.11.3-pre": {
                     "name": "Forestry-4.11.3-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.3-pre/Forestry-4.11.3-pre.jar"
+                },
+                "4.11.30": {
+                    "name": "Forestry-4.11.30.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.30/Forestry-4.11.30.jar"
                 },
                 "4.11.4": {
                     "name": "Forestry-4.11.4.jar",
@@ -22587,7 +22607,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.07",
+            "latest": "5.09.54.09",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -32626,6 +32646,14 @@
                 "5.09.54.07": {
                     "name": "gregtech-5.09.54.07.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.07/gregtech-5.09.54.07.jar"
+                },
+                "5.09.54.08": {
+                    "name": "gregtech-5.09.54.08.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.08/gregtech-5.09.54.08.jar"
+                },
+                "5.09.54.09": {
+                    "name": "gregtech-5.09.54.09.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.09/gregtech-5.09.54.09.jar"
                 }
             }
         },
@@ -42708,7 +42736,7 @@
         },
         "InventoryBogoSorter": {
             "id": "com.github.GTNewHorizons:InventoryBogoSorter:<version>",
-            "latest": "1.3.35-GTNH",
+            "latest": "1.3.36-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/InventoryBogoSorter",
             "versions": {
@@ -43123,6 +43151,10 @@
                 "1.3.35-GTNH": {
                     "name": "bogosorter-1.3.35-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.35-GTNH/bogosorter-1.3.35-GTNH.jar"
+                },
+                "1.3.36-GTNH": {
+                    "name": "bogosorter-1.3.36-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.36-GTNH/bogosorter-1.3.36-GTNH.jar"
                 },
                 "1.3.4-GTNH": {
                     "name": "bogosorter-1.3.4-GTNH.jar",
@@ -45920,7 +45952,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.44-GTNH",
+            "latest": "0.1.45-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -46243,6 +46275,10 @@
                 "0.1.44-GTNH": {
                     "name": "matter-manipulator-0.1.44-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.44-GTNH/matter-manipulator-0.1.44-GTNH.jar"
+                },
+                "0.1.45-GTNH": {
+                    "name": "matter-manipulator-0.1.45-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.45-GTNH/matter-manipulator-0.1.45-GTNH.jar"
                 },
                 "0.1.5-GTNH": {
                     "name": "matter-manipulator-0.1.5-GTNH.jar",
@@ -48888,7 +48924,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.1",
+            "latest": "2.9.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -53451,6 +53487,14 @@
                 "2.9.1": {
                     "name": "GTNewHorizonsCoreMod-2.9.1.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.1/GTNewHorizonsCoreMod-2.9.1.jar"
+                },
+                "2.9.2": {
+                    "name": "GTNewHorizonsCoreMod-2.9.2.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.2/GTNewHorizonsCoreMod-2.9.2.jar"
+                },
+                "2.9.3": {
+                    "name": "GTNewHorizonsCoreMod-2.9.3.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.3/GTNewHorizonsCoreMod-2.9.3.jar"
                 }
             }
         },
@@ -53948,7 +53992,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.109-GTNH",
+            "latest": "2.8.110-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -55367,6 +55411,10 @@
                 "2.8.11-GTNH": {
                     "name": "NotEnoughItems-2.8.11-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.11-GTNH/NotEnoughItems-2.8.11-GTNH.jar"
+                },
+                "2.8.110-GTNH": {
+                    "name": "NotEnoughItems-2.8.110-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.110-GTNH/NotEnoughItems-2.8.110-GTNH.jar"
                 },
                 "2.8.12-GTNH-pre": {
                     "name": "NotEnoughItems-2.8.12-GTNH-pre.jar",
@@ -61552,7 +61600,7 @@
         },
         "StructureLib": {
             "id": "com.github.GTNewHorizons:StructureLib:<version>",
-            "latest": "1.4.40",
+            "latest": "1.4.41",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StructureLib",
             "versions": {
@@ -61851,6 +61899,10 @@
                 "1.4.40": {
                     "name": "structurelib-1.4.40.jar",
                     "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.40/structurelib-1.4.40.jar"
+                },
+                "1.4.41": {
+                    "name": "structurelib-1.4.41.jar",
+                    "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.41/structurelib-1.4.41.jar"
                 },
                 "1.4.5-pre": {
                     "name": "structurelib-1.4.5-pre.jar",
@@ -67452,7 +67504,7 @@
         },
         "VendingMachine": {
             "id": "com.github.GTNewHorizons:VendingMachine:<version>",
-            "latest": "0.4.93",
+            "latest": "0.4.94",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VendingMachine",
             "versions": {
@@ -67823,6 +67875,10 @@
                 "0.4.93": {
                     "name": "vendingmachine-0.4.93.jar",
                     "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.93/vendingmachine-0.4.93.jar"
+                },
+                "0.4.94": {
+                    "name": "vendingmachine-0.4.94.jar",
+                    "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.94/vendingmachine-0.4.94.jar"
                 }
             }
         },
