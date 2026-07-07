@@ -5478,7 +5478,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.50",
+            "latest": "2.1.52",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6298,6 +6298,14 @@
                     "name": "angelica-2.1.50.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.50/angelica-2.1.50.jar"
                 },
+                "2.1.51": {
+                    "name": "angelica-2.1.51.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.51/angelica-2.1.51.jar"
+                },
+                "2.1.52": {
+                    "name": "angelica-2.1.52.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.52/angelica-2.1.52.jar"
+                },
                 "2.1.6": {
                     "name": "angelica-2.1.6.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.6/angelica-2.1.6.jar"
@@ -6530,7 +6538,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1000-GTNH",
+            "latest": "rv3-beta-1001-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6541,6 +6549,10 @@
                 "rv3-beta-1000-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1000-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1000-GTNH/appliedenergistics2-rv3-beta-1000-GTNH.jar"
+                },
+                "rv3-beta-1001-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1001-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1001-GTNH/appliedenergistics2-rv3-beta-1001-GTNH.jar"
                 },
                 "rv3-beta-101-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-101-GTNH.jar",
@@ -22731,7 +22743,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.20",
+            "latest": "5.09.54.21",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -32822,6 +32834,10 @@
                 "5.09.54.20": {
                     "name": "gregtech-5.09.54.20.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.20/gregtech-5.09.54.20.jar"
+                },
+                "5.09.54.21": {
+                    "name": "gregtech-5.09.54.21.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.21/gregtech-5.09.54.21.jar"
                 }
             }
         },
