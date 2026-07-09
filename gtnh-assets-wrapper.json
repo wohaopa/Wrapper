@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-07-07",
+            "latest": "2.9.0-nightly-2026-07-08",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2919,6 +2919,10 @@
                 "2.9.0-nightly-2026-07-07": {
                     "name": "2.9.0-nightly-2026-07-07.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-07/2.9.0-nightly-2026-07-07.zip"
+                },
+                "2.9.0-nightly-2026-07-08": {
+                    "name": "2.9.0-nightly-2026-07-08.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-08/2.9.0-nightly-2026-07-08.zip"
                 }
             }
         }
@@ -17619,7 +17623,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.92",
+            "latest": "2.0.93",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -17994,6 +17998,10 @@
                 "2.0.92": {
                     "name": "cropsnh-2.0.92.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.92/cropsnh-2.0.92.jar"
+                },
+                "2.0.93": {
+                    "name": "cropsnh-2.0.93.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.93/cropsnh-2.0.93.jar"
                 }
             }
         },
@@ -22763,7 +22771,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.23",
+            "latest": "5.09.54.25",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -32866,6 +32874,14 @@
                 "5.09.54.23": {
                     "name": "gregtech-5.09.54.23.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.23/gregtech-5.09.54.23.jar"
+                },
+                "5.09.54.24": {
+                    "name": "gregtech-5.09.54.24.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.24/gregtech-5.09.54.24.jar"
+                },
+                "5.09.54.25": {
+                    "name": "gregtech-5.09.54.25.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.25/gregtech-5.09.54.25.jar"
                 }
             }
         },
@@ -39116,7 +39132,7 @@
         },
         "Gravitation-Suite-Neo": {
             "id": "com.github.GTNewHorizons:Gravitation-Suite-Neo:<version>",
-            "latest": "1.3.12",
+            "latest": "1.3.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Gravitation-Suite-Neo",
             "versions": {
@@ -39251,6 +39267,10 @@
                 "1.3.12": {
                     "name": "gravisuiteneo-1.3.12.jar",
                     "url": "https://github.com/GTNewHorizons/Gravitation-Suite-Neo/releases/download/1.3.12/gravisuiteneo-1.3.12.jar"
+                },
+                "1.3.13": {
+                    "name": "gravisuiteneo-1.3.13.jar",
+                    "url": "https://github.com/GTNewHorizons/Gravitation-Suite-Neo/releases/download/1.3.13/gravisuiteneo-1.3.13.jar"
                 },
                 "1.3.2": {
                     "name": "gravisuiteneo-1.3.2.jar",
@@ -49196,7 +49216,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.6",
+            "latest": "2.9.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -53779,6 +53799,14 @@
                 "2.9.6": {
                     "name": "GTNewHorizonsCoreMod-2.9.6.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.6/GTNewHorizonsCoreMod-2.9.6.jar"
+                },
+                "2.9.7": {
+                    "name": "GTNewHorizonsCoreMod-2.9.7.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.7/GTNewHorizonsCoreMod-2.9.7.jar"
+                },
+                "2.9.8": {
+                    "name": "GTNewHorizonsCoreMod-2.9.8.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.8/GTNewHorizonsCoreMod-2.9.8.jar"
                 }
             }
         },
@@ -54280,7 +54308,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.111-GTNH",
+            "latest": "2.8.112-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -55707,6 +55735,10 @@
                 "2.8.111-GTNH": {
                     "name": "NotEnoughItems-2.8.111-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.111-GTNH/NotEnoughItems-2.8.111-GTNH.jar"
+                },
+                "2.8.112-GTNH": {
+                    "name": "NotEnoughItems-2.8.112-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.112-GTNH/NotEnoughItems-2.8.112-GTNH.jar"
                 },
                 "2.8.12-GTNH-pre": {
                     "name": "NotEnoughItems-2.8.12-GTNH-pre.jar",
@@ -67728,7 +67760,7 @@
         },
         "Universal-Singularities": {
             "id": "com.github.GTNewHorizons:Universal-Singularities:<version>",
-            "latest": "8.15.3",
+            "latest": "8.15.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Universal-Singularities",
             "versions": {
@@ -67775,6 +67807,10 @@
                 "8.15.3": {
                     "name": "Universal-Singularities-8.15.3.jar",
                     "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.15.3/Universal-Singularities-8.15.3.jar"
+                },
+                "8.15.4": {
+                    "name": "Universal-Singularities-8.15.4.jar",
+                    "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.15.4/Universal-Singularities-8.15.4.jar"
                 },
                 "8.5": {
                     "name": "Universal.Singularities-1.7.10-8.5.jar",
