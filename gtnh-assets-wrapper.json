@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-07-10",
+            "latest": "2.9.0-nightly-2026-07-11",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2931,6 +2931,10 @@
                 "2.9.0-nightly-2026-07-10": {
                     "name": "2.9.0-nightly-2026-07-10.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-10/2.9.0-nightly-2026-07-10.zip"
+                },
+                "2.9.0-nightly-2026-07-11": {
+                    "name": "2.9.0-nightly-2026-07-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-11/2.9.0-nightly-2026-07-11.zip"
                 }
             }
         }
@@ -6554,7 +6558,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1002-GTNH",
+            "latest": "rv3-beta-1003-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6573,6 +6577,10 @@
                 "rv3-beta-1002-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1002-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1002-GTNH/appliedenergistics2-rv3-beta-1002-GTNH.jar"
+                },
+                "rv3-beta-1003-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1003-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1003-GTNH/appliedenergistics2-rv3-beta-1003-GTNH.jar"
                 },
                 "rv3-beta-101-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-101-GTNH.jar",
@@ -10826,7 +10834,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.8.11",
+            "latest": "1.8.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -11105,6 +11113,10 @@
                 "1.8.11": {
                     "name": "backhand-1.8.11.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.11/backhand-1.8.11.jar"
+                },
+                "1.8.12": {
+                    "name": "backhand-1.8.12.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.12/backhand-1.8.12.jar"
                 },
                 "1.8.2": {
                     "name": "backhand-1.8.2.jar",
@@ -14050,7 +14062,7 @@
         },
         "BloodMagic": {
             "id": "com.github.GTNewHorizons:BloodMagic:<version>",
-            "latest": "1.9.5",
+            "latest": "1.9.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BloodMagic",
             "versions": {
@@ -14545,6 +14557,10 @@
                 "1.9.5": {
                     "name": "BloodMagic-1.9.5.jar",
                     "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.9.5/BloodMagic-1.9.5.jar"
+                },
+                "1.9.6": {
+                    "name": "BloodMagic-1.9.6.jar",
+                    "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.9.6/BloodMagic-1.9.6.jar"
                 }
             }
         },
@@ -16695,7 +16711,7 @@
         },
         "Controlling": {
             "id": "com.github.GTNewHorizons:Controlling:<version>",
-            "latest": "2.1.7",
+            "latest": "2.1.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Controlling",
             "versions": {
@@ -16750,6 +16766,10 @@
                 "2.1.7": {
                     "name": "controlling-2.1.7.jar",
                     "url": "https://github.com/GTNewHorizons/Controlling/releases/download/2.1.7/controlling-2.1.7.jar"
+                },
+                "2.1.8": {
+                    "name": "controlling-2.1.8.jar",
+                    "url": "https://github.com/GTNewHorizons/Controlling/releases/download/2.1.8/controlling-2.1.8.jar"
                 }
             }
         },
@@ -17639,7 +17659,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.94",
+            "latest": "2.0.95",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18022,6 +18042,10 @@
                 "2.0.94": {
                     "name": "cropsnh-2.0.94.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.94/cropsnh-2.0.94.jar"
+                },
+                "2.0.95": {
+                    "name": "cropsnh-2.0.95.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.95/cropsnh-2.0.95.jar"
                 }
             }
         },
@@ -22791,7 +22815,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.27",
+            "latest": "5.09.54.28",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -32910,6 +32934,10 @@
                 "5.09.54.27": {
                     "name": "gregtech-5.09.54.27.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.27/gregtech-5.09.54.27.jar"
+                },
+                "5.09.54.28": {
+                    "name": "gregtech-5.09.54.28.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.28/gregtech-5.09.54.28.jar"
                 }
             }
         },
@@ -34075,7 +34103,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.27",
+            "latest": "0.11.28",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -34266,6 +34294,10 @@
                 "0.11.27": {
                     "name": "gtnhlib-0.11.27.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.27/gtnhlib-0.11.27.jar"
+                },
+                "0.11.28": {
+                    "name": "gtnhlib-0.11.28.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.28/gtnhlib-0.11.28.jar"
                 },
                 "0.11.3": {
                     "name": "gtnhlib-0.11.3.jar",
@@ -39396,7 +39428,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.12",
+            "latest": "1.3.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -39411,6 +39443,10 @@
                 "1.3.12": {
                     "name": "guidenh-1.3.12.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.12/guidenh-1.3.12.jar"
+                },
+                "1.3.13": {
+                    "name": "guidenh-1.3.13.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.13/guidenh-1.3.13.jar"
                 },
                 "1.3.3": {
                     "name": "guidenh-1.3.3.jar",
