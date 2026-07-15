@@ -1,0 +1,786 @@
+[
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.0-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.0-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.0-GTNH/bogosorter-1.0-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.0-GTNH/InventoryBogoSorter-1.0-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.1-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.1-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.1-GTNH/bogosorter-1.1-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.1-GTNH/InventoryBogoSorter-1.1-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.1.1-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.1.1-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.1.1-GTNH/bogosorter-1.1.1-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.1.1-GTNH/InventoryBogoSorter-1.1.1-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.1.2-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.1.2-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.1.2-GTNH/bogosorter-1.1.2-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.1.2-GTNH/InventoryBogoSorter-1.1.2-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.0-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.0-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.0-GTNH/bogosorter-1.2.0-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.0-GTNH/InventoryBogoSorter-1.2.0-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.1-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.1-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.1-GTNH/bogosorter-1.2.1-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.1-GTNH/InventoryBogoSorter-1.2.1-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.2-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.2-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.2-GTNH/bogosorter-1.2.2-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.2-GTNH/InventoryBogoSorter-1.2.2-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.3-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.3-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.3-GTNH/bogosorter-1.2.3-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.3-GTNH/InventoryBogoSorter-1.2.3-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.4-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.4-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.4-GTNH-pre/bogosorter-1.2.4-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.4-GTNH-pre/InventoryBogoSorter-1.2.4-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.5-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.5-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.5-GTNH/bogosorter-1.2.5-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.5-GTNH/InventoryBogoSorter-1.2.5-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.6-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.6-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.6-GTNH/bogosorter-1.2.6-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.6-GTNH/InventoryBogoSorter-1.2.6-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.7-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.7-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.7-GTNH-pre/bogosorter-1.2.7-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.7-GTNH-pre/InventoryBogoSorter-1.2.7-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.8-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.8-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.8-GTNH-pre/bogosorter-1.2.8-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.8-GTNH-pre/InventoryBogoSorter-1.2.8-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.9-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.9-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.9-GTNH/bogosorter-1.2.9-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.9-GTNH/InventoryBogoSorter-1.2.9-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.10-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.10-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.10-GTNH-pre/bogosorter-1.2.10-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.10-GTNH-pre/InventoryBogoSorter-1.2.10-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.11-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.11-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.11-GTNH/bogosorter-1.2.11-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.11-GTNH/InventoryBogoSorter-1.2.11-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.12-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.12-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.12-GTNH-pre/bogosorter-1.2.12-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.12-GTNH-pre/InventoryBogoSorter-1.2.12-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.13-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.13-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.13-GTNH/bogosorter-1.2.13-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.13-GTNH/InventoryBogoSorter-1.2.13-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.14-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.14-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.14-GTNH/bogosorter-1.2.14-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.14-GTNH/InventoryBogoSorter-1.2.14-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.15-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.15-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.15-GTNH/bogosorter-1.2.15-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.15-GTNH/InventoryBogoSorter-1.2.15-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.16-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.16-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.16-GTNH/bogosorter-1.2.16-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.16-GTNH/InventoryBogoSorter-1.2.16-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.17-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.17-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.17-GTNH/bogosorter-1.2.17-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.17-GTNH/InventoryBogoSorter-1.2.17-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.18-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.18-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.18-GTNH/bogosorter-1.2.18-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.18-GTNH/InventoryBogoSorter-1.2.18-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.19-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.19-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.19-GTNH/bogosorter-1.2.19-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.19-GTNH/InventoryBogoSorter-1.2.19-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.20-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.20-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.20-GTNH/bogosorter-1.2.20-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.20-GTNH/InventoryBogoSorter-1.2.20-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.21-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.21-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.21-GTNH/bogosorter-1.2.21-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.21-GTNH/InventoryBogoSorter-1.2.21-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.22-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.22-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.22-GTNH/bogosorter-1.2.22-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.22-GTNH/InventoryBogoSorter-1.2.22-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.23-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.23-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.23-GTNH/bogosorter-1.2.23-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.23-GTNH/InventoryBogoSorter-1.2.23-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.24-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.24-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.24-GTNH/bogosorter-1.2.24-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.24-GTNH/InventoryBogoSorter-1.2.24-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.25-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.25-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.25-GTNH/bogosorter-1.2.25-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.25-GTNH/InventoryBogoSorter-1.2.25-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.26-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.26-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.26-GTNH/bogosorter-1.2.26-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.26-GTNH/InventoryBogoSorter-1.2.26-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.27-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.27-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.27-GTNH/bogosorter-1.2.27-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.27-GTNH/InventoryBogoSorter-1.2.27-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.28-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.28-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.28-GTNH/bogosorter-1.2.28-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.28-GTNH/InventoryBogoSorter-1.2.28-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.29-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.29-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.29-GTNH-pre/bogosorter-1.2.29-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.29-GTNH-pre/InventoryBogoSorter-1.2.29-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.30-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.30-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.30-GTNH/bogosorter-1.2.30-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.30-GTNH/InventoryBogoSorter-1.2.30-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.31-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.31-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.31-GTNH/bogosorter-1.2.31-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.31-GTNH/InventoryBogoSorter-1.2.31-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.32-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.32-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.32-GTNH-pre/bogosorter-1.2.32-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.32-GTNH-pre/InventoryBogoSorter-1.2.32-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.33-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.33-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.33-GTNH-pre/bogosorter-1.2.33-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.33-GTNH-pre/InventoryBogoSorter-1.2.33-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.34-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.34-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.34-GTNH/bogosorter-1.2.34-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.34-GTNH/InventoryBogoSorter-1.2.34-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.35-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.35-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.35-GTNH/bogosorter-1.2.35-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.35-GTNH/InventoryBogoSorter-1.2.35-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.36-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.36-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.36-GTNH/bogosorter-1.2.36-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.36-GTNH/InventoryBogoSorter-1.2.36-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.37-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.37-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.37-GTNH-pre/bogosorter-1.2.37-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.37-GTNH-pre/InventoryBogoSorter-1.2.37-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.38-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.38-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.38-GTNH/bogosorter-1.2.38-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.38-GTNH/InventoryBogoSorter-1.2.38-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.39-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.39-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.39-GTNH/bogosorter-1.2.39-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.39-GTNH/InventoryBogoSorter-1.2.39-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.40-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.40-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.40-GTNH/bogosorter-1.2.40-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.40-GTNH/InventoryBogoSorter-1.2.40-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.41-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.41-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.41-GTNH/bogosorter-1.2.41-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.41-GTNH/InventoryBogoSorter-1.2.41-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.42-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.42-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.42-GTNH/bogosorter-1.2.42-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.42-GTNH/InventoryBogoSorter-1.2.42-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.43-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.43-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.43-GTNH/bogosorter-1.2.43-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.43-GTNH/InventoryBogoSorter-1.2.43-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.44-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.44-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.44-GTNH-pre/bogosorter-1.2.44-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.44-GTNH-pre/InventoryBogoSorter-1.2.44-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.45-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.45-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.45-GTNH-pre/bogosorter-1.2.45-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.45-GTNH-pre/InventoryBogoSorter-1.2.45-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.46-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.46-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.46-GTNH/bogosorter-1.2.46-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.46-GTNH/InventoryBogoSorter-1.2.46-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.47-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.47-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.47-GTNH/bogosorter-1.2.47-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.47-GTNH/InventoryBogoSorter-1.2.47-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.48-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.48-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.48-GTNH-pre/bogosorter-1.2.48-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.48-GTNH-pre/InventoryBogoSorter-1.2.48-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.49-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.49-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.49-GTNH-pre/bogosorter-1.2.49-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.49-GTNH-pre/InventoryBogoSorter-1.2.49-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.50-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.50-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.50-GTNH/bogosorter-1.2.50-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.50-GTNH/InventoryBogoSorter-1.2.50-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.51-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.51-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.51-GTNH/bogosorter-1.2.51-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.51-GTNH/InventoryBogoSorter-1.2.51-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.52-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.52-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.52-GTNH-pre/bogosorter-1.2.52-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.52-GTNH-pre/InventoryBogoSorter-1.2.52-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.53-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.53-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.53-GTNH/bogosorter-1.2.53-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.53-GTNH/InventoryBogoSorter-1.2.53-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.54-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.54-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.54-GTNH/bogosorter-1.2.54-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.54-GTNH/InventoryBogoSorter-1.2.54-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.55-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.55-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.55-GTNH/bogosorter-1.2.55-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.55-GTNH/InventoryBogoSorter-1.2.55-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.56-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.56-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.56-GTNH/bogosorter-1.2.56-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.56-GTNH/InventoryBogoSorter-1.2.56-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.57-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.57-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.57-GTNH/bogosorter-1.2.57-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.57-GTNH/InventoryBogoSorter-1.2.57-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.58-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.58-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.58-GTNH/bogosorter-1.2.58-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.58-GTNH/InventoryBogoSorter-1.2.58-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.59-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.59-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.59-GTNH/bogosorter-1.2.59-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.59-GTNH/InventoryBogoSorter-1.2.59-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.60-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.60-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.60-GTNH/bogosorter-1.2.60-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.60-GTNH/InventoryBogoSorter-1.2.60-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.61-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.61-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.61-GTNH/bogosorter-1.2.61-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.61-GTNH/InventoryBogoSorter-1.2.61-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.62-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.62-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.62-GTNH/bogosorter-1.2.62-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.62-GTNH/InventoryBogoSorter-1.2.62-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.63-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.63-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.63-GTNH/bogosorter-1.2.63-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.63-GTNH/InventoryBogoSorter-1.2.63-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.64-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.64-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.64-GTNH/bogosorter-1.2.64-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.64-GTNH/InventoryBogoSorter-1.2.64-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.65-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.65-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.65-GTNH/bogosorter-1.2.65-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.65-GTNH/InventoryBogoSorter-1.2.65-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.66-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.66-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.66-GTNH/bogosorter-1.2.66-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.66-GTNH/InventoryBogoSorter-1.2.66-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.67-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.67-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.67-GTNH/bogosorter-1.2.67-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.67-GTNH/InventoryBogoSorter-1.2.67-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.2.68-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.2.68-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.68-GTNH/bogosorter-1.2.68-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.2.68-GTNH/InventoryBogoSorter-1.2.68-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.0-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.0-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.0-GTNH/bogosorter-1.3.0-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.0-GTNH/InventoryBogoSorter-1.3.0-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.1-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.1-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.1-GTNH/bogosorter-1.3.1-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.1-GTNH/InventoryBogoSorter-1.3.1-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.2-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.2-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.2-GTNH/bogosorter-1.3.2-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.2-GTNH/InventoryBogoSorter-1.3.2-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.3-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.3-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.3-GTNH/bogosorter-1.3.3-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.3-GTNH/InventoryBogoSorter-1.3.3-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.4-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.4-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.4-GTNH/bogosorter-1.3.4-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.4-GTNH/InventoryBogoSorter-1.3.4-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.5-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.5-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.5-GTNH/bogosorter-1.3.5-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.5-GTNH/InventoryBogoSorter-1.3.5-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.6-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.6-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.6-GTNH/bogosorter-1.3.6-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.6-GTNH/InventoryBogoSorter-1.3.6-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.7-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.7-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.7-GTNH/bogosorter-1.3.7-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.7-GTNH/InventoryBogoSorter-1.3.7-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.8-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.8-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.8-GTNH/bogosorter-1.3.8-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.8-GTNH/InventoryBogoSorter-1.3.8-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.9-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.9-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.9-GTNH/bogosorter-1.3.9-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.9-GTNH/InventoryBogoSorter-1.3.9-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.10-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.10-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.10-GTNH/bogosorter-1.3.10-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.10-GTNH/InventoryBogoSorter-1.3.10-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.11-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.11-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.11-GTNH/bogosorter-1.3.11-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.11-GTNH/InventoryBogoSorter-1.3.11-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.12-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.12-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.12-GTNH-pre/bogosorter-1.3.12-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.12-GTNH-pre/InventoryBogoSorter-1.3.12-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.13-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.13-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.13-GTNH/bogosorter-1.3.13-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.13-GTNH/InventoryBogoSorter-1.3.13-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.14-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.14-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.14-GTNH/bogosorter-1.3.14-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.14-GTNH/InventoryBogoSorter-1.3.14-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.15-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.15-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.15-GTNH-pre/bogosorter-1.3.15-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.15-GTNH-pre/InventoryBogoSorter-1.3.15-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.16-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.16-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.16-GTNH/bogosorter-1.3.16-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.16-GTNH/InventoryBogoSorter-1.3.16-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.17-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.17-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.17-GTNH/bogosorter-1.3.17-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.17-GTNH/InventoryBogoSorter-1.3.17-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.18-GTNH-pre",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.18-GTNH-pre.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.18-GTNH-pre/bogosorter-1.3.18-GTNH-pre.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.18-GTNH-pre/InventoryBogoSorter-1.3.18-GTNH-pre.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.19-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.19-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.19-GTNH/bogosorter-1.3.19-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.19-GTNH/InventoryBogoSorter-1.3.19-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.20-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.20-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.20-GTNH/bogosorter-1.3.20-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.20-GTNH/InventoryBogoSorter-1.3.20-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.21-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.21-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.21-GTNH/bogosorter-1.3.21-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.21-GTNH/InventoryBogoSorter-1.3.21-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.22-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.22-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.22-GTNH/bogosorter-1.3.22-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.22-GTNH/InventoryBogoSorter-1.3.22-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.23-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.23-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.23-GTNH/bogosorter-1.3.23-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.23-GTNH/InventoryBogoSorter-1.3.23-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.24-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.24-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.24-GTNH/bogosorter-1.3.24-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.24-GTNH/InventoryBogoSorter-1.3.24-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.25-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.25-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.25-GTNH/bogosorter-1.3.25-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.25-GTNH/InventoryBogoSorter-1.3.25-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.26-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.26-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.26-GTNH/bogosorter-1.3.26-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.26-GTNH/InventoryBogoSorter-1.3.26-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.27-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.27-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.27-GTNH/bogosorter-1.3.27-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.27-GTNH/InventoryBogoSorter-1.3.27-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.28-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.28-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.28-GTNH/bogosorter-1.3.28-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.28-GTNH/InventoryBogoSorter-1.3.28-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.29-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.29-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.29-GTNH/bogosorter-1.3.29-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.29-GTNH/InventoryBogoSorter-1.3.29-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.30-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.30-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.30-GTNH/bogosorter-1.3.30-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.30-GTNH/InventoryBogoSorter-1.3.30-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.31-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.31-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.31-GTNH/bogosorter-1.3.31-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.31-GTNH/InventoryBogoSorter-1.3.31-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.32-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.32-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.32-GTNH/bogosorter-1.3.32-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.32-GTNH/InventoryBogoSorter-1.3.32-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.33-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.33-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.33-GTNH/bogosorter-1.3.33-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.33-GTNH/InventoryBogoSorter-1.3.33-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.34-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.34-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.34-GTNH/bogosorter-1.3.34-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.34-GTNH/InventoryBogoSorter-1.3.34-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.35-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.35-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.35-GTNH/bogosorter-1.3.35-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.35-GTNH/InventoryBogoSorter-1.3.35-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.36-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.36-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.36-GTNH/bogosorter-1.3.36-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.36-GTNH/InventoryBogoSorter-1.3.36-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.37-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.37-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.37-GTNH/bogosorter-1.3.37-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.37-GTNH/InventoryBogoSorter-1.3.37-GTNH.jar"
+    },
+    {
+        "id": "com.github.GTNewHorizons:InventoryBogoSorter:1.3.38-GTNH",
+        "uid": "InventoryBogoSorter",
+        "filename": "bogosorter-1.3.38-GTNH.jar",
+        "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.38-GTNH/bogosorter-1.3.38-GTNH.jar",
+        "path": "com/github/GTNewHorizons/InventoryBogoSorter/1.3.38-GTNH/InventoryBogoSorter-1.3.38-GTNH.jar"
+    }
+]
