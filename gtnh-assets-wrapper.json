@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-07-14",
+            "latest": "2.9.0-nightly-2026-07-15",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2947,6 +2947,10 @@
                 "2.9.0-nightly-2026-07-14": {
                     "name": "2.9.0-nightly-2026-07-14.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-14/2.9.0-nightly-2026-07-14.zip"
+                },
+                "2.9.0-nightly-2026-07-15": {
+                    "name": "2.9.0-nightly-2026-07-15.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-15/2.9.0-nightly-2026-07-15.zip"
                 }
             }
         }
@@ -6578,7 +6582,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1008-GTNH",
+            "latest": "rv3-beta-1010-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6622,9 +6626,17 @@
                     "name": "appliedenergistics2-rv3-beta-1008-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1008-GTNH/appliedenergistics2-rv3-beta-1008-GTNH.jar"
                 },
+                "rv3-beta-1009-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1009-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1009-GTNH/appliedenergistics2-rv3-beta-1009-GTNH.jar"
+                },
                 "rv3-beta-101-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-101-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-101-GTNH/appliedenergistics2-1.7.10-rv3-beta-101-GTNH.jar"
+                },
+                "rv3-beta-1010-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1010-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1010-GTNH/appliedenergistics2-rv3-beta-1010-GTNH.jar"
                 },
                 "rv3-beta-102-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-102-GTNH.jar",
@@ -16224,7 +16236,7 @@
         },
         "ChromaticTooltips": {
             "id": "com.github.GTNewHorizons:ChromaticTooltips:<version>",
-            "latest": "1.0.29-GTNH",
+            "latest": "1.0.31-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ChromaticTooltips",
             "versions": {
@@ -16279,6 +16291,14 @@
                 "1.0.29-GTNH": {
                     "name": "chromatictooltips-1.0.29-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.29-GTNH/chromatictooltips-1.0.29-GTNH.jar"
+                },
+                "1.0.30-GTNH": {
+                    "name": "chromatictooltips-1.0.30-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.30-GTNH/chromatictooltips-1.0.30-GTNH.jar"
+                },
+                "1.0.31-GTNH": {
+                    "name": "chromatictooltips-1.0.31-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.31-GTNH/chromatictooltips-1.0.31-GTNH.jar"
                 }
             }
         },
@@ -19728,7 +19748,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.10.32",
+            "latest": "2.10.33",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -19839,6 +19859,10 @@
                 "2.10.32": {
                     "name": "EnderIO-2.10.32.jar",
                     "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.32/EnderIO-2.10.32.jar"
+                },
+                "2.10.33": {
+                    "name": "EnderIO-2.10.33.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.33/EnderIO-2.10.33.jar"
                 },
                 "2.10.4-pre": {
                     "name": "EnderIO-2.10.4-pre.jar",
@@ -22932,7 +22956,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.37",
+            "latest": "5.09.54.38",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33091,6 +33115,10 @@
                 "5.09.54.37": {
                     "name": "gregtech-5.09.54.37.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.37/gregtech-5.09.54.37.jar"
+                },
+                "5.09.54.38": {
+                    "name": "gregtech-5.09.54.38.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.38/gregtech-5.09.54.38.jar"
                 }
             }
         },
@@ -46329,7 +46357,7 @@
         },
         "MalisisDoors": {
             "id": "com.github.GTNewHorizons:MalisisDoors:<version>",
-            "latest": "1.19.8-GTNH",
+            "latest": "1.19.9-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MalisisDoors",
             "versions": {
@@ -46448,6 +46476,10 @@
                 "1.19.8-GTNH": {
                     "name": "malisisdoors-1.19.8-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.8-GTNH/malisisdoors-1.19.8-GTNH.jar"
+                },
+                "1.19.9-GTNH": {
+                    "name": "malisisdoors-1.19.9-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.9-GTNH/malisisdoors-1.19.9-GTNH.jar"
                 }
             }
         },
@@ -56837,7 +56869,7 @@
         },
         "OpenBlocks": {
             "id": "com.github.GTNewHorizons:OpenBlocks:<version>",
-            "latest": "1.12.18-GTNH",
+            "latest": "1.12.19-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenBlocks",
             "versions": {
@@ -56928,6 +56960,10 @@
                 "1.12.18-GTNH": {
                     "name": "OpenBlocks-1.12.18-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.18-GTNH/OpenBlocks-1.12.18-GTNH.jar"
+                },
+                "1.12.19-GTNH": {
+                    "name": "OpenBlocks-1.12.19-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.19-GTNH/OpenBlocks-1.12.19-GTNH.jar"
                 },
                 "1.12.3-GTNH": {
                     "name": "OpenBlocks-1.12.3-GTNH.jar",
@@ -60165,7 +60201,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.4.2",
+            "latest": "2.4.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -60984,6 +61020,10 @@
                 "2.4.2": {
                     "name": "ServerUtilities-2.4.2.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.2/ServerUtilities-2.4.2.jar"
+                },
+                "2.4.3": {
+                    "name": "ServerUtilities-2.4.3.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.3/ServerUtilities-2.4.3.jar"
                 }
             }
         },
@@ -69709,7 +69749,7 @@
         },
         "WirelessRedstone-CBE": {
             "id": "com.github.GTNewHorizons:WirelessRedstone-CBE:<version>",
-            "latest": "1.7.6",
+            "latest": "1.7.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE",
             "versions": {
@@ -69780,6 +69820,10 @@
                 "1.7.6": {
                     "name": "WR-CBE-1.7.6.jar",
                     "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.6/WR-CBE-1.7.6.jar"
+                },
+                "1.7.7": {
+                    "name": "WR-CBE-1.7.7.jar",
+                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.7/WR-CBE-1.7.7.jar"
                 }
             }
         },
@@ -71566,7 +71610,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.26",
+            "latest": "3.0.27",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -72185,6 +72229,10 @@
                 "3.0.26": {
                     "name": "lwjgl3ify-3.0.26.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.26/lwjgl3ify-3.0.26.jar"
+                },
+                "3.0.27": {
+                    "name": "lwjgl3ify-3.0.27.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.27/lwjgl3ify-3.0.27.jar"
                 },
                 "3.0.3": {
                     "name": "lwjgl3ify-3.0.3.jar",
