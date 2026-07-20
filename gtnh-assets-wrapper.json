@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-07-16-2",
+            "latest": "2.9.0-nightly-2026-07-19",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2959,6 +2959,10 @@
                 "2.9.0-nightly-2026-07-16-2": {
                     "name": "2.9.0-nightly-2026-07-16-2.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-16-2/2.9.0-nightly-2026-07-16-2.zip"
+                },
+                "2.9.0-nightly-2026-07-19": {
+                    "name": "2.9.0-nightly-2026-07-19.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-19/2.9.0-nightly-2026-07-19.zip"
                 }
             }
         }
@@ -2966,7 +2970,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.96-gtnh",
+            "latest": "1.5.97-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -4845,6 +4849,10 @@
                 "1.5.96-gtnh": {
                     "name": "ae2fc-1.5.96-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.96-gtnh/ae2fc-1.5.96-gtnh.jar"
+                },
+                "1.5.97-gtnh": {
+                    "name": "ae2fc-1.5.97-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.97-gtnh/ae2fc-1.5.97-gtnh.jar"
                 }
             }
         },
@@ -6598,7 +6606,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1012-GTNH",
+            "latest": "rv3-beta-1013-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6661,6 +6669,10 @@
                 "rv3-beta-1012-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1012-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1012-GTNH/appliedenergistics2-rv3-beta-1012-GTNH.jar"
+                },
+                "rv3-beta-1013-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1013-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1013-GTNH/appliedenergistics2-rv3-beta-1013-GTNH.jar"
                 },
                 "rv3-beta-102-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-102-GTNH.jar",
@@ -13235,7 +13247,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.6.34",
+            "latest": "2.6.35",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -13662,6 +13674,10 @@
                 "2.6.34": {
                     "name": "binnie-mods-2.6.34.jar",
                     "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.34/binnie-mods-2.6.34.jar"
+                },
+                "2.6.35": {
+                    "name": "binnie-mods-2.6.35.jar",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.35/binnie-mods-2.6.35.jar"
                 },
                 "2.6.4": {
                     "name": "binnie-mods-2.6.4.jar",
@@ -23016,7 +23032,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.43",
+            "latest": "5.09.54.44",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33199,6 +33215,10 @@
                 "5.09.54.43": {
                     "name": "gregtech-5.09.54.43.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.43/gregtech-5.09.54.43.jar"
+                },
+                "5.09.54.44": {
+                    "name": "gregtech-5.09.54.44.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.44/gregtech-5.09.54.44.jar"
                 }
             }
         },
@@ -45401,7 +45421,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.5.28-GTNH",
+            "latest": "1.5.29-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -45892,6 +45912,10 @@
                 "1.5.28-GTNH": {
                     "name": "logisticspipes-1.5.28-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.28-GTNH/logisticspipes-1.5.28-GTNH.jar"
+                },
+                "1.5.29-GTNH": {
+                    "name": "logisticspipes-1.5.29-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.29-GTNH/logisticspipes-1.5.29-GTNH.jar"
                 },
                 "1.5.3-GTNH-pre": {
                     "name": "logisticspipes-1.5.3-GTNH-pre.jar",
@@ -46997,7 +47021,7 @@
         },
         "Minecraft-Backpack-Mod": {
             "id": "com.github.GTNewHorizons:Minecraft-Backpack-Mod:<version>",
-            "latest": "2.6.14-GTNH",
+            "latest": "2.6.15-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod",
             "versions": {
@@ -47128,6 +47152,10 @@
                 "2.6.14-GTNH": {
                     "name": "backpack-2.6.14-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.6.14-GTNH/backpack-2.6.14-GTNH.jar"
+                },
+                "2.6.15-GTNH": {
+                    "name": "backpack-2.6.15-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.6.15-GTNH/backpack-2.6.15-GTNH.jar"
                 },
                 "2.6.2-GTNH-pre": {
                     "name": "backpack-2.6.2-GTNH-pre.jar",
@@ -48341,7 +48369,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.80-1.7.10",
+            "latest": "2.3.81-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -48860,6 +48888,10 @@
                 "2.3.80-1.7.10": {
                     "name": "modularui2-2.3.80-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.80-1.7.10/modularui2-2.3.80-1.7.10.jar"
+                },
+                "2.3.81-1.7.10": {
+                    "name": "modularui2-2.3.81-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.81-1.7.10/modularui2-2.3.81-1.7.10.jar"
                 },
                 "2.3.9-1.7.10": {
                     "name": "modularui2-2.3.9-1.7.10.jar",
@@ -56781,7 +56813,7 @@
         },
         "Nutrition": {
             "id": "com.github.GTNewHorizons:Nutrition:<version>",
-            "latest": "0.1.9",
+            "latest": "0.1.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Nutrition",
             "versions": {
@@ -56844,6 +56876,10 @@
                 "0.1.1": {
                     "name": "nutrition-0.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/0.1.1/nutrition-0.1.1.jar"
+                },
+                "0.1.10": {
+                    "name": "nutrition-0.1.10.jar",
+                    "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/0.1.10/nutrition-0.1.10.jar"
                 },
                 "0.1.2": {
                     "name": "nutrition-0.1.2.jar",
@@ -58009,7 +58045,7 @@
         },
         "Opis": {
             "id": "com.github.GTNewHorizons:Opis:<version>",
-            "latest": "1.4.8-mapless",
+            "latest": "1.4.9-mapless",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Opis",
             "versions": {
@@ -58080,6 +58116,10 @@
                 "1.4.8-mapless": {
                     "name": "Opis-1.4.8-mapless.jar",
                     "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.8-mapless/Opis-1.4.8-mapless.jar"
+                },
+                "1.4.9-mapless": {
+                    "name": "Opis-1.4.9-mapless.jar",
+                    "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.9-mapless/Opis-1.4.9-mapless.jar"
                 }
             }
         },
@@ -66385,7 +66425,7 @@
         },
         "Thaumic_Exploration": {
             "id": "com.github.GTNewHorizons:Thaumic_Exploration:<version>",
-            "latest": "1.5.24-GTNH",
+            "latest": "1.5.25-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Thaumic_Exploration",
             "versions": {
@@ -66612,6 +66652,10 @@
                 "1.5.24-GTNH": {
                     "name": "Thaumic-Exploration-1.5.24-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.24-GTNH/Thaumic-Exploration-1.5.24-GTNH.jar"
+                },
+                "1.5.25-GTNH": {
+                    "name": "Thaumic-Exploration-1.5.25-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.25-GTNH/Thaumic-Exploration-1.5.25-GTNH.jar"
                 },
                 "1.5.3-GTNH": {
                     "name": "Thaumic-Exploration-1.5.3-GTNH.jar",
@@ -68837,7 +68881,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.5.35",
+            "latest": "1.5.36",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -69276,6 +69320,10 @@
                 "1.5.35": {
                     "name": "visualprospecting-1.5.35.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.35/visualprospecting-1.5.35.jar"
+                },
+                "1.5.36": {
+                    "name": "visualprospecting-1.5.36.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.36/visualprospecting-1.5.36.jar"
                 },
                 "1.5.4-pre": {
                     "name": "visualprospecting-1.5.4-pre.jar",
