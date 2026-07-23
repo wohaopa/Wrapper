@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-07-21",
+            "latest": "2.9.0-nightly-2026-07-22",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2967,6 +2967,10 @@
                 "2.9.0-nightly-2026-07-21": {
                     "name": "2.9.0-nightly-2026-07-21.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-21/2.9.0-nightly-2026-07-21.zip"
+                },
+                "2.9.0-nightly-2026-07-22": {
+                    "name": "2.9.0-nightly-2026-07-22.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-22/2.9.0-nightly-2026-07-22.zip"
                 }
             }
         }
@@ -6614,7 +6618,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1016-GTNH",
+            "latest": "rv3-beta-1017-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6693,6 +6697,10 @@
                 "rv3-beta-1016-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1016-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1016-GTNH/appliedenergistics2-rv3-beta-1016-GTNH.jar"
+                },
+                "rv3-beta-1017-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1017-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1017-GTNH/appliedenergistics2-rv3-beta-1017-GTNH.jar"
                 },
                 "rv3-beta-102-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-102-GTNH.jar",
@@ -23080,7 +23088,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.49",
+            "latest": "5.09.54.50",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33287,6 +33295,10 @@
                 "5.09.54.49": {
                     "name": "gregtech-5.09.54.49.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.49/gregtech-5.09.54.49.jar"
+                },
+                "5.09.54.50": {
+                    "name": "gregtech-5.09.54.50.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.50/gregtech-5.09.54.50.jar"
                 }
             }
         },
@@ -57301,7 +57313,7 @@
         },
         "OpenComputers": {
             "id": "com.github.GTNewHorizons:OpenComputers:<version>",
-            "latest": "1.12.50-GTNH",
+            "latest": "1.12.51-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenComputers",
             "versions": {
@@ -57688,6 +57700,10 @@
                 "1.12.50-GTNH": {
                     "name": "OpenComputers-1.12.50-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.50-GTNH/OpenComputers-1.12.50-GTNH.jar"
+                },
+                "1.12.51-GTNH": {
+                    "name": "OpenComputers-1.12.51-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.51-GTNH/OpenComputers-1.12.51-GTNH.jar"
                 },
                 "1.12.6-GTNH": {
                     "name": "OpenComputers-1.12.6-GTNH.jar",
@@ -61285,7 +61301,7 @@
         },
         "Share-Where-I-am": {
             "id": "com.github.GTNewHorizons:Share-Where-I-am:<version>",
-            "latest": "2.1.8",
+            "latest": "2.1.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Share-Where-I-am",
             "versions": {
@@ -61356,6 +61372,10 @@
                 "2.1.8": {
                     "name": "sharewhereiam-2.1.8.jar",
                     "url": "https://github.com/GTNewHorizons/Share-Where-I-am/releases/download/2.1.8/sharewhereiam-2.1.8.jar"
+                },
+                "2.1.9": {
+                    "name": "sharewhereiam-2.1.9.jar",
+                    "url": "https://github.com/GTNewHorizons/Share-Where-I-am/releases/download/2.1.9/sharewhereiam-2.1.9.jar"
                 }
             }
         },
