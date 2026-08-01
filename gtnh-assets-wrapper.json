@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-07-29-02",
+            "latest": "2.9.0-nightly-2026-07-31",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -2991,6 +2991,10 @@
                 "2.9.0-nightly-2026-07-29-02": {
                     "name": "2.9.0-nightly-2026-07-29-02.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-29-02/2.9.0-nightly-2026-07-29-02.zip"
+                },
+                "2.9.0-nightly-2026-07-31": {
+                    "name": "2.9.0-nightly-2026-07-31.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-07-31/2.9.0-nightly-2026-07-31.zip"
                 }
             }
         }
@@ -2998,7 +3002,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.98-gtnh",
+            "latest": "1.5.99-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -4885,6 +4889,10 @@
                 "1.5.98-gtnh": {
                     "name": "ae2fc-1.5.98-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.98-gtnh/ae2fc-1.5.98-gtnh.jar"
+                },
+                "1.5.99-gtnh": {
+                    "name": "ae2fc-1.5.99-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.99-gtnh/ae2fc-1.5.99-gtnh.jar"
                 }
             }
         },
@@ -12503,7 +12511,7 @@
         },
         "BetterQuesting": {
             "id": "com.github.GTNewHorizons:BetterQuesting:<version>",
-            "latest": "3.8.74-GTNH",
+            "latest": "3.8.75-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterQuesting",
             "versions": {
@@ -13290,6 +13298,10 @@
                 "3.8.74-GTNH": {
                     "name": "BetterQuesting-3.8.74-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.74-GTNH/BetterQuesting-3.8.74-GTNH.jar"
+                },
+                "3.8.75-GTNH": {
+                    "name": "BetterQuesting-3.8.75-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.75-GTNH/BetterQuesting-3.8.75-GTNH.jar"
                 },
                 "3.8.8-GTNH": {
                     "name": "BetterQuesting-3.8.8-GTNH.jar",
@@ -15651,7 +15663,7 @@
         },
         "BuildCraft": {
             "id": "com.github.GTNewHorizons:BuildCraft:<version>",
-            "latest": "7.1.62",
+            "latest": "7.1.63",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BuildCraft",
             "versions": {
@@ -15810,6 +15822,10 @@
                 "7.1.62": {
                     "name": "buildcraft-7.1.62.jar",
                     "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.62/buildcraft-7.1.62.jar"
+                },
+                "7.1.63": {
+                    "name": "buildcraft-7.1.63.jar",
+                    "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.63/buildcraft-7.1.63.jar"
                 }
             }
         },
@@ -23244,7 +23260,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.64",
+            "latest": "5.09.54.65",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33511,6 +33527,10 @@
                 "5.09.54.64": {
                     "name": "gregtech-5.09.54.64.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.64/gregtech-5.09.54.64.jar"
+                },
+                "5.09.54.65": {
+                    "name": "gregtech-5.09.54.65.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.65/gregtech-5.09.54.65.jar"
                 }
             }
         },
@@ -61993,7 +62013,7 @@
         },
         "SpecialMobs": {
             "id": "com.github.GTNewHorizons:SpecialMobs:<version>",
-            "latest": "3.7.4",
+            "latest": "3.7.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SpecialMobs",
             "versions": {
@@ -62104,6 +62124,10 @@
                 "3.7.4": {
                     "name": "SpecialMobs-3.7.4.jar",
                     "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.4/SpecialMobs-3.7.4.jar"
+                },
+                "3.7.5": {
+                    "name": "SpecialMobs-3.7.5.jar",
+                    "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.5/SpecialMobs-3.7.5.jar"
                 }
             }
         },
@@ -67085,7 +67109,7 @@
         },
         "Thaumic_Exploration": {
             "id": "com.github.GTNewHorizons:Thaumic_Exploration:<version>",
-            "latest": "1.5.25-GTNH",
+            "latest": "1.5.26-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Thaumic_Exploration",
             "versions": {
@@ -67316,6 +67340,10 @@
                 "1.5.25-GTNH": {
                     "name": "Thaumic-Exploration-1.5.25-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.25-GTNH/Thaumic-Exploration-1.5.25-GTNH.jar"
+                },
+                "1.5.26-GTNH": {
+                    "name": "Thaumic-Exploration-1.5.26-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.26-GTNH/Thaumic-Exploration-1.5.26-GTNH.jar"
                 },
                 "1.5.3-GTNH": {
                     "name": "Thaumic-Exploration-1.5.3-GTNH.jar",
@@ -70613,7 +70641,7 @@
         },
         "WirelessRedstone-CBE": {
             "id": "com.github.GTNewHorizons:WirelessRedstone-CBE:<version>",
-            "latest": "1.7.8",
+            "latest": "1.7.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE",
             "versions": {
@@ -70692,6 +70720,10 @@
                 "1.7.8": {
                     "name": "WR-CBE-1.7.8.jar",
                     "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.8/WR-CBE-1.7.8.jar"
+                },
+                "1.7.9": {
+                    "name": "WR-CBE-1.7.9.jar",
+                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.9/WR-CBE-1.7.9.jar"
                 }
             }
         },
