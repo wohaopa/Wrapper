@@ -5606,7 +5606,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.1.60",
+            "latest": "2.2.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6470,6 +6470,10 @@
                     "name": "angelica-2.1.60.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.60/angelica-2.1.60.jar"
                 },
+                "2.1.61": {
+                    "name": "angelica-2.1.61.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.61/angelica-2.1.61.jar"
+                },
                 "2.1.7": {
                     "name": "angelica-2.1.7.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.7/angelica-2.1.7.jar"
@@ -6481,6 +6485,18 @@
                 "2.1.9": {
                     "name": "angelica-2.1.9.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.9/angelica-2.1.9.jar"
+                },
+                "2.2.0": {
+                    "name": "angelica-2.2.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.0/angelica-2.2.0.jar"
+                },
+                "2.2.1": {
+                    "name": "angelica-2.2.1.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.1/angelica-2.2.1.jar"
+                },
+                "2.2.2": {
+                    "name": "angelica-2.2.2.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.2/angelica-2.2.2.jar"
                 }
             }
         },
@@ -14943,7 +14959,7 @@
         },
         "Botania": {
             "id": "com.github.GTNewHorizons:Botania:<version>",
-            "latest": "1.13.32-GTNH",
+            "latest": "1.13.33-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botania",
             "versions": {
@@ -15254,6 +15270,10 @@
                 "1.13.32-GTNH": {
                     "name": "Botania-1.13.32-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.32-GTNH/Botania-1.13.32-GTNH.jar"
+                },
+                "1.13.33-GTNH": {
+                    "name": "Botania-1.13.33-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.33-GTNH/Botania-1.13.33-GTNH.jar"
                 },
                 "1.13.4-GTNH": {
                     "name": "Botania-1.13.4-GTNH.jar",
@@ -18916,7 +18936,7 @@
         },
         "Draconic-Evolution": {
             "id": "com.github.GTNewHorizons:Draconic-Evolution:<version>",
-            "latest": "1.5.30-GTNH",
+            "latest": "1.5.31-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Draconic-Evolution",
             "versions": {
@@ -19295,6 +19315,10 @@
                 "1.5.30-GTNH": {
                     "name": "Draconic-Evolution-1.5.30-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.30-GTNH/Draconic-Evolution-1.5.30-GTNH.jar"
+                },
+                "1.5.31-GTNH": {
+                    "name": "Draconic-Evolution-1.5.31-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.31-GTNH/Draconic-Evolution-1.5.31-GTNH.jar"
                 },
                 "1.5.4-GTNH": {
                     "name": "Draconic-Evolution-1.5.4-GTNH.jar",
@@ -34864,7 +34888,7 @@
         },
         "GTNHExtLib": {
             "id": "com.github.GTNewHorizons:GTNHExtLib:<version>",
-            "latest": "1.0.3",
+            "latest": "1.0.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHExtLib",
             "versions": {
@@ -34883,12 +34907,16 @@
                 "1.0.3": {
                     "name": "gtnhextlib-1.0.3.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.3/gtnhextlib-1.0.3.jar"
+                },
+                "1.0.4": {
+                    "name": "gtnhextlib-1.0.4.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.4/gtnhextlib-1.0.4.jar"
                 }
             }
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.36",
+            "latest": "0.11.37",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -35119,6 +35147,10 @@
                 "0.11.36": {
                     "name": "gtnhlib-0.11.36.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.36/gtnhlib-0.11.36.jar"
+                },
+                "0.11.37": {
+                    "name": "gtnhlib-0.11.37.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.37/gtnhlib-0.11.37.jar"
                 },
                 "0.11.4": {
                     "name": "gtnhlib-0.11.4.jar",
@@ -40565,7 +40597,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.181",
+            "latest": "2.7.182",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -42616,6 +42648,10 @@
                 "2.7.181": {
                     "name": "hodgepodge-2.7.181.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.181/hodgepodge-2.7.181.jar"
+                },
+                "2.7.182": {
+                    "name": "hodgepodge-2.7.182.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.182/hodgepodge-2.7.182.jar"
                 },
                 "2.7.19": {
                     "name": "hodgepodge-2.7.19.jar",
