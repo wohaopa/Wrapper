@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-08-07",
+            "latest": "2.9.0-nightly-2026-08-12",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3011,6 +3011,10 @@
                 "2.9.0-nightly-2026-08-07": {
                     "name": "2.9.0-nightly-2026-08-07.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-07/2.9.0-nightly-2026-08-07.zip"
+                },
+                "2.9.0-nightly-2026-08-12": {
+                    "name": "2.9.0-nightly-2026-08-12.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-12/2.9.0-nightly-2026-08-12.zip"
                 }
             }
         }
@@ -18212,7 +18216,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.104",
+            "latest": "2.0.105",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18247,6 +18251,10 @@
                 "2.0.104": {
                     "name": "cropsnh-2.0.104.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.104/cropsnh-2.0.104.jar"
+                },
+                "2.0.105": {
+                    "name": "cropsnh-2.0.105.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.105/cropsnh-2.0.105.jar"
                 },
                 "2.0.11": {
                     "name": "cropsnh-2.0.11.jar",
@@ -23532,7 +23540,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.81",
+            "latest": "5.09.54.85",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33867,6 +33875,22 @@
                 "5.09.54.81": {
                     "name": "gregtech-5.09.54.81.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.81/gregtech-5.09.54.81.jar"
+                },
+                "5.09.54.82": {
+                    "name": "gregtech-5.09.54.82.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.82/gregtech-5.09.54.82.jar"
+                },
+                "5.09.54.83": {
+                    "name": "gregtech-5.09.54.83.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.83/gregtech-5.09.54.83.jar"
+                },
+                "5.09.54.84": {
+                    "name": "gregtech-5.09.54.84.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.84/gregtech-5.09.54.84.jar"
+                },
+                "5.09.54.85": {
+                    "name": "gregtech-5.09.54.85.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.85/gregtech-5.09.54.85.jar"
                 }
             }
         },
@@ -40745,7 +40769,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.185",
+            "latest": "2.7.187",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -42812,6 +42836,14 @@
                 "2.7.185": {
                     "name": "hodgepodge-2.7.185.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.185/hodgepodge-2.7.185.jar"
+                },
+                "2.7.186": {
+                    "name": "hodgepodge-2.7.186.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.186/hodgepodge-2.7.186.jar"
+                },
+                "2.7.187": {
+                    "name": "hodgepodge-2.7.187.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.187/hodgepodge-2.7.187.jar"
                 },
                 "2.7.19": {
                     "name": "hodgepodge-2.7.19.jar",
@@ -46317,7 +46349,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.5.34-GTNH",
+            "latest": "1.5.35-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -46836,6 +46868,10 @@
                 "1.5.34-GTNH": {
                     "name": "logisticspipes-1.5.34-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.34-GTNH/logisticspipes-1.5.34-GTNH.jar"
+                },
+                "1.5.35-GTNH": {
+                    "name": "logisticspipes-1.5.35-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.35-GTNH/logisticspipes-1.5.35-GTNH.jar"
                 },
                 "1.5.4-GTNH-pre": {
                     "name": "logisticspipes-1.5.4-GTNH-pre.jar",
@@ -47593,7 +47629,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.52-GTNH",
+            "latest": "0.1.53-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -47952,6 +47988,10 @@
                 "0.1.52-GTNH": {
                     "name": "matter-manipulator-0.1.52-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.52-GTNH/matter-manipulator-0.1.52-GTNH.jar"
+                },
+                "0.1.53-GTNH": {
+                    "name": "matter-manipulator-0.1.53-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.53-GTNH/matter-manipulator-0.1.53-GTNH.jar"
                 },
                 "0.1.6-GTNH": {
                     "name": "matter-manipulator-0.1.6-GTNH.jar",
@@ -50677,7 +50717,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.35",
+            "latest": "2.9.38",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -55421,6 +55461,18 @@
                     "name": "GTNewHorizonsCoreMod-2.9.35.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.35/GTNewHorizonsCoreMod-2.9.35.jar"
                 },
+                "2.9.36": {
+                    "name": "GTNewHorizonsCoreMod-2.9.36.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.36/GTNewHorizonsCoreMod-2.9.36.jar"
+                },
+                "2.9.37": {
+                    "name": "GTNewHorizonsCoreMod-2.9.37.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.37/GTNewHorizonsCoreMod-2.9.37.jar"
+                },
+                "2.9.38": {
+                    "name": "GTNewHorizonsCoreMod-2.9.38.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.38/GTNewHorizonsCoreMod-2.9.38.jar"
+                },
                 "2.9.4": {
                     "name": "GTNewHorizonsCoreMod-2.9.4.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.4/GTNewHorizonsCoreMod-2.9.4.jar"
@@ -59285,7 +59337,7 @@
         },
         "Opis": {
             "id": "com.github.GTNewHorizons:Opis:<version>",
-            "latest": "1.4.11-mapless",
+            "latest": "1.4.12-mapless",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Opis",
             "versions": {
@@ -59336,6 +59388,10 @@
                 "1.4.11-mapless": {
                     "name": "Opis-1.4.11-mapless.jar",
                     "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.11-mapless/Opis-1.4.11-mapless.jar"
+                },
+                "1.4.12-mapless": {
+                    "name": "Opis-1.4.12-mapless.jar",
+                    "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.12-mapless/Opis-1.4.12-mapless.jar"
                 },
                 "1.4.2-mapless": {
                     "name": "Opis-1.4.2-mapless.jar",
@@ -70257,7 +70313,7 @@
         },
         "VisualProspecting": {
             "id": "com.github.GTNewHorizons:VisualProspecting:<version>",
-            "latest": "1.5.38",
+            "latest": "1.5.39",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VisualProspecting",
             "versions": {
@@ -70708,6 +70764,10 @@
                 "1.5.38": {
                     "name": "visualprospecting-1.5.38.jar",
                     "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.38/visualprospecting-1.5.38.jar"
+                },
+                "1.5.39": {
+                    "name": "visualprospecting-1.5.39.jar",
+                    "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.39/visualprospecting-1.5.39.jar"
                 },
                 "1.5.4-pre": {
                     "name": "visualprospecting-1.5.4-pre.jar",
@@ -71313,7 +71373,7 @@
         },
         "WirelessRedstone-CBE": {
             "id": "com.github.GTNewHorizons:WirelessRedstone-CBE:<version>",
-            "latest": "1.7.11",
+            "latest": "1.7.12",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE",
             "versions": {
@@ -71372,6 +71432,10 @@
                 "1.7.11": {
                     "name": "WR-CBE-1.7.11.jar",
                     "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.11/WR-CBE-1.7.11.jar"
+                },
+                "1.7.12": {
+                    "name": "WR-CBE-1.7.12.jar",
+                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.12/WR-CBE-1.7.12.jar"
                 },
                 "1.7.2": {
                     "name": "WR-CBE-1.7.2.jar",
