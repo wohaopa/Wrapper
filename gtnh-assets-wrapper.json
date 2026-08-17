@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-08-12",
+            "latest": "2.9.0-nightly-2026-08-16",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3015,6 +3015,10 @@
                 "2.9.0-nightly-2026-08-12": {
                     "name": "2.9.0-nightly-2026-08-12.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-12/2.9.0-nightly-2026-08-12.zip"
+                },
+                "2.9.0-nightly-2026-08-16": {
+                    "name": "2.9.0-nightly-2026-08-16.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-16/2.9.0-nightly-2026-08-16.zip"
                 }
             }
         }
@@ -5618,7 +5622,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.4",
+            "latest": "2.2.6",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6517,6 +6521,14 @@
                 "2.2.4": {
                     "name": "angelica-2.2.4.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.4/angelica-2.2.4.jar"
+                },
+                "2.2.5": {
+                    "name": "angelica-2.2.5.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.5/angelica-2.2.5.jar"
+                },
+                "2.2.6": {
+                    "name": "angelica-2.2.6.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.6/angelica-2.2.6.jar"
                 }
             }
         },
@@ -18240,7 +18252,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.109",
+            "latest": "2.0.110",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18299,6 +18311,10 @@
                 "2.0.11": {
                     "name": "cropsnh-2.0.11.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.11/cropsnh-2.0.11.jar"
+                },
+                "2.0.110": {
+                    "name": "cropsnh-2.0.110.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.110/cropsnh-2.0.110.jar"
                 },
                 "2.0.12": {
                     "name": "cropsnh-2.0.12.jar",
@@ -21464,7 +21480,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.53-GTNH",
+            "latest": "2.6.54-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -21763,6 +21779,10 @@
                 "2.6.53-GTNH": {
                     "name": "etfuturum-2.6.53-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.53-GTNH/etfuturum-2.6.53-GTNH.jar"
+                },
+                "2.6.54-GTNH": {
+                    "name": "etfuturum-2.6.54-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.54-GTNH/etfuturum-2.6.54-GTNH.jar"
                 },
                 "2.6.6-GTNH": {
                     "name": "etfuturum-2.6.6-GTNH.jar",
@@ -43745,7 +43765,7 @@
         },
         "IFU": {
             "id": "com.github.GTNewHorizons:IFU:<version>",
-            "latest": "1.12.3",
+            "latest": "1.12.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/IFU",
             "versions": {
@@ -43816,6 +43836,10 @@
                 "1.12.3": {
                     "name": "ifu-1.12.3.jar",
                     "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.3/ifu-1.12.3.jar"
+                },
+                "1.12.4": {
+                    "name": "ifu-1.12.4.jar",
+                    "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.4/ifu-1.12.4.jar"
                 },
                 "1.3": {
                     "name": "IFU-1.3.jar",
@@ -59973,7 +59997,7 @@
         },
         "ProjectRed": {
             "id": "com.github.GTNewHorizons:ProjectRed:<version>",
-            "latest": "4.12.41-GTNH",
+            "latest": "4.12.43-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ProjectRed",
             "versions": {
@@ -60200,6 +60224,14 @@
                 "4.12.41-GTNH": {
                     "name": "ProjRed-4.12.41-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.41-GTNH/ProjRed-4.12.41-GTNH.jar"
+                },
+                "4.12.42-GTNH": {
+                    "name": "ProjRed-4.12.42-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.42-GTNH/ProjRed-4.12.42-GTNH.jar"
+                },
+                "4.12.43-GTNH": {
+                    "name": "ProjRed-4.12.43-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.43-GTNH/ProjRed-4.12.43-GTNH.jar"
                 },
                 "4.12.5-GTNH": {
                     "name": "ProjRed-4.12.5-GTNH.jar",
@@ -67565,7 +67597,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.29",
+            "latest": "2.12.30",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -67780,6 +67812,10 @@
                 "2.12.3-pre": {
                     "name": "ThaumicTinkerer-2.12.3-pre.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.3-pre/ThaumicTinkerer-2.12.3-pre.jar"
+                },
+                "2.12.30": {
+                    "name": "ThaumicTinkerer-2.12.30.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.30/ThaumicTinkerer-2.12.30.jar"
                 },
                 "2.12.4": {
                     "name": "ThaumicTinkerer-2.12.4.jar",
@@ -68345,7 +68381,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.98-GTNH",
+            "latest": "1.14.99-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -69160,6 +69196,10 @@
                 "1.14.98-GTNH": {
                     "name": "TConstruct-1.14.98-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.98-GTNH/TConstruct-1.14.98-GTNH.jar"
+                },
+                "1.14.99-GTNH": {
+                    "name": "TConstruct-1.14.99-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.99-GTNH/TConstruct-1.14.99-GTNH.jar"
                 },
                 "1.8.9.1-GTNH": {
                     "name": "TConstruct-1.7.10-1.8.9.1-GTNH.jar",
