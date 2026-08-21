@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-08-19",
+            "latest": "2.9.0-nightly-2026-08-19-2",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3031,6 +3031,10 @@
                 "2.9.0-nightly-2026-08-19": {
                     "name": "2.9.0-nightly-2026-08-19.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-19/2.9.0-nightly-2026-08-19.zip"
+                },
+                "2.9.0-nightly-2026-08-19-2": {
+                    "name": "2.9.0-nightly-2026-08-19-2.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-19-2/2.9.0-nightly-2026-08-19-2.zip"
                 }
             }
         }
@@ -5650,7 +5654,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.7",
+            "latest": "2.2.8",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6561,6 +6565,10 @@
                 "2.2.7": {
                     "name": "angelica-2.2.7.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.7/angelica-2.2.7.jar"
+                },
+                "2.2.8": {
+                    "name": "angelica-2.2.8.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.8/angelica-2.2.8.jar"
                 }
             }
         },
@@ -6778,7 +6786,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1034-GTNH",
+            "latest": "rv3-beta-1035-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -6937,6 +6945,10 @@
                 "rv3-beta-1034-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1034-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1034-GTNH/appliedenergistics2-rv3-beta-1034-GTNH.jar"
+                },
+                "rv3-beta-1035-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1035-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1035-GTNH/appliedenergistics2-rv3-beta-1035-GTNH.jar"
                 },
                 "rv3-beta-104-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-104-GTNH.jar",
@@ -13571,7 +13583,7 @@
         },
         "Binnie": {
             "id": "com.github.GTNewHorizons:Binnie:<version>",
-            "latest": "2.6.43",
+            "latest": "2.6.44",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Binnie",
             "versions": {
@@ -14038,6 +14050,10 @@
                 "2.6.43": {
                     "name": "binnie-mods-2.6.43.jar",
                     "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.43/binnie-mods-2.6.43.jar"
+                },
+                "2.6.44": {
+                    "name": "binnie-mods-2.6.44.jar",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.44/binnie-mods-2.6.44.jar"
                 },
                 "2.6.5-pre": {
                     "name": "binnie-mods-2.6.5-pre.jar",
@@ -23672,7 +23688,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.98",
+            "latest": "5.09.54.99",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34075,6 +34091,10 @@
                 "5.09.54.98": {
                     "name": "gregtech-5.09.54.98.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.98/gregtech-5.09.54.98.jar"
+                },
+                "5.09.54.99": {
+                    "name": "gregtech-5.09.54.99.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.99/gregtech-5.09.54.99.jar"
                 }
             }
         },
@@ -35248,7 +35268,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.40",
+            "latest": "0.11.41",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -35499,6 +35519,10 @@
                 "0.11.40": {
                     "name": "gtnhlib-0.11.40.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.40/gtnhlib-0.11.40.jar"
+                },
+                "0.11.41": {
+                    "name": "gtnhlib-0.11.41.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.41/gtnhlib-0.11.41.jar"
                 },
                 "0.11.5": {
                     "name": "gtnhlib-0.11.5.jar",
@@ -68537,7 +68561,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.101-GTNH",
+            "latest": "1.14.102-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -68992,6 +69016,10 @@
                 "1.14.101-GTNH": {
                     "name": "TConstruct-1.14.101-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.101-GTNH/TConstruct-1.14.101-GTNH.jar"
+                },
+                "1.14.102-GTNH": {
+                    "name": "TConstruct-1.14.102-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.102-GTNH/TConstruct-1.14.102-GTNH.jar"
                 },
                 "1.14.11-GTNH-pre": {
                     "name": "TConstruct-1.14.11-GTNH-pre.jar",
