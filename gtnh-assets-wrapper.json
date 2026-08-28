@@ -19736,7 +19736,7 @@
         },
         "DuraDisplay": {
             "id": "com.github.GTNewHorizons:DuraDisplay:<version>",
-            "latest": "1.4.4",
+            "latest": "1.4.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/DuraDisplay",
             "versions": {
@@ -19863,6 +19863,10 @@
                 "1.4.4": {
                     "name": "duradisplay-1.4.4.jar",
                     "url": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.4/duradisplay-1.4.4.jar"
+                },
+                "1.4.5": {
+                    "name": "duradisplay-1.4.5.jar",
+                    "url": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.5/duradisplay-1.4.5.jar"
                 }
             }
         },
@@ -21700,7 +21704,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.56-GTNH",
+            "latest": "2.6.57-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -22011,6 +22015,10 @@
                 "2.6.56-GTNH": {
                     "name": "etfuturum-2.6.56-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.56-GTNH/etfuturum-2.6.56-GTNH.jar"
+                },
+                "2.6.57-GTNH": {
+                    "name": "etfuturum-2.6.57-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.57-GTNH/etfuturum-2.6.57-GTNH.jar"
                 },
                 "2.6.6-GTNH": {
                     "name": "etfuturum-2.6.6-GTNH.jar",
@@ -23848,7 +23856,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.112",
+            "latest": "5.09.54.114",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33955,6 +33963,14 @@
                 "5.09.54.112": {
                     "name": "gregtech-5.09.54.112.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.112/gregtech-5.09.54.112.jar"
+                },
+                "5.09.54.113": {
+                    "name": "gregtech-5.09.54.113.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.113/gregtech-5.09.54.113.jar"
+                },
+                "5.09.54.114": {
+                    "name": "gregtech-5.09.54.114.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.114/gregtech-5.09.54.114.jar"
                 },
                 "5.09.54.12": {
                     "name": "gregtech-5.09.54.12.jar",
@@ -51245,7 +51261,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.52",
+            "latest": "2.9.53",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -56064,6 +56080,10 @@
                 "2.9.52": {
                     "name": "GTNewHorizonsCoreMod-2.9.52.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.52/GTNewHorizonsCoreMod-2.9.52.jar"
+                },
+                "2.9.53": {
+                    "name": "GTNewHorizonsCoreMod-2.9.53.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.53/GTNewHorizonsCoreMod-2.9.53.jar"
                 },
                 "2.9.6": {
                     "name": "GTNewHorizonsCoreMod-2.9.6.jar",
