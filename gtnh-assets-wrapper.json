@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-08-28",
+            "latest": "2.9.0-nightly-2026-08-29",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3067,6 +3067,10 @@
                 "2.9.0-nightly-2026-08-28": {
                     "name": "2.9.0-nightly-2026-08-28.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-28/2.9.0-nightly-2026-08-28.zip"
+                },
+                "2.9.0-nightly-2026-08-29": {
+                    "name": "2.9.0-nightly-2026-08-29.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-08-29/2.9.0-nightly-2026-08-29.zip"
                 }
             }
         }
@@ -6834,7 +6838,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1043-GTNH",
+            "latest": "rv3-beta-1044-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7033,6 +7037,10 @@
                 "rv3-beta-1043-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1043-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1043-GTNH/appliedenergistics2-rv3-beta-1043-GTNH.jar"
+                },
+                "rv3-beta-1044-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1044-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1044-GTNH/appliedenergistics2-rv3-beta-1044-GTNH.jar"
                 },
                 "rv3-beta-105-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-105-GTNH.jar",
@@ -23868,7 +23876,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.115",
+            "latest": "5.09.54.117",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -33987,6 +33995,14 @@
                 "5.09.54.115": {
                     "name": "gregtech-5.09.54.115.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.115/gregtech-5.09.54.115.jar"
+                },
+                "5.09.54.116": {
+                    "name": "gregtech-5.09.54.116.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.116/gregtech-5.09.54.116.jar"
+                },
+                "5.09.54.117": {
+                    "name": "gregtech-5.09.54.117.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.117/gregtech-5.09.54.117.jar"
                 },
                 "5.09.54.12": {
                     "name": "gregtech-5.09.54.12.jar",
@@ -63997,7 +64013,7 @@
         },
         "StorageDrawers": {
             "id": "com.github.GTNewHorizons:StorageDrawers:<version>",
-            "latest": "2.2.28-GTNH",
+            "latest": "2.2.29-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/StorageDrawers",
             "versions": {
@@ -64284,6 +64300,10 @@
                 "2.2.28-GTNH": {
                     "name": "StorageDrawers-2.2.28-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.28-GTNH/StorageDrawers-2.2.28-GTNH.jar"
+                },
+                "2.2.29-GTNH": {
+                    "name": "StorageDrawers-2.2.29-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.29-GTNH/StorageDrawers-2.2.29-GTNH.jar"
                 },
                 "2.2.3-GTNH": {
                     "name": "StorageDrawers-2.2.3-GTNH.jar",
@@ -68177,7 +68197,7 @@
         },
         "ThaumicTinkerer": {
             "id": "com.github.GTNewHorizons:ThaumicTinkerer:<version>",
-            "latest": "2.12.30",
+            "latest": "2.12.31",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicTinkerer",
             "versions": {
@@ -68396,6 +68416,10 @@
                 "2.12.30": {
                     "name": "ThaumicTinkerer-2.12.30.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.30/ThaumicTinkerer-2.12.30.jar"
+                },
+                "2.12.31": {
+                    "name": "ThaumicTinkerer-2.12.31.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.31/ThaumicTinkerer-2.12.31.jar"
                 },
                 "2.12.4": {
                     "name": "ThaumicTinkerer-2.12.4.jar",
@@ -72429,7 +72453,7 @@
         },
         "WitchingGadgets": {
             "id": "com.github.GTNewHorizons:WitchingGadgets:<version>",
-            "latest": "1.8.50-GTNH",
+            "latest": "1.8.51-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/WitchingGadgets",
             "versions": {
@@ -72964,6 +72988,10 @@
                 "1.8.50-GTNH": {
                     "name": "WitchingGadgets-1.8.50-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.8.50-GTNH/WitchingGadgets-1.8.50-GTNH.jar"
+                },
+                "1.8.51-GTNH": {
+                    "name": "WitchingGadgets-1.8.51-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.8.51-GTNH/WitchingGadgets-1.8.51-GTNH.jar"
                 },
                 "1.8.6-GTNH": {
                     "name": "WitchingGadgets-1.8.6-GTNH.jar",
