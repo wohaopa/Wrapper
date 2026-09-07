@@ -5758,7 +5758,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.10",
+            "latest": "2.2.11",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6650,6 +6650,10 @@
                     "name": "angelica-2.2.10.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.10/angelica-2.2.10.jar"
                 },
+                "2.2.11": {
+                    "name": "angelica-2.2.11.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.11/angelica-2.2.11.jar"
+                },
                 "2.2.2": {
                     "name": "angelica-2.2.2.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.2/angelica-2.2.2.jar"
@@ -6902,7 +6906,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1050-GTNH",
+            "latest": "rv3-beta-1051-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7133,6 +7137,10 @@
                 "rv3-beta-1050-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1050-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1050-GTNH/appliedenergistics2-rv3-beta-1050-GTNH.jar"
+                },
+                "rv3-beta-1051-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1051-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1051-GTNH/appliedenergistics2-rv3-beta-1051-GTNH.jar"
                 },
                 "rv3-beta-106-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-106-GTNH.jar",
@@ -24052,7 +24060,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.133",
+            "latest": "5.09.54.134",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34252,6 +34260,10 @@
                     "name": "gregtech-5.09.54.133.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.133/gregtech-5.09.54.133.jar"
                 },
+                "5.09.54.134": {
+                    "name": "gregtech-5.09.54.134.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.134/gregtech-5.09.54.134.jar"
+                },
                 "5.09.54.14": {
                     "name": "gregtech-5.09.54.14.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.14/gregtech-5.09.54.14.jar"
@@ -41565,7 +41577,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.7.196",
+            "latest": "2.7.197",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -43680,6 +43692,10 @@
                 "2.7.196": {
                     "name": "hodgepodge-2.7.196.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.196/hodgepodge-2.7.196.jar"
+                },
+                "2.7.197": {
+                    "name": "hodgepodge-2.7.197.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.197/hodgepodge-2.7.197.jar"
                 },
                 "2.7.2": {
                     "name": "hodgepodge-2.7.2.jar",
@@ -74546,7 +74562,7 @@
         },
         "lwjgl3ify": {
             "id": "com.github.GTNewHorizons:lwjgl3ify:<version>",
-            "latest": "3.0.31",
+            "latest": "3.0.32",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/lwjgl3ify",
             "versions": {
@@ -75189,6 +75205,10 @@
                 "3.0.31": {
                     "name": "lwjgl3ify-3.0.31.jar",
                     "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.31/lwjgl3ify-3.0.31.jar"
+                },
+                "3.0.32": {
+                    "name": "lwjgl3ify-3.0.32.jar",
+                    "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.32/lwjgl3ify-3.0.32.jar"
                 },
                 "3.0.4": {
                     "name": "lwjgl3ify-3.0.4.jar",
