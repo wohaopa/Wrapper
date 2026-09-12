@@ -6930,7 +6930,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1056-GTNH",
+            "latest": "rv3-beta-1057-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7185,6 +7185,10 @@
                 "rv3-beta-1056-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1056-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1056-GTNH/appliedenergistics2-rv3-beta-1056-GTNH.jar"
+                },
+                "rv3-beta-1057-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1057-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1057-GTNH/appliedenergistics2-rv3-beta-1057-GTNH.jar"
                 },
                 "rv3-beta-106-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-106-GTNH.jar",
@@ -12103,7 +12107,7 @@
         },
         "Baubles-Expanded": {
             "id": "com.github.GTNewHorizons:Baubles-Expanded:<version>",
-            "latest": "2.2.22-GTNH",
+            "latest": "2.2.23-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Baubles-Expanded",
             "versions": {
@@ -12246,6 +12250,10 @@
                 "2.2.22-GTNH": {
                     "name": "BaublesExpanded-2.2.22-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.22-GTNH/BaublesExpanded-2.2.22-GTNH.jar"
+                },
+                "2.2.23-GTNH": {
+                    "name": "BaublesExpanded-2.2.23-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.23-GTNH/BaublesExpanded-2.2.23-GTNH.jar"
                 },
                 "2.2.3-GTNH-pre": {
                     "name": "BaublesExpanded-2.2.3-GTNH-pre.jar",
@@ -15451,7 +15459,7 @@
         },
         "Botania": {
             "id": "com.github.GTNewHorizons:Botania:<version>",
-            "latest": "1.13.34-GTNH",
+            "latest": "1.13.36-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Botania",
             "versions": {
@@ -15770,6 +15778,14 @@
                 "1.13.34-GTNH": {
                     "name": "Botania-1.13.34-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.34-GTNH/Botania-1.13.34-GTNH.jar"
+                },
+                "1.13.35-GTNH": {
+                    "name": "Botania-1.13.35-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.35-GTNH/Botania-1.13.35-GTNH.jar"
+                },
+                "1.13.36-GTNH": {
+                    "name": "Botania-1.13.36-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.36-GTNH/Botania-1.13.36-GTNH.jar"
                 },
                 "1.13.4-GTNH": {
                     "name": "Botania-1.13.4-GTNH.jar",
@@ -17088,7 +17104,7 @@
         },
         "ChromaticTooltips": {
             "id": "com.github.GTNewHorizons:ChromaticTooltips:<version>",
-            "latest": "1.0.35-GTNH",
+            "latest": "1.0.36-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ChromaticTooltips",
             "versions": {
@@ -17167,12 +17183,16 @@
                 "1.0.35-GTNH": {
                     "name": "chromatictooltips-1.0.35-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.35-GTNH/chromatictooltips-1.0.35-GTNH.jar"
+                },
+                "1.0.36-GTNH": {
+                    "name": "chromatictooltips-1.0.36-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.36-GTNH/chromatictooltips-1.0.36-GTNH.jar"
                 }
             }
         },
         "ChromaticTooltipsCompat": {
             "id": "com.github.GTNewHorizons:ChromaticTooltipsCompat:<version>",
-            "latest": "1.0.37-GTNH",
+            "latest": "1.0.38-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ChromaticTooltipsCompat",
             "versions": {
@@ -17235,6 +17255,10 @@
                 "1.0.37-GTNH": {
                     "name": "chromatictooltipscompat-1.0.37-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ChromaticTooltipsCompat/releases/download/1.0.37-GTNH/chromatictooltipscompat-1.0.37-GTNH.jar"
+                },
+                "1.0.38-GTNH": {
+                    "name": "chromatictooltipscompat-1.0.38-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ChromaticTooltipsCompat/releases/download/1.0.38-GTNH/chromatictooltipscompat-1.0.38-GTNH.jar"
                 }
             }
         },
@@ -24152,7 +24176,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.142",
+            "latest": "5.09.54.148",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34392,6 +34416,30 @@
                     "name": "gregtech-5.09.54.142.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.142/gregtech-5.09.54.142.jar"
                 },
+                "5.09.54.143": {
+                    "name": "gregtech-5.09.54.143.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.143/gregtech-5.09.54.143.jar"
+                },
+                "5.09.54.144": {
+                    "name": "gregtech-5.09.54.144.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.144/gregtech-5.09.54.144.jar"
+                },
+                "5.09.54.145": {
+                    "name": "gregtech-5.09.54.145.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.145/gregtech-5.09.54.145.jar"
+                },
+                "5.09.54.146": {
+                    "name": "gregtech-5.09.54.146.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.146/gregtech-5.09.54.146.jar"
+                },
+                "5.09.54.147": {
+                    "name": "gregtech-5.09.54.147.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.147/gregtech-5.09.54.147.jar"
+                },
+                "5.09.54.148": {
+                    "name": "gregtech-5.09.54.148.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.148/gregtech-5.09.54.148.jar"
+                },
                 "5.09.54.15": {
                     "name": "gregtech-5.09.54.15.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.15/gregtech-5.09.54.15.jar"
@@ -35908,7 +35956,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.11.47",
+            "latest": "0.11.48",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -36187,6 +36235,10 @@
                 "0.11.47": {
                     "name": "gtnhlib-0.11.47.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.47/gtnhlib-0.11.47.jar"
+                },
+                "0.11.48": {
+                    "name": "gtnhlib-0.11.48.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.48/gtnhlib-0.11.48.jar"
                 },
                 "0.11.5": {
                     "name": "gtnhlib-0.11.5.jar",
@@ -39300,7 +39352,7 @@
         },
         "Galacticraft": {
             "id": "com.github.GTNewHorizons:Galacticraft:<version>",
-            "latest": "3.4.33-GTNH",
+            "latest": "3.4.34-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galacticraft",
             "versions": {
@@ -39719,6 +39771,10 @@
                 "3.4.33-GTNH": {
                     "name": "Galacticraft-3.4.33-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.4.33-GTNH/Galacticraft-3.4.33-GTNH.jar"
+                },
+                "3.4.34-GTNH": {
+                    "name": "Galacticraft-3.4.34-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.4.34-GTNH/Galacticraft-3.4.34-GTNH.jar"
                 },
                 "3.4.4-GTNH": {
                     "name": "Galacticraft-3.4.4-GTNH.jar",
@@ -47413,7 +47469,7 @@
         },
         "LogisticsPipes": {
             "id": "com.github.GTNewHorizons:LogisticsPipes:<version>",
-            "latest": "1.5.35-GTNH",
+            "latest": "1.5.36-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LogisticsPipes",
             "versions": {
@@ -47936,6 +47992,10 @@
                 "1.5.35-GTNH": {
                     "name": "logisticspipes-1.5.35-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.35-GTNH/logisticspipes-1.5.35-GTNH.jar"
+                },
+                "1.5.36-GTNH": {
+                    "name": "logisticspipes-1.5.36-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.36-GTNH/logisticspipes-1.5.36-GTNH.jar"
                 },
                 "1.5.4-GTNH-pre": {
                     "name": "logisticspipes-1.5.4-GTNH-pre.jar",
@@ -51049,7 +51109,7 @@
         },
         "MouseTweaks": {
             "id": "com.github.GTNewHorizons:MouseTweaks:<version>",
-            "latest": "2.5.2-GTNH",
+            "latest": "2.5.3-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MouseTweaks",
             "versions": {
@@ -51124,6 +51184,10 @@
                 "2.5.2-GTNH": {
                     "name": "MouseTweaks-2.5.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.5.2-GTNH/MouseTweaks-2.5.2-GTNH.jar"
+                },
+                "2.5.3-GTNH": {
+                    "name": "MouseTweaks-2.5.3-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.5.3-GTNH/MouseTweaks-2.5.3-GTNH.jar"
                 }
             }
         },
@@ -51825,7 +51889,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.61",
+            "latest": "2.9.62",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -56685,6 +56749,10 @@
                     "name": "GTNewHorizonsCoreMod-2.9.61.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.61/GTNewHorizonsCoreMod-2.9.61.jar"
                 },
+                "2.9.62": {
+                    "name": "GTNewHorizonsCoreMod-2.9.62.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.62/GTNewHorizonsCoreMod-2.9.62.jar"
+                },
                 "2.9.7": {
                     "name": "GTNewHorizonsCoreMod-2.9.7.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.7/GTNewHorizonsCoreMod-2.9.7.jar"
@@ -57229,7 +57297,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.135-GTNH",
+            "latest": "2.8.137-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -58760,6 +58828,14 @@
                 "2.8.135-GTNH": {
                     "name": "NotEnoughItems-2.8.135-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.135-GTNH/NotEnoughItems-2.8.135-GTNH.jar"
+                },
+                "2.8.136-GTNH": {
+                    "name": "NotEnoughItems-2.8.136-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.136-GTNH/NotEnoughItems-2.8.136-GTNH.jar"
+                },
+                "2.8.137-GTNH": {
+                    "name": "NotEnoughItems-2.8.137-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.137-GTNH/NotEnoughItems-2.8.137-GTNH.jar"
                 },
                 "2.8.14-GTNH": {
                     "name": "NotEnoughItems-2.8.14-GTNH.jar",
@@ -63033,7 +63109,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.4.9",
+            "latest": "2.4.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -63848,6 +63924,10 @@
                 "2.4.1": {
                     "name": "ServerUtilities-2.4.1.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.1/ServerUtilities-2.4.1.jar"
+                },
+                "2.4.10": {
+                    "name": "ServerUtilities-2.4.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.10/ServerUtilities-2.4.10.jar"
                 },
                 "2.4.2": {
                     "name": "ServerUtilities-2.4.2.jar",
@@ -69657,7 +69737,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.110-GTNH",
+            "latest": "1.14.111-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -70152,6 +70232,10 @@
                 "1.14.110-GTNH": {
                     "name": "TConstruct-1.14.110-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.110-GTNH/TConstruct-1.14.110-GTNH.jar"
+                },
+                "1.14.111-GTNH": {
+                    "name": "TConstruct-1.14.111-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.111-GTNH/TConstruct-1.14.111-GTNH.jar"
                 },
                 "1.14.12-GTNH": {
                     "name": "TConstruct-1.14.12-GTNH.jar",
@@ -74425,7 +74509,7 @@
         },
         "harvestcraft": {
             "id": "com.github.GTNewHorizons:harvestcraft:<version>",
-            "latest": "1.3.14-GTNH",
+            "latest": "1.3.15-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/harvestcraft",
@@ -74541,6 +74625,10 @@
                 "1.3.14-GTNH": {
                     "name": "harvestcraft-1.3.14-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/harvestcraft/releases/download/1.3.14-GTNH/harvestcraft-1.3.14-GTNH.jar"
+                },
+                "1.3.15-GTNH": {
+                    "name": "harvestcraft-1.3.15-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/harvestcraft/releases/download/1.3.15-GTNH/harvestcraft-1.3.15-GTNH.jar"
                 },
                 "1.3.2-GTNH": {
                     "name": "harvestcraft-1.3.2-GTNH.jar",
