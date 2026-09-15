@@ -3138,7 +3138,7 @@
     "mods": {
         "AE2FluidCraft-Rework": {
             "id": "com.github.GTNewHorizons:AE2FluidCraft-Rework:<version>",
-            "latest": "1.5.108-gtnh",
+            "latest": "1.5.109-gtnh",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework",
             "versions": {
@@ -4685,6 +4685,10 @@
                 "1.5.108-gtnh": {
                     "name": "ae2fc-1.5.108-gtnh.jar",
                     "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.108-gtnh/ae2fc-1.5.108-gtnh.jar"
+                },
+                "1.5.109-gtnh": {
+                    "name": "ae2fc-1.5.109-gtnh.jar",
+                    "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.109-gtnh/ae2fc-1.5.109-gtnh.jar"
                 },
                 "1.5.11-gtnh": {
                     "name": "ae2fc-1.5.11-gtnh.jar",
@@ -6942,7 +6946,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1060-GTNH",
+            "latest": "rv3-beta-1061-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7217,6 +7221,10 @@
                 "rv3-beta-1060-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1060-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1060-GTNH/appliedenergistics2-rv3-beta-1060-GTNH.jar"
+                },
+                "rv3-beta-1061-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1061-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1061-GTNH/appliedenergistics2-rv3-beta-1061-GTNH.jar"
                 },
                 "rv3-beta-107-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-107-GTNH.jar",
@@ -17340,7 +17348,7 @@
         },
         "CodeChickenCore": {
             "id": "com.github.GTNewHorizons:CodeChickenCore:<version>",
-            "latest": "1.4.19",
+            "latest": "1.4.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CodeChickenCore",
             "versions": {
@@ -17503,6 +17511,10 @@
                 "1.4.2": {
                     "name": "CodeChickenCore-1.4.2.jar",
                     "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.2/CodeChickenCore-1.4.2.jar"
+                },
+                "1.4.20": {
+                    "name": "CodeChickenCore-1.4.20.jar",
+                    "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.20/CodeChickenCore-1.4.20.jar"
                 },
                 "1.4.3": {
                     "name": "CodeChickenCore-1.4.3.jar",
@@ -18748,7 +18760,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.118",
+            "latest": "2.0.119",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18843,6 +18855,10 @@
                 "2.0.118": {
                     "name": "cropsnh-2.0.118.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.118/cropsnh-2.0.118.jar"
+                },
+                "2.0.119": {
+                    "name": "cropsnh-2.0.119.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.119/cropsnh-2.0.119.jar"
                 },
                 "2.0.12": {
                     "name": "cropsnh-2.0.12.jar",
@@ -24224,7 +24240,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.152",
+            "latest": "5.09.54.154",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34508,6 +34524,14 @@
                     "name": "gregtech-5.09.54.152.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.152/gregtech-5.09.54.152.jar"
                 },
+                "5.09.54.153": {
+                    "name": "gregtech-5.09.54.153.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.153/gregtech-5.09.54.153.jar"
+                },
+                "5.09.54.154": {
+                    "name": "gregtech-5.09.54.154.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.154/gregtech-5.09.54.154.jar"
+                },
                 "5.09.54.16": {
                     "name": "gregtech-5.09.54.16.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.16/gregtech-5.09.54.16.jar"
@@ -41473,7 +41497,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.31",
+            "latest": "1.3.32",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -41568,6 +41592,10 @@
                 "1.3.31": {
                     "name": "guidenh-1.3.31.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.31/guidenh-1.3.31.jar"
+                },
+                "1.3.32": {
+                    "name": "guidenh-1.3.32.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.32/guidenh-1.3.32.jar"
                 },
                 "1.3.4": {
                     "name": "guidenh-1.3.4.jar",
@@ -46483,6 +46511,18 @@
                 }
             }
         },
+        "Journeymap-Github": {
+            "id": "com.github.TeamJM:journeymap-legacy:<version>",
+            "latest": "5.2.22",
+            "src": "github",
+            "url": "https://github.com/TeamJM/journeymap-legacy/",
+            "versions": {
+                "5.2.22": {
+                    "name": "journeymap-1.7.10-1.7.10-5.2.22-fairplay.jar",
+                    "url": "https://github.com/GTNewHorizons/journeymap-legacy/releases/download/1.7.10-5.2.22/journeymap-1.7.10-1.7.10-5.2.22-fairplay.jar"
+                }
+            }
+        },
         "KekzTech": {
             "id": "com.github.GTNewHorizons:KekzTech:<version>",
             "latest": "0.11.4",
@@ -50609,7 +50649,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.89-1.7.10",
+            "latest": "2.3.90-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -51168,6 +51208,10 @@
                 "2.3.9-1.7.10": {
                     "name": "modularui2-2.3.9-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.9-1.7.10/modularui2-2.3.9-1.7.10.jar"
+                },
+                "2.3.90-1.7.10": {
+                    "name": "modularui2-2.3.90-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.90-1.7.10/modularui2-2.3.90-1.7.10.jar"
                 }
             }
         },
@@ -57397,7 +57441,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.139-GTNH",
+            "latest": "2.8.140-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -58948,6 +58992,10 @@
                 "2.8.14-GTNH": {
                     "name": "NotEnoughItems-2.8.14-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.14-GTNH/NotEnoughItems-2.8.14-GTNH.jar"
+                },
+                "2.8.140-GTNH": {
+                    "name": "NotEnoughItems-2.8.140-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.140-GTNH/NotEnoughItems-2.8.140-GTNH.jar"
                 },
                 "2.8.15-GTNH": {
                     "name": "NotEnoughItems-2.8.15-GTNH.jar",
@@ -62221,7 +62269,7 @@
         },
         "Random-Things": {
             "id": "com.github.GTNewHorizons:Random-Things:<version>",
-            "latest": "2.7.9",
+            "latest": "2.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Random-Things",
             "versions": {
@@ -62304,6 +62352,10 @@
                 "2.7.1": {
                     "name": "RandomThings-2.7.1.jar",
                     "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.1/RandomThings-2.7.1.jar"
+                },
+                "2.7.10": {
+                    "name": "RandomThings-2.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.10/RandomThings-2.7.10.jar"
                 },
                 "2.7.2-pre": {
                     "name": "RandomThings-2.7.2-pre.jar",
@@ -64253,7 +64305,7 @@
         },
         "SpecialMobs": {
             "id": "com.github.GTNewHorizons:SpecialMobs:<version>",
-            "latest": "3.7.6",
+            "latest": "3.7.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SpecialMobs",
             "versions": {
@@ -64372,6 +64424,10 @@
                 "3.7.6": {
                     "name": "SpecialMobs-3.7.6.jar",
                     "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.6/SpecialMobs-3.7.6.jar"
+                },
+                "3.7.7": {
+                    "name": "SpecialMobs-3.7.7.jar",
+                    "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.7/SpecialMobs-3.7.7.jar"
                 }
             }
         },
@@ -75682,7 +75738,7 @@
         },
         "nei-custom-diagram": {
             "id": "com.github.GTNewHorizons:nei-custom-diagram:<version>",
-            "latest": "1.8.34",
+            "latest": "1.8.35",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/nei-custom-diagram",
             "versions": {
@@ -75985,6 +76041,10 @@
                 "1.8.34": {
                     "name": "NEICustomDiagram-1.8.34.jar",
                     "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.34/NEICustomDiagram-1.8.34.jar"
+                },
+                "1.8.35": {
+                    "name": "NEICustomDiagram-1.8.35.jar",
+                    "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.35/NEICustomDiagram-1.8.35.jar"
                 },
                 "1.8.4": {
                     "name": "NEICustomDiagram-1.8.4.jar",
