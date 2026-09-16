@@ -5790,7 +5790,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.13",
+            "latest": "2.2.14",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6694,6 +6694,10 @@
                     "name": "angelica-2.2.13.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.13/angelica-2.2.13.jar"
                 },
+                "2.2.14": {
+                    "name": "angelica-2.2.14.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.14/angelica-2.2.14.jar"
+                },
                 "2.2.2": {
                     "name": "angelica-2.2.2.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.2/angelica-2.2.2.jar"
@@ -6946,7 +6950,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1061-GTNH",
+            "latest": "rv3-beta-1063-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7225,6 +7229,14 @@
                 "rv3-beta-1061-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1061-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1061-GTNH/appliedenergistics2-rv3-beta-1061-GTNH.jar"
+                },
+                "rv3-beta-1062-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1062-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1062-GTNH/appliedenergistics2-rv3-beta-1062-GTNH.jar"
+                },
+                "rv3-beta-1063-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1063-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1063-GTNH/appliedenergistics2-rv3-beta-1063-GTNH.jar"
                 },
                 "rv3-beta-107-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-107-GTNH.jar",
@@ -18760,7 +18772,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.119",
+            "latest": "2.0.120",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18863,6 +18875,10 @@
                 "2.0.12": {
                     "name": "cropsnh-2.0.12.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.12/cropsnh-2.0.12.jar"
+                },
+                "2.0.120": {
+                    "name": "cropsnh-2.0.120.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.120/cropsnh-2.0.120.jar"
                 },
                 "2.0.13": {
                     "name": "cropsnh-2.0.13.jar",
@@ -21904,7 +21920,7 @@
         },
         "EnhancedLootBags": {
             "id": "com.github.GTNewHorizons:EnhancedLootBags:<version>",
-            "latest": "1.3.4",
+            "latest": "1.3.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnhancedLootBags",
             "versions": {
@@ -22003,6 +22019,10 @@
                 "1.3.4": {
                     "name": "EnhancedLootBags-1.3.4.jar",
                     "url": "https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.3.4/EnhancedLootBags-1.3.4.jar"
+                },
+                "1.3.5": {
+                    "name": "EnhancedLootBags-1.3.5.jar",
+                    "url": "https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.3.5/EnhancedLootBags-1.3.5.jar"
                 }
             }
         },
@@ -24240,7 +24260,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.154",
+            "latest": "5.09.54.156",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34531,6 +34551,14 @@
                 "5.09.54.154": {
                     "name": "gregtech-5.09.54.154.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.154/gregtech-5.09.54.154.jar"
+                },
+                "5.09.54.155": {
+                    "name": "gregtech-5.09.54.155.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.155/gregtech-5.09.54.155.jar"
+                },
+                "5.09.54.156": {
+                    "name": "gregtech-5.09.54.156.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.156/gregtech-5.09.54.156.jar"
                 },
                 "5.09.54.16": {
                     "name": "gregtech-5.09.54.16.jar",
@@ -45357,7 +45385,7 @@
         },
         "Infernal-Mobs": {
             "id": "com.github.GTNewHorizons:Infernal-Mobs:<version>",
-            "latest": "1.10.6-GTNH",
+            "latest": "1.10.7-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Infernal-Mobs",
             "versions": {
@@ -45388,6 +45416,10 @@
                 "1.10.6-GTNH": {
                     "name": "InfernalMobs-1.10.6-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.6-GTNH/InfernalMobs-1.10.6-GTNH.jar"
+                },
+                "1.10.7-GTNH": {
+                    "name": "InfernalMobs-1.10.7-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.7-GTNH/InfernalMobs-1.10.7-GTNH.jar"
                 },
                 "1.7.0-GTNH": {
                     "name": "InfernalMobs-1.7.0-GTNH.jar",
@@ -48881,7 +48913,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.55-GTNH",
+            "latest": "0.1.56-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -49252,6 +49284,10 @@
                 "0.1.55-GTNH": {
                     "name": "matter-manipulator-0.1.55-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.55-GTNH/matter-manipulator-0.1.55-GTNH.jar"
+                },
+                "0.1.56-GTNH": {
+                    "name": "matter-manipulator-0.1.56-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.56-GTNH/matter-manipulator-0.1.56-GTNH.jar"
                 },
                 "0.1.6-GTNH": {
                     "name": "matter-manipulator-0.1.6-GTNH.jar",
@@ -57441,7 +57477,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.140-GTNH",
+            "latest": "2.8.141-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -58996,6 +59032,10 @@
                 "2.8.140-GTNH": {
                     "name": "NotEnoughItems-2.8.140-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.140-GTNH/NotEnoughItems-2.8.140-GTNH.jar"
+                },
+                "2.8.141-GTNH": {
+                    "name": "NotEnoughItems-2.8.141-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.141-GTNH/NotEnoughItems-2.8.141-GTNH.jar"
                 },
                 "2.8.15-GTNH": {
                     "name": "NotEnoughItems-2.8.15-GTNH.jar",
