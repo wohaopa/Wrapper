@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-09-22-02",
+            "latest": "2.9.0-nightly-2026-09-25",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3179,6 +3179,10 @@
                 "2.9.0-nightly-2026-09-22-02": {
                     "name": "2.9.0-nightly-2026-09-22-02.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-09-22-02/2.9.0-nightly-2026-09-22-02.zip"
+                },
+                "2.9.0-nightly-2026-09-25": {
+                    "name": "2.9.0-nightly-2026-09-25.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-09-25/2.9.0-nightly-2026-09-25.zip"
                 }
             }
         }
@@ -18824,7 +18828,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.129",
+            "latest": "2.0.131",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18971,6 +18975,14 @@
                 "2.0.13": {
                     "name": "cropsnh-2.0.13.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.13/cropsnh-2.0.13.jar"
+                },
+                "2.0.130": {
+                    "name": "cropsnh-2.0.130.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.130/cropsnh-2.0.130.jar"
+                },
+                "2.0.131": {
+                    "name": "cropsnh-2.0.131.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.131/cropsnh-2.0.131.jar"
                 },
                 "2.0.14": {
                     "name": "cropsnh-2.0.14.jar",
@@ -20952,7 +20964,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.10.46",
+            "latest": "2.10.47",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -21123,6 +21135,10 @@
                 "2.10.46": {
                     "name": "EnderIO-2.10.46.jar",
                     "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.46/EnderIO-2.10.46.jar"
+                },
+                "2.10.47": {
+                    "name": "EnderIO-2.10.47.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.47/EnderIO-2.10.47.jar"
                 },
                 "2.10.5": {
                     "name": "EnderIO-2.10.5.jar",
@@ -24292,7 +24308,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.183",
+            "latest": "5.09.54.184",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34712,6 +34728,10 @@
                     "name": "gregtech-5.09.54.183.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.183/gregtech-5.09.54.183.jar"
                 },
+                "5.09.54.184": {
+                    "name": "gregtech-5.09.54.184.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.184/gregtech-5.09.54.184.jar"
+                },
                 "5.09.54.19": {
                     "name": "gregtech-5.09.54.19.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.19/gregtech-5.09.54.19.jar"
@@ -40076,7 +40096,7 @@
         },
         "Galaxy-Space-GTNH": {
             "id": "com.github.GTNewHorizons:Galaxy-Space-GTNH:<version>",
-            "latest": "1.1.142-GTNH",
+            "latest": "1.1.143-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH",
@@ -40248,6 +40268,10 @@
                 "1.1.142-GTNH": {
                     "name": "GalaxySpace-1.1.142-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.142-GTNH/GalaxySpace-1.1.142-GTNH.jar"
+                },
+                "1.1.143-GTNH": {
+                    "name": "GalaxySpace-1.1.143-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.143-GTNH/GalaxySpace-1.1.143-GTNH.jar"
                 },
                 "1.1.16c-GTNH": {
                     "name": "GalaxySpace-1.7.10-1.1.16c-GTNH.jar",
@@ -41669,7 +41693,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.36",
+            "latest": "1.3.37",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -41784,6 +41808,10 @@
                 "1.3.36": {
                     "name": "guidenh-1.3.36.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.36/guidenh-1.3.36.jar"
+                },
+                "1.3.37": {
+                    "name": "guidenh-1.3.37.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.37/guidenh-1.3.37.jar"
                 },
                 "1.3.4": {
                     "name": "guidenh-1.3.4.jar",
@@ -49073,7 +49101,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.59-GTNH",
+            "latest": "0.1.60-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -49464,6 +49492,10 @@
                 "0.1.6-GTNH": {
                     "name": "matter-manipulator-0.1.6-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.6-GTNH/matter-manipulator-0.1.6-GTNH.jar"
+                },
+                "0.1.60-GTNH": {
+                    "name": "matter-manipulator-0.1.60-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.60-GTNH/matter-manipulator-0.1.60-GTNH.jar"
                 },
                 "0.1.7-GTNH": {
                     "name": "matter-manipulator-0.1.7-GTNH.jar",
@@ -52225,7 +52257,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.76",
+            "latest": "2.9.78",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -57149,6 +57181,14 @@
                     "name": "GTNewHorizonsCoreMod-2.9.76.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.76/GTNewHorizonsCoreMod-2.9.76.jar"
                 },
+                "2.9.77": {
+                    "name": "GTNewHorizonsCoreMod-2.9.77.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.77/GTNewHorizonsCoreMod-2.9.77.jar"
+                },
+                "2.9.78": {
+                    "name": "GTNewHorizonsCoreMod-2.9.78.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.78/GTNewHorizonsCoreMod-2.9.78.jar"
+                },
                 "2.9.8": {
                     "name": "GTNewHorizonsCoreMod-2.9.8.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.8/GTNewHorizonsCoreMod-2.9.8.jar"
@@ -57705,7 +57745,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.145-GTNH",
+            "latest": "2.8.146-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -59280,6 +59320,10 @@
                 "2.8.145-GTNH": {
                     "name": "NotEnoughItems-2.8.145-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.145-GTNH/NotEnoughItems-2.8.145-GTNH.jar"
+                },
+                "2.8.146-GTNH": {
+                    "name": "NotEnoughItems-2.8.146-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.146-GTNH/NotEnoughItems-2.8.146-GTNH.jar"
                 },
                 "2.8.15-GTNH": {
                     "name": "NotEnoughItems-2.8.15-GTNH.jar",
