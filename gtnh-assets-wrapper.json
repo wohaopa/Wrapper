@@ -5866,7 +5866,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.19",
+            "latest": "2.2.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6797,6 +6797,10 @@
                 "2.2.2": {
                     "name": "angelica-2.2.2.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.2/angelica-2.2.2.jar"
+                },
+                "2.2.20": {
+                    "name": "angelica-2.2.20.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.20/angelica-2.2.20.jar"
                 },
                 "2.2.3": {
                     "name": "angelica-2.2.3.jar",
@@ -18828,7 +18832,7 @@
         },
         "CropsNH": {
             "id": "com.github.GTNewHorizons:CropsNH:<version>",
-            "latest": "2.0.131",
+            "latest": "2.0.133",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/CropsNH",
             "versions": {
@@ -18983,6 +18987,14 @@
                 "2.0.131": {
                     "name": "cropsnh-2.0.131.jar",
                     "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.131/cropsnh-2.0.131.jar"
+                },
+                "2.0.132": {
+                    "name": "cropsnh-2.0.132.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.132/cropsnh-2.0.132.jar"
+                },
+                "2.0.133": {
+                    "name": "cropsnh-2.0.133.jar",
+                    "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.133/cropsnh-2.0.133.jar"
                 },
                 "2.0.14": {
                     "name": "cropsnh-2.0.14.jar",
@@ -22956,7 +22968,7 @@
         },
         "FindIt": {
             "id": "com.github.GTNewHorizons:FindIt:<version>",
-            "latest": "1.4.6",
+            "latest": "1.4.7",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/FindIt",
             "versions": {
@@ -23095,6 +23107,10 @@
                 "1.4.6": {
                     "name": "findit-1.4.6.jar",
                     "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.4.6/findit-1.4.6.jar"
+                },
+                "1.4.7": {
+                    "name": "findit-1.4.7.jar",
+                    "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.4.7/findit-1.4.7.jar"
                 }
             }
         },
@@ -24308,7 +24324,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.184",
+            "latest": "5.09.54.185",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -34731,6 +34747,10 @@
                 "5.09.54.184": {
                     "name": "gregtech-5.09.54.184.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.184/gregtech-5.09.54.184.jar"
+                },
+                "5.09.54.185": {
+                    "name": "gregtech-5.09.54.185.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.185/gregtech-5.09.54.185.jar"
                 },
                 "5.09.54.19": {
                     "name": "gregtech-5.09.54.19.jar",
@@ -57745,7 +57765,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.146-GTNH",
+            "latest": "2.8.147-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -59324,6 +59344,10 @@
                 "2.8.146-GTNH": {
                     "name": "NotEnoughItems-2.8.146-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.146-GTNH/NotEnoughItems-2.8.146-GTNH.jar"
+                },
+                "2.8.147-GTNH": {
+                    "name": "NotEnoughItems-2.8.147-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.147-GTNH/NotEnoughItems-2.8.147-GTNH.jar"
                 },
                 "2.8.15-GTNH": {
                     "name": "NotEnoughItems-2.8.15-GTNH.jar",
@@ -70189,7 +70213,7 @@
         },
         "TinkersConstruct": {
             "id": "com.github.GTNewHorizons:TinkersConstruct:<version>",
-            "latest": "1.14.115-GTNH",
+            "latest": "1.14.116-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/TinkersConstruct",
             "versions": {
@@ -70704,6 +70728,10 @@
                 "1.14.115-GTNH": {
                     "name": "TConstruct-1.14.115-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.115-GTNH/TConstruct-1.14.115-GTNH.jar"
+                },
+                "1.14.116-GTNH": {
+                    "name": "TConstruct-1.14.116-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.116-GTNH/TConstruct-1.14.116-GTNH.jar"
                 },
                 "1.14.12-GTNH": {
                     "name": "TConstruct-1.14.12-GTNH.jar",
@@ -76714,7 +76742,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.7.42",
+            "latest": "2.7.43",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
@@ -77177,6 +77205,10 @@
                 "2.7.42": {
                     "name": "TwilightForest-2.7.42.jar",
                     "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.42/TwilightForest-2.7.42.jar"
+                },
+                "2.7.43": {
+                    "name": "TwilightForest-2.7.43.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.43/TwilightForest-2.7.43.jar"
                 },
                 "2.7.5": {
                     "name": "TwilightForest-2.7.5.jar",
