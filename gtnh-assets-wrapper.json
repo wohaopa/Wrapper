@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-10-04",
+            "latest": "2.9.0-nightly-2026-10-05",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3227,6 +3227,10 @@
                 "2.9.0-nightly-2026-10-04": {
                     "name": "2.9.0-nightly-2026-10-04.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-04/2.9.0-nightly-2026-10-04.zip"
+                },
+                "2.9.0-nightly-2026-10-05": {
+                    "name": "2.9.0-nightly-2026-10-05.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-05/2.9.0-nightly-2026-10-05.zip"
                 }
             }
         }
@@ -5906,7 +5910,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.28",
+            "latest": "2.2.29",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6874,6 +6878,10 @@
                     "name": "angelica-2.2.28.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.28/angelica-2.2.28.jar"
                 },
+                "2.2.29": {
+                    "name": "angelica-2.2.29.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.29/angelica-2.2.29.jar"
+                },
                 "2.2.3": {
                     "name": "angelica-2.2.3.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.3/angelica-2.2.3.jar"
@@ -7126,7 +7134,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1080-GTNH",
+            "latest": "rv3-beta-1081-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7489,6 +7497,10 @@
                 "rv3-beta-1080-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1080-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1080-GTNH/appliedenergistics2-rv3-beta-1080-GTNH.jar"
+                },
+                "rv3-beta-1081-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1081-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1081-GTNH/appliedenergistics2-rv3-beta-1081-GTNH.jar"
                 },
                 "rv3-beta-109-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-109-GTNH.jar",
@@ -13267,7 +13279,7 @@
         },
         "BetterQuesting": {
             "id": "com.github.GTNewHorizons:BetterQuesting:<version>",
-            "latest": "3.8.89-GTNH",
+            "latest": "3.8.90-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/BetterQuesting",
             "versions": {
@@ -14122,6 +14134,10 @@
                 "3.8.9-GTNH-pre": {
                     "name": "BetterQuesting-3.8.9-GTNH-pre.jar",
                     "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.9-GTNH-pre/BetterQuesting-3.8.9-GTNH-pre.jar"
+                },
+                "3.8.90-GTNH": {
+                    "name": "BetterQuesting-3.8.90-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.90-GTNH/BetterQuesting-3.8.90-GTNH.jar"
                 }
             }
         },
@@ -19876,7 +19892,7 @@
         },
         "Draconic-Evolution": {
             "id": "com.github.GTNewHorizons:Draconic-Evolution:<version>",
-            "latest": "1.5.33-GTNH",
+            "latest": "1.5.34-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Draconic-Evolution",
             "versions": {
@@ -20267,6 +20283,10 @@
                 "1.5.33-GTNH": {
                     "name": "Draconic-Evolution-1.5.33-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.33-GTNH/Draconic-Evolution-1.5.33-GTNH.jar"
+                },
+                "1.5.34-GTNH": {
+                    "name": "Draconic-Evolution-1.5.34-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.34-GTNH/Draconic-Evolution-1.5.34-GTNH.jar"
                 },
                 "1.5.4-GTNH": {
                     "name": "Draconic-Evolution-1.5.4-GTNH.jar",
@@ -24080,7 +24100,7 @@
         },
         "ForgeMultipart": {
             "id": "com.github.GTNewHorizons:ForgeMultipart:<version>",
-            "latest": "1.7.16",
+            "latest": "1.7.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForgeMultipart",
             "versions": {
@@ -24243,6 +24263,10 @@
                 "1.7.16": {
                     "name": "ForgeMultipart-1.7.16.jar",
                     "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.16/ForgeMultipart-1.7.16.jar"
+                },
+                "1.7.17": {
+                    "name": "ForgeMultipart-1.7.17.jar",
+                    "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.17/ForgeMultipart-1.7.17.jar"
                 },
                 "1.7.2": {
                     "name": "ForgeMultipart-1.7.2.jar",
@@ -24488,7 +24512,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.205",
+            "latest": "5.09.54.207",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -35004,6 +35028,14 @@
                     "name": "gregtech-5.09.54.205.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.205/gregtech-5.09.54.205.jar"
                 },
+                "5.09.54.206": {
+                    "name": "gregtech-5.09.54.206.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.206/gregtech-5.09.54.206.jar"
+                },
+                "5.09.54.207": {
+                    "name": "gregtech-5.09.54.207.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.207/gregtech-5.09.54.207.jar"
+                },
                 "5.09.54.21": {
                     "name": "gregtech-5.09.54.21.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.21/gregtech-5.09.54.21.jar"
@@ -41969,7 +42001,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.41",
+            "latest": "1.3.42",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -42108,6 +42140,10 @@
                 "1.3.41": {
                     "name": "guidenh-1.3.41.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.41/guidenh-1.3.41.jar"
+                },
+                "1.3.42": {
+                    "name": "guidenh-1.3.42.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.42/guidenh-1.3.42.jar"
                 },
                 "1.3.5": {
                     "name": "guidenh-1.3.5.jar",
@@ -49241,7 +49277,7 @@
         },
         "MalisisDoors": {
             "id": "com.github.GTNewHorizons:MalisisDoors:<version>",
-            "latest": "1.19.11-GTNH",
+            "latest": "1.19.12-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MalisisDoors",
             "versions": {
@@ -49341,6 +49377,10 @@
                     "name": "malisisdoors-1.19.11-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.11-GTNH/malisisdoors-1.19.11-GTNH.jar"
                 },
+                "1.19.12-GTNH": {
+                    "name": "malisisdoors-1.19.12-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.12-GTNH/malisisdoors-1.19.12-GTNH.jar"
+                },
                 "1.19.2-GTNH": {
                     "name": "malisisdoors-1.19.2-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.2-GTNH/malisisdoors-1.19.2-GTNH.jar"
@@ -49433,7 +49473,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.61-GTNH",
+            "latest": "0.1.62-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -49832,6 +49872,10 @@
                 "0.1.61-GTNH": {
                     "name": "matter-manipulator-0.1.61-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.61-GTNH/matter-manipulator-0.1.61-GTNH.jar"
+                },
+                "0.1.62-GTNH": {
+                    "name": "matter-manipulator-0.1.62-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.62-GTNH/matter-manipulator-0.1.62-GTNH.jar"
                 },
                 "0.1.7-GTNH": {
                     "name": "matter-manipulator-0.1.7-GTNH.jar",
@@ -52549,13 +52593,17 @@
         },
         "Nei-Recipe-Panels": {
             "id": "com.github.GTNewHorizons:Nei-Recipe-Panels:<version>",
-            "latest": "0.3.0",
+            "latest": "1.0.0",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Nei-Recipe-Panels",
             "versions": {
                 "0.3.0": {
                     "name": "neirecipepanels-0.3.0.jar",
                     "url": "https://github.com/GTNewHorizons/Nei-Recipe-Panels/releases/download/0.3.0/neirecipepanels-0.3.0.jar"
+                },
+                "1.0.0": {
+                    "name": "nei-recipe-panels-1.0.0.jar",
+                    "url": "https://github.com/GTNewHorizons/Nei-Recipe-Panels/releases/download/1.0.0/nei-recipe-panels-1.0.0.jar"
                 }
             }
         },
@@ -58129,7 +58177,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.155-GTNH",
+            "latest": "2.8.156-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -59748,6 +59796,10 @@
                 "2.8.155-GTNH": {
                     "name": "NotEnoughItems-2.8.155-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.155-GTNH/NotEnoughItems-2.8.155-GTNH.jar"
+                },
+                "2.8.156-GTNH": {
+                    "name": "NotEnoughItems-2.8.156-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.156-GTNH/NotEnoughItems-2.8.156-GTNH.jar"
                 },
                 "2.8.16-GTNH": {
                     "name": "NotEnoughItems-2.8.16-GTNH.jar",
