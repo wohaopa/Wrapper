@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-10-06-03",
+            "latest": "2.9.0-nightly-2026-10-07",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3243,6 +3243,10 @@
                 "2.9.0-nightly-2026-10-06-03": {
                     "name": "2.9.0-nightly-2026-10-06-03.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-06-03/2.9.0-nightly-2026-10-06-03.zip"
+                },
+                "2.9.0-nightly-2026-10-07": {
+                    "name": "2.9.0-nightly-2026-10-07.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-07/2.9.0-nightly-2026-10-07.zip"
                 }
             }
         }
@@ -5922,7 +5926,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.29",
+            "latest": "2.2.30",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6897,6 +6901,10 @@
                 "2.2.3": {
                     "name": "angelica-2.2.3.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.3/angelica-2.2.3.jar"
+                },
+                "2.2.30": {
+                    "name": "angelica-2.2.30.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.30/angelica-2.2.30.jar"
                 },
                 "2.2.4": {
                     "name": "angelica-2.2.4.jar",
@@ -11355,10 +11363,14 @@
         },
         "Avaritia": {
             "id": "com.github.GTNewHorizons:Avaritia:<version>",
-            "latest": "1.99",
+            "latest": "1.100",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Avaritia",
             "versions": {
+                "1.100": {
+                    "name": "Avaritia-1.100.jar",
+                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.100/Avaritia-1.100.jar"
+                },
                 "1.14": {
                     "name": "Avaritia-1.14.jar",
                     "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.14/Avaritia-1.14.jar"
@@ -22380,7 +22392,7 @@
         },
         "Et-Futurum-Requiem": {
             "id": "com.github.GTNewHorizons:Et-Futurum-Requiem:<version>",
-            "latest": "2.6.61-GTNH",
+            "latest": "2.6.62-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem",
             "versions": {
@@ -22715,6 +22727,10 @@
                 "2.6.61-GTNH": {
                     "name": "etfuturum-2.6.61-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.61-GTNH/etfuturum-2.6.61-GTNH.jar"
+                },
+                "2.6.62-GTNH": {
+                    "name": "etfuturum-2.6.62-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.62-GTNH/etfuturum-2.6.62-GTNH.jar"
                 },
                 "2.6.7-GTNH": {
                     "name": "etfuturum-2.6.7-GTNH.jar",
@@ -24544,7 +24560,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.216",
+            "latest": "5.09.54.217",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -35108,6 +35124,10 @@
                     "name": "gregtech-5.09.54.216.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.216/gregtech-5.09.54.216.jar"
                 },
+                "5.09.54.217": {
+                    "name": "gregtech-5.09.54.217.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.217/gregtech-5.09.54.217.jar"
+                },
                 "5.09.54.22": {
                     "name": "gregtech-5.09.54.22.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.22/gregtech-5.09.54.22.jar"
@@ -42069,7 +42089,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.43",
+            "latest": "1.3.44",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -42216,6 +42236,10 @@
                 "1.3.43": {
                     "name": "guidenh-1.3.43.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.43/guidenh-1.3.43.jar"
+                },
+                "1.3.44": {
+                    "name": "guidenh-1.3.44.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.44/guidenh-1.3.44.jar"
                 },
                 "1.3.5": {
                     "name": "guidenh-1.3.5.jar",
@@ -52749,7 +52773,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.84",
+            "latest": "2.9.85",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -57708,6 +57732,10 @@
                 "2.9.84": {
                     "name": "GTNewHorizonsCoreMod-2.9.84.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.84/GTNewHorizonsCoreMod-2.9.84.jar"
+                },
+                "2.9.85": {
+                    "name": "GTNewHorizonsCoreMod-2.9.85.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.85/GTNewHorizonsCoreMod-2.9.85.jar"
                 },
                 "2.9.9": {
                     "name": "GTNewHorizonsCoreMod-2.9.9.jar",
@@ -64201,7 +64229,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.4.18",
+            "latest": "2.4.19",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -65052,6 +65080,10 @@
                 "2.4.18": {
                     "name": "ServerUtilities-2.4.18.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.18/ServerUtilities-2.4.18.jar"
+                },
+                "2.4.19": {
+                    "name": "ServerUtilities-2.4.19.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.19/ServerUtilities-2.4.19.jar"
                 },
                 "2.4.2": {
                     "name": "ServerUtilities-2.4.2.jar",
