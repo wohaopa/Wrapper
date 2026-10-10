@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-10-07",
+            "latest": "2.9.0-nightly-2026-10-09",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3247,6 +3247,10 @@
                 "2.9.0-nightly-2026-10-07": {
                     "name": "2.9.0-nightly-2026-10-07.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-07/2.9.0-nightly-2026-10-07.zip"
+                },
+                "2.9.0-nightly-2026-10-09": {
+                    "name": "2.9.0-nightly-2026-10-09.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-09/2.9.0-nightly-2026-10-09.zip"
                 }
             }
         }
@@ -17516,7 +17520,7 @@
         },
         "ChromaticTooltipsCompat": {
             "id": "com.github.GTNewHorizons:ChromaticTooltipsCompat:<version>",
-            "latest": "1.0.38-GTNH",
+            "latest": "1.0.39-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ChromaticTooltipsCompat",
             "versions": {
@@ -17583,6 +17587,10 @@
                 "1.0.38-GTNH": {
                     "name": "chromatictooltipscompat-1.0.38-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ChromaticTooltipsCompat/releases/download/1.0.38-GTNH/chromatictooltipscompat-1.0.38-GTNH.jar"
+                },
+                "1.0.39-GTNH": {
+                    "name": "chromatictooltipscompat-1.0.39-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ChromaticTooltipsCompat/releases/download/1.0.39-GTNH/chromatictooltipscompat-1.0.39-GTNH.jar"
                 }
             }
         },
@@ -24560,7 +24568,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.217",
+            "latest": "5.09.54.219",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -35128,6 +35136,14 @@
                     "name": "gregtech-5.09.54.217.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.217/gregtech-5.09.54.217.jar"
                 },
+                "5.09.54.218": {
+                    "name": "gregtech-5.09.54.218.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.218/gregtech-5.09.54.218.jar"
+                },
+                "5.09.54.219": {
+                    "name": "gregtech-5.09.54.219.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.219/gregtech-5.09.54.219.jar"
+                },
                 "5.09.54.22": {
                     "name": "gregtech-5.09.54.22.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.22/gregtech-5.09.54.22.jar"
@@ -42089,7 +42105,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.44",
+            "latest": "1.3.45",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -42240,6 +42256,10 @@
                 "1.3.44": {
                     "name": "guidenh-1.3.44.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.44/guidenh-1.3.44.jar"
+                },
+                "1.3.45": {
+                    "name": "guidenh-1.3.45.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.45/guidenh-1.3.45.jar"
                 },
                 "1.3.5": {
                     "name": "guidenh-1.3.5.jar",
@@ -49577,7 +49597,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.62-GTNH",
+            "latest": "0.1.63-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -49980,6 +50000,10 @@
                 "0.1.62-GTNH": {
                     "name": "matter-manipulator-0.1.62-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.62-GTNH/matter-manipulator-0.1.62-GTNH.jar"
+                },
+                "0.1.63-GTNH": {
+                    "name": "matter-manipulator-0.1.63-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.63-GTNH/matter-manipulator-0.1.63-GTNH.jar"
                 },
                 "0.1.7-GTNH": {
                     "name": "matter-manipulator-0.1.7-GTNH.jar",
@@ -52773,7 +52797,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.85",
+            "latest": "2.9.86",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -57736,6 +57760,10 @@
                 "2.9.85": {
                     "name": "GTNewHorizonsCoreMod-2.9.85.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.85/GTNewHorizonsCoreMod-2.9.85.jar"
+                },
+                "2.9.86": {
+                    "name": "GTNewHorizonsCoreMod-2.9.86.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.86/GTNewHorizonsCoreMod-2.9.86.jar"
                 },
                 "2.9.9": {
                     "name": "GTNewHorizonsCoreMod-2.9.9.jar",
@@ -64229,7 +64257,7 @@
         },
         "ServerUtilities": {
             "id": "com.github.GTNewHorizons:ServerUtilities:<version>",
-            "latest": "2.4.19",
+            "latest": "2.4.20",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ServerUtilities",
             "versions": {
@@ -65088,6 +65116,10 @@
                 "2.4.2": {
                     "name": "ServerUtilities-2.4.2.jar",
                     "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.2/ServerUtilities-2.4.2.jar"
+                },
+                "2.4.20": {
+                    "name": "ServerUtilities-2.4.20.jar",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.20/ServerUtilities-2.4.20.jar"
                 },
                 "2.4.3": {
                     "name": "ServerUtilities-2.4.3.jar",
