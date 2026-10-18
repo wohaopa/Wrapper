@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-10-15",
+            "latest": "2.9.0-nightly-2026-10-16",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3267,6 +3267,10 @@
                 "2.9.0-nightly-2026-10-15": {
                     "name": "2.9.0-nightly-2026-10-15.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-15/2.9.0-nightly-2026-10-15.zip"
+                },
+                "2.9.0-nightly-2026-10-16": {
+                    "name": "2.9.0-nightly-2026-10-16.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-16/2.9.0-nightly-2026-10-16.zip"
                 }
             }
         }
@@ -5950,7 +5954,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.33",
+            "latest": "2.2.34",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6942,6 +6946,10 @@
                     "name": "angelica-2.2.33.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.33/angelica-2.2.33.jar"
                 },
+                "2.2.34": {
+                    "name": "angelica-2.2.34.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.34/angelica-2.2.34.jar"
+                },
                 "2.2.4": {
                     "name": "angelica-2.2.4.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.4/angelica-2.2.4.jar"
@@ -7190,7 +7198,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1085-GTNH",
+            "latest": "rv3-beta-1086-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7573,6 +7581,10 @@
                 "rv3-beta-1085-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1085-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1085-GTNH/appliedenergistics2-rv3-beta-1085-GTNH.jar"
+                },
+                "rv3-beta-1086-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1086-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1086-GTNH/appliedenergistics2-rv3-beta-1086-GTNH.jar"
                 },
                 "rv3-beta-109-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-109-GTNH.jar",
@@ -11847,7 +11859,7 @@
         },
         "Backhand": {
             "id": "com.github.GTNewHorizons:Backhand:<version>",
-            "latest": "1.8.16",
+            "latest": "1.8.17",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Backhand",
             "versions": {
@@ -12146,6 +12158,10 @@
                 "1.8.16": {
                     "name": "backhand-1.8.16.jar",
                     "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.16/backhand-1.8.16.jar"
+                },
+                "1.8.17": {
+                    "name": "backhand-1.8.17.jar",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.17/backhand-1.8.17.jar"
                 },
                 "1.8.2": {
                     "name": "backhand-1.8.2.jar",
@@ -24692,7 +24708,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.229",
+            "latest": "5.09.54.232",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -35316,6 +35332,18 @@
                     "name": "gregtech-5.09.54.23.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.23/gregtech-5.09.54.23.jar"
                 },
+                "5.09.54.230": {
+                    "name": "gregtech-5.09.54.230.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.230/gregtech-5.09.54.230.jar"
+                },
+                "5.09.54.231": {
+                    "name": "gregtech-5.09.54.231.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.231/gregtech-5.09.54.231.jar"
+                },
+                "5.09.54.232": {
+                    "name": "gregtech-5.09.54.232.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.232/gregtech-5.09.54.232.jar"
+                },
                 "5.09.54.24": {
                     "name": "gregtech-5.09.54.24.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.24/gregtech-5.09.54.24.jar"
@@ -42285,7 +42313,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.46",
+            "latest": "1.3.47",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -42444,6 +42472,10 @@
                 "1.3.46": {
                     "name": "guidenh-1.3.46.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.46/guidenh-1.3.46.jar"
+                },
+                "1.3.47": {
+                    "name": "guidenh-1.3.47.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.47/guidenh-1.3.47.jar"
                 },
                 "1.3.5": {
                     "name": "guidenh-1.3.5.jar",
@@ -49789,7 +49821,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.67-GTNH",
+            "latest": "0.1.68-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -50212,6 +50244,10 @@
                 "0.1.67-GTNH": {
                     "name": "matter-manipulator-0.1.67-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.67-GTNH/matter-manipulator-0.1.67-GTNH.jar"
+                },
+                "0.1.68-GTNH": {
+                    "name": "matter-manipulator-0.1.68-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.68-GTNH/matter-manipulator-0.1.68-GTNH.jar"
                 },
                 "0.1.7-GTNH": {
                     "name": "matter-manipulator-0.1.7-GTNH.jar",
@@ -58089,7 +58125,7 @@
         },
         "NotEnoughEnergistics": {
             "id": "com.github.GTNewHorizons:NotEnoughEnergistics:<version>",
-            "latest": "1.7.47",
+            "latest": "1.7.48",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics",
             "versions": {
@@ -58413,6 +58449,10 @@
                     "name": "NotEnoughEnergistics-1.7.47.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.47/NotEnoughEnergistics-1.7.47.jar"
                 },
+                "1.7.48": {
+                    "name": "NotEnoughEnergistics-1.7.48.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.48/NotEnoughEnergistics-1.7.48.jar"
+                },
                 "1.7.5": {
                     "name": "NotEnoughEnergistics-1.7.5.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.5/NotEnoughEnergistics-1.7.5.jar"
@@ -58557,7 +58597,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.160-GTNH",
+            "latest": "2.8.162-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -60200,6 +60240,14 @@
                 "2.8.160-GTNH": {
                     "name": "NotEnoughItems-2.8.160-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.160-GTNH/NotEnoughItems-2.8.160-GTNH.jar"
+                },
+                "2.8.161-GTNH": {
+                    "name": "NotEnoughItems-2.8.161-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.161-GTNH/NotEnoughItems-2.8.161-GTNH.jar"
+                },
+                "2.8.162-GTNH": {
+                    "name": "NotEnoughItems-2.8.162-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.162-GTNH/NotEnoughItems-2.8.162-GTNH.jar"
                 },
                 "2.8.17-GTNH-pre": {
                     "name": "NotEnoughItems-2.8.17-GTNH-pre.jar",
