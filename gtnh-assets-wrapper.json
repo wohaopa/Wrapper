@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-10-21",
+            "latest": "2.9.0-nightly-2026-10-24",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3287,6 +3287,10 @@
                 "2.9.0-nightly-2026-10-21": {
                     "name": "2.9.0-nightly-2026-10-21.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-21/2.9.0-nightly-2026-10-21.zip"
+                },
+                "2.9.0-nightly-2026-10-24": {
+                    "name": "2.9.0-nightly-2026-10-24.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-24/2.9.0-nightly-2026-10-24.zip"
                 }
             }
         }
@@ -7226,7 +7230,7 @@
         },
         "Applied-Energistics-2-Unofficial": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:<version>",
-            "latest": "rv3-beta-1091-GTNH",
+            "latest": "rv3-beta-1092-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial",
             "versions": {
@@ -7637,6 +7641,10 @@
                 "rv3-beta-1091-GTNH": {
                     "name": "appliedenergistics2-rv3-beta-1091-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1091-GTNH/appliedenergistics2-rv3-beta-1091-GTNH.jar"
+                },
+                "rv3-beta-1092-GTNH": {
+                    "name": "appliedenergistics2-rv3-beta-1092-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1092-GTNH/appliedenergistics2-rv3-beta-1092-GTNH.jar"
                 },
                 "rv3-beta-110-GTNH": {
                     "name": "appliedenergistics2-1.7.10-rv3-beta-110-GTNH.jar",
@@ -24776,7 +24784,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.243",
+            "latest": "5.09.54.244",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -35460,6 +35468,10 @@
                     "name": "gregtech-5.09.54.243.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.243/gregtech-5.09.54.243.jar"
                 },
+                "5.09.54.244": {
+                    "name": "gregtech-5.09.54.244.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.244/gregtech-5.09.54.244.jar"
+                },
                 "5.09.54.25": {
                     "name": "gregtech-5.09.54.25.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.25/gregtech-5.09.54.25.jar"
@@ -42429,7 +42441,7 @@
         },
         "GuideNH": {
             "id": "com.github.GTNewHorizons:GuideNH:<version>",
-            "latest": "1.3.50",
+            "latest": "1.3.51",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GuideNH",
             "versions": {
@@ -42608,6 +42620,10 @@
                 "1.3.50": {
                     "name": "guidenh-1.3.50.jar",
                     "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.50/guidenh-1.3.50.jar"
+                },
+                "1.3.51": {
+                    "name": "guidenh-1.3.51.jar",
+                    "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.51/guidenh-1.3.51.jar"
                 },
                 "1.3.6": {
                     "name": "guidenh-1.3.6.jar",
@@ -53205,7 +53221,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.9.96",
+            "latest": "2.9.97",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -58216,6 +58232,10 @@
                 "2.9.96": {
                     "name": "GTNewHorizonsCoreMod-2.9.96.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.96/GTNewHorizonsCoreMod-2.9.96.jar"
+                },
+                "2.9.97": {
+                    "name": "GTNewHorizonsCoreMod-2.9.97.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.97/GTNewHorizonsCoreMod-2.9.97.jar"
                 }
             }
         },
@@ -58777,7 +58797,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.8.165-GTNH",
+            "latest": "2.8.166-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -60440,6 +60460,10 @@
                 "2.8.165-GTNH": {
                     "name": "NotEnoughItems-2.8.165-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.165-GTNH/NotEnoughItems-2.8.165-GTNH.jar"
+                },
+                "2.8.166-GTNH": {
+                    "name": "NotEnoughItems-2.8.166-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.166-GTNH/NotEnoughItems-2.8.166-GTNH.jar"
                 },
                 "2.8.17-GTNH-pre": {
                     "name": "NotEnoughItems-2.8.17-GTNH-pre.jar",
@@ -62121,7 +62145,7 @@
         },
         "OpenModsLib": {
             "id": "com.github.GTNewHorizons:OpenModsLib:<version>",
-            "latest": "0.10.14",
+            "latest": "0.10.15",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/OpenModsLib",
             "versions": {
@@ -62144,6 +62168,10 @@
                 "0.10.14": {
                     "name": "OpenModsLibs-0.10.14.jar",
                     "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.14/OpenModsLibs-0.10.14.jar"
+                },
+                "0.10.15": {
+                    "name": "OpenModsLibs-0.10.15.jar",
+                    "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.15/OpenModsLibs-0.10.15.jar"
                 },
                 "0.10.2": {
                     "name": "OpenMods-1.7.10-0.10.2.jar",
@@ -63741,7 +63769,7 @@
         },
         "Random-Things": {
             "id": "com.github.GTNewHorizons:Random-Things:<version>",
-            "latest": "2.7.12",
+            "latest": "2.7.13",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Random-Things",
             "versions": {
@@ -63836,6 +63864,10 @@
                 "2.7.12": {
                     "name": "RandomThings-2.7.12.jar",
                     "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.12/RandomThings-2.7.12.jar"
+                },
+                "2.7.13": {
+                    "name": "RandomThings-2.7.13.jar",
+                    "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.13/RandomThings-2.7.13.jar"
                 },
                 "2.7.2-pre": {
                     "name": "RandomThings-2.7.2-pre.jar",
@@ -69885,7 +69917,7 @@
         },
         "ThaumicEnergistics": {
             "id": "com.github.GTNewHorizons:ThaumicEnergistics:<version>",
-            "latest": "1.7.66-GTNH",
+            "latest": "1.7.67-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ThaumicEnergistics",
             "versions": {
@@ -70396,6 +70428,10 @@
                 "1.7.66-GTNH": {
                     "name": "thaumicenergistics-1.7.66-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.66-GTNH/thaumicenergistics-1.7.66-GTNH.jar"
+                },
+                "1.7.67-GTNH": {
+                    "name": "thaumicenergistics-1.7.67-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.67-GTNH/thaumicenergistics-1.7.67-GTNH.jar"
                 },
                 "1.7.7-GTNH": {
                     "name": "thaumicenergistics-1.7.7-GTNH.jar",
@@ -73693,7 +73729,7 @@
         },
         "VillageNames": {
             "id": "com.github.GTNewHorizons:VillageNames:<version>",
-            "latest": "4.5.20-GTNH",
+            "latest": "4.5.21-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/VillageNames",
             "versions": {
@@ -73752,6 +73788,10 @@
                 "4.5.20-GTNH": {
                     "name": "VillageNames-4.5.20-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.20-GTNH/VillageNames-4.5.20-GTNH.jar"
+                },
+                "4.5.21-GTNH": {
+                    "name": "VillageNames-4.5.21-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.21-GTNH/VillageNames-4.5.21-GTNH.jar"
                 },
                 "4.5.3-GTNH": {
                     "name": "VillageNames-4.5.3-GTNH.jar",
