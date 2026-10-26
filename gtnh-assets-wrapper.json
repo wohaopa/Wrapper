@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.9.0-nightly-2026-10-24",
+            "latest": "2.9.0-nightly-2026-10-24-02",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -3291,6 +3291,10 @@
                 "2.9.0-nightly-2026-10-24": {
                     "name": "2.9.0-nightly-2026-10-24.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-24/2.9.0-nightly-2026-10-24.zip"
+                },
+                "2.9.0-nightly-2026-10-24-02": {
+                    "name": "2.9.0-nightly-2026-10-24-02.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.9.0-nightly-2026-10-24-02/2.9.0-nightly-2026-10-24-02.zip"
                 }
             }
         }
@@ -5978,7 +5982,7 @@
         },
         "Angelica": {
             "id": "com.github.GTNewHorizons:Angelica:<version>",
-            "latest": "2.2.36",
+            "latest": "2.2.37",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Angelica",
             "versions": {
@@ -6981,6 +6985,10 @@
                 "2.2.36": {
                     "name": "angelica-2.2.36.jar",
                     "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.36/angelica-2.2.36.jar"
+                },
+                "2.2.37": {
+                    "name": "angelica-2.2.37.jar",
+                    "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.37/angelica-2.2.37.jar"
                 },
                 "2.2.4": {
                     "name": "angelica-2.2.4.jar",
@@ -24784,7 +24792,7 @@
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.54.244",
+            "latest": "5.09.54.246",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -35471,6 +35479,14 @@
                 "5.09.54.244": {
                     "name": "gregtech-5.09.54.244.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.244/gregtech-5.09.54.244.jar"
+                },
+                "5.09.54.245": {
+                    "name": "gregtech-5.09.54.245.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.245/gregtech-5.09.54.245.jar"
+                },
+                "5.09.54.246": {
+                    "name": "gregtech-5.09.54.246.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.246/gregtech-5.09.54.246.jar"
                 },
                 "5.09.54.25": {
                     "name": "gregtech-5.09.54.25.jar",
@@ -49985,7 +50001,7 @@
         },
         "MatterManipulator": {
             "id": "com.github.GTNewHorizons:MatterManipulator:<version>",
-            "latest": "0.1.72-GTNH",
+            "latest": "0.1.73-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/MatterManipulator",
             "versions": {
@@ -50432,6 +50448,10 @@
                 "0.1.72-GTNH": {
                     "name": "matter-manipulator-0.1.72-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.72-GTNH/matter-manipulator-0.1.72-GTNH.jar"
+                },
+                "0.1.73-GTNH": {
+                    "name": "matter-manipulator-0.1.73-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.73-GTNH/matter-manipulator-0.1.73-GTNH.jar"
                 },
                 "0.1.8-GTNH": {
                     "name": "matter-manipulator-0.1.8-GTNH.jar",
@@ -51837,7 +51857,7 @@
         },
         "ModularUI2": {
             "id": "com.github.GTNewHorizons:ModularUI2:<version>",
-            "latest": "2.3.92-1.7.10",
+            "latest": "2.3.93-1.7.10",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ModularUI2",
             "versions": {
@@ -52408,6 +52428,10 @@
                 "2.3.92-1.7.10": {
                     "name": "modularui2-2.3.92-1.7.10.jar",
                     "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.92-1.7.10/modularui2-2.3.92-1.7.10.jar"
+                },
+                "2.3.93-1.7.10": {
+                    "name": "modularui2-2.3.93-1.7.10.jar",
+                    "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.93-1.7.10/modularui2-2.3.93-1.7.10.jar"
                 }
             }
         },
@@ -63289,7 +63313,7 @@
         },
         "Railcraft": {
             "id": "com.github.GTNewHorizons:Railcraft:<version>",
-            "latest": "9.17.34",
+            "latest": "9.17.35",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Railcraft",
             "versions": {
@@ -63740,6 +63764,10 @@
                 "9.17.34": {
                     "name": "Railcraft-9.17.34.jar",
                     "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.34/Railcraft-9.17.34.jar"
+                },
+                "9.17.35": {
+                    "name": "Railcraft-9.17.35.jar",
+                    "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.35/Railcraft-9.17.35.jar"
                 },
                 "9.17.4": {
                     "name": "Railcraft-9.17.4.jar",
@@ -72933,7 +72961,7 @@
         },
         "ToroHealth": {
             "id": "com.github.GTNewHorizons:ToroHealth:<version>",
-            "latest": "1.2.3",
+            "latest": "1.2.4",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ToroHealth",
             "versions": {
@@ -72984,6 +73012,10 @@
                 "1.2.3": {
                     "name": "torohealth-1.2.3.jar",
                     "url": "https://github.com/GTNewHorizons/ToroHealth/releases/download/1.2.3/torohealth-1.2.3.jar"
+                },
+                "1.2.4": {
+                    "name": "torohealth-1.2.4.jar",
+                    "url": "https://github.com/GTNewHorizons/ToroHealth/releases/download/1.2.4/torohealth-1.2.4.jar"
                 }
             }
         },
