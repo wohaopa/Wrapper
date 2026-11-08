@@ -7358,13 +7358,17 @@
         },
         "Applied-Energistics-2-NH": {
             "id": "com.github.GTNewHorizons:Applied-Energistics-2-NH:<version>",
-            "latest": "1.0.0",
+            "latest": "1.0.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-NH",
             "versions": {
                 "1.0.0": {
                     "name": "appliedenergistics2-1.0.0.jar",
                     "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-NH/releases/download/1.0.0/appliedenergistics2-1.0.0.jar"
+                },
+                "1.0.1": {
+                    "name": "appliedenergistics2-1.0.1.jar",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-NH/releases/download/1.0.1/appliedenergistics2-1.0.1.jar"
                 }
             }
         },
@@ -20291,6 +20295,18 @@
                 "1.2.0": {
                     "name": "darkerer-1.2.0.jar",
                     "url": "https://github.com/GTNewHorizons/Darkerer/releases/download/1.2.0/darkerer-1.2.0.jar"
+                }
+            }
+        },
+        "Dashboard": {
+            "id": "com.github.GTNewHorizons:Dashboard:<version>",
+            "latest": "1.0.15",
+            "src": "GTNH",
+            "url": "https://github.com/GTNewHorizons/Dashboard",
+            "versions": {
+                "1.0.15": {
+                    "name": "dashboard-1.0.15.jar",
+                    "url": "https://github.com/GTNewHorizons/Dashboard/releases/download/1.0.15/dashboard-1.0.15.jar"
                 }
             }
         },
@@ -41576,7 +41592,7 @@
         },
         "Galaxy-Space-GTNH": {
             "id": "com.github.GTNewHorizons:Galaxy-Space-GTNH:<version>",
-            "latest": "1.1.145-GTNH",
+            "latest": "1.1.146-GTNH",
             "private": true,
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH",
@@ -41760,6 +41776,10 @@
                 "1.1.145-GTNH": {
                     "name": "GalaxySpace-1.1.145-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.145-GTNH/GalaxySpace-1.1.145-GTNH.jar"
+                },
+                "1.1.146-GTNH": {
+                    "name": "GalaxySpace-1.1.146-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.146-GTNH/GalaxySpace-1.1.146-GTNH.jar"
                 },
                 "1.1.16c-GTNH": {
                     "name": "GalaxySpace-1.7.10-1.1.16c-GTNH.jar",
@@ -59897,7 +59917,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.9.1-GTNH",
+            "latest": "2.9.2-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -61944,6 +61964,10 @@
                 "2.9.1-GTNH": {
                     "name": "NotEnoughItems-2.9.1-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.1-GTNH/NotEnoughItems-2.9.1-GTNH.jar"
+                },
+                "2.9.2-GTNH": {
+                    "name": "NotEnoughItems-2.9.2-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.2-GTNH/NotEnoughItems-2.9.2-GTNH.jar"
                 }
             }
         },
