@@ -1,7 +1,7 @@
 {
     "config": {
         "GT-New-Horizons-Modpack": {
-            "latest": "2.10.0-nightly-2026-11-10",
+            "latest": "2.10.0-nightly-2026-11-11",
             "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack",
             "versions": {
                 "2.1.2.3qf-test": {
@@ -119,6 +119,10 @@
                 "2.10.0-nightly-2026-11-10": {
                     "name": "2.10.0-nightly-2026-11-10.zip",
                     "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.10.0-nightly-2026-11-10/2.10.0-nightly-2026-11-10.zip"
+                },
+                "2.10.0-nightly-2026-11-11": {
+                    "name": "2.10.0-nightly-2026-11-11.zip",
+                    "url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/releases/download/2.10.0-nightly-2026-11-11/2.10.0-nightly-2026-11-11.zip"
                 },
                 "2.2.0.0": {
                     "name": "2.2.0.0.zip",
@@ -20324,7 +20328,7 @@
         },
         "Dashboard": {
             "id": "com.github.GTNewHorizons:Dashboard:<version>",
-            "latest": "1.0.21",
+            "latest": "1.0.22",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Dashboard",
             "versions": {
@@ -20355,6 +20359,10 @@
                 "1.0.21": {
                     "name": "dashboard-1.0.21.jar",
                     "url": "https://github.com/GTNewHorizons/Dashboard/releases/download/1.0.21/dashboard-1.0.21.jar"
+                },
+                "1.0.22": {
+                    "name": "dashboard-1.0.22.jar",
+                    "url": "https://github.com/GTNewHorizons/Dashboard/releases/download/1.0.22/dashboard-1.0.22.jar"
                 }
             }
         },
@@ -21928,7 +21936,7 @@
         },
         "EnderIO": {
             "id": "com.github.GTNewHorizons:EnderIO:<version>",
-            "latest": "2.11.0",
+            "latest": "2.11.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/EnderIO",
             "versions": {
@@ -22151,6 +22159,10 @@
                 "2.11.0": {
                     "name": "EnderIO-2.11.0.jar",
                     "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.11.0/EnderIO-2.11.0.jar"
+                },
+                "2.11.1": {
+                    "name": "EnderIO-2.11.1.jar",
+                    "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.11.1/EnderIO-2.11.1.jar"
                 },
                 "2.3.0.433": {
                     "name": "EnderIO-1.7.10-2.3.0.433_beta.jar",
@@ -24424,7 +24436,7 @@
         },
         "ForestryMC": {
             "id": "com.github.GTNewHorizons:ForestryMC:<version>",
-            "latest": "4.12.0",
+            "latest": "4.12.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/ForestryMC",
             "versions": {
@@ -24659,6 +24671,10 @@
                 "4.12.0": {
                     "name": "Forestry-4.12.0.jar",
                     "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.12.0/Forestry-4.12.0.jar"
+                },
+                "4.12.1": {
+                    "name": "Forestry-4.12.1.jar",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.12.1/Forestry-4.12.1.jar"
                 },
                 "4.2.19.0": {
                     "name": "forestry_1.7.10-4.2.19.0.jar",
@@ -25384,7 +25400,7 @@
         },
         "Freecam": {
             "id": "com.github.GTNewHorizons:Freecam:<version>",
-            "latest": "1.1.1",
+            "latest": "1.1.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Freecam",
             "versions": {
@@ -25439,12 +25455,16 @@
                 "1.1.1": {
                     "name": "freecam-gtnh-1.1.1.jar",
                     "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.1.1/freecam-gtnh-1.1.1.jar"
+                },
+                "1.1.2": {
+                    "name": "freecam-gtnh-1.1.2.jar",
+                    "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.1.2/freecam-gtnh-1.1.2.jar"
                 }
             }
         },
         "GT5-Unofficial": {
             "id": "com.github.GTNewHorizons:GT5-Unofficial:<version>",
-            "latest": "5.09.55.5",
+            "latest": "5.09.55.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GT5-Unofficial",
             "versions": {
@@ -36559,6 +36579,22 @@
                 "5.09.55.5": {
                     "name": "gregtech-5.09.55.5.jar",
                     "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.5/gregtech-5.09.55.5.jar"
+                },
+                "5.09.55.6": {
+                    "name": "gregtech-5.09.55.6.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.6/gregtech-5.09.55.6.jar"
+                },
+                "5.09.55.7": {
+                    "name": "gregtech-5.09.55.7.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.7/gregtech-5.09.55.7.jar"
+                },
+                "5.09.55.8": {
+                    "name": "gregtech-5.09.55.8.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.8/gregtech-5.09.55.8.jar"
+                },
+                "5.09.55.9": {
+                    "name": "gregtech-5.09.55.9.jar",
+                    "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.9/gregtech-5.09.55.9.jar"
                 }
             }
         },
@@ -37756,7 +37792,7 @@
         },
         "GTNHLib": {
             "id": "com.github.GTNewHorizons:GTNHLib:<version>",
-            "latest": "0.12.1",
+            "latest": "0.12.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/GTNHLib",
             "versions": {
@@ -38099,6 +38135,10 @@
                 "0.12.1": {
                     "name": "gtnhlib-0.12.1.jar",
                     "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.1/gtnhlib-0.12.1.jar"
+                },
+                "0.12.2": {
+                    "name": "gtnhlib-0.12.2.jar",
+                    "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.2/gtnhlib-0.12.2.jar"
                 },
                 "0.2.0": {
                     "name": "gtnhlib-0.2.0.jar",
@@ -43777,7 +43817,7 @@
         },
         "Hodgepodge": {
             "id": "com.github.GTNewHorizons:Hodgepodge:<version>",
-            "latest": "2.8.1",
+            "latest": "2.8.2",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Hodgepodge",
             "versions": {
@@ -46332,6 +46372,10 @@
                 "2.8.1": {
                     "name": "hodgepodge-2.8.1.jar",
                     "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.8.1/hodgepodge-2.8.1.jar"
+                },
+                "2.8.2": {
+                    "name": "hodgepodge-2.8.2.jar",
+                    "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.8.2/hodgepodge-2.8.2.jar"
                 }
             }
         },
@@ -49341,7 +49385,7 @@
         },
         "LittleTiles": {
             "id": "com.github.GTNewHorizons:LittleTiles:<version>",
-            "latest": "1.7.8",
+            "latest": "1.7.9",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/LittleTiles",
             "versions": {
@@ -49752,6 +49796,10 @@
                 "1.7.8": {
                     "name": "littletiles-1.7.8.jar",
                     "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.8/littletiles-1.7.8.jar"
+                },
+                "1.7.9": {
+                    "name": "littletiles-1.7.9.jar",
+                    "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.9/littletiles-1.7.9.jar"
                 }
             }
         },
@@ -54413,7 +54461,7 @@
         },
         "NewHorizonsCoreMod": {
             "id": "com.github.GTNewHorizons:NewHorizonsCoreMod:<version>",
-            "latest": "2.10.4",
+            "latest": "2.10.5",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod",
             "versions": {
@@ -55684,6 +55732,10 @@
                 "2.10.4": {
                     "name": "GTNewHorizonsCoreMod-2.10.4.jar",
                     "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.4/GTNewHorizonsCoreMod-2.10.4.jar"
+                },
+                "2.10.5": {
+                    "name": "GTNewHorizonsCoreMod-2.10.5.jar",
+                    "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.5/GTNewHorizonsCoreMod-2.10.5.jar"
                 },
                 "2.2.0": {
                     "name": "GTNewHorizonsCoreMod-2.2.0.jar",
@@ -60053,7 +60105,7 @@
         },
         "NotEnoughItems": {
             "id": "com.github.GTNewHorizons:NotEnoughItems:<version>",
-            "latest": "2.9.4-GTNH",
+            "latest": "2.9.5-GTNH",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/NotEnoughItems",
             "versions": {
@@ -62112,6 +62164,10 @@
                 "2.9.4-GTNH": {
                     "name": "NotEnoughItems-2.9.4-GTNH.jar",
                     "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.4-GTNH/NotEnoughItems-2.9.4-GTNH.jar"
+                },
+                "2.9.5-GTNH": {
+                    "name": "NotEnoughItems-2.9.5-GTNH.jar",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.5-GTNH/NotEnoughItems-2.9.5-GTNH.jar"
                 }
             }
         },
@@ -62345,7 +62401,7 @@
         },
         "Nutrition": {
             "id": "com.github.GTNewHorizons:Nutrition:<version>",
-            "latest": "1.1.0",
+            "latest": "1.1.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Nutrition",
             "versions": {
@@ -62456,6 +62512,10 @@
                 "1.1.0": {
                     "name": "nutrition-1.1.0.jar",
                     "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/1.1.0/nutrition-1.1.0.jar"
+                },
+                "1.1.1": {
+                    "name": "nutrition-1.1.1.jar",
+                    "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/1.1.1/nutrition-1.1.1.jar"
                 }
             }
         },
@@ -64713,7 +64773,7 @@
         },
         "Railcraft": {
             "id": "com.github.GTNewHorizons:Railcraft:<version>",
-            "latest": "9.18.0",
+            "latest": "9.18.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Railcraft",
             "versions": {
@@ -65200,6 +65260,10 @@
                 "9.18.0": {
                     "name": "Railcraft-9.18.0.jar",
                     "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.18.0/Railcraft-9.18.0.jar"
+                },
+                "9.18.1": {
+                    "name": "Railcraft-9.18.1.jar",
+                    "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.18.1/Railcraft-9.18.1.jar"
                 }
             }
         },
@@ -67573,7 +67637,7 @@
         },
         "SpiceOfLife": {
             "id": "com.github.GTNewHorizons:SpiceOfLife:<version>",
-            "latest": "2.3.0-carrot",
+            "latest": "2.3.1-carrot",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/SpiceOfLife",
             "versions": {
@@ -67720,6 +67784,10 @@
                 "2.3.0-carrot": {
                     "name": "SpiceOfLife-2.3.0-carrot.jar",
                     "url": "https://github.com/GTNewHorizons/SpiceOfLife/releases/download/2.3.0-carrot/SpiceOfLife-2.3.0-carrot.jar"
+                },
+                "2.3.1-carrot": {
+                    "name": "SpiceOfLife-2.3.1-carrot.jar",
+                    "url": "https://github.com/GTNewHorizons/SpiceOfLife/releases/download/2.3.1-carrot/SpiceOfLife-2.3.1-carrot.jar"
                 },
                 "v.2.0.0-carrot-beta10": {
                     "name": "SpiceOfLife-1.7.10-v.2.0.0-carrot-beta10.jar",
@@ -70981,7 +71049,7 @@
         },
         "Tempora": {
             "id": "com.github.GTNewHorizons:Tempora:<version>",
-            "latest": "1.0.1",
+            "latest": "1.0.3",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/Tempora",
             "versions": {
@@ -70992,6 +71060,14 @@
                 "1.0.1": {
                     "name": "tempora-1.0.1.jar",
                     "url": "https://github.com/GTNewHorizons/Tempora/releases/download/1.0.1/tempora-1.0.1.jar"
+                },
+                "1.0.2": {
+                    "name": "tempora-1.0.2.jar",
+                    "url": "https://github.com/GTNewHorizons/Tempora/releases/download/1.0.2/tempora-1.0.2.jar"
+                },
+                "1.0.3": {
+                    "name": "tempora-1.0.3.jar",
+                    "url": "https://github.com/GTNewHorizons/Tempora/releases/download/1.0.3/tempora-1.0.3.jar"
                 }
             }
         },
@@ -80106,7 +80182,7 @@
         },
         "twilightforest": {
             "id": "com.github.GTNewHorizons:twilightforest:<version>",
-            "latest": "2.8.0",
+            "latest": "2.8.1",
             "src": "GTNH",
             "url": "https://github.com/GTNewHorizons/twilightforest",
             "versions": {
@@ -80605,6 +80681,10 @@
                 "2.8.0": {
                     "name": "TwilightForest-2.8.0.jar",
                     "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.8.0/TwilightForest-2.8.0.jar"
+                },
+                "2.8.1": {
+                    "name": "TwilightForest-2.8.1.jar",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.8.1/TwilightForest-2.8.1.jar"
                 }
             }
         },
